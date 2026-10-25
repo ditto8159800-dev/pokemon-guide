@@ -84,7 +84,7 @@ function setPrice(key,val){
   fs.mkdirSync(SNK_DIR,{recursive:true});
   // only refresh languages shown on the site (content/site-config.json); --only=xx narrows further, --all ignores the config
   const CFG=JSON.parse(fs.readFileSync(path.join(ROOT,'content/site-config.json'),'utf8'));
-  const SHOWN=CFG.languages;const KEEP=CFG.keep?new Set([...CFG.keep.classic,...CFG.keep.hot]):null; // same kept list as the site
+  const SHOWN=CFG.languages;const KEEP=CFG.keep?new Set(Object.keys(CFG.keep.hot)):null; // same kept list as the site
   const v1=sets.filter(s=>s.v1&&(args.all||SHOWN.includes(s.lang)&&(!KEEP||KEEP.has(s.key)))&&(!args.only||s.lang===args.only));
   // 1) Japanese: one SNKRDUNK listing per set (also saved for chase ranking fallback)
   for(const s of v1.filter(s=>s.lang==='ja'&&s.tcgdex&&!/-P$|^SVK|^SVL|^SMP/.test(s.id))){

@@ -24,6 +24,7 @@ else{
    <tr><td>時期 / 系列</td><td>${eraName[s.era]}${s.serie?' · '+esc(s.serie):''}</td></tr>
    <tr><td>卡片張數</td><td>${s.official?`官方編號 ${s.official} 張`:'待確認'}${s.total&&s.total>s.official?`，含秘密稀有共 ${s.total} 張`:''}</td></tr>
   </table></div>
+  ${s.hotReason?`<div class="note">🔥 為什麼熱門：${esc(s.hotReason)}</div>`:''}
   <h2>📖 系列介紹</h2><div class="panel">${s.intro?`<p>${esc(s.intro)}</p>`:''}<p class="${s.intro?'small muted':''}">${esc(s.introAuto)}</p>${s.todo?`<div class="todo-box">📝 ${esc(s.todo)}</div>`:''}</div>`;
   if(s.v1){
     h+=`<h2>🏆 Top 10 大獎卡</h2>`;

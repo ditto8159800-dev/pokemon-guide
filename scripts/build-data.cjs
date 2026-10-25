@@ -6,7 +6,7 @@ const LANGS=['en','ja','zh-tw','zh-cn'];
 const LANG_LABEL={en:'美版（英文）',ja:'日版',"zh-tw":'繁中版',"zh-cn":'簡中版'};
 const curated=R('content/curated.json');
 const CFG=R('content/site-config.json');const SHOWN=CFG.languages; // languages shown on the site (currently ja only)
-const KEEP=CFG.keep?new Set([...CFG.keep.classic,...CFG.keep.hot]):null; // hand-checked hot/iconic list; null = keep all
+const KEEP=CFG.keep?new Set(Object.keys(CFG.keep.hot)):null; // hand-checked hot/iconic list; null = keep all
 const prices=fs.existsSync('data/prices.json')?R('data/prices.json'):{};
 const bulbaJp=R('data/sources/bulba-jp.json');
 const bulbaTw=R('data/sources/bulba-zhtw.json').filter(x=>!/Simplified/.test(x.zh_tw));
@@ -39,6 +39,8 @@ for(const l of LANGS){
     add({lang:l,id:s.id,name:s.name,date:s.releaseDate||null,dateConfirmed:!!s.releaseDate,era,serie:s.serie?.name||'',official:s.cardCount?.official??null,total:s.cardCount?.total??null,logo:lg,symbol:sy,src:'TCGdex',tcgdex:true,cards:(s.cards||[]).map(c=>c.id)});
   }
 }
+// manual sets not yet in TCGdex/Bulbapedia caches (content/manual-sets.json): basic facts only, no invented cards
+if(fs.existsSync('content/manual-sets.json'))for(const m of R('content/manual-sets.json'))add({logo:null,symbol:null,official:null,total:null,serie:'',tcgdex:false,cards:[],dateConfirmed:!!m.date,...m});
 // ja: Bulbapedia main/sub sets missing from TCGdex
 const jaByName={};for(const s of sets.filter(s=>s.lang==='ja'))(jaByName[norm(s.name)]??=[]).push(s);
 let bulbaAdded=0;const bulbaMap=[];
@@ -99,6 +101,7 @@ for(const {ja,b} of bulbaMap){
   for(const e of found){L(ja,e);if(part){ja.partial=true;(e.partialLinks??=new Set()).add(ja.key);(ja.partialLinks??=new Set()).add(e.key);}}
 }
 for(const s of sets) s.links=[...(s.links||[])].sort();
+for(const s of sets) if(KEEP&&CFG.keep.hot[s.key]) s.hotReason=CFG.keep.hot[s.key];
 // counterpart Chinese name for display
 for(const s of sets){
   s.names={[s.lang]:s.name};
@@ -173,6 +176,7 @@ for(const s of [...sets].sort((a,b)=>order.indexOf(a.lang)-order.indexOf(b.lang)
   s.notes=[];
   if(borrowed) s.notes.push(`TCGdex 尚無此繁中版卡表；大獎卡依對應日版《${byKey[borrowed].name}》列出（亞洲版與日版卡表通常相同，卡圖暫用日版）。`);
   if(s.lang==='zh-cn') s.notes.push('TCGdex 的簡中卡表多半不含秘密稀有卡，大獎卡清單可能不完整（待確認）。');
+  if(s.manualNote) s.notes.push(s.manualNote);
   if(!s.date) s.notes.push('發售日待確認。');
   if(s.chaseMethod==='snkrdunk') s.notes.push(`TCGdex 缺少此彈的稀有度資料；以下依 SNKRDUNK 最低在售價由高到低排序（${s.snkDate} 擷取），反映當時市場熱度。`);
   if(s.chaseMethod==='heuristic') s.notes.push('TCGdex 缺少此彈的稀有度資料，以下依卡名（V／VMAX／ex 等規則卡）推估，排序與是否為大獎卡皆待確認。');
