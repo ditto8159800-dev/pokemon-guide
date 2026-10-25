@@ -1,0 +1,61 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>考試｜寶可夢卡牌學習站</title><link rel="stylesheet" href="assets/style.css">
+<script src="data/sets.js"></script><script src="data/quiz.js"></script><script src="assets/common.js"></script></head>
+<body><div class="layout"><main>
+<h1>📝 直播組考試</h1>
+<p class="muted">每次隨機抽 20 題選擇題（選項順序也會打亂），題目只來自本站已核實的內容：卡盒歷史、大獎卡、稀有度、鑑定機構。滿分 100 分，<b>80 分及格</b>；未通過需要重考（會換一組新題目）。</p>
+<div class="panel" id="start">
+  <label>姓名：<input id="name" placeholder="輸入你的名字" style="padding:8px;border:1px solid #ccd;border-radius:8px;font-size:15px"></label>
+  <button class="btn" id="go">開始考試</button>
+  <div id="history" class="small muted" style="margin-top:10px"></div>
+</div>
+<form id="quiz" class="hidden"></form>
+<div id="result" class="hidden"></div>
+</main></div>
+<script>
+const N=20,PASS=80,KEY='pkm-guide-exam';
+const store=JSON.parse(localStorage.getItem(KEY)||'{}');
+const nameEl=document.getElementById('name');nameEl.value=store.lastName||'';
+function showHistory(){const n=nameEl.value.trim();const h=store.people?.[n];
+  document.getElementById('history').innerHTML=n&&h?`${esc(n)}：已考 ${h.attempts} 次，最高 ${h.best} 分，${h.passed?'<b class="pass">✅ 已通過（'+esc(h.passedAt)+'）</b>':'<b class="fail">尚未通過</b>'}`:'';}
+nameEl.oninput=showHistory;showHistory();
+const sh=a=>{a=[...a];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;};
+// balanced draw: rarity 6, grading 5, history 5, chase 4 (fills from others if a category is short)
+const PLAN={'稀有度':6,'鑑定':5,'卡盒歷史':5,'大獎卡':4};
+let current=[];
+function draw(){let picked=[];const used=new Set();
+  for(const [c,n] of Object.entries(PLAN)){const pool=sh(QUIZ_BANK.filter(q=>q.cat===c));
+    for(const q of pool){if(picked.filter(x=>x.cat===c).length>=n)break;const sig=q.q;if(used.has(sig))continue;used.add(sig);picked.push(q);}}
+  for(const q of sh(QUIZ_BANK)){if(picked.length>=N)break;if(!used.has(q.q)){used.add(q.q);picked.push(q);}}
+  return sh(picked).slice(0,N).map(q=>{const opts=sh(q.options.map((o,i)=>({o,ok:i===q.answer})));return {...q,opts};});}
+function start(){
+  if(!nameEl.value.trim()){alert('請先輸入姓名');return;}
+  current=draw();const f=document.getElementById('quiz');
+  f.innerHTML=current.map((q,i)=>`<div class="panel q" id="q${i}"><div class="small muted">第 ${i+1} 題 · ${esc(q.cat)}</div><b>${esc(q.q)}</b>
+   <div class="opts">${q.opts.map((o,j)=>`<label><input type="radio" name="a${i}" value="${j}"> ${esc(o.o)}</label>`).join('')}</div><div class="exp small hidden"></div></div>`).join('')+
+   `<button class="btn" type="submit">交卷</button>`;
+  f.classList.remove('hidden');document.getElementById('result').classList.add('hidden');document.getElementById('start').classList.add('hidden');window.scrollTo(0,0);
+}
+document.getElementById('go').onclick=start;
+document.getElementById('quiz').onsubmit=e=>{e.preventDefault();
+  const f=e.target;let right=0;const wrong=[];
+  const unanswered=current.filter((q,i)=>!f.querySelector(`input[name=a${i}]:checked`)).length;
+  if(unanswered&&!confirm(`還有 ${unanswered} 題沒作答，確定交卷？`))return;
+  current.forEach((q,i)=>{const sel=f.querySelector(`input[name=a${i}]:checked`);const box=document.getElementById('q'+i);
+    const labels=box.querySelectorAll('label');q.opts.forEach((o,j)=>{if(o.ok)labels[j].classList.add('correct');});
+    const ok=sel&&q.opts[+sel.value].ok;if(ok){right++;box.classList.add('right');}else{box.classList.add('wrong');if(sel)labels[+sel.value].classList.add('picked-wrong');wrong.push(i);
+      const ex=box.querySelector('.exp');ex.innerHTML=`❌ 正確答案：<b>${esc(q.opts.find(o=>o.ok).o)}</b><br>解說：${esc(q.exp)}${q.ref?` <a href="${q.ref}" target="_blank">（查看教材）</a>`:''}`;ex.classList.remove('hidden');}
+    labels.forEach(l=>l.querySelector('input').disabled=true);});
+  const score=Math.round(right/current.length*100);const pass=score>=PASS;
+  const n=nameEl.value.trim();store.lastName=n;store.people=store.people||{};const h=store.people[n]=store.people[n]||{attempts:0,best:0,passed:false};
+  h.attempts++;h.best=Math.max(h.best,score);if(pass&&!h.passed){h.passed=true;h.passedAt=new Date().toLocaleString('zh-TW');}localStorage.setItem(KEY,JSON.stringify(store));
+  f.querySelector('button[type=submit]').remove();
+  const r=document.getElementById('result');r.classList.remove('hidden');
+  r.innerHTML=`<div class="panel"><div class="score ${pass?'pass':'fail'}">${score} 分　${pass?'✅ 通過':'❌ 未通過'}</div>
+   <p>答對 ${right} / ${current.length} 題。${pass?'恭喜通過！':'未達 80 分，請複習下方錯題的解說後重考（會換一組新題目）。'}</p>
+   ${wrong.length?`<p>答錯的題目：${wrong.map(i=>`<a href="#q${i}">第 ${i+1} 題</a>`).join('、')}</p>`:''}
+   <button class="btn ${pass?'alt':''}" id="again">${pass?'再考一次':'重新考試'}</button></div>`;
+  f.after(r);r.scrollIntoView({behavior:'smooth'});
+  document.getElementById('again').onclick=()=>{document.getElementById('start').classList.remove('hidden');showHistory();start();};
+};
+</script></body></html>

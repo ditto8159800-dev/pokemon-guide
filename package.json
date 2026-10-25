@@ -1,0 +1,12 @@
+{
+  "name": "pokemon-guide",
+  "version": "1.0.0",
+  "private": true,
+  "description": "寶可夢卡牌學習網站（直播組用）— static site",
+  "scripts": {
+    "fetch-data": "node scripts/fetch-data.mjs && node scripts/fetch-cards.mjs",
+    "build": "node scripts/build-data.cjs && node scripts/build-content.cjs",
+    "update-prices": "node scripts/update-prices.js && node scripts/build-data.cjs && node scripts/update-prices.js --only=ja --cache && npm run build",
+    "serve": "python3 -m http.server 4000 --directory site"
+  }
+}

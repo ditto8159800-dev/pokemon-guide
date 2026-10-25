@@ -1,0 +1,2337 @@
+This is a list of [[Pokémon Trading Card Game]] expansions in other languages.
+
+==English sets==
+Only physically released sets are listed here. Translations made exclusively for the [[Pokémon Trading Card Game Online]] and [[Pokémon Trading Card Game Live]] are not included but can be found on each set's page.
+
+===Original Series===
+{| style="margin:auto; text-align: center; background:#{{red color}}; border:3px solid #{{blue color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | English
+! style="background-color:#EEE; width:200px" | Dutch
+! style="background-color:#EEE; width:200px" | French
+! style="background-color:#EEE; width:200px" | German
+! style="background-color:#EEE; width:200px" | Italian
+! style="background-color:#EEE; width:200px" | Brazilian Portuguese
+! style="background-color:#EEE; width:200px" | Spanish
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Other
+|- style="background:#FFF"
+| —
+| {{TCG|Base Set}}
+| Basis Set
+| Set de Base
+| Grundset
+| Set Base
+| Coleção Básica
+| Base Set
+| Korean: 기본 세트<br>Traditional Chinese: 基本系列
+|- style="background:#FFF"
+| [[File:SetSymbolJungle.png|40px]]
+| {{TCG|Jungle}}
+| colspan=2 | Jungle
+| Dschungel
+| Jungle
+| Selva
+| Jungla
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolFossil.png|40px]]
+| {{TCG|Fossil}}
+| Fossiel
+| Fossile
+| colspan=2 | Fossil
+| Fóssil
+| Fósil
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolBase Set 2.png|40px]]
+| {{TCG|Base Set 2}}
+| colspan=7 | —
+|- style="background:#FFF"
+| [[File:SetSymbolTeam Rocket.png|40px]]
+| {{TCG|Team Rocket}}
+| —
+| colspan=3 | Team Rocket
+| colspan=3 | —
+|- style="background:#FFF"
+| [[File:SetSymbolGym Heroes.png|40px]]
+| {{TCG|Gym Heroes}}
+| colspan=7 | —
+|- style="background:#FFF"
+| [[File:SetSymbolGym Challenge.png|40px]]
+| {{TCG|Gym Challenge}}
+| colspan=7 | —
+|}
+
+===Neo Series===
+{| style="margin:auto; text-align: center; background:#{{silver color}}; border:3px solid #{{gold color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | English
+! style="background-color:#EEE; width:200px" | French
+! style="background-color:#EEE; width:200px" | German
+! style="background-color:#EEE; width:200px" | Italian
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Spanish
+|- style="background:#FFF"
+| [[File:SetSymbolNeo Genesis.png|40px]]
+| {{TCG|Neo Genesis}}
+| colspan=3 | Neo Genesis
+| Neo Génesis
+|- style="background:#FFF"
+| [[File:SetSymbolNeo Discovery.png|40px]]
+| {{TCG|Neo Discovery}}
+| Neo Discovery
+| Neo Entdeckung
+| Neo Discovery
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolSouthern IslandsENG.png|40px]]
+| {{TCG|Southern Islands}}
+| colspan=5 | —
+|- style="background:#FFF"
+| [[File:SetSymbolNeo Revelation.png|40px]]
+| {{TCG|Neo Revelation}}
+| colspan=3 | Neo Revelation
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolNeo Destiny.png|40px]]
+| {{TCG|Neo Destiny}}
+| colspan=3 | Neo Destiny
+| —
+|}
+
+===Legendary Collection Series===
+{| style="margin:auto; text-align: center; background:#{{blue color}}; border:3px solid #{{blue color dark}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | English
+! style="background-color:#EEE; width:200px" | French
+! style="background-color:#EEE; width:200px" | German
+! style="background-color:#EEE; width:200px" | Italian
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Spanish
+|- style="background:#FFF"
+| [[File:SetSymbolLegendary Collection.png|20px]]
+| {{TCG|Legendary Collection}}
+| colspan=4 | —
+|}
+
+===e-Card Series===
+{| style="margin:auto; text-align: center; background:#{{crystal color}}; border:3px solid #{{crystal color dark}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | English
+! style="background-color:#EEE; width:200px" | French
+! style="background-color:#EEE; width:200px" | German
+! style="background-color:#EEE; width:200px" | Italian
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Spanish
+|- style="background:#FFF"
+| [[File:SetSymbolExpedition.png|40px]]
+| {{TCG|Expedition Base Set}}
+| Expedition Édition de Base
+| Expedition Base Set
+| Expedition Set Base
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolAquapolis.png|40px]]
+| {{TCG|Aquapolis}}
+| colspan=3 | Aquapolis
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolSkyridge.png|40px]]
+| {{TCG|Skyridge}}
+| —
+| colspan=2 | Skyridge
+| —
+|}
+
+===EX Series===
+{| style="margin:auto; text-align: center; background:#{{ruby color}}; border:3px solid #{{sapphire color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | English
+! style="background-color:#EEE; width:200px" | French
+! style="background-color:#EEE; width:200px" | German
+! style="background-color:#EEE; width:200px" | Italian
+! style="background-color:#EEE; width:200px" | Brazilian Portuguese
+! style="background-color:#EEE; width:200px" | Spanish
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Other
+|- style="background:#FFF"
+| [[File:SetSymbolRuby and Sapphire.png|40px]]
+| {{TCG|EX Ruby & Sapphire}}
+| EX Rubis & Saphir
+| EX Rubin & Saphir
+| EX Rubino & Zaffiro
+| EX Rubi e Safira
+| EX Rubí & Zafiro
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolSandstorm.png|40px]]
+| {{TCG|EX Sandstorm}}
+| EX Tempête de Sable
+| EX Sandsturm
+| EX Tempesta di Sabbia
+| colspan=3 | —
+|- style="background:#FFF"
+| [[File:SetSymbolDragon.png|40px]]
+| {{TCG|EX Dragon}}
+| EX Dragon
+| EX Drache
+| EX Drago
+| colspan=3 | —
+|- style="background:#FFF"
+| [[File:SetSymbolTeam Magma vs Team Aqua.png|40px]]
+| {{TCG|EX Team Magma vs Team Aqua}}
+| colspan=2 | EX Team Magma vs Team Aqua
+| EX Team Magma vs Team Idro
+| colspan=3 | —
+|- style="background:#FFF"
+| [[File:SetSymbolHidden Legends.png|40px]]
+| {{TCG|EX Hidden Legends}}
+| EX Légendes Oubliées
+| —
+| EX Leggende Nascoste
+| colspan=3 | —
+|- style="background:#FFF"
+| [[File:SetSymbolFireRed and LeafGreen.png|40px]]
+| {{TCG|EX FireRed & LeafGreen}}
+| EX Rouge Feu & Vert Feuille
+| EX Feuerrot & Blattgrün
+| EX RossoFuoco e VerdeFoglia
+| colspan=3 | —
+|- style="background:#FFF"
+| [[File:SetSymbolTeam Rocket Returns.png|40px]]
+| {{TCG|EX Team Rocket Returns}}
+| colspan=3 | —
+| EX O Retorno da Equipe Rocket
+| colspan=2 | —
+|- style="background:#FFF"
+| [[File:SetSymbolDeoxys.png|40px]]
+| {{TCG|EX Deoxys}}
+| colspan=4 | EX Deoxys
+| colspan=2 | —
+|- style="background:#FFF"
+| [[File:SetSymbolEmerald.png|40px]]
+| {{TCG|EX Emerald}}
+| EX Émeraude
+| EX Smaragd
+| EX Smeraldo
+| EX Esmeralda
+| colspan=2 | —
+|- style="background:#FFF"
+| [[File:SetSymbolUnseen Forces.png|40px]]
+| {{TCG|EX Unseen Forces}}
+| EX Forces Cachées
+| EX Verborgene Mächte
+| EX Forze Segrete
+| EX Forças Ocultas
+| EX Fuerzas Ocultas
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolDelta Species.png|40px]]
+| {{TCG|EX Delta Species}}
+| EX Espèces Delta
+| EX Delta Species
+| EX Specie Delta
+| colspan=3 | —
+|- style="background:#FFF"
+| [[File:SetSymbolLegend Maker.png|40px]]
+| {{TCG|EX Legend Maker}}
+| EX Créateurs de légendes
+| EX Legend Maker
+| EX La Leggenda di Mew
+| EX Origem das Lendas
+| —
+| Traditional Chinese: EX 傳說的締造者
+|- style="background:#FFF"
+| [[File:SetSymbolHolon Phantoms.png|40px]]
+| {{TCG|EX Holon Phantoms}}
+| EX Fantômes Holon
+| EX Holon Phantoms
+| EX Fantasmi di Holon
+| colspan=3 | —
+|- style="background:#FFF"
+| [[File:SetSymbolCrystal Guardians.png|40px]]
+| {{TCG|EX Crystal Guardians}}
+| EX Gardiens de Cristal
+| EX Crystal Guardians
+| EX Guardiani dei Cristalli
+| colspan=3 | —
+|- style="background:#FFF"
+| [[File:SetSymbolDragon Frontiers.png|40px]]
+| {{TCG|EX Dragon Frontiers}}
+| EX Île des Dragons
+| EX Dragon Frontiers
+| EX L'Isola dei Draghi
+| colspan=3 | —
+|- style="background:#FFF"
+| [[File:SetSymbolPower Keepers.png|40px]]
+| {{TCG|EX Power Keepers}}
+| EX Gardiens du Pouvoir
+| EX Power Keepers
+| colspan=4 | —
+|}
+
+===Diamond & Pearl Series===
+{| style="margin:auto; text-align: center; background:#{{pearl color}}; border:3px solid #{{diamond color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | English
+! style="background-color:#EEE; width:200px" | French
+! style="background-color:#EEE; width:200px" | German
+! style="background-color:#EEE; width:200px" | Italian
+! style="background-color:#EEE; width:200px" | Polish
+! style="background-color:#EEE; width:200px" | Brazilian Portuguese
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Spanish
+|- style="background:#FFF"
+| [[File:SetSymbolDiamond and Pearl.png|40px]]
+| {{TCG|Diamond & Pearl}}
+| Diamant & Perle
+| Diamant & Perl
+| Diamante & Perla
+| Diament i Perła
+| Diamante & Pérola
+| Diamante y Perla
+|- style="background:#FFF"
+| [[File:SetSymbolMysterious Treasures.png|40px]]
+| {{TCG|Mysterious Treasures}}
+| Trésors Mystérieux
+| Geheimnisvolle Schätze
+| Tesori Misteriosi
+| Tajemne Skarby
+| Tesouros Misteriosos
+| Tesoros Misteriosos
+|- style="background:#FFF"
+| [[File:SetSymbolSecret Wonders.png|40px]]
+| {{TCG|Secret Wonders}}
+| Merveilles Secrètes
+| Rätselhafte Wunder
+| Prodigi Segreti
+| —
+| Maravilhas Secretas
+| Maravillas Secretas
+|- style="background:#FFF"
+| [[File:SetSymbolGreat Encounters.png|40px]]
+| {{TCG|Great Encounters}}
+| Duels au Sommet
+| Epische Begegnungen
+| Incontri Leggendari
+| colspan=2 | —
+| Grandes Encuentros
+|- style="background:#FFF"
+| [[File:SetSymbolMajestic Dawn.png|40px]]
+| {{TCG|Majestic Dawn}}
+| Aube Majestueuse
+| Majestätischer Morgen
+| Alba Suprema
+| colspan=3 | —
+|- style="background:#FFF"
+| [[File:SetSymbolLegends Awakened.png|40px]]
+| {{TCG|Legends Awakened}}
+| Éveil des Légendes
+| Erwachte Legenden
+| Il Risveglio dei Miti
+| colspan=2 | —
+| Despertar de las Leyendas
+|- style="background:#FFF"
+| [[File:SetSymbolStormfront.png|40px]]
+| {{TCG|Stormfront}}
+| Tempête
+| Sturmtief
+| Fronte di Tempesta
+| colspan=2 | —
+| Frente Tormentoso
+|}
+
+===Platinum Series===
+{| style="margin:auto; text-align: center; background:#{{platinum color}}; border:3px solid #{{platinum color dark}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | English
+! style="background-color:#EEE; width:200px" | French
+! style="background-color:#EEE; width:200px" | German
+! style="background-color:#EEE; width:200px" | Italian
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Spanish
+|- style="background:#FFF"
+| [[File:SetSymbolPlatinum.png|40px]]
+| {{TCG|Platinum}}
+| Platine
+| Platin
+| colspan=2 | Platino
+|- style="background:#FFF"
+| [[File:SetSymbolRising Rivals.png|40px]]
+| {{TCG|Rising Rivals}}
+| Rivaux Émergeants
+| Aufstieg der Rivalen
+| L'Ascesa dei Rivali
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolSupreme Victors.png|40px]]
+| {{TCG|Supreme Victors}}
+| Vainqueurs Suprêmes
+| Ultimative Sieger
+| colspan=2 | —
+|- style="background:#FFF"
+| [[File:SetSymbolArceus.png|40px]]
+| {{TCG|Platinum: Arceus|Arceus}}
+| —
+| colspan=2 | Arceus
+| —
+|}
+
+===HeartGold & SoulSilver Series===
+{| style="margin:auto; text-align: center; background:#{{soulsilver color}}; border:3px solid #{{heartgold color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | English
+! style="background-color:#EEE; width:200px" | French
+! style="background-color:#EEE; width:200px" | German
+! style="background-color:#EEE; width:200px" | Italian
+! style="background-color:#EEE; width:200px" | Brazilian Portuguese
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Spanish
+|- style="background:#FFF"
+| [[File:SetSymbolHeartGold and SoulSilver.png|40px]]
+| {{TCG|HeartGold & SoulSilver}}
+| colspan=3 | HeartGold & SoulSilver
+| HeartGold SoulSilver
+| HeartGold y SoulSilver
+|- style="background:#FFF"
+| [[File:SetSymbolUnleashed.png|40px]]
+| {{TCG|Unleashed}}
+| Déchaînement
+| Entfesselt
+| Forze Scatenate
+| Revelado
+| Liberados
+|- style="background:#FFF"
+| [[File:SetSymbolUndaunted.png|40px]]
+| {{TCG|Undaunted}}
+| Indomptable
+| Unerschrocken
+| Senza Paura
+| colspan=2 | —
+|- style="background:#FFF"
+| [[File:SetSymbolTriumphant.png|40px]]
+| {{TCG|Triumphant}}
+| Triomphe
+| Triumph
+| Battaglie Trionfali
+| colspan=2 | —
+|}
+
+===Call of Legends Series===
+{| style="margin:auto; text-align: center; background:#{{dragon color}}; border:3px solid #{{dragon color dark}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | English
+! style="background-color:#EEE; width:200px" | French
+! style="background-color:#EEE; width:200px" | German
+! style="background-color:#EEE; width:200px" | Italian
+! style="background-color:#EEE; width:200px" | Brazilian Portuguese
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Spanish
+|- style="background:#FFF"
+| [[File:SetSymbolCall of Legends.png|40px]]
+| {{TCG|Call of Legends}}
+| L'Appel des Légendes
+| Ruf der Legenden
+| Richiamo delle Leggende
+| colspan=2 | —
+|}
+
+===Black & White Series===
+{| style="margin:auto; text-align: center; background:#{{white color}}; border:3px solid #{{black color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | English
+! style="background-color:#EEE; width:200px" | French
+! style="background-color:#EEE; width:200px" | German
+! style="background-color:#EEE; width:200px" | Italian
+! style="background-color:#EEE; width:200px" | Brazilian Portuguese
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Spanish
+|- style="background:#FFF"
+| [[File:SetSymbolBlack and White.png|40px]]
+| {{TCG|Black & White}}
+| Noir & Blanc
+| Schwarz & Weiß
+| Nero e Bianco
+| Black & White
+| Negro y Blanco
+|- style="background:#FFF"
+| [[File:SetSymbolEmerging Powers.png|40px]]
+| {{TCG|Emerging Powers}}
+| Pouvoirs Émergents
+| Aufstreben der Mächtigen
+| Nuove Forze
+| Poderes Emergentes
+| Fuerzas Emergentes
+|- style="background:#FFF"
+| [[File:SetSymbolNoble Victories.png|40px]]
+| {{TCG|Noble Victories}}
+| Nobles Victoires
+| Königliche Siege
+| Vittorie Regali
+| Vitórias Nobres
+| Nobles Victorias
+|- style="background:#FFF"
+| [[File:SetSymbolNext Destinies.png|40px]]
+| {{TCG|Next Destinies}}
+| Destinées Futures
+| Kommende Schicksale
+| Destini Futuri
+| colspan=2 | Próximos Destinos
+|- style="background:#FFF"
+| [[File:SetSymbolDark Explorers.png|40px]]
+| {{TCG|Dark Explorers}}
+| Explorateurs Obscurs
+| Erforscher der Finsternis
+| Esploratori delle Tenebre
+| Exploradores da Escuridão
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolDragons Exalted.png|40px]]
+| {{TCG|Dragons Exalted}}
+| Dragons Exaltés
+| Hoheit der Drachen
+| Stirpe dei Draghi
+| Dragões Enaltecidos
+| Dragones Majestuosos
+|- style="background:#FFF"
+| [[File:SetSymbolDragon Vault.png|40px]]
+| {{TCG|Dragon Vault}}
+| Coffre des Dragons
+| —
+| Tesoro dei Draghi
+| — 
+| —{{tt|*|Only 1 card (Cosmos Holo Salamence) from a Single Pack Blister}}
+|- style="background:#FFF"
+| [[File:SetSymbolBoundaries Crossed.png|40px]]
+| {{TCG|Boundaries Crossed}}
+| Frontières Franchies
+| Überschrittene Schwellen
+| Confini Varcati
+| Fronteiras Cruzadas
+| Fronteras Cruzadas
+|- style="background:#FFF"
+| [[File:SetSymbolPlasma Storm.png|40px]]
+| {{TCG|Plasma Storm}}
+| Tempête Plasma
+| Plasma-Sturm
+| Uragano Plasma
+| Tempestade de Plasma
+| Tormenta Plasma
+|- style="background:#FFF"
+| [[File:SetSymbolPlasma Freeze.png|40px]]
+| {{TCG|Plasma Freeze}}
+| Glaciation Plasma
+| Plasma-Frost
+| Glaciazione Plasma
+| Congelamento de Plasma
+| Glaciación Plasma
+|- style="background:#FFF"
+| [[File:SetSymbolPlasma Blast.png|40px]]
+| {{TCG|Plasma Blast}}
+| Explosion Plasma
+| Plasma-Blaster
+| Esplosione Plasma
+| Explosão de Plasma
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolLegendary Treasures.png|40px]]
+| {{TCG|Legendary Treasures}}
+| colspan=5 | —
+|}
+
+===XY Series===
+{| style="margin:auto; text-align: center; background:#{{x color}}; border:3px solid #{{y color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | English
+! style="background-color:#EEE; width:200px" | French
+! style="background-color:#EEE; width:200px" | German
+! style="background-color:#EEE; width:200px" | Italian
+! style="background-color:#EEE; width:200px" | Brazilian Portuguese
+! style="background-color:#EEE; width:200px" | Russian
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Spanish
+|- style="background:#FFF"
+| [[File:SetSymbolKalos Starter Set.png|40px]]
+| {{TCG|Kalos Starter Set}}
+| Bienvenue à Kalos
+| Willkommen in Kalos
+| Benvenuti a Kalos
+| —
+| Стартовый Набор Калоса
+| —{{tt|*|Only 4 cards from Theme decks}}
+|- style="background:#FFF"
+| [[File:SetSymbolXY.png|40px]]
+| {{TCG|XY}}
+| colspan=6 | XY
+|- style="background:#FFF"
+| [[File:SetSymbolFlashfire.png|40px]]
+| {{TCG|Flashfire}}
+| Étincelles
+| Flammenmeer
+| Fuoco Infernale
+| Flash de Fogo
+| Огненная Вспышка
+| Destellos de Fuego
+|- style="background:#FFF"
+| [[File:SetSymbolFurious Fists.png|40px]]
+| {{TCG|Furious Fists}}
+| Poings Furieux
+| Fliegende Fäuste
+| Colpi Furiosi
+| Punhos Furiosos
+| Яростный Кулак
+| Puños Furiosos
+|- style="background:#FFF"
+| [[File:SetSymbolPhantom Forces.png|40px]]
+| {{TCG|Phantom Forces}}
+| Vigueur Spectrale
+| Phantomkräfte
+| Forze Spettrali
+| Força Fantasma
+| Призрачные Силы
+| Fuerzas Fantasmales
+|- style="background:#FFF"
+| [[File:SetSymbolPrimal Clash.png|40px]]
+| {{TCG|Primal Clash}}
+| Primo-Choc
+| Protoschock
+| Scontro Primordiale
+| Conflito Primitivo
+| Первобытная Дуэль
+| Duelos Primigenios
+|- style="background:#FFF"
+| [[File:SetSymbolDouble Crisis.png|40px]]
+| {{TCG|Double Crisis}}
+| Double Danger
+| colspan=2 | —
+| Crise Dupla
+| colspan=2 | —
+|- style="background:#FFF"
+| [[File:SetSymbolRoaring Skies.png|40px]]
+| {{TCG|Roaring Skies}}
+| Ciel Rugissant
+| Drachenleuchten
+| Furie Volanti
+| Céus Estrondosos
+| Грохочущие Небеса
+| Cielos Rugientes
+|- style="background:#FFF"
+| [[File:SetSymbolAncient Origins.png|40px]]
+| {{TCG|Ancient Origins}}
+| Origines Antiques
+| Ewiger Anfang
+| Antiche Origini
+| Origens Ancestrais
+| Древние Истоки
+| Antiguos Orígenes
+|- style="background:#FFF"
+| [[File:SetSymbolBREAKthrough.png|40px]]
+| {{TCG|BREAKthrough}}
+| Impulsion TURBO
+| TURBOstart
+| Turboblitz
+| Turbo Revolução
+| Турбо Импульс
+| TURBOimpulso
+|- style="background:#FFF"
+| [[File:SetSymbolBREAKpoint.png|40px]]
+| {{TCG|BREAKpoint}}
+| Rupture TURBO
+| TURBOfieber
+| Turbocrash
+| Turbo Colisão
+| —
+| TURBOlímite
+|- style="background:#FFF"
+| [[File:SetSymbolGenerations.png|40px]]
+| {{TCG|Generations}}
+| Générations
+| Generationen
+| Generazioni
+| Gerações
+| —
+| Generaciones
+|- style="background:#FFF"
+| [[File:SetSymbolFates Collide.png|40px]]
+| {{TCG|Fates Collide}}
+| Impact des Destins
+| Schicksalsschmiede
+| Destini Incrociati
+| Fusão de Destinos
+| —
+| Destinos Enfrentados
+|- style="background:#FFF"
+| [[File:SetSymbolSteam Siege.png|40px]]
+| {{TCG|Steam Siege}}
+| Offensive Vapeur
+| Dampfkessel
+| Vapori Accesi
+| Cerco de Vapor
+| —
+| Asedio de Vapor
+|- style="background:#FFF"
+| [[File:SetSymbolEvolutions.png|40px]]
+| {{TCG|Evolutions}}
+| Évolutions
+| Evolution
+| Evoluzioni
+| colspan=2 | —
+| Evoluciones
+|}
+
+===Sun & Moon Series===
+{| style="margin:auto; text-align: center; background:#{{sun color}}; border:3px solid #{{moon color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | English
+! style="background-color:#EEE; width:200px" | French
+! style="background-color:#EEE; width:200px" | German
+! style="background-color:#EEE; width:200px" | Italian
+! style="background-color:#EEE; width:200px" | Brazilian Portuguese
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Spanish
+|- style="background:#FFF"
+| [[File:SetSymbolSun and Moon.png|40px]]
+| {{TCG|Sun & Moon}}
+| Soleil et Lune
+| Sonne & Mond
+| Sole e Luna
+| Sol e Lua
+| Sol y Luna
+|- style="background:#FFF"
+| [[File:SetSymbolGuardians Rising.png|40px]]
+| {{TCG|Guardians Rising}}
+| Gardiens Ascendants
+| Stunde der Wächter
+| Guardiani Nascenti
+| Guardiões Ascendentes
+| Albor de Guardianes
+|- style="background:#FFF"
+| [[File:SetSymbolBurning Shadows.png|40px]]
+| {{TCG|Burning Shadows}}
+| Ombres Ardentes
+| Nacht in Flammen
+| Ombre Infuocate
+| Sombras Ardentes
+| Sombras Ardientes
+|- style="background:#FFF"
+| [[File:SetSymbolShining Legends.png|40px]]
+| {{TCG|Shining Legends}}
+| Légendes Brillantes
+| Schimmernde Legenden
+| Leggende Iridescenti
+| Lendas Luminescentes
+| Leyendas Luminosas
+|- style="background:#FFF"
+| [[File:SetSymbolCrimson Invasion.png|40px]]
+| {{TCG|Crimson Invasion}}
+| Invasion Carmin
+| Aufziehen der Sturmröte
+| Invasione Scarlatta
+| Invasão Carmim
+| Invasión Carmesí
+|- style="background:#FFF"
+| [[File:SetSymbolUltra Prism.png|40px]]
+| {{TCG|Ultra Prism}}
+| Ultra-Prisme
+| Ultra-Prisma
+| Ultraprisma
+| Ultra Prisma
+| Ultraprisma
+|- style="background:#FFF"
+| [[File:SetSymbolForbidden Light.png|40px]]
+| {{TCG|Forbidden Light}}
+| Lumière Interdite
+| Grauen der Lichtfinsternis
+| Apocalisse di Luce
+| Luz Proibida
+| Luz Prohibida
+|- style="background:#FFF"
+| [[File:SetSymbolCelestial Storm.png|40px]]
+| {{TCG|Celestial Storm}}
+| Tempête Céleste
+| Sturm am Firmament
+| Tempesta Astrale
+| Tempestade Celestial
+| Tormenta Celestial
+|- style="background:#FFF"
+| [[File:SetSymbolDragon Majesty.png|40px]]
+| {{TCG|Dragon Majesty}}
+| Majesté des Dragons
+| Majestät der Drachen
+| Trionfo dei Draghi
+| Dragões Soberanos
+| Majestad de Dragones
+|- style="background:#FFF"
+| [[File:SetSymbolLost Thunder.png|40px]]
+| {{TCG|Lost Thunder}}
+| Tonnerre Perdu
+| Echo des Donners
+| Tuoni Perduti
+| Trovões Perdidos
+| Truenos Perdidos
+|- style="background:#FFF"
+| [[File:SetSymbolTeam Up.png|40px]]
+| {{TCG|Team Up}}
+| Duo de Choc
+| Teams sind Trumpf
+| Gioco di Squadra
+| União de Aliados
+| Unión de Aliados
+|- style="background:#FFF"
+| [[File:SetSymbolDetective Pikachu.png|40px]]
+| {{TCG|Detective Pikachu}}
+| Détective Pikachu
+| Meisterdetektiv Pikachu
+| Detective Pikachu
+| Detetive Pikachu
+| Detective Pikachu
+|- style="background:#FFF"
+| [[File:SetSymbolUnbroken Bonds.png|40px]]
+| {{TCG|Unbroken Bonds}}
+| Alliance Infaillible
+| Kräfte im Einklang
+| Legami Inossidabili
+| Elos Inquebráveis
+| Vínculos Indestructibles
+|- style="background:#FFF"
+| [[File:SetSymbolUnified Minds.png|40px]]
+| {{TCG|Unified Minds}}
+| Harmonie des Esprits
+| Bund der Gleichgesinnten
+| Sintonia Mentale
+| Sintonia Mental
+| Mentes Unidas
+|- style="background:#FFF"
+| [[File:SetSymbolHidden Fates.png|40px]]
+| {{TCG|Hidden Fates}}
+| Destinées Occultes
+| Verborgenes Schicksal
+| Destino Sfuggente
+| colspan=2 | Destinos Ocultos
+|- style="background:#FFF"
+| [[File:SetSymbolCosmic Eclipse.png|40px]]
+| {{TCG|Cosmic Eclipse}}
+| Éclipse Cosmique
+| Welten im Wandel
+| Eclissi Cosmica
+| colspan=2 | Eclipse Cósmico
+|}
+
+===Sword & Shield Series===
+{| style="margin:auto; text-align: center; background:#{{sword color}}; border:3px solid #{{shield color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | English
+! style="background-color:#EEE; width:200px" | French
+! style="background-color:#EEE; width:200px" | German
+! style="background-color:#EEE; width:200px" | Italian
+! style="background-color:#EEE; width:200px" | Brazilian Portuguese
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Spanish
+|- style="background:#FFF"
+| [[File:SetSymbolSword and Shield.png|40px]]
+| {{TCG|Sword & Shield}}
+| Épée et Bouclier
+| Schwert & Schild
+| Spada e Scudo
+| Espada e Escudo
+| Espada y Escudo
+|- style="background:#FFF"
+| [[File:SetSymbolRebel Clash.png|40px]]
+| {{TCG|Rebel Clash}}
+| Clash des Rebelles
+| Clash der Rebellen
+| Fragore Ribelle
+| Rixa Rebelde
+| Choque Rebelde
+|- style="background:#FFF"
+| [[File:SetSymbolDarkness Ablaze.png|40px]]
+| {{TCG|Darkness Ablaze}}
+| Ténèbres Embrasées
+| Flammende Finsternis
+| Fiamme Oscure
+| Escuridão Incandescente
+| Oscuridad Incandescente
+|- style="background:#FFF"
+| [[File:SetSymbolChampion Path.png|40px]]
+| {{TCG|Champion's Path}}
+| La Voie du Maître
+| Weg des Champs
+| Futuri Campioni
+| Caminho do Campeão
+| Camino de Campeones
+|- style="background:#FFF"
+| [[File:SetSymbolVivid Voltage.png|40px]]
+| {{TCG|Vivid Voltage}}
+| Voltage Éclatant
+| Farbenschock
+| Voltaggio Sfolgorante
+| Voltagem Vívida
+| Voltaje Vívido
+|- style="background:#FFF"
+| [[File:SetSymbolShining Fates.png|40px]]
+| {{TCG|Shining Fates}}
+| Destinées Radieuses
+| Glänzendes Schicksal
+| Destino Splendente
+| Destinos Brilhantes
+| Destinos Brillantes
+|- style="background:#FFF"
+| [[File:SetSymbolBattle Styles.png|40px]]
+| {{TCG|Battle Styles}}
+| Styles de Combat
+| Kampfstile
+| Stili di Lotta
+| Estilos de Batalha
+| Estilos de Combate
+|- style="background:#FFF"
+| [[File:SetSymbolChilling Reign.png|40px]]
+| {{TCG|Chilling Reign}}
+| Règne de Glace
+| Schaurige Herrschaft
+| Regno Glaciale
+| Reinado Arrepiante
+| Reinado Escalofriante
+|- style="background:#FFF"
+| [[File:SetSymbolEvolving Skies.png|40px]]
+| {{TCG|Evolving Skies}}
+| Évolution Céleste
+| Drachenwandel
+| Evoluzioni Eteree
+| Céus em Evolução
+| Cielos Evolutivos
+|- style="background:#FFF"
+| [[File:SetSymbolCelebrations.png|40px]]
+| {{TCG|Celebrations}}
+| Célébrations
+| Celebrations
+| Gran Festa
+| Celebrações
+| Celebraciones
+|- style="background:#FFF"
+| [[File:SetSymbolFusion Strike.png|40px]]
+| {{TCG|Fusion Strike}}
+| Poing de Fusion
+| Fusionsangriff
+| Colpo Fusione
+| Golpe Fusão
+| Golpe Fusión
+|- style="background:#FFF"
+| [[File:SetSymbolBrilliant Stars.png|40px]]
+| {{TCG|Brilliant Stars}}
+| Stars Étincelantes
+| Strahlende Sterne
+| Astri Lucenti
+| Astros Cintilantes
+| Astros Brillantes
+|- style="background:#FFF"
+| [[File:SetSymbolAstral Radiance.png|40px]]
+| {{TCG|Astral Radiance}}
+| Astres Radieux
+| Astralglanz
+| Lucentezza Siderale
+| Estrelas Radiantes
+| Resplandor Astral
+|- style="background:#FFF"
+| [[File:SetSymbolPokémon GO.png|40px]]
+| {{TCG|Pokémon GO}}
+| colspan=5 | Pokémon GO
+|- style="background:#FFF"
+| [[File:SetSymbolLost Origin.png|40px]]
+| {{TCG|Lost Origin}}
+| Origine Perdue
+| Verlorener Ursprung
+| Origine Perduta
+| Origem Perdida
+| Origen Perdido
+|- style="background:#FFF"
+| [[File:SetSymbolSilver Tempest.png|40px]]
+| {{TCG|Silver Tempest}}
+| Tempête Argentée
+| Silberne Sturmwinde
+| Tempesta Argentata
+| Tempestade Prateada
+| Tempestad Plateada
+|- style="background:#FFF"
+| [[File:SetSymbolCrown Zenith.png|40px]]
+| {{TCG|Crown Zenith}}
+| Zénith Suprême
+| Zenit der Könige
+| Zenit Regale
+| Realeza Absoluta
+| Cenit Supremo
+|}
+
+===Scarlet & Violet Series===
+{| style="margin:auto; text-align: center; background:#{{scarlet color}}; border:3px solid #{{violet color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | English
+! style="background-color:#EEE; width:200px" | French
+! style="background-color:#EEE; width:200px" | German
+! style="background-color:#EEE; width:200px" | Italian
+! style="background-color:#EEE; width:200px" | Brazilian Portuguese
+! style="background-color:#EEE; width:200px" | European Spanish
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Latin American Spanish
+|- style="background:#FFF"
+| [[File:SetSymbolScarlet and Violet.png|40px]]
+| {{TCG|Scarlet & Violet}}
+| Écarlate et Violet
+| Karmesin & Purpur
+| Scarlatto e Violetto
+| Escarlate e Violeta
+| Escarlata y Púrpura
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolPaldea Evolved.png|40px]]
+| {{TCG|Paldea Evolved}}
+| Évolutions à Paldea
+| Entwicklungen in Paldea
+| Evoluzioni a Paldea
+| Evoluções em Paldea
+| Evoluciones en Paldea
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolObsidian Flames.png|40px]]
+| {{TCG|Obsidian Flames}}
+| Flammes Obsidiennes
+| Obsidianflammen
+| Ossidiana Infuocata
+| Obsidiana em Chamas
+| Llamas Obsidianas
+| —
+|- style="background:#FFF"
+| [[File:SetSymbol151.png|40px]]
+| {{TCG|151}}
+| colspan=5 | 151
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolParadox Rift.png|40px]]
+| {{TCG|Paradox Rift}}
+| Faille Paradoxe
+| Paradoxrift
+| Paradosso Temporale
+| Fenda Paradoxal
+| Brecha Paradójica
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolPaldean Fates.png|40px]]
+| {{TCG|Paldean Fates}}
+| Destinées de Paldea
+| Paldeas Schicksale
+| Destino di Paldea
+| colspan=2 | Destinos de Paldea
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolTemporal Forces.png|40px]]
+| {{TCG|Temporal Forces}}
+| Forces Temporelles
+| Gewalten der Zeit
+| Cronoforze
+| Forças Temporais
+| Fuerzas Temporales
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolTwilight Masquerade.png|40px]]
+| {{TCG|Twilight Masquerade}}
+| Mascarade Crépusculaire
+| Maskerade im Zwielicht
+| Crepuscolo Mascherato
+| Máscaras do Crepúsculo
+| Mascarada Crepuscular
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolShrouded Fable.png|40px]]
+| {{TCG|Shrouded Fable}}
+| Fable Nébuleuse
+| Nebel der Sagen
+| Segreto Fiabesco
+| Fábulas Nebulosas
+| Fábula Sombría
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolStellar Crown.png|40px]]
+| {{TCG|Stellar Crown}}
+| Couronne Stellaire
+| Stellarkrone
+| Corona Astrale
+| Coroa Estelar
+| Corona Astral
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolSurging Sparks.png|40px]]
+| {{TCG|Surging Sparks}}
+| Étincelles Déferlantes
+| Stürmische Funken
+| Scintille Folgoranti
+| Fagulhas Impetuosas
+| Chispas Fulgurantes
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolPrismatic Evolutions.png|40px]]
+| {{TCG|Prismatic Evolutions}}
+| Évolutions Prismatiques
+| Prismatische Entwicklungen
+| Evoluzioni Prismatiche
+| Evoluções Prismáticas
+| Evoluciones Prismáticas
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolJourney Together.png|40px]]
+| {{TCG|Journey Together}}
+| Aventures Ensemble
+| Reisegefährten
+| Avventure Insieme
+| Amigos de Jornada
+| Juntos de Aventuras
+| Aventuras Compartidas
+|- style="background:#FFF"
+| [[File:SetSymbolDestined Rivals.png|40px]]
+| {{TCG|Destined Rivals}}
+| Rivalités Destinées
+| Ewige Rivalen
+| Rivali Predestinati
+| Rivais Predestinados
+| colspan=2 | Rivales Predestinados
+|- style="background:#FFF"
+| [[File:SetSymbolBlack Bolt.png|40px]]<br>[[File:SetSymbolWhite Flare.png|40px]]
+| {{TCG|Black Bolt & White Flare|Black Bolt<br>White Flare}}
+| Foudre Noire<br>Flamme Blanche
+| Schwarze Blitze<br>Weiße Flammen
+| Luce Nera<br>Fuoco Bianco
+| Raio Preto<br>Fogo Branco
+| colspan=2 | Fulgor Negro<br>Llama Blanca
+|}
+
+===Mega Evolution Series===
+{| style="margin:auto; text-align: center; background:#363636; border:3px solid #f4d72d; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | English
+! style="background-color:#EEE; width:200px" | French
+! style="background-color:#EEE; width:200px" | German
+! style="background-color:#EEE; width:200px" | Italian
+! style="background-color:#EEE; width:200px" | Brazilian Portuguese
+! style="background-color:#EEE; width:200px" | European Spanish
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Latin American Spanish
+|- style="background:#FFF"
+| [[File:SetSymbolMega Evolution.png|40px]]
+| {{TCG|Mega Evolution}}
+| Méga-Évolution
+| Mega-Entwicklung
+| Megaevoluzione
+| Megaevolução
+| colspan=2 | Megaevolución
+|- style="background:#FFF"
+| [[File:SetSymbolPhantasmal Flames.png|40px]]
+| {{TCG|Phantasmal Flames}}
+| Flammes Fantasmagoriques
+| Fatale Flammen
+| Fiamme Spettrali
+| Fogo Fantasmagórico
+| Fuegos Fantasmales
+| Llamaradas Fantasmales
+|- style="background:#FFF"
+| [[File:SetSymbolAscended Heroes.png|40px]]
+| {{TCG|Ascended Heroes}}
+| Héros Transcendants
+| Erhabene Helden
+| Ascesa Eroica
+| Heróis Excelsos
+| Héroes Ascendentes
+| Ascenso Heroico
+|- style="background:#FFF"
+| [[File:SetSymbolPerfect Order.png|40px]]
+| {{TCG|Perfect Order}}
+| Équilibre Parfait
+| Optimale Ordnung
+| Equilibrio Perfetto
+| Equilíbrio Perfeito
+| colspan=2 | Equilibrio Perfecto
+|- style="background:#FFF"
+| [[File:SetSymbolChaos Rising.png|40px]]
+| {{TCG|Chaos Rising}}
+| Chaos Ascendant
+| Wachsendes Chaos
+| Caos Nascente
+| Caos Ascendente
+| colspan=2 | Caos Creciente
+|- style="background:#FFF"
+| [[File:SetSymbolPitch Black.png|40px]]
+| {{TCG|Pitch Black}}
+| Nuit Noire
+| Dunkelnacht
+| Buio Pesto
+| Escuridão Absoluta
+| Oscuridad Absoluta
+| Tinieblas Umbrías
+|- style="background:#FFF"
+| [[File:SetSymbol30th Celebration.png|40px]]
+| {{TCG|30th Celebration}}
+| 30ᵉ Anniversaire
+| 30 Jahre
+| 30° Anniversario
+| Celebração de 30 Anos
+| colspan=2 | Celebración 30.º Aniversario
+|- style="background:#FFF"
+| [[File:SetSymbolDelta Reign.png|40px]]
+| {{TCG|Delta Reign}}
+| Règne Delta
+| Delta-Herrschaft
+| Dominio Delta
+| Reinado Delta
+| colspan=2 | Dominio Delta
+|}
+
+==Japanese sets==
+===BW Era===
+{| style="margin:auto; text-align: center; background:#{{black color}}; border:3px solid #{{white color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | Japanese
+! style="background-color:#EEE; width:200px" | Translation
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Korean
+|- style="background:#FFF"
+| [[File:SetSymbolBlack Collection.png|40px]][[File:SetSymbolWhite Collection.png|40px]]
+| ブラックコレクション<br>ホワイトコレクション
+| {{TCG|Black Collection/White Collection|Black Collection<br>White Collection}}
+| 블랙 컬렉션<br>화이트 컬렉션
+|- style="background:#FFF"
+| [[File:SetSymbolRed Collection.png|40px]]
+| レッドコレクション
+| {{TCG|Red Collection}}
+| 레드 컬렉션
+|- style="background:#FFF"
+| [[File:SetSymbolPsycho Drive.png|40px]][[File:SetSymbolHail Blizzard.png|40px]]
+| サイコドライブ<br>ヘイルブリザード
+| {{TCG|Psycho Drive/Hail Blizzard|Psycho Drive<br>Hail Blizzard}}
+| 사이코 드라이브<br>헤일 블리자드
+|- style="background:#FFF"
+| [[File:SetSymbolDark Rush.png|40px]]
+| ダークラッシュ
+| {{TCG|Dark Rush}}
+| 다크러시
+|- style="background:#FFF"
+| [[File:SetSymbolDragon Selection.png|40px]]
+| ドラゴンセレクション
+| {{TCG|Dragon Selection}}
+| 드래곤 컬렉션
+|- style="background:#FFF"
+| [[File:SetSymbolDragon Blast.png|40px]][[File:SetSymbolDragon Blade.png|40px]]
+| リューズブラスト<br>リューノブレード
+| {{TCG|Dragon Blast/Dragon Blade|Dragon Blast<br>Dragon Blade}}
+| 드래곤 블라스트<br>드래곤 블레이드
+|- style="background:#FFF"
+| [[File:SetSymbolFreeze Bolt.png|40px]][[File:SetSymbolCold Flare.png|40px]]
+| フリーズボルト<br>コールドフレア
+| {{TCG|Freeze Bolt/Cold Flare|Freeze Bolt<br>Cold Flare}}
+| 프리즈볼트<br>콜드플레어
+|- style="background:#FFF"
+| [[File:SetSymbolPlasma Gale.png|40px]]
+| プラズマゲイル
+| {{TCG|Plasma Gale}}
+| 플라스마게일
+|- style="background:#FFF"
+| [[File:SetSymbolSpiral Force.png|40px]][[File:SetSymbolThunder Knuckle.png|40px]]
+| ラセンフォース<br>ライデンナックル
+| {{TCG|Spiral Force/Thunder Knuckle|Spiral Force<br>Thunder Knuckle}}
+| 스파이럴포스<br>볼트너클
+|- style="background:#FFF"
+| [[File:SetSymbolShiny Collection.png|40px]]
+| シャイニーコレクション
+| {{TCG|Shiny Collection}}
+| 샤이니 컬렉션
+|- style="background:#FFF"
+| [[File:SetSymbolMegalo Cannon.png|40px]]
+| メガロキャノン
+| {{TCG|Megalo Cannon}}
+| 메갈로캐논
+|- style="background:#FFF"
+| [[File:SetSymbolEX Battle Boost.png|40px]]
+| EXバトルブースト
+| {{TCG|EX Battle Boost}}
+| EX 배틀 부스트
+|}
+
+===XY Era===
+{| style="margin:auto; text-align: center; background:#{{x color}}; border:3px solid #{{y color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | Japanese
+! style="background-color:#EEE; width:200px" | Translation
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Korean
+|- style="background:#FFF"
+| [[File:SetSymbolCollection X.png|40px]][[File:SetSymbolCollection Y.png|40px]]
+| コレクションX<br>コレクションY
+| {{TCG|Collection X/Collection Y|Collection X<br>Collection Y}}
+| X컬렉션<br>Y컬렉션
+|- style="background:#FFF"
+| [[File:SetSymbolWild Blaze.png|40px]]
+| ワイルドブレイズ
+| {{TCG|Wild Blaze}}
+| 와일드 블레이즈
+|- style="background:#FFF"
+| [[File:SetSymbolRising Fist.png|40px]]
+| ライジングフィスト
+| {{TCG|Rising Fist}}
+| 라이징피스트
+|- style="background:#FFF"
+| [[File:SetSymbolPhantom Gate.png|40px]]
+| ファントムゲート
+| {{TCG|Phantom Gate}}
+| 팬텀게이트
+|- style="background:#FFF"
+| [[File:SetSymbolGaia Volcano.png|40px]][[File:SetSymbolTidal Storm.png|40px]]
+| ガイアボルケーノ<br>タイダルストーム
+| {{TCG|Gaia Volcano/Tidal Storm|Gaia Volcano<br>Tidal Storm}}
+| 가이아 볼케이노<br>타이달스톰
+|- style="background:#FFF"
+| [[File:SetSymbolDoubleCrisis.png|40px]]
+| マグマ団VSアクア団 ダブルクライシス
+| {{TCG|Magma Gang VS Aqua Gang: Double Crisis}}
+| 마그마단vs아쿠아단 더블크라이시스
+|- style="background:#FFF"
+| [[File:SetSymbolEmerald Break.png|40px]]
+| エメラルドブレイク
+| {{TCG|Emerald Break}}
+| 에메랄드 브레이크
+|- style="background:#FFF"
+| [[File:SetSymbolBandit Ring.png|40px]]
+| バンデットリング
+| {{TCG|Bandit Ring}}
+| 밴디트링
+|- style="background:#FFF"
+| [[File:SetSymbolLegendary Shine Collection.png|40px]]
+| 伝説キラコレクション
+| {{TCG|Legendary Shine Collection}}
+| 레전드 컬렉션
+|}
+
+===XY BREAK Era===
+{| style="margin:auto; text-align: center; background:#{{y color}}; border:3px solid #{{x color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | Japanese
+! style="background-color:#EEE; width:200px" | Translation
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Korean
+|- style="background:#FFF"
+| [[File:SetSymbolBlue Shock.png|40px]]<br>[[File:SetSymbolRed Flash.png|40px]]
+| 青い衝撃<br>赤い閃光
+| {{TCG|Blue Shock/Red Flash|Blue Shock<br>Red Flash}}
+| 푸른 충격<br>붉은 섬광
+|- style="background:#FFF"
+| [[File:SetSymbolRage of the Broken Heavens.png|40px]]
+| 破天の怒り
+| {{TCG|Rage of the Broken Heavens}}
+| 천공의 분노
+|- style="background:#FFF"
+| [[File:SetSymbolPokéKyun Collection.png|40px]]
+| ポケキュンコレクション
+| {{TCG|PokéKyun Collection}}
+| 포켓심쿵 컬렉션
+|- style="background:#FFF"
+| [[File:SetSymbolAwakening Psychic King.png|40px]]
+| めざめる超王
+| {{TCG|Awakening Psychic King}}
+| 초능력의 제왕
+|- style="background:#FFF"
+| [[File:SetSymbolPremium Champion Pack.png|40px]]
+| プレミアムチャンピオンパック EX×M×BREAK
+| {{TCG|Premium Champion Pack}} EX×M×BREAK
+| 프리미엄 챔피언팩
+|- style="background:#FFF"
+| [[File:SetSymbolFever-Burst Fighter.png|40px]]<br>[[File:SetSymbolCruel Traitor.png|40px]]
+| 爆熱の闘士<br>冷酷の反逆者
+| {{TCG|Fever-Burst Fighter/Cruel Traitor|Fever-Burst Fighter<br>Cruel Traitor}}
+| 타오르는 투사<br>냉혹한 반역자
+|- style="background:#FFF"
+| [[File:SetSymbolMythical Legendary Dream Shine Collection.png|40px]]
+| 幻・伝説ドリームキラコレクション
+| {{TCG|Mythical & Legendary Dream Shine Collection}}
+| 환상・전설 드림 컬렉션
+|- style="background:#FFF"
+| [[File:SetSymbolExpansion Pack 20th Anniversary.png|40px]]
+| ポケットモンスターカードゲーム 拡張パック 20th Anniversary
+| Pokémon Card Game {{TCG|Expansion Pack 20th Anniversary}}
+| BASE PACK 20th Anniversary
+|- style="background:#FFF"
+| [[File:SetSymbolXY reprint.png|40px]]
+| colspan=3 | {{TCG|The Best of XY|THE BEST OF XY}}
+|}
+
+===Sun & Moon Era===
+{| style="margin:auto; text-align: center; background:#{{moon color}}; border:3px solid #{{sun color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | Japanese
+! style="background-color:#EEE; width:200px" | Translation
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Korean
+|- style="background:#FFF"
+| [[File:SetSymbolCollection Sun.png|40px]][[File:SetSymbolCollection Moon.png|40px]]
+| コレクションサン<br>コレクションムーン
+| {{TCG|Collection Sun/Collection Moon|Collection Sun<br>Collection Moon}}
+| 썬 컬렉션<br>문 컬렉션
+|- style="background:#FFF"
+| [[File:SetSymbolSM1Plus.png|40px]]
+| サン＆ムーン
+| {{TCG|Enhanced Expansion Pack Sun & Moon|Sun & Moon}}
+| 썬&문
+|- style="background:#FFF"
+| [[File:SetSymbolIslands Await You.png|40px]][[File:SetSymbolAlolan Moonlight.png|40px]]
+| キミを待つ島々<br>アローラの月光
+| {{TCG|Islands Await You/Alolan Moonlight|Islands Await You<br>Alolan Moonlight}}
+| {{tt|알로라의 햇빛|Alolan Sunlight}}<br>알로라의 달빛
+|- style="background:#FFF"
+| [[File:SetSymbolFacing a New Trial.png|40px]]
+| 新たなる試練の向こう
+| {{TCG|Facing a New Trial}}
+| 새로운 시련
+|- style="background:#FFF"
+| [[File:SetSymbolTo Have Seen the Battle Rainbow.png|40px]][[File:SetSymbolDarkness that Consumes Light.png|40px]]
+| 闘う虹を見たか<br>光を喰らう闇
+| {{TCG|To Have Seen the Battle Rainbow/Darkness that Consumes Light|To Have Seen the Battle Rainbow<br>Darkness that Consumes Light}}
+| {{tt|어둠을 밝힌 무지개|Rainbow of Darkness}}<br>빛을 삼킨 어둠
+|- style="background:#FFF"
+| [[File:SetSymbolShiningLegends.png|40px]]
+| ひかる伝説
+| {{TCG|Shining Legends}}
+| 빛나는 전설
+|- style="background:#FFF"
+| [[File:SetSymbolAwakened Heroes.png|40px]][[File:SetSymbolUltradimensional Beasts.png|40px]]
+| 覚醒の勇者<br>超次元の暴獣
+| {{TCG|Awakened Heroes/Ultradimensional Beasts|Awakened Heroes<br>Ultradimensional Beasts}}
+| 각성의 용사<br>{{tt|초차원의 침략자|Ultradimensional Invaders}}
+|- style="background:#FFF"
+| [[File:SetSymbolGX Battle Boost.png|40px]]
+| GXバトルブースト
+| {{TCG|GX Battle Boost}}
+| GX 배틀부스트
+|- style="background:#FFF"
+| [[File:SetSymbolUltra Sun.png|40px]][[File:SetSymbolUltra Moon.png|40px]]
+| ウルトラサン<br>ウルトラムーン
+| {{TCG|Ultra Sun/Ultra Moon|Ultra Sun<br>Ultra Moon}}
+| 울트라썬<br>울트라문
+|- style="background:#FFF"
+| [[File:SetSymbolUltra Force.png|40px]]
+| ウルトラフォース
+| {{TCG|Ultra Force}}
+| 울트라포스
+|- style="background:#FFF"
+| [[File:SetSymbolForbiddenLight.png|40px]]
+| 禁断の光
+| {{TCG|Forbidden Light}}
+| 금단의 빛
+|- style="background:#FFF"
+| [[File:SetSymbolDragon Storm.png|40px]]
+| ドラゴンストーム
+| {{TCG|Dragon Storm}}
+| 드래곤스톰
+|- style="background:#FFF"
+| [[File:SetSymbolChampion Road.png|40px]]
+| チャンピオンロード
+| {{TCG|Champion Road}}
+| 챔피언로드
+|- style="background:#FFF"
+| [[File:SetSymbolSky-Splitting Charisma.png|40px]]
+| 裂空のカリスマ
+| {{TCG|Sky-Splitting Charisma}}
+| {{tt|창공의 카리스마|Charisma of the Sky}}
+|- style="background:#FFF"
+| [[File:SetSymbolThunderclap Spark.png|40px]]
+| 迅雷スパーク
+| {{TCG|Thunderclap Spark}}
+| {{tt|플라스마 스파크|Plasma Spark}}
+|- style="background:#FFF"
+| [[File:SetSymbolFairy Rise.png|40px]]
+| フェアリーライズ
+| {{TCG|Fairy Rise}}
+| 페어리라이즈
+|- style="background:#FFF"
+| [[File:SetSymbolSuper-Burst Impact.png|40px]]
+| 超爆インパクト
+| {{TCG|Super-Burst Impact}}
+| 버스트임팩트
+|- style="background:#FFF"
+| [[File:SetSymbolDark Order.png|40px]]
+| ダークオーダー
+| {{TCG|Dark Order}}
+| 다크오더
+|- style="background:#FFF"
+| [[File:SetSymbolGX Ultra Shiny.png|40px]]
+| GXウルトラシャイニ
+| {{TCG|GX Ultra Shiny}}
+| GX 울트라샤이니 ULTIMATE
+|- style="background:#FFF"
+| [[File:SetSymbolTag Bolt.png|40px]]
+| タッグボルト
+| {{TCG|Tag Bolt}}
+| 태그볼트
+|- style="background:#FFF"
+| [[File:SetSymbolNight Unison.png|40px]]
+| ナイトユニゾン
+| {{TCG|Night Unison}}
+| 나이트유니슨
+|- style="background:#FFF"
+| [[File:SetSymbolFull Metal Wall.png|40px]]
+| フルメタルウォール
+| {{TCG|Full Metal Wall}}
+| 풀메탈월
+|- style="background:#FFF"
+| [[File:SetSymbolDouble Blaze.png|40px]]
+| ダブルブレイズ
+| {{TCG|Double Blaze}}
+| 더블블레이즈
+|- style="background:#FFF"
+| [[File:SetSymbolGG End.png|40px]]
+| ジージーエンド
+| {{TCG|GG End}}
+| GG엔드
+|- style="background:#FFF"
+| [[File:SetSymbolSky Legend.png|40px]]
+| スカイレジェンド
+| {{TCG|Sky Legend}}
+| 스카이레전드
+|- style="background:#FFF"
+| [[File:SetSymbolGreat Detective Pikachu.png|40px]]
+| 名探偵ピカチュウ
+| {{TCG|Great Detective Pikachu}}
+| 명탐정 피카츄
+|- style="background:#FFF"
+| [[File:SetSymbolMiracle Twin.png|40px]]
+| ミラクルツイン
+| {{TCG|Miracle Twin}}
+| 미라클트윈
+|- style="background:#FFF"
+| [[File:SetSymbolRemix Bout.png|40px]]
+| リミックスバウト
+| {{TCG|Remix Bout}}
+| 리믹스바우트
+|- style="background:#FFF"
+| [[File:SetSymbolDream League.png|40px]]
+| ドリームリーグ
+| {{TCG|Dream League}}
+| 드림리그
+|- style="background:#FFF"
+| [[File:SetSymbolAlter Genesis.png|40px]]
+| オルタージェネシス
+| {{TCG|Alter Genesis}}
+| 얼터제네시스
+|- style="background:#FFF"
+| [[File:SetSymbolTag All Stars.png|40px]]
+| TAG TEAM GX タッグオールスターズ
+| TAG TEAM GX {{TCG|Tag All Stars}}
+| TAG TEAM GX 태그올스타즈
+|}
+
+===Sword & Shield Era===
+{| style="margin:auto; text-align: center; background:#{{sword color}}; border:3px solid #{{shield color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | Japanese
+! style="background-color:#EEE; width:200px" | Translation
+! style="background-color:#EEE; width:200px" | Traditional Chinese
+! style="background-color:#EEE; width:200px" | Indonesian
+! style="background-color:#EEE; width:200px" | Thai
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Korean
+|- style="background:#FFF"
+| [[File:SetSymbolSword.png|40px]][[File:SetSymbolShield.png|40px]]
+| ソード<br>シールド
+| {{TCG|Sword/Shield|Sword<br>Shield}}
+| colspan=3 | —
+| 소드<br>실드
+|- style="background:#FFF"
+| [[File:SetSymbolVMAX Rising.png|40px]]
+| VMAXライジング
+| {{TCG|VMAX Rising}}
+| colspan=3 | —
+| VMAX라이징
+|- style="background:#FFF"
+| [[File:SetSymbolRebellion Crash.png|40px]]
+| 反逆クラッシュ
+| {{TCG|Rebellion Crash}}
+| colspan=3 | —
+| 반역크래시
+|- style="background:#FFF"
+| [[File:SetSymbolExplosive Walker.png|40px]]
+| 爆炎ウォーカー
+| {{TCG|Explosive Walker}}
+| colspan=3 | —
+| 폭염워커
+|- style="background:#FFF"
+| [[File:SetSymbolInfinity Zone.png|40px]]
+| ムゲンゾーン
+| {{TCG|Infinity Zone}}
+| colspan=3 | —
+| 무한존
+|- style="background:#FFF"
+| [[File:SetSymbolLegendary Heartbeat.png|40px]]
+| 伝説の鼓動
+| {{TCG|Legendary Heartbeat}}
+| colspan=3 | —
+| 전설의 고동
+|- style="background:#FFF"
+| [[File:SetSymbolAmazing Volt Tackle.png|40px]]
+| 仰天のボルテッカー
+| {{TCG|Amazing Volt Tackle}}
+| 驚天伏特攻擊
+| colspan=2 | —
+| 앙천의 볼트태클
+|- style="background:#FFF"
+| [[File:SetSymbolShiny Star V.png|40px]]
+| シャイニースターV
+| {{TCG|Shiny Star V}}
+| 閃色明星V
+| colspan=2 | —
+| 샤이니스타V
+|- style="background:#FFF"
+| [[File:SetSymbolSingle Strike Master.png|40px]][[File:SetSymbolRapid Strike Master.png|40px]]
+| 一撃マスター<br>連撃マスター
+| {{TCG|Single Strike Master/Rapid Strike Master|Single Strike Master<br>Rapid Strike Master}}
+| 一撃大師<br>連撃大師
+| Master Serangan Tunggal<br>Master Serangan Beruntun
+| มาสเตอร์จู่โจมครั้งเดียว<br>มาสเตอร์จู่โจมต่อเนื่อง
+| 일격마스터<br>연격마스터
+|- style="background:#FFF"
+| [[File:SetSymbolPeerless Fighters.png|40px]]
+| 双璧のファイター
+| {{TCG|Peerless Fighters}}
+| 雙璧戰士
+| Dua Pilar Petarung
+| สองยอดนักสู้
+| 쌍벽의 파이터
+|- style="background:#FFF"
+| [[File:SetSymbolSilver Lance.png|40px]][[File:SetSymbolJet-Black Spirit.png|40px]]
+| 白銀のランス<br>漆黒のガイスト
+| {{TCG|Silver Lance/Jet-Black Spirit|Silver Lance<br>Jet-Black Spirit}}
+| 銀白戰槍<br>漆黑幽魂
+| Ganjur Salju Perak<br>Astral Gelap Gulita
+| หอกหิมะขาว<br>ภูตทมิฬ
+| 백은의 랜스<br>칠흑의 가이스트
+|- style="background:#FFF"
+| [[File:SetSymbolEevee Heroes.png|40px]]
+| イーブイヒーローズ
+| {{TCG|Eevee Heroes|Eievui Heroes}}
+| 伊布英雄
+| Para Eevee Pahlawan
+| อีวุยฮีโร
+| 이브이 히어로즈
+|- style="background:#FFF"
+| [[File:SetSymbolSkyscraping Perfection.png|40px]][[File:SetSymbolBlue Sky Stream.png|40px]]
+| 摩天パーフェクト<br>蒼空ストリーム
+| {{TCG|Skyscraping Perfection/Blue Sky Stream|Skyscraping Perfection<br>Blue Sky Stream}}
+| 摩天巔峰<br>蒼空烈流
+| Pencakar Langit Sempurna<br>Arus Langit Biru
+| เพอร์เฟคระฟ้า<br>สายน้ำแห่งนภา
+| 마천퍼펙트<br>창공의스트림
+|- style="background:#FFF"
+| [[File:SetSymbolFusion Arts.png|40px]]
+| フュージョンアーツ
+| {{TCG|Fusion Arts}}
+| 匯流藝術
+| Teknik Fusion
+| ฟิวชันอาร์ต
+| 퓨전아츠
+|- style="background:#FFF"
+| [[File:SetSymbol25th Anniversary Collection.png|40px]]
+| 25th アニバーサリーコレクション
+| {{TCG|25th Anniversary Collection}}
+| colspan=4 | 25th Anniversary
+|- style="background:#FFF"
+| [[File:SetSymbolVMAX Climax.png|40px]]
+| VMAXクライマックス
+| {{TCG|VMAX Climax}}
+| VMAX絕群壓軸
+| VMAX Klimaks
+| VMAX ไคลแมกซ์
+| VMAX 클라이맥스
+|- style="background:#FFF"
+| [[File:SetSymbolStar Birth.png|40px]]
+| スターバース
+| {{TCG|Star Birth}}
+| 星星誕生
+| Star Birth
+| สตาร์เบิร์ท
+| 스타버스
+|- style="background:#FFF"
+| [[File:SetSymbolBattle Region.png|40px]]
+| バトルリージョン
+| {{TCG|Battle Region}}
+| 對戰地區
+| Pertarungan Daerah
+| พสุธามหายุทธ
+| 배틀리전
+|- style="background:#FFF"
+| [[File:SetSymbolTime Gazer.png|40px]][[File:SetSymbolSpace Juggler.png|40px]]
+| タイムゲイザー<br>スペースジャグラー
+| {{TCG|Time Gazer/Space Juggler|Time Gazer<br>Space Juggler}}
+| 時間觀察者<br>空間魔術師
+| Pengamat Waktu<br>Penyulap Ruang
+| เจ้าแห่งกาลเวลา<br>จอมมายาผ่ามิติ
+| 타임게이저<br>스페이스저글러
+|- style="background:#FFF"
+| [[File:SetSymbolDark Phantasma.png|40px]]
+| ダークファンタズマ
+| {{TCG|Dark Phantasma}}
+| 黑暗亡靈
+| Fantom Kegelapan
+| อันธการลวงตา
+| 다크판타스마
+|- style="background:#FFF"
+| [[File:SetSymbolS10b.png|40px]]
+| colspan=6 | {{TCG|Pokémon GO}}
+|- style="background:#FFF"
+| [[File:SetSymbolLost Abyss.png|40px]]
+| ロストアビス
+| {{TCG|Lost Abyss}}
+| 迷途深淵
+| Neraka Sirna
+| {{tt|ลอสต์เวิลด์|Lost World}}
+| 로스트어비스
+|- style="background:#FFF"
+| [[File:SetSymbolIncandescent Arcana.png|40px]]
+| 白熱のアルカナ
+| {{TCG|Incandescent Arcana}}
+| 白熱奧祕
+| Arkana Memuncak
+| อาร์คานาแห่งประกายแสง
+| 백열의 아르카나
+|- style="background:#FFF"
+| [[File:SetSymbolParadigm Trigger.png|40px]]
+| パラダイムトリガー
+| {{TCG|Paradigm Trigger}}
+| 思維激盪
+| Pemicu Paradigma
+| ปฐมบทแห่งยุคใหม่
+| 패러다임트리거
+|- style="background:#FFF"
+| [[File:SetSymbolVSTAR Universe.png|40px]]
+| VSTARユニバース
+| {{TCG|VSTAR Universe}}
+| 天地萬物VSTAR
+| VSTAR Semesta
+| จักรวาลแห่งVSTAR
+| VSTAR 유니버스
+|}
+
+===Scarlet & Violet Era===
+{| style="margin:auto; text-align: center; background:#{{scarlet color}}; border:3px solid #{{violet color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | Japanese
+! style="background-color:#EEE; width:200px" | Translation
+! style="background-color:#EEE; width:200px" | Traditional Chinese
+! style="background-color:#EEE; width:200px" | Indonesian
+! style="background-color:#EEE; width:200px" | Thai
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Korean
+|- style="background:#FFF"
+| [[File:SetSymbolScarlet ex.png|40px]][[File:SetSymbolViolet ex.png|40px]]
+| スカーレットex<br>バイオレットex
+| {{TCG|Scarlet & Violet|Scarlet ex<br>Violet ex}}
+| 朱ex<br>紫ex
+| Scarlet ex<br>Violet ex
+| สการ์เล็ต ex<br>ไวโอเล็ต ex
+| 스칼렛ex<br>바이올렛ex
+|- style="background:#FFF"
+| [[File:SetSymbolTriplet Beat.png|40px]]
+| トリプレットビート
+| {{TCG|Triplet Beat}}
+| 三連音爆
+| Hantaman Triplet
+| ทริปเปิลบีต
+| 트리플렛비트
+|- style="background:#FFF"
+| [[File:SetSymbolSnow Hazard.png|40px]][[File:SetSymbolClay Burst.png|40px]]
+| スノーハザード<br>クレイバースト
+| {{TCG|Snow Hazard/Clay Burst|Snow Hazard<br>Clay Burst}}
+| 冰雪險境<br>碟旋暴擊
+| Mara Bahaya Salju<br>Letusan Tanah
+| สโนว์ฮาซาร์ด<br>เคลย์เบิสต์
+| 스노해저드<br>클레이버스트
+|- style="background:#FFF"
+| [[File:SetSymbolPokémon Card 151.png|40px]]
+| ポケモンカード151
+| {{TCG|Pokémon Card 151}}
+| 寶可夢卡牌151
+| Kartu Pokémon 151
+| โปเกมอนการ์ด 151
+| 포켓몬 카드 151
+|- style="background:#FFF"
+| [[File:SetSymbolRuler of the Black Flame.png|40px]]
+| 黒炎の支配者
+| {{TCG|Ruler of the Black Flame}}
+| 黯焰支配者
+| —
+| ราชาแห่งเพลิงกาฬ
+| 흑염의 지배자
+|- style="background:#FFF"
+| [[File:SetSymbolRaging Surf.png|40px]]
+| レイジングサーフ
+| {{TCG|Raging Surf}}
+| 激狂駭浪
+| —
+| คลื่นพิโรธ
+| 레이징서프
+|- style="background:#FFF"
+| [[File:SetSymbolAncient Roar.png|40px]][[File:SetSymbolFuture Flash.png|40px]]
+| 古代の咆哮<br>未来の一閃
+| {{TCG|Ancient Roar/Future Flash|Ancient Roar<br>Future Flash}}
+| 古代咆哮<br>未來閃光
+| —
+| เสียงคำรามจากอดีต<br>ประกายแสงจากอนาคต
+| 고대의 포효<br>미래의 일섬
+|- style="background:#FFF"
+| [[File:SetSymbolShiny Treasure ex.png|40px]]
+| シャイニートレジャーex
+| {{TCG|Shiny Treasure ex}}
+| 閃色寶藏ex
+| Harta Berkilau ex
+| ไชนีเทรเชอร์ex
+| 샤이니트레저 ex
+|- style="background:#FFF"
+| [[File:SetSymbolWild Force.png|40px]][[File:SetSymbolCyber Judge.png|40px]]
+| ワイルドフォース<br>サイバージャッジ
+| {{TCG|Wild Force/Cyber Judge|Wild Force<br>Cyber Judge}}
+| 狂野之力<br>異度審判
+| —
+| อำนาจอนารยะ<br>ตุลาการไซเบอร์
+| 와일드포스<br>사이버저지
+|- style="background:#FFF"
+| [[File:SetSymbolCrimson Haze.png|40px]]
+| クリムゾンヘイズ
+| {{TCG|Crimson Haze}}
+| 緋紅薄霧
+| —
+| หมอกสีชาด
+| 크림슨헤이즈
+|- style="background:#FFF"
+| [[File:SetSymbolTransformation Mask.png|40px]]
+| 変幻の仮面
+| {{TCG|Transformation Mask}}
+| 變幻假面
+| —
+| หน้ากากจอมลวงตา
+| 변환의 가면
+|- style="background:#FFF"
+| [[File:SetSymbolNight Wanderer.png|40px]]
+| ナイトワンダラー
+| {{TCG|Night Wanderer}}
+| 黑夜漫遊者
+| — 
+| — 
+| 나이트원더러
+|- style="background:#FFF"
+| [[File:SetSymbolStellar Miracle.png|40px]]
+| ステラミラクル
+| {{TCG|Stellar Miracle}}
+| 星晶奇跡
+| — 
+| — 
+| 스텔라미라클
+|- style="background:#FFF"
+| [[File:SetSymbolParadise Dragona.png|40px]]
+| 楽園ドラゴーナ
+| {{TCG|Paradise Dragona}}
+| 樂園騰龍
+| —
+| —
+| 낙원드래고나
+|- style="background:#FFF"
+| [[File:SetSymbolSuper Electric Breaker.png|40px]]
+| 超電ブレイカー
+| {{TCG|Super Electric Breaker}}
+| 超電突圍
+| —
+| —
+| 초전브레이커
+|- style="background:#FFF"
+| [[File:SetSymbolTerastal Fest ex.png|40px]]
+| テラスタルフェスex
+| {{TCG|Terastal Fest ex}}
+| 太晶慶典ex
+| Festival Terastal ex 
+| เทศกาลเทรัสตัลex 
+| 테라스탈 페스타 ex
+|- style="background:#FFF"
+| [[File:SetSymbolBattle Partners.png|40px]]
+| バトルパートナーズ
+| {{TCG|Battle Partners}}
+| 對戰搭檔
+| —
+| —
+| 배틀파트너즈
+|- style="background:#FFF"
+| [[File:SetSymbolHot Wind Arena.png|40px]]
+| 熱風のアリーナ
+| {{TCG|Hot Wind Arena}}
+| 熱風競技場
+| —
+| —
+| 열풍의 아레나
+|- style="background:#FFF"
+| [[File:SetSymbolGlory of the Rocket Gang.png|40px]]
+| ロケット団の栄光
+| {{TCG|Glory of the Rocket Gang}}
+| 火箭隊的榮耀
+| —
+| —
+| 로켓단의 영광
+|- style="background:#FFF"
+| [[File:SetSymbolBlackBolt.png|40px]][[File:SetSymbolWhiteFlare.png|40px]]
+| ブラックボルト<br>ホワイトフレア
+| {{TCG|Black Bolt/White Flare|Black Bolt<br>White Flare}}
+| 漆黑伏特<br>純白閃焰
+| —
+| —
+| 블랙볼트<br>화이트플레어
+|}
+
+===MEGA Series===
+{| style="margin:auto; text-align: center; background:#363636; border:3px solid #f4d72d; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | Japanese
+! style="background-color:#EEE; width:200px" | Translation
+! style="background-color:#EEE; width:200px" | Traditional Chinese
+! style="background-color:#EEE; width:200px" | Indonesian
+! style="background-color:#EEE; width:200px" | Thai
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Korean
+|- style="background:#FFF"
+| [[File:SetSymbolMega Brave.png|40px]][[File:SetSymbolMega Symphonia.png|40px]]
+| メガブレイブ<br>メガシンフォニア
+| {{TCG|Mega Brave/Mega Symphonia|Mega Brave<br>Mega Symphonia}}
+| 超級勇氣<br>超級交響樂
+| —
+| —
+| 메가브레이브<br>메가심포니아
+|- style="background:#FFF"
+| [[File:SetSymbolInferno X.png|40px]]
+| インフェルノX
+| {{TCG|Inferno X}}
+| 烈獄狂火X
+| —
+| —
+| 인페르노X
+|- style="background:#FFF"
+| [[File:SetSymbolMEGA Dream ex.png|40px]]
+| MEGAドリームex
+| {{TCG|MEGA Dream ex}}
+| 超級進化夢想ex
+| Evolusi Mega Impian ex
+| วิวัฒนาการเมก้า ดรีมex
+| MEGA 드림 ex
+|- style="background:#FFF"
+| [[File:SetSymbolNihil Zero.png|40px]]
+| ムニキスゼロ
+| {{TCG|Nihil Zero}}
+| 虛無歸零
+| —
+| —
+| 니힐제로
+|- style="background:#FFF"
+| [[File:SetSymbolNinja Spinner.png|40px]]
+| ニンジャスピナー
+| {{TCG|Ninja Spinner}}
+| 忍者飛旋
+| —
+| —
+| 닌자스피너
+|- style="background:#FFF"
+| [[File:SetSymbolAbyss Eye.png|40px]]
+| アビスアイ
+| {{TCG|Abyss Eye}}
+| 深淵之瞳
+| —
+| —
+| 어비스아이
+|- style="background:#FFF"
+| [[File:SetSymbolStorm Emeralda.png|40px]]
+| ストームエメラルダ
+| {{TCG|Storm Emeralda}}
+| 綠寶石風暴
+| —
+| —
+| 스톰에메랄다
+|- style="background:#FFF"
+| [[File:SetSymbol30th Celebration M6a.png|40px]]
+| 30th CELEBRATION
+| {{TCG|30th Celebration}}
+| 30th CELEBRATION<br>30周年庆典 <small>''(Simplified)''</small>
+| 30th CELEBRATION
+| 30th CELEBRATION
+| 30th CELEBRATION
+|}
+<!--
+==Korean Catch-up sets==
+===Diamond & Pearl Era===
+-->
+
+==Thai, Indonesian & Traditional Chinese Catch-up sets==
+===Sun & Moon Era===
+{| style="margin:auto; text-align: center; background:#{{Moon color}}; border:3px solid #{{Sun color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | Translation
+! style="background-color:#EEE; width:200px" | Traditional Chinese
+! style="background-color:#EEE; width:200px" | Indonesian
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Thai
+|- style="background:#FFF"
+| [[File:SetSymbolFirst Impact Set A.png|40px]]<br>[[File:SetSymbolFirst Impact Set B.png|40px]]
+| {{ATCG|First Impact}}
+| —
+| Hantaman Pertama <!--First Strike-->
+| เฟิร์สอิมแพค <!--First Impact-->
+|- style="background:#FFF"
+| [[File:SetSymbolLegends Awakened Set A.png|40px]]<br>[[File:SetSymbolLegends Awakened Set B.png|40px]]
+| {{ATCG|Legends Awakened}}
+| —
+| Kebangkitan Legenda <!--Legend's Awakening-->
+| ปลุกตำนาน <!--Awaken the Legend-->
+|- style="background:#FFF"
+| [[File:SetSymbolAll Stars Collection Set A.png|40px]]<br>[[File:SetSymbolAll Stars Collection Set B.png|40px]]
+| {{ATCG|All Stars Collection}}
+| 眾星雲集組合篇 <!-- All Stars Collection-->
+| colspan=2 | —
+|- style="background:#FFF"
+| [[File:SetSymbolHidden Shadow Set A.png|40px]]<br>[[File:SetSymbolHidden Shadow Set B.png|40px]]
+| {{ATCG|Hidden Shadow}}
+| —
+| Bayangan Tersembunyi <!--Hidden Shadows-->
+| เงาอำพราง <!-- Shadow Camouflage-->
+|- style="background:#FFF"
+| [[File:SetSymbolSky Ruler Set A.png|40px]]<br>[[File:SetSymbolSky Ruler Set B.png|40px]]
+| {{ATCG|Sky Ruler}}
+| —
+| Penguasa Langit <!--Lord of the Sky-->
+| เทพเวหา <!--Sky Ruler-->
+|- style="background:#FFF"
+| [[File:SetSymbolDreams Come True Collection Set A.png|40px]]<br>[[File:SetSymbolDreams Come True Collection Set B.png|40px]]
+| {{ATCG|Dreams Come True Collection}}
+| 美夢成真組合篇 <!-- Dreams Come True Collection-->
+| colspan=2 | —
+|- style="background:#FFF"
+| [[File:SetSymbolDouble Burst Set A.png|40px]]<br>[[File:SetSymbolDouble Burst Set B.png|40px]]
+| {{ATCG|Double Burst}}
+| 雙倍爆擊 <!--Double Critical Strike-->
+| —
+| ดับเบิ้ลเบิร์ส <!--Double Burst-->
+|- style="background:#FFF"
+| [[File:SetSymbolLegendary Clash Set A.png|40px]]<br>[[File:SetSymbolLegendary Clash Set B.png|40px]]
+| {{ATCG|Legendary Clash}}
+| 傳說交鋒 <!--Clash of Legends-->
+| —
+| ศึกตำนาน <!--Legendary Battle-->
+|- style="background:#FFF"
+| [[File:SetSymbolTag Team Collection Set A.png|40px]]<br>[[File:SetSymbolTag Team Collection Set B.png|40px]]
+| {{ATCG|Tag Team Collection|TAG TEAM Collection}}
+| —
+| Koleksi TAG TEAM <!--TAG TEAM Collection-->
+| —
+|}
+
+===Sword & Shield Era===
+{| style="margin:auto; text-align: center; background:#{{Sword color}}; border:3px solid #{{Shield color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | Translation
+! style="background-color:#EEE; width:200px" | Traditional Chinese
+! style="background-color:#EEE; width:200px" | Indonesian
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Thai
+|- style="background:#FFF"
+| [[File:SetSymbolSword Shield Set A.png|40px]]<br>[[File:SetSymbolSword Shield Set B.png|40px]]
+| {{ATCG|Sword & Shield}}
+| 劍&盾 <!--Sword & Shield-->
+| Pedang & Perisai  <!--Sword & Shield-->
+| ซอร์ด&ชีลด์ <!--Sword & Shield-->
+|- style="background:#FFF"
+| [[File:SetSymbolInfinite Power Set A.png|40px]]<br>[[File:SetSymbolInfinite Power Set B.png|40px]]
+| {{ATCG|Infinite Power}}
+| 無極力量 <!--Infinite Power-->
+| colspan=2 | —
+|- style="background:#FFF"
+| [[File:SetSymbolShiny VMAX Collection Set A.png|40px]]<br>[[File:SetSymbolShiny VMAX Collection Set B.png|40px]]
+| {{ATCG|Shiny VMAX Collection}}
+| —
+| Koleksi VMAX Berkilau <!--Shiny VMAX Collection-->
+| ไชนี VMAX คอลเลกชัน <!--Shiny VMAX Collection-->
+|}
+
+==Indonesian & Thai sets==
+===Scarlet & Violet Era===
+{| style="margin:auto; text-align: center; background:#{{Scarlet color}}; border:3px solid #{{Violet color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | Translation
+! style="background-color:#EEE; width:200px" | Indonesian
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Thai
+|- style="background:#FFF"
+| [[File:SetSymbolBlack Shine.png|40px]]
+| {{ATCG|Black Shine}}
+| Kilau Hitam <!--Black Shine-->
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolParadox Encounters.png|40px]]
+| {{ATCG|Paradox Encounters}}
+| Pertemuan Paradoks <!--Paradox Encounters-->
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolAce Paradox.png|40px]]
+| {{ATCG|Ace Paradox}}
+| Paradoks Andalan <!--Ace Paradox-->
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolTransfiguration Mask.png|40px]]
+| {{ATCG|Transfiguration Mask}}
+| Topeng Transfigurasi <!--Transfiguration Mask-->
+| —
+|- style="background:#FFF"
+| [[File:SetSymbolStellar Guidance Indonesian.png|40x40px]]
+| {{ATCG|Stellar Guidance}}
+| Bimbingan Rasi <!--Constellation Guidance-->
+| แสงนำทางแห่งสเตลลาร์ <!--Stellar Guiding Light-->
+|- style="background:#FFF"
+| [[File:SetSymbolStellar Lightning Indonesian.png|40x40px]]
+| {{ATCG|Stellar Lightning}}
+| Kilat Rasi <!--Constellation Lightning-->
+| สเตลลาร์สายฟ้าฟาด <!--Stellar Lightning Strike-->
+|- style="background:#FFF"
+| [[File:SetSymbolBonds of Destiny Indonesian.png|40x40px]]
+| {{ATCG|Bonds of Destiny}}
+| Ikatan Takdir <!--Bonds of Destiny-->
+| สายใยแห่งโชคชะตา <!--Thread of Destiny-->
+|- style="background:#FFF"
+| [[File:SetSymbolPresence of Champions Indonesian.png|40x40px]]
+| {{ATCG|Presence of Champions}}
+| Kehadiran Juara <!--Presence of Champions-->
+| การผงาดของผู้ไร้พ่าย <!--Rise of the Undefeated-->
+|- style="background:#FFF"
+| [[File:SetSymbolBlack White Indonesian.png|40x40px]]
+| {{ATCG|Black & White}}
+| Hitam & Putih <!--Black & White-->
+| แบล็ก & ไวท์ <!--Black & White-->
+|}
+
+===MEGA Series===
+{| style="margin:auto; text-align: center; background:#363636; border:3px solid #f4d72d; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | Translation
+! style="background-color:#EEE; width:200px" | Indonesian
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Thai
+|- style="background:#FFF"
+| [[File:SetSymbolMega Evolution Indonesian.png|40x40px]]
+| {{ATCG|Mega Evolution}}
+| Evolusi Mega <!--Mega Evolution-->
+| วิวัฒนาการเมก้า <!--Mega Evolution-->
+|- style="background:#FFF"
+| [[File:SetSymbolBlue Blaze Indonesian.png|40x40px]]
+| {{ATCG|Blue Blaze}}
+| Kobaran Biru <!--Blue Blaze-->
+| อัคคีสีคราม <!--Indigo Fire-->
+|- style="background:#FFF"
+| [[File:SetSymbolVoid Blast.png|40x40px]]
+| {{ATCG|Void Blast}}
+| Ledakan Peniada<!--Void Blast-->
+| วอยด์บลาสต์ <!--Void Blast-->
+|- style="background:#FFF"
+| [[File:SetSymbolShadowy Threats.png|40x40px]]
+| {{ATCG|Shadowy Threats}}
+| Ancaman Bayangan<!--Shadowy Threats-->
+| เงามืดคุกคาม <!--Shadowy Threats-->
+|}
+
+==Simplified Chinese Catch-up sets==
+===Sun & Moon Era===
+{| style="margin:auto; text-align: center; background:#{{Moon color}}; border:3px solid #{{Sun color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | Translation
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Simplified Chinese
+|- style="background:#FFF"
+| [[File:SetSymbolCSM1a.png|40px]]<br>[[File:SetSymbolCSM1b.png|40px]]<br>[[File:SetSymbolCSM1c.png|40px]]
+| {{ATCG|Storming Emergence|Storming Emergence: Radiant}}<br>{{ATCG|Storming Emergence|Storming Emergence: Verdant}}<br>{{ATCG|Storming Emergence|Storming Emergence: Abundant}}
+| 横空出世 赫<br>横空出世 苍<br>横空出世 泽
+|- style="background:#FFF"
+| [[File:SetSymbolCSM15.png|40px]]
+| {{ATCG|Battle Elite}}
+| 对战精英
+|- style="background:#FFF"
+| [[File:SetSymbolCSM2a.png|40px]]<br>[[File:SetSymbolCSM2b.png|40px]]<br>[[File:SetSymbolCSM2c.png|40px]]
+| {{ATCG|Shining Synergy|Shining Synergy: Shower}}<br>{{ATCG|Shining Synergy|Shining Synergy: Supreme}}<br>{{ATCG|Shining Synergy|Shining Synergy: Summon}}
+| 交相辉映 沐<br>交相辉映 魁<br>交相辉映 唤
+|- style="background:#FFF"
+| [[File:SetSymbolCSM25.png|40px]]
+| {{ATCG|Striking Competition}}
+| 炫奇争胜
+|}
+===Sword & Shield Era===
+{| style="margin:auto; text-align: center; background:#{{Shield color}}; border:3px solid #{{Sword color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:240px" | Translation
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Simplified Chinese
+|- style="background:#FFF"
+| [[File:SetSymbolCS1a.png|40px]]<br>[[File:SetSymbolCS1b.png|40px]]
+| {{ATCG|Dynamax Clash|Dynamax Clash: Thunder}}<br>{{ATCG|Dynamax Clash|Dynamax Clash: Flame}}
+| 极巨争锋 雷<br>极巨争锋 焰
+|- style="background:#FFF"
+| [[File:SetSymbolCS15.png|40px]]
+| {{ATCG|Dynamax Tactics}}
+| 极巨攻防
+|- style="background:#FFF"
+| [[File:SetSymbolCS2a.png|40px]]<br>[[File:SetSymbolCS2b.png|40px]]
+| {{ATCG|Vivid Portrayals|Vivid Portrayals: Obsidian}}<br>{{ATCG|Vivid Portrayals|Vivid Portrayals: Indigo}}
+| 浓墨重彩 黎<br>浓墨重彩 靛
+|- style="background:#FFF"
+| [[File:SetSymbolCS25.png|40px]]
+| {{ATCG|Brilliant Counterattack}}
+| 璀璨反击
+|- style="background:#FFF"
+| [[File:SetSymbolCS3a.png|40px]]<br>[[File:SetSymbolCS3b.png|40px]]
+| {{ATCG|Primordial Arts|Primordial Arts: Overgrow}}<br>{{ATCG|Primordial Arts|Primordial Arts: Torrent}}
+| 洪荒演武 茂<br>洪荒演武 激
+|- style="background:#FFF"
+| [[File:SetSymbolCS35.png|40px]]
+| {{ATCG|Scorching Skies}}
+| 怒炎灼天
+|- style="background:#FFF"
+| [[File:SetSymbolCS4a.png|40px]]<br>[[File:SetSymbolCS4b.png|40px]]
+| {{ATCG|Polychromatic Gathering|Polychromatic Gathering: Friends}}<br>{{ATCG|Polychromatic Gathering|Polychromatic Gathering: Origin}}
+| 九彩汇聚 朋<br>九彩汇聚 源
+|- style="background:#FFF"
+| [[File:SetSymbolCS45.png|40px]]
+| {{ATCG|Flame Dance of the End}}
+| 终末炎舞
+|- style="background:#FFF"
+| [[File:SetSymbolCS5a.png|40px]]<br>[[File:SetSymbolCS5b.png|40px]]
+| {{ATCG|Gallant Galaxy|Gallant Galaxy: Charm}}<br>{{ATCG|Gallant Galaxy|Gallant Galaxy: Brave}}
+| 勇魅群星 魅<br>勇魅群星 勇
+|- style="background:#FFF"
+| [[File:SetSymbolCS55.png|40px]]
+| {{ATCG|Overshadowed Radiance}}
+| 暗影夺辉
+|- style="background:#FFF"
+| [[File:SetSymbolCS6a.png|40px]]<br>[[File:SetSymbolCS6b.png|40px]]
+| {{ATCG|Marine Shadow|Marine Shadow: Roar}}<br>{{ATCG|Marine Shadow|Marine Shadow: Banish}}
+| 碧海暗影 啸<br>碧海暗影 逐
+|- style="background:#FFF"
+| [[File:SetSymbolCS65.png|40px]]
+| {{ATCG|Victory Lodestar}}
+| 胜象星引
+|}
+
+===Scarlet & Violet Era===
+{| style="margin:auto; text-align: center; background:#{{Violet color}}; border:3px solid #{{Scarlet color}}; {{roundy|10px}}"
+|-
+! style="background-color:#EEE; width:50px; {{roundytl|5px}}" | Symbol
+! style="background-color:#EEE; width:200px" | Translation
+! style="background-color:#EEE; width:200px; {{roundytr|5px}}" | Simplified Chinese
+|- style="background:#FFF"
+| [[File:SetSymbolCBB1.png|40px]]
+| {{ATCG|Gem Pack Vol. 1}}
+| 宝石包第一弹
+|- style="background:#FFF"
+| [[File:SetSymbolCSV1.png|40px]]
+| {{ATCG|Ancient Times, Future Progress}}
+| 亘古开来
+|- style="background:#FFF"
+| [[File:SetSymbolCollection_151.png|40px]]
+| {{ATCG|Collection 151|Collection 151 Journey}}
+| 收集啦151 旅
+|- style="background:#FFF"
+| [[File:SetSymbolCSV2.png|40px]]
+| {{ATCG|Miracle Journey}}
+| 奇迹启程
+|- style="background:#FFF"
+| [[File:SetSymbolCollection_151.png|40px]]
+| {{ATCG|Collection 151|Collection 151 Hope}}
+| 收集啦151 望
+|- style="background:#FFF"
+| [[File:SetSymbolCSV3.png|40px]]
+| {{ATCG|Fearless Terastal}}
+| 无畏太晶
+|- style="background:#FFF"
+| [[File:SetSymbolCBB2.png|40px]]
+| {{ATCG|Gem Pack Vol. 2}}
+| 宝石包VOL.2
+|- style="background:#FFF"
+| [[File:SetSymbolCSVL1.png|40px]]
+| {{ATCG|Journey Theme Pack}}
+| 启程专题包
+|- style="background:#FFF"
+| [[File:SetSymbolCSV4.png|40px]]
+| {{ATCG|Bonus Round}}
+| 嘉奖回合
+|- style="background:#FFF"
+| [[File:SetSymbolCollection_151.png|40px]]
+| {{ATCG|Collection 151|Collection 151 Scare}}
+| 收集啦151 惊
+|- style="background:#FFF"
+| [[File:SetSymbolCSV5.png|40px]]
+| {{ATCG|Ardent Obsidian}}
+| 黑晶炽诚
+|- style="background:#FFF"
+| [[File:SetSymbolCBB3.png|40px]]
+| {{ATCG|Gem Pack Vol. 3}}
+| 宝石包VOL.3
+|- style="background:#FFF"
+| [[File:SetSymbolCollection_151.png|40px]]
+| {{ATCG|Collection 151|Collection 151 Gather}}
+| 收集啦151 聚
+|- style="background:#FFF"
+| [[File:SetSymbolCSV6.png|40px]]
+| {{ATCG|Arcane Truth}}
+| 真实玄虚
+|- style="background:#FFF"
+| [[File:SetSymbolCSVL2.png|40px]]
+| {{ATCG|Travel Theme Pack}}
+| 游历专题包
+|- style="background:#FFF"
+| [[File:SetSymbolCSV7.png|40px]]
+| {{ATCG|Blade Awakening}}
+| 利刃猛醒
+|- style="background:#FFF"
+| [[File:SetSymbolCBB4.png|40px]]
+| {{ATCG|Gem Pack Vol. 4}}
+| 宝石包VOL.4
+|- style="background:#FFF"
+| [[File:SetSymbolCSV8.png|40px]]
+| {{ATCG|Sparkling Fable}}
+| 璀璨诡幻
+|- style="background:#FFF"
+| [[File:SetSymbolCBB5.png|40px]]
+| {{ATCG|Gem Pack Vol. 5}}
+| 宝石包VOL.5
+|- style="background:#FFF"
+| [[File:SetSymbolCSV9.png|40px]]
+| {{ATCG|Stellar Crystal}}
+| 星彩晶璃
+|- style="background:#FFF"
+| [[File:SetSymbolCSVN.png|40px]]
+| {{ATCG|Kitakami Theme Pack}}
+| 北上乡专题包
+|- style="background:#FFF"
+| [[File:SetSymbolCSV9.5.png|40px]]
+| {{ATCG|Terastal Gathering}}
+| 太晶盛聚
+|- style="background:#FFF"
+| [[File:SetSymbolCSV10.png|40px]]
+| {{ATCG|Together in Pursuit of Glory}}
+| 共逐荣光
+|- style="background:#FFF"
+| [[File:SetSymbolCBB6.png|40px]]
+| {{ATCG|Gem Pack Vol. 6}}
+| 宝石包VOL.6
+|- style="background:#FFF"
+| [[File:SetSymbolCBB7.png|40px]]
+| {{ATCG|Gem Pack Vol. 7}}
+| 宝石包VOL.7
+|}
+
+{{-}}
+{{Project TCG notice}}
+
+{{TCG Releases}}
+
+[[Category:Pokémon Trading Card Game expansions|*]]
+[[Category:Pokémon Trading Card Game releases|*]]
+[[Category:TCG lists]]

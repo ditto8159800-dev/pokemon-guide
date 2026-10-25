@@ -1,0 +1,48 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>卡盒系列總覽｜寶可夢卡牌學習站</title><link rel="stylesheet" href="assets/style.css">
+<script src="data/sets.js"></script><script src="assets/common.js"></script></head>
+<body><div class="layout"><main>
+<h1>📦 寶可夢卡牌卡盒系列總覽</h1>
+<p class="muted">從 1996 年日版第一彈《拡張パック》到 2026 年，收錄美版、日版、繁中版、簡中版的擴充包與系列商品。點卡片可看詳細介紹。</p>
+<div class="stats" id="stats"></div>
+<div class="filters">
+  <input type="search" id="q" placeholder="搜尋卡盒名稱（中／日／英皆可）">
+  <select id="era"><option value="">全部時期</option></select>
+  <span id="langs"></span>
+  <label class="small"><input type="checkbox" id="onlyFull"> 只看有完整介紹</label>
+  <label class="small"><input type="checkbox" id="hideOther" checked> 隱藏促銷／牌組</label>
+</div>
+<div id="out"></div>
+</main></div>
+<script>
+const st=STATS;
+document.getElementById('stats').innerHTML=[
+ ['全部卡盒',st.total],['美版',st.counts.en],['日版',st.counts.ja],['繁中版',st.counts['zh-tw']],['簡中版',st.counts['zh-cn']],['2018–2026 完整介紹',st.v1Full+' / '+st.v1Sets]
+].map(([a,b])=>`<div class="stat"><b>${b}</b><span class="small muted">${a}</span></div>`).join('');
+const eraSel=document.getElementById('era');ERAS.forEach(([k,v])=>eraSel.insertAdjacentHTML('beforeend',`<option value="${k}">${v}</option>`));
+const langOn=new Set(['en','ja','zh-tw','zh-cn']);
+document.getElementById('langs').innerHTML=Object.entries(LANG_ZH).map(([k,v])=>`<button class="chip on" data-l="${k}">${v}</button>`).join(' ');
+document.querySelectorAll('[data-l]').forEach(b=>b.onclick=()=>{const l=b.dataset.l;langOn.has(l)?langOn.delete(l):langOn.add(l);b.classList.toggle('on');render();});
+['q','era','onlyFull','hideOther'].forEach(id=>document.getElementById(id).addEventListener('input',render));
+const p=new URLSearchParams(location.search);if(p.get('era'))eraSel.value=p.get('era');
+function card(s){
+  const names=Object.entries(s.names).filter(([l])=>l!==s.lang).map(([l,n])=>`${LANG_ZH[l]}：${esc(n)}`).join('<br>');
+  const img=s.logo||s.symbol;
+  return `<a class="set" href="set.html?k=${encodeURIComponent(s.key)}">
+   <div class="img">${img?imgTag(img,s.name):`<div class="ph">${esc(s.name)}<br>（暫無圖片）</div>`}</div>
+   <div class="badges"><span class="b ${s.lang}">${LANG_ZH[s.lang]}</span>${s.status==='full'?'<span class="b full">完整介紹</span>':(s.v1?'<span class="b todo">資料待確認</span>':'<span class="b todo">待補充</span>')}${s.upcoming?'<span class="b up">即將發售</span>':''}</div>
+   <div class="nm">${esc(s.name)}</div>
+   <div class="alt">${s.date?esc(s.date):'日期待確認'}${s.official?` · ${s.official} 張`:''}</div>
+   ${names?`<div class="alt">${names}</div>`:''}
+   <div class="badges">${s.editions.filter(l=>l!==s.lang).map(l=>`<span class="b ${l}">有${LANG_ZH[l]}</span>`).join('')}</div></a>`;
+}
+function render(){
+  const q=document.getElementById('q').value.trim().toLowerCase(),era=eraSel.value,onlyFull=document.getElementById('onlyFull').checked,hide=document.getElementById('hideOther').checked;
+  const list=SETS.filter(s=>langOn.has(s.lang)&&(!era||s.era===era)&&(!onlyFull||s.status==='full')&&(!hide||s.era!=='other'||era==='other')&&(!q||JSON.stringify([s.name,s.names,s.translated||'',s.id]).toLowerCase().includes(q)));
+  let html=`<p class="small muted">符合條件：${list.length} 個</p>`;
+  for(const [k,v] of ERAS){const g=list.filter(s=>s.era===k);if(!g.length)continue;
+    html+=`<div class="era-h"><h2>${v}</h2><span class="muted small">${g.length} 個</span></div><div class="grid">${g.map(card).join('')}</div>`;}
+  document.getElementById('out').innerHTML=html;
+}
+render();
+</script></body></html>

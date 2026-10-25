@@ -1,0 +1,17 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>稀有度教學｜寶可夢卡牌學習站</title><link rel="stylesheet" href="assets/style.css">
+<script src="data/sets.js"></script><script src="data/content.js"></script><script src="assets/common.js"></script></head>
+<body><div class="layout"><main>
+<h1>✨ 寶可夢卡牌稀有度教學</h1>
+<p class="muted">卡片右下角（或左下角）的英文字母／符號就是稀有度。日版用字母（C、U、R、RR、AR、SAR…），美版用符號和英文名稱。下面用最簡單的方式說明，並附上一張範例卡。</p>
+<div class="panel"><b>一句話記住：</b>C &lt; U &lt; R &lt; RR &lt; AR／SR &lt; SAR &lt; UR（金卡）；MEGA 系列最高是 MUR。直播開箱時，「SAR」「UR」「MUR」通常就是大獎。<br><span class="small muted">註：不同世代的定義略有差異（例如劍盾時代日版的 HR 是彩虹卡、UR 是金卡），以下以朱紫／MEGA 世代為主。</span></div>
+<div id="list"></div>
+<h2>日版 ↔ 美版 對照表</h2><div class="panel" style="overflow:auto"><table class="kv" id="tbl"></table></div>
+</main></div>
+<script>
+document.getElementById('list').innerHTML=RARITY.map(r=>`<div class="panel rar">
+ <div>${r.exampleCard?`<img loading="lazy" src="${esc(r.exampleCard.img)}" alt="${esc(r.exampleCard.name)}"><div class="small muted">範例：${esc(r.exampleCard.name)}<br>${esc(r.exampleCard.set)} ${esc(r.exampleCard.num)}</div>`:'<div class="noimg">暫無範例圖</div>'}</div>
+ <div><h3><span class="code">${esc(r.code)}</span>${esc(r.zh)}</h3>
+ <div class="small muted">日文：${esc(r.ja)} ｜ 美版：${esc(r.en)} ｜ 標示：${esc(r.sym)}</div><p>${esc(r.desc)}</p></div></div>`).join('');
+document.getElementById('tbl').innerHTML='<tr><td><b>日版代號</b></td><td><b>美版名稱</b></td><td><b>中文</b></td></tr>'+RARITY.map(r=>`<tr><td>${esc(r.code)}</td><td>${esc(r.en)}</td><td>${esc(r.zh)}</td></tr>`).join('');
+</script></body></html>
