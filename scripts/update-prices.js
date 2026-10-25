@@ -80,11 +80,25 @@ async function tcgplayerViaTcgdex(card){
 }
 
 // ---- per-card helpers (Japanese cards) ----
+const SNK_THUMB={};
 async function snkUsedLowest(id,conditionID){ // conditionID: 22 = PSA 10, 18 = A (near mint, ungraded)
   const r=await get(`https://snkrdunk.com/en/v1/products/SW---${id}/used-listings?perPage=20&page=1&conditionID=${conditionID}&isOnlyOnSale=true&sortType=price_asc`,{host:'snkrdunk'});
   if(r.status!==200) return null;
+  if(r.body.product?.thumbnailUrl) SNK_THUMB[id]=r.body.product.thumbnailUrl.replace(/\?size=s$/,'?size=m');
   const xs=(r.body.usedListings||[]).filter(x=>!x.isSold&&x.currency==='USD'&&x.priceAmount>0).map(x=>x.priceAmount);
   return xs.length?Math.min(...xs):null;
+}
+async function snkLastSold(id,conditionID){ // most recent sold listing (used only when nobody is selling that grade)
+  const r=await get(`https://snkrdunk.com/en/v1/products/SW---${id}/used-listings?perPage=20&page=1&conditionID=${conditionID}&isOnlyOnSale=false&sortType=latest`,{host:'snkrdunk'});
+  if(r.status!==200) return null;const x=(r.body.usedListings||[]).find(x=>x.isSold&&x.currency==='USD'&&x.priceAmount>0);return x?x.priceAmount:null;
+}
+async function tcgplayerVerify(id,n,mb){
+  const d=await get(`https://mp-search-api.tcgplayer.com/v2/product/${id}/details`,{host:'tcgplayer',ms:800});
+  if(d.status!==200||d.body.productLineUrlName!=='Pokemon Japan') return null;
+  const num=String(d.body.customAttributes?.number||'');if(/^\d/.test(num)&&num.split('/')[0].replace(/^0+(?=\d)/,'')!==String(n).replace(/^0+(?=\d)/,'')) return null;
+  const nm=d.body.productName||'';if(mb!==/Master Ball/i.test(nm)) return null;
+  const pg=await get(`https://www.tcgplayer.com/product/${id}`,{host:'tcgplayer-web',json:false,ms:800});if(pg.status!==200) return null;
+  return {productId:id,url:`https://www.tcgplayer.com/product/${id}`,marketPrice:d.body.marketPrice??null,name:nm};
 }
 async function tcgSearch(q,from=0,type=null){
   await polite('tcgplayer',800);
@@ -92,21 +106,33 @@ async function tcgSearch(q,from=0,type=null){
     body:JSON.stringify({algorithm:'sales_synonym_v2',from,size:24,filters:{term:{productLineName:['pokemon-japan'],...(type?{productTypeName:[type]}:{})},range:{},match:{}},listingSearch:{context:{cart:{}},filters:{term:{sellerStatus:'Live',channelId:0},range:{quantity:{gte:1}},exclude:{channelExclusion:0}}},context:{cart:{},shippingCountry:'US',userProfile:{}},settings:{useFuzzySearch:false,didYouMean:{}},sort:{}})});
     if(!r.ok) return [];const d=await r.json();return d.results?.[0]?.results||[];}catch(e){return [];}
 }
-async function tcgplayerJapan(set,card,enName){
+async function tcgplayerJapan(set,card,enName,mb=false){
   const code=set.id.toLowerCase();const n=String(card.localId).replace(/^0+/,'');
-  const ok=x=>String(x.setName||'').toLowerCase().startsWith(code+':')&&String(x.customAttributes?.number||'').split('/')[0].replace(/^0+/,'')===n;
+  const ok=x=>String(x.setName||'').toLowerCase().startsWith(code+':')&&String(x.customAttributes?.number||'').split('/')[0].replace(/^0+/,'')===n&&(mb?/Master Ball/i.test(x.productName||''):!/Pattern|Master Ball/i.test(x.productName||''));
   let hit=null;
-  for(const q of [enName&&`${enName} ${card.num}`,`${set.id} ${card.num}`,enName&&`${enName} ${set.id}`].filter(Boolean)){
+  for(const q of [mb&&enName&&`${enName} Master Ball Pattern ${set.translated||set.id}`,enName&&`${enName} ${card.num}`,`${set.id} ${card.num}`,enName&&`${enName} ${set.id}`].filter(Boolean)){
     hit=(await tcgSearch(q)).find(ok);if(hit) break;}
   if(!hit) return null;
   const id=Math.round(hit.productId);
   // verify: product detail must exist, be the Japanese product line, and carry the same number; product page must resolve
   const d=await get(`https://mp-search-api.tcgplayer.com/v2/product/${id}/details`,{host:'tcgplayer',ms:800});
-  if(d.status!==200||d.body.productLineUrlName!=='Pokemon Japan'||String(d.body.customAttributes?.number||'').split('/')[0].replace(/^0+/,'')!==n) return null;
+  if(d.status!==200||d.body.productLineUrlName!=='Pokemon Japan'||String(d.body.customAttributes?.number||'').split('/')[0].replace(/^0+/,'')!==n||mb!==/Master Ball/i.test(d.body.productName||'')) return null;
   const pg=await get(`https://www.tcgplayer.com/product/${id}`,{host:'tcgplayer-web',json:false,ms:800});
   if(pg.status!==200) return null;
   return {productId:id,url:`https://www.tcgplayer.com/product/${id}`,marketPrice:d.body.marketPrice??hit.marketPrice??null,name:d.body.productName||hit.productName};
 }
+
+// Sanity check against Pokeca-Now (median of actual Japanese flea-market sales): a single SNKRDUNK ask or a thin TCGplayer market
+// price that is far from the sales median (outside 0.4x-2.5x at ~150 JPY/USD, used only for this check) is replaced by the median.
+function reconcile(sets){let n=0;
+  for(const s of sets){const f=path.join(ROOT,'data/community',`pokecanow-${s.id}.json`);if(!fs.existsSync(f))continue;const PC=JSON.parse(fs.readFileSync(f,'utf8'));
+    for(const c of s.chase||[]){const p=prices[c.key];if(!p)continue;const mb=c.variant==='master';if(mb)continue;
+      const pcc=PC.cards.find(x=>(/^\d/.test(String(c.localId))?String(x.num).split('/')[0].replace(/^0+(?=\d)/,'')===String(c.localId).replace(/^0+(?=\d)/,''):String(x.num)===String(c.localId))&&(!c.rarity||!x.rarity||x.rarity===c.rarity||c.rarity==='待確認'));
+      if(!pcc)continue;const off=(usd,jpy)=>{const r=usd*150/jpy;return r<0.4||r>2.5;};
+      if(p.price!=null&&p.currency==='USD'&&pcc.price&&off(p.price,pcc.price)){p.replaced={...p,psa10:undefined,link:undefined};p.price=pcc.price;p.currency='JPY';p.source='Pokeca-Now';p.url=PC.url;p.condition='raw (ungraded) — 日本二手平台成交中位數（TCGplayer 價格與成交行情差太多，改用成交中位數）';p.fetched=PC.fetched;n++;}
+      if(p.psa10&&p.psa10.currency==='USD'&&pcc.psa10&&off(p.psa10.price,pcc.psa10)){p.psa10={price:pcc.psa10,currency:'JPY',source:'Pokeca-Now',url:PC.url,fetched:PC.fetched,note:'PSA 10 日本二手平台成交中位數（SNKRDUNK 掛單價與成交行情差太多，改用成交中位數）',replaced:p.psa10};n++;}
+    }}
+  return n;}
 function setPrice(key,val){
   if(val){prices[key]={...val,fetched:today,stale:false};stat.updated++;stat.bySource[val.source]=(stat.bySource[val.source]||0)+1;}
   else if(prices[key]){prices[key].stale=true;stat.stale++;}
@@ -129,7 +155,8 @@ function setPrice(key,val){
           hits.forEach(x=>seen.set(Math.round(x.productId),x));if(res.length<24)break;}
       }
       const cards=[...seen.values()].map(x=>({productId:Math.round(x.productId),name:String(x.productName).replace(/\s*-\s*[\w]+\/\d+.*$/,'').trim(),number:x.customAttributes?.number||'',rarity:x.rarityName||'',marketPrice:x.marketPrice||null,setName:x.setName}));
-      if(cards.length) fs.writeFileSync(path.join(f,s.id+'.json'),JSON.stringify({set:s.id,fetched:today,source:'TCGplayer',cards},null,1));
+      const fp=path.join(f,s.id+'.json');const old=fs.existsSync(fp)?JSON.parse(fs.readFileSync(fp,'utf8')).cards:[];const byId=new Map(old.map(x=>[x.productId,x]));cards.forEach(x=>byId.set(x.productId,x)); // merge: never shrink the list
+      if(cards.length) fs.writeFileSync(fp,JSON.stringify({set:s.id,fetched:today,source:'TCGplayer',cards:[...byId.values()]},null,1));
       process.stdout.write(`ja ${s.id}: TCGplayer card list ${cards.length}\n`);
     }
   }
@@ -140,29 +167,38 @@ function setPrice(key,val){
     if(list&&!args.cache){fs.writeFileSync(f,JSON.stringify({set:s.id,fetched:today,source:'SNKRDUNK',items:list}));}
     const cached=list||(fs.existsSync(f)?JSON.parse(fs.readFileSync(f)).items:null);
     process.stdout.write(`ja ${s.id}: ${list?list.length+' listings':'FAILED (using cache: '+!!cached+')'}\n`);
+    const PC=(()=>{const f=path.join(ROOT,'data/community',`pokecanow-${s.id}.json`);return fs.existsSync(f)?JSON.parse(fs.readFileSync(f,'utf8')):null;})();
     for(const c of s.chase||[]){
-      const num=String(c.localId).replace(/^0+/,'');
-      if(!cached){setPrice(c.key,null);continue;}
+      const num=String(c.localId).replace(/^0+(?=\d)/,'');const mb=c.variant==='master';
+      if(!cached&&!c.snkId){setPrice(c.key,null);continue;}
       // second pass of `npm run update-prices` (--cache) reuses today's card-level results instead of re-requesting
       if(args.cache&&prices[c.key]?.fetched===today&&prices[c.key]?.cardCheck===today){stat.reused=(stat.reused||0)+1;continue;}
-      const cands=cached.filter(x=>x.num===num&&!/^【/.test(x.name)).sort((a,b)=>b.listingCount-a.listingCount||b.minPrice-a.minPrice);
-      const snk=cands[0]||null;
-      const enName=snk?snk.name.split('[')[0].replace(/\s+(?:C|U|R|RR|RRR|SR|HR|UR|AR|SAR|CHR|CSR|K|A|S|SSR|PR|ACE|MUR|BWR|MA|TR)(?::\s*SA)?\s*$/,'').trim():null;
-      const tp=await tcgplayerJapan(s,c,enName);           // exact Japanese product on TCGplayer (verified)
-      const psa=snk?await snkUsedLowest(snk.id,22):null;   // SNKRDUNK lowest PSA 10 listing on sale
+      // SNKRDUNK product: the one picked for this exact card/variant (content/chase-picks.json), else best match by number
+      let snk=null;
+      if(c.snkId){const hit=(cached||[]).find(x=>x.id===c.snkId);snk=hit||{id:c.snkId,name:'',url:`https://snkrdunk.com/en/trading-cards/${c.snkId}`};}
+      else {const cands=(cached||[]).filter(x=>x.num===num&&!/^【|Error|Misprint/.test(x.name)&&(mb?/Master Ball Mirror/i.test(x.name):!/Mirror/i.test(x.name))).sort((a,b)=>b.listingCount-a.listingCount||b.minPrice-a.minPrice);snk=cands[0]||null;}
+      const enName=snk&&snk.name?snk.name.split('[')[0].replace(/:\s*(Master|Monster) Ball Mirror\s*$/i,'').replace(/\s+(?:C|U|R|RR|RRR|SR|HR|UR|AR|SAR|CHR|CSR|K|A|S|SSR|PR|ACE|MUR|BWR|MA|TR|FUR|RGB)(?::\s*SA)?\s*$/,'').trim():null;
+      const tp=c.tcgplayerId?await tcgplayerVerify(c.tcgplayerId,num,mb):await tcgplayerJapan(s,c,enName,mb); // exact Japanese product on TCGplayer (verified)
+      let psa=null;
+      if(snk){const v=await snkUsedLowest(snk.id,22);if(v)psa={price:v,currency:'USD',source:'SNKRDUNK',url:snk.url+'/used?condition=psa_10',fetched:today,note:'PSA 10 最低在售價'};
+        else {const sold=await snkLastSold(snk.id,22);if(sold)psa={price:sold,currency:'USD',source:'SNKRDUNK',url:snk.url+'/used?condition=psa_10',fetched:today,note:'PSA 10 最近成交價（目前無人在賣）'};}}
+      const pcc=PC&&PC.cards.find(x=>(/^\d/.test(num)?String(x.num).split('/')[0].replace(/^0+(?=\d)/,'')===num:String(x.num)===String(c.localId))&&(!c.rarity||!x.rarity||mb||x.rarity===c.rarity||c.rarity==='待確認'));
+      if(!psa&&pcc?.psa10) psa={price:pcc.psa10,currency:'JPY',source:'Pokeca-Now',url:PC.url,fetched:PC.fetched,note:'PSA 10 日本二手平台成交中位數'};
       let raw=null;
       if(tp&&tp.marketPrice>0) raw={price:tp.marketPrice,currency:'USD',condition:'raw (ungraded) — TCGplayer market price',source:'TCGplayer',url:tp.url};
       else if(snk){const a=await snkUsedLowest(snk.id,18);if(a) raw={price:a,currency:'USD',condition:'raw (ungraded, 狀態 A) — SNKRDUNK 最低在售價',source:'SNKRDUNK',url:snk.url};}
+      if(!raw&&c.marketJpy&&PC&&!mb) raw={price:c.marketJpy,currency:'JPY',condition:'raw (ungraded) — 日本二手平台成交中位數',source:'Pokeca-Now',url:PC.url};
       const prev=prices[c.key]||{};
       const link=tp?{url:tp.url,kind:'TCGplayer'}:snk?{url:snk.url,kind:'SNKRDUNK'}:(prev.link||null);
       if(raw) setPrice(c.key,raw); else {stat.noRaw=(stat.noRaw||0)+1; if(prices[c.key]){prices[c.key].stale=true;} else prices[c.key]={price:null};}
       const p=prices[c.key];
-      p.psa10=psa?{price:psa,currency:'USD',source:'SNKRDUNK',url:snk.url+'/used?condition=psa_10',fetched:today,note:'PSA 10 最低在售價'}:(prev.psa10?{...prev.psa10,stale:true}:null);
-      p.link=link;p.cardCheck=today;if(tp) p.tcgplayerId=tp.productId;
+      p.psa10=psa||(prev.psa10?{...prev.psa10,stale:true}:null);
+      p.link=link;p.cardCheck=today;if(tp) p.tcgplayerId=tp.productId;if(snk&&SNK_THUMB[snk.id]) p.snkImg=SNK_THUMB[snk.id];
       stat.psa10=(stat.psa10||0)+(psa?1:0);stat.tcgLink=(stat.tcgLink||0)+(tp?1:0);stat.snkLink=(stat.snkLink||0)+(!tp&&snk?1:0);
-      process.stdout.write(`  ${c.key} raw:${raw?raw.source+' '+raw.price:'-'} psa10:${psa??'-'} link:${link?link.kind:'-'}\n`);
+      process.stdout.write(`  ${c.key} raw:${raw?raw.source+' '+raw.price:'-'} psa10:${psa?psa.source+' '+psa.price:'-'} link:${link?link.kind:'-'}\n`);
     }
   }
+  stat.reconciled=reconcile(v1.filter(s=>s.lang==='ja'));
   if(args.only==='ja'){fs.writeFileSync(PRICES,JSON.stringify(prices,null,1));console.log('SUMMARY(ja)',JSON.stringify(stat));return;}
   // 2) English: PriceCharting first, TCGplayer-via-TCGdex fallback
   for(const s of v1.filter(s=>s.lang==='en')){

@@ -1,0 +1,735 @@
+{
+ "set": "M1L",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 647147,
+   "name": "Mega Absol ex",
+   "number": "038/063",
+   "rarity": "Double Rare",
+   "marketPrice": 0.37,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647182,
+   "name": "Steelix",
+   "number": "073/063",
+   "rarity": "Art Rare",
+   "marketPrice": 1.78,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647149,
+   "name": "Yveltal",
+   "number": "040/063",
+   "rarity": "Rare",
+   "marketPrice": 0.25,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647116,
+   "name": "Seedot",
+   "number": "007/063",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647112,
+   "name": "Mega Venusaur ex",
+   "number": "003/063",
+   "rarity": "Double Rare",
+   "marketPrice": 0.43,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647198,
+   "name": "Mega Absol ex",
+   "number": "089/063",
+   "rarity": "Special Art Rare",
+   "marketPrice": 18.96,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647176,
+   "name": "Vulpix",
+   "number": "067/063",
+   "rarity": "Art Rare",
+   "marketPrice": 4.4,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647173,
+   "name": "Bulbasaur",
+   "number": "064/063",
+   "rarity": "Art Rare",
+   "marketPrice": 6.3,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647186,
+   "name": "Mega Camerupt ex",
+   "number": "077/063",
+   "rarity": "Super Rare",
+   "marketPrice": 1.42,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647196,
+   "name": "Mega Venusaur ex",
+   "number": "087/063",
+   "rarity": "Special Art Rare",
+   "marketPrice": 39.46,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647165,
+   "name": "Gumshoos",
+   "number": "056/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647193,
+   "name": "Air Balloon",
+   "number": "084/063",
+   "rarity": "Super Rare",
+   "marketPrice": 0.5,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647155,
+   "name": "Mega Mawile ex",
+   "number": "046/063",
+   "rarity": "Double Rare",
+   "marketPrice": 0.4,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647190,
+   "name": "Premium Power Pro",
+   "number": "081/063",
+   "rarity": "Super Rare",
+   "marketPrice": 0.37,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647129,
+   "name": "Sandshrew",
+   "number": "020/063",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647113,
+   "name": "Exeggcute",
+   "number": "004/063",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647171,
+   "name": "Lillie's Determination",
+   "number": "062/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.2,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647197,
+   "name": "Mega Lucario ex",
+   "number": "088/063",
+   "rarity": "Special Art Rare",
+   "marketPrice": 75.59,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647183,
+   "name": "Spearow",
+   "number": "074/063",
+   "rarity": "Art Rare",
+   "marketPrice": 1.62,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 696171,
+   "name": "Mew ex",
+   "number": "151/165",
+   "rarity": "Double Rare",
+   "marketPrice": null,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647137,
+   "name": "Riolu",
+   "number": "028/063",
+   "rarity": "Common",
+   "marketPrice": 0.19,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647180,
+   "name": "Spiritomb",
+   "number": "071/063",
+   "rarity": "Art Rare",
+   "marketPrice": 1.52,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647194,
+   "name": "Lt. Surge's Deal",
+   "number": "085/063",
+   "rarity": "Super Rare",
+   "marketPrice": 1.19,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647122,
+   "name": "Mega Camerupt ex",
+   "number": "013/063",
+   "rarity": "Double Rare",
+   "marketPrice": 0.31,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647162,
+   "name": "Fearow",
+   "number": "053/063",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647124,
+   "name": "Scorbunny",
+   "number": "015/063",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647144,
+   "name": "Naclstack",
+   "number": "035/063",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647158,
+   "name": "Tinkatuff",
+   "number": "049/063",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647126,
+   "name": "Cinderace",
+   "number": "017/063",
+   "rarity": "Rare",
+   "marketPrice": 0.18,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647131,
+   "name": "Onix",
+   "number": "022/063",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647185,
+   "name": "Mega Venusaur ex",
+   "number": "076/063",
+   "rarity": "Super Rare",
+   "marketPrice": 6.88,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647178,
+   "name": "Marshadow",
+   "number": "069/063",
+   "rarity": "Art Rare",
+   "marketPrice": 3.09,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647143,
+   "name": "Nacli",
+   "number": "034/063",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647174,
+   "name": "Ivysaur",
+   "number": "065/063",
+   "rarity": "Art Rare",
+   "marketPrice": 5.05,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647181,
+   "name": "Shroodle",
+   "number": "072/063",
+   "rarity": "Art Rare",
+   "marketPrice": 1.25,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647179,
+   "name": "Garganacl",
+   "number": "070/063",
+   "rarity": "Art Rare",
+   "marketPrice": 1.1,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647199,
+   "name": "Lt. Surge's Deal",
+   "number": "090/063",
+   "rarity": "Special Art Rare",
+   "marketPrice": 5.36,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647175,
+   "name": "Exeggutor",
+   "number": "066/063",
+   "rarity": "Art Rare",
+   "marketPrice": 1.63,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647177,
+   "name": "Riolu",
+   "number": "068/063",
+   "rarity": "Art Rare",
+   "marketPrice": 3.07,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647136,
+   "name": "Solrock",
+   "number": "027/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.23,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647192,
+   "name": "Night Stretcher",
+   "number": "083/063",
+   "rarity": "Super Rare",
+   "marketPrice": 0.54,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647132,
+   "name": "Tyrogue",
+   "number": "023/063",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647146,
+   "name": "Crawdaunt",
+   "number": "037/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647154,
+   "name": "Steelix",
+   "number": "045/063",
+   "rarity": "Rare",
+   "marketPrice": 0.2,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647195,
+   "name": "Lillie's Determination",
+   "number": "086/063",
+   "rarity": "Super Rare",
+   "marketPrice": 10.16,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647120,
+   "name": "Ninetales",
+   "number": "011/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647118,
+   "name": "Shiftry",
+   "number": "009/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647160,
+   "name": "Gholdengo",
+   "number": "051/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.17,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647172,
+   "name": "Dangerous Ruins",
+   "number": "063/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647166,
+   "name": "Iron X Defense",
+   "number": "057/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.35,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647141,
+   "name": "Marshadow",
+   "number": "032/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647142,
+   "name": "Stonjourner",
+   "number": "033/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.08,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647153,
+   "name": "Grafaiai",
+   "number": "044/063",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647114,
+   "name": "Exeggutor",
+   "number": "005/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647121,
+   "name": "Numel",
+   "number": "012/063",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647130,
+   "name": "Sandslash",
+   "number": "021/063",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647170,
+   "name": "Lt. Surge's Deal",
+   "number": "061/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.17,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647150,
+   "name": "Nickit",
+   "number": "041/063",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647151,
+   "name": "Thievul",
+   "number": "042/063",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647201,
+   "name": "Mega Lucario ex",
+   "number": "092/063",
+   "rarity": "Mega Ultra Rare",
+   "marketPrice": 265.46,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647128,
+   "name": "Gimmighoul",
+   "number": "019/063",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647139,
+   "name": "Croagunk",
+   "number": "030/063",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647127,
+   "name": "Corphish",
+   "number": "018/063",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647167,
+   "name": "Premium Power Pro",
+   "number": "058/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.08,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647111,
+   "name": "Ivysaur",
+   "number": "002/063",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647152,
+   "name": "Shroodle",
+   "number": "043/063",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647157,
+   "name": "Tinkatink",
+   "number": "048/063",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647189,
+   "name": "Mega Mawile ex",
+   "number": "080/063",
+   "rarity": "Super Rare",
+   "marketPrice": 2.67,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647115,
+   "name": "Celebi",
+   "number": "006/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.19,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647119,
+   "name": "Vulpix",
+   "number": "010/063",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647117,
+   "name": "Nuzleaf",
+   "number": "008/063",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647168,
+   "name": "Fight Gong",
+   "number": "059/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.23,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647156,
+   "name": "Dialga",
+   "number": "047/063",
+   "rarity": "Rare",
+   "marketPrice": 0.3,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647135,
+   "name": "Lunatone",
+   "number": "026/063",
+   "rarity": "Rare",
+   "marketPrice": 0.26,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647145,
+   "name": "Garganacl",
+   "number": "036/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647164,
+   "name": "Yungoos",
+   "number": "055/063",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647138,
+   "name": "Mega Lucario ex",
+   "number": "029/063",
+   "rarity": "Double Rare",
+   "marketPrice": 0.4,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647187,
+   "name": "Mega Lucario ex",
+   "number": "078/063",
+   "rarity": "Super Rare",
+   "marketPrice": 7.1,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647188,
+   "name": "Mega Absol ex",
+   "number": "079/063",
+   "rarity": "Super Rare",
+   "marketPrice": 2.94,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647110,
+   "name": "Bulbasaur",
+   "number": "001/063",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647125,
+   "name": "Raboot",
+   "number": "016/063",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647184,
+   "name": "Gumshoos",
+   "number": "075/063",
+   "rarity": "Art Rare",
+   "marketPrice": 1.53,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647161,
+   "name": "Spearow",
+   "number": "052/063",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647133,
+   "name": "Makuhita",
+   "number": "024/063",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647123,
+   "name": "Volcanion",
+   "number": "014/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.07,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647140,
+   "name": "Toxicroak",
+   "number": "031/063",
+   "rarity": "Common",
+   "marketPrice": 0.06,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647148,
+   "name": "Spiritomb",
+   "number": "039/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647169,
+   "name": "Repel",
+   "number": "060/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.25,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647134,
+   "name": "Hariyama",
+   "number": "025/063",
+   "rarity": "Rare",
+   "marketPrice": 0.16,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647159,
+   "name": "Tinkaton",
+   "number": "050/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "m1L: Mega Brave"
+  },
+  {
+   "productId": 647163,
+   "name": "Miltank",
+   "number": "054/063",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "m1L: Mega Brave"
+  }
+ ]
+}

@@ -1,0 +1,1255 @@
+{
+ "set": "SV11W",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 636645,
+   "name": "Sawsbuck",
+   "number": "092/086",
+   "rarity": "Art Rare",
+   "marketPrice": 8.69,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636719,
+   "name": "Hilda",
+   "number": "166/086",
+   "rarity": "Super Rare",
+   "marketPrice": 7.92,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636580,
+   "name": "Keldeo ex",
+   "number": "027/086",
+   "rarity": "Double Rare",
+   "marketPrice": 0.27,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636708,
+   "name": "Stoutland",
+   "number": "155/086",
+   "rarity": "Art Rare",
+   "marketPrice": 8.01,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636655,
+   "name": "Oshawott",
+   "number": "102/086",
+   "rarity": "Art Rare",
+   "marketPrice": 48.79,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636679,
+   "name": "Boldore",
+   "number": "126/086",
+   "rarity": "Art Rare",
+   "marketPrice": 3.65,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636723,
+   "name": "Jellicent ex",
+   "number": "170/086",
+   "rarity": "Special Art Rare",
+   "marketPrice": 21.59,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636612,
+   "name": "Zoroark",
+   "number": "059/086",
+   "rarity": "Rare",
+   "marketPrice": 0.21,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637307,
+   "name": "Tornadus",
+   "number": "078/086",
+   "rarity": "Rare",
+   "marketPrice": 4.22,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637349,
+   "name": "Sawk",
+   "number": "046/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.24,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636631,
+   "name": "Tornadus",
+   "number": "078/086",
+   "rarity": "Rare",
+   "marketPrice": 0.12,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636721,
+   "name": "Reshiram ex",
+   "number": "168/086",
+   "rarity": "Special Art Rare",
+   "marketPrice": 169.53,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636640,
+   "name": "Sewaddle",
+   "number": "087/086",
+   "rarity": "Art Rare",
+   "marketPrice": 11.94,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636589,
+   "name": "Yamask",
+   "number": "036/086",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637246,
+   "name": "Pignite",
+   "number": "012/086",
+   "rarity": "Common",
+   "marketPrice": 2.3,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637285,
+   "name": "Scraggy",
+   "number": "054/086",
+   "rarity": "Common",
+   "marketPrice": 4.5,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637295,
+   "name": "Klink",
+   "number": "065/086",
+   "rarity": "Common",
+   "marketPrice": 1.92,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637297,
+   "name": "Klinklang",
+   "number": "067/086",
+   "rarity": "Rare",
+   "marketPrice": 1.2,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637321,
+   "name": "Simisear",
+   "number": "015/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.28,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637331,
+   "name": "Vanilluxe",
+   "number": "026/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.35,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637343,
+   "name": "Gothorita",
+   "number": "039/086",
+   "rarity": "Common",
+   "marketPrice": 0.43,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637356,
+   "name": "Liepard",
+   "number": "053/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.38,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636619,
+   "name": "Klang",
+   "number": "066/086",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636597,
+   "name": "Boldore",
+   "number": "044/086",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636608,
+   "name": "Scrafty",
+   "number": "055/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637371,
+   "name": "Druddigon",
+   "number": "069/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.2,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636670,
+   "name": "Swoobat",
+   "number": "117/086",
+   "rarity": "Art Rare",
+   "marketPrice": 7.59,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636661,
+   "name": "Vanillite",
+   "number": "108/086",
+   "rarity": "Art Rare",
+   "marketPrice": 10.47,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636658,
+   "name": "Basculin",
+   "number": "105/086",
+   "rarity": "Art Rare",
+   "marketPrice": 5.27,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636663,
+   "name": "Vanilluxe",
+   "number": "110/086",
+   "rarity": "Art Rare",
+   "marketPrice": 10.7,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636714,
+   "name": "Keldeo ex",
+   "number": "161/086",
+   "rarity": "Super Rare",
+   "marketPrice": 0.99,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636694,
+   "name": "Zoroark",
+   "number": "141/086",
+   "rarity": "Art Rare",
+   "marketPrice": 20.45,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636667,
+   "name": "Galvantula",
+   "number": "114/086",
+   "rarity": "Art Rare",
+   "marketPrice": 6.5,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636668,
+   "name": "Stunfisk",
+   "number": "115/086",
+   "rarity": "Art Rare",
+   "marketPrice": 2.72,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636712,
+   "name": "Whimsicott ex",
+   "number": "159/086",
+   "rarity": "Super Rare",
+   "marketPrice": 1.07,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636657,
+   "name": "Samurott",
+   "number": "104/086",
+   "rarity": "Art Rare",
+   "marketPrice": 15.12,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636615,
+   "name": "Hydreigon ex",
+   "number": "062/086",
+   "rarity": "Double Rare",
+   "marketPrice": 0.27,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636641,
+   "name": "Swadloon",
+   "number": "088/086",
+   "rarity": "Art Rare",
+   "marketPrice": 8.09,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636660,
+   "name": "Swanna",
+   "number": "107/086",
+   "rarity": "Art Rare",
+   "marketPrice": 9.31,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636662,
+   "name": "Vanillish",
+   "number": "109/086",
+   "rarity": "Art Rare",
+   "marketPrice": 7.03,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636707,
+   "name": "Herdier",
+   "number": "154/086",
+   "rarity": "Art Rare",
+   "marketPrice": 8.75,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636681,
+   "name": "Sawk",
+   "number": "128/086",
+   "rarity": "Art Rare",
+   "marketPrice": 4.86,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636686,
+   "name": "Terrakion",
+   "number": "133/086",
+   "rarity": "Art Rare",
+   "marketPrice": 5.62,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636672,
+   "name": "Yamask",
+   "number": "119/086",
+   "rarity": "Art Rare",
+   "marketPrice": 4.92,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636647,
+   "name": "Accelgor",
+   "number": "094/086",
+   "rarity": "Art Rare",
+   "marketPrice": 4.97,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636656,
+   "name": "Dewott",
+   "number": "103/086",
+   "rarity": "Art Rare",
+   "marketPrice": 9.9,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636717,
+   "name": "Bouffalant ex",
+   "number": "164/086",
+   "rarity": "Super Rare",
+   "marketPrice": 0.81,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636688,
+   "name": "Liepard",
+   "number": "135/086",
+   "rarity": "Art Rare",
+   "marketPrice": 13.95,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637296,
+   "name": "Klang",
+   "number": "066/086",
+   "rarity": "Common",
+   "marketPrice": 4.16,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637313,
+   "name": "Sawsbuck",
+   "number": "007/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.31,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636622,
+   "name": "Druddigon",
+   "number": "069/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636567,
+   "name": "Pansear",
+   "number": "014/086",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636578,
+   "name": "Vanillish",
+   "number": "025/086",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 644837,
+   "name": "Harlequin",
+   "number": "083/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.17,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637239,
+   "name": "Cottonee",
+   "number": "004/086",
+   "rarity": "Common",
+   "marketPrice": 1.65,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637240,
+   "name": "Deerling",
+   "number": "006/086",
+   "rarity": "Common",
+   "marketPrice": 2.65,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637247,
+   "name": "Emboar",
+   "number": "013/086",
+   "rarity": "Rare",
+   "marketPrice": 4.49,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637253,
+   "name": "Samurott",
+   "number": "020/086",
+   "rarity": "Rare",
+   "marketPrice": 3.79,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637256,
+   "name": "Swanna",
+   "number": "023/086",
+   "rarity": "Uncommon",
+   "marketPrice": 2.11,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637293,
+   "name": "Ferroseed",
+   "number": "063/086",
+   "rarity": "Common",
+   "marketPrice": 2.96,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637337,
+   "name": "Woobat",
+   "number": "033/086",
+   "rarity": "Common",
+   "marketPrice": 0.27,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637339,
+   "name": "Sigilyph",
+   "number": "035/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.17,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637344,
+   "name": "Gothitelle",
+   "number": "040/086",
+   "rarity": "Rare",
+   "marketPrice": 0.38,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637368,
+   "name": "Klang",
+   "number": "066/086",
+   "rarity": "Common",
+   "marketPrice": 0.2,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637378,
+   "name": "Braviary",
+   "number": "077/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.42,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636568,
+   "name": "Simisear",
+   "number": "015/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.27,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636577,
+   "name": "Vanillite",
+   "number": "024/086",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637361,
+   "name": "Zorua",
+   "number": "058/086",
+   "rarity": "Common",
+   "marketPrice": 0.24,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636603,
+   "name": "Mienshao",
+   "number": "050/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637374,
+   "name": "Lillipup",
+   "number": "072/086",
+   "rarity": "Common",
+   "marketPrice": 0.32,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636702,
+   "name": "Durant",
+   "number": "149/086",
+   "rarity": "Art Rare",
+   "marketPrice": 4.54,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637310,
+   "name": "Leavanny",
+   "number": "003/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.36,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637263,
+   "name": "Galvantula",
+   "number": "031/086",
+   "rarity": "Uncommon",
+   "marketPrice": 4.52,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637279,
+   "name": "Archeops",
+   "number": "048/086",
+   "rarity": "Rare",
+   "marketPrice": 7.86,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637304,
+   "name": "Stoutland",
+   "number": "074/086",
+   "rarity": "Uncommon",
+   "marketPrice": 2.39,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636685,
+   "name": "Mienshao",
+   "number": "132/086",
+   "rarity": "Art Rare",
+   "marketPrice": 6.23,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636699,
+   "name": "Klink",
+   "number": "146/086",
+   "rarity": "Art Rare",
+   "marketPrice": 4.51,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636611,
+   "name": "Zorua",
+   "number": "058/086",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636650,
+   "name": "Pignite",
+   "number": "097/086",
+   "rarity": "Art Rare",
+   "marketPrice": 7.45,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636684,
+   "name": "Mienfoo",
+   "number": "131/086",
+   "rarity": "Art Rare",
+   "marketPrice": 7.58,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636711,
+   "name": "Tornadus",
+   "number": "158/086",
+   "rarity": "Art Rare",
+   "marketPrice": 2.09,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636675,
+   "name": "Gothorita",
+   "number": "122/086",
+   "rarity": "Art Rare",
+   "marketPrice": 11.2,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636653,
+   "name": "Simisear",
+   "number": "100/086",
+   "rarity": "Art Rare",
+   "marketPrice": 7.72,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636713,
+   "name": "Reshiram ex",
+   "number": "160/086",
+   "rarity": "Super Rare",
+   "marketPrice": 2.5,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636697,
+   "name": "Ferroseed",
+   "number": "144/086",
+   "rarity": "Art Rare",
+   "marketPrice": 3.68,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636725,
+   "name": "Bouffalant ex",
+   "number": "172/086",
+   "rarity": "Special Art Rare",
+   "marketPrice": 13.53,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 649135,
+   "name": "Hilda",
+   "number": "085/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.57,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636680,
+   "name": "Gigalith",
+   "number": "127/086",
+   "rarity": "Art Rare",
+   "marketPrice": 7.1,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636700,
+   "name": "Klang",
+   "number": "147/086",
+   "rarity": "Art Rare",
+   "marketPrice": 3.72,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636705,
+   "name": "Watchog",
+   "number": "152/086",
+   "rarity": "Art Rare",
+   "marketPrice": 3.35,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636704,
+   "name": "Patrat",
+   "number": "151/086",
+   "rarity": "Art Rare",
+   "marketPrice": 6.95,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637283,
+   "name": "Purrloin",
+   "number": "052/086",
+   "rarity": "Common",
+   "marketPrice": 4.64,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637259,
+   "name": "Vanilluxe",
+   "number": "026/086",
+   "rarity": "Uncommon",
+   "marketPrice": 2.02,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636563,
+   "name": "Virizion",
+   "number": "010/086",
+   "rarity": "Rare",
+   "marketPrice": 0.12,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636558,
+   "name": "Whimsicott ex",
+   "number": "005/086",
+   "rarity": "Double Rare",
+   "marketPrice": 0.24,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636727,
+   "name": "Reshiram ex",
+   "number": "174/086",
+   "rarity": "Black White Rare",
+   "marketPrice": 309.87,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636715,
+   "name": "Jellicent ex",
+   "number": "162/086",
+   "rarity": "Super Rare",
+   "marketPrice": 0.75,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636720,
+   "name": "Whimsicott ex",
+   "number": "167/086",
+   "rarity": "Special Art Rare",
+   "marketPrice": 19.46,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636570,
+   "name": "Reshiram ex",
+   "number": "017/086",
+   "rarity": "Double Rare",
+   "marketPrice": 0.34,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636724,
+   "name": "Hydreigon ex",
+   "number": "171/086",
+   "rarity": "Special Art Rare",
+   "marketPrice": 47.45,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636628,
+   "name": "Bouffalant ex",
+   "number": "075/086",
+   "rarity": "Double Rare",
+   "marketPrice": 0.28,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636595,
+   "name": "Jellicent ex",
+   "number": "042/086",
+   "rarity": "Double Rare",
+   "marketPrice": 0.34,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636716,
+   "name": "Hydreigon ex",
+   "number": "163/086",
+   "rarity": "Super Rare",
+   "marketPrice": 1.04,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636722,
+   "name": "Keldeo ex",
+   "number": "169/086",
+   "rarity": "Special Art Rare",
+   "marketPrice": 38.33,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636635,
+   "name": "Brave Bangle",
+   "number": "082/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.14,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 639442,
+   "name": "Brave Bangle (Poke Ball Pattern)",
+   "number": "082/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.36,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636599,
+   "name": "Sawk",
+   "number": "046/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636678,
+   "name": "Roggenrola",
+   "number": "125/086",
+   "rarity": "Art Rare",
+   "marketPrice": 5.21,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636649,
+   "name": "Tepig",
+   "number": "096/086",
+   "rarity": "Art Rare",
+   "marketPrice": 19.2,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636652,
+   "name": "Pansear",
+   "number": "099/086",
+   "rarity": "Art Rare",
+   "marketPrice": 6.23,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636692,
+   "name": "Garbodor",
+   "number": "139/086",
+   "rarity": "Art Rare",
+   "marketPrice": 5.87,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636674,
+   "name": "Gothita",
+   "number": "121/086",
+   "rarity": "Art Rare",
+   "marketPrice": 11.59,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636642,
+   "name": "Leavanny",
+   "number": "089/086",
+   "rarity": "Art Rare",
+   "marketPrice": 10.75,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636644,
+   "name": "Deerling",
+   "number": "091/086",
+   "rarity": "Art Rare",
+   "marketPrice": 8.05,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636666,
+   "name": "Joltik",
+   "number": "113/086",
+   "rarity": "Art Rare",
+   "marketPrice": 15.95,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636691,
+   "name": "Trubbish",
+   "number": "138/086",
+   "rarity": "Art Rare",
+   "marketPrice": 10.81,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636696,
+   "name": "Zweilous",
+   "number": "143/086",
+   "rarity": "Art Rare",
+   "marketPrice": 6.07,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636676,
+   "name": "Gothitelle",
+   "number": "123/086",
+   "rarity": "Art Rare",
+   "marketPrice": 6.04,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636698,
+   "name": "Ferrothorn",
+   "number": "145/086",
+   "rarity": "Art Rare",
+   "marketPrice": 5.48,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636669,
+   "name": "Woobat",
+   "number": "116/086",
+   "rarity": "Art Rare",
+   "marketPrice": 7.48,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636703,
+   "name": "Druddigon",
+   "number": "150/086",
+   "rarity": "Art Rare",
+   "marketPrice": 13.12,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637363,
+   "name": "Deino",
+   "number": "060/086",
+   "rarity": "Common",
+   "marketPrice": 0.25,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636559,
+   "name": "Deerling",
+   "number": "006/086",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636613,
+   "name": "Deino",
+   "number": "060/086",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636625,
+   "name": "Lillipup",
+   "number": "072/086",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636637,
+   "name": "Cheren",
+   "number": "084/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637360,
+   "name": "Garbodor",
+   "number": "057/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.37,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637312,
+   "name": "Deerling",
+   "number": "006/086",
+   "rarity": "Common",
+   "marketPrice": 0.29,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636601,
+   "name": "Archeops",
+   "number": "048/086",
+   "rarity": "Rare",
+   "marketPrice": 0.15,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636706,
+   "name": "Lillipup",
+   "number": "153/086",
+   "rarity": "Art Rare",
+   "marketPrice": 14.82,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636690,
+   "name": "Scrafty",
+   "number": "137/086",
+   "rarity": "Art Rare",
+   "marketPrice": 5.69,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636648,
+   "name": "Virizion",
+   "number": "095/086",
+   "rarity": "Art Rare",
+   "marketPrice": 12.06,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636677,
+   "name": "Frillish",
+   "number": "124/086",
+   "rarity": "Art Rare",
+   "marketPrice": 8.42,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636664,
+   "name": "Blitzle",
+   "number": "111/086",
+   "rarity": "Art Rare",
+   "marketPrice": 6.16,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636682,
+   "name": "Archen",
+   "number": "129/086",
+   "rarity": "Art Rare",
+   "marketPrice": 4.83,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636673,
+   "name": "Cofagrigus",
+   "number": "120/086",
+   "rarity": "Art Rare",
+   "marketPrice": 6.62,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636709,
+   "name": "Rufflet",
+   "number": "156/086",
+   "rarity": "Art Rare",
+   "marketPrice": 4.27,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637280,
+   "name": "Mienfoo",
+   "number": "049/086",
+   "rarity": "Common",
+   "marketPrice": 1.56,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637300,
+   "name": "Patrat",
+   "number": "070/086",
+   "rarity": "Common",
+   "marketPrice": 2.9,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637301,
+   "name": "Watchog",
+   "number": "071/086",
+   "rarity": "Uncommon",
+   "marketPrice": 2.59,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637347,
+   "name": "Boldore",
+   "number": "044/086",
+   "rarity": "Common",
+   "marketPrice": 0.36,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637352,
+   "name": "Mienfoo",
+   "number": "049/086",
+   "rarity": "Common",
+   "marketPrice": 0.32,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637354,
+   "name": "Terrakion",
+   "number": "051/086",
+   "rarity": "Rare",
+   "marketPrice": 0.32,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 653626,
+   "name": "Cheren (Poke Ball Pattern)",
+   "number": "084/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.31,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637311,
+   "name": "Cottonee",
+   "number": "004/086",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636624,
+   "name": "Watchog",
+   "number": "071/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636633,
+   "name": "Tool Scrapper",
+   "number": "080/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636605,
+   "name": "Purrloin",
+   "number": "052/086",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636618,
+   "name": "Klink",
+   "number": "065/086",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637254,
+   "name": "Basculin",
+   "number": "021/086",
+   "rarity": "Common",
+   "marketPrice": 2.6,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637272,
+   "name": "Gothitelle",
+   "number": "040/086",
+   "rarity": "Rare",
+   "marketPrice": 3.24,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637284,
+   "name": "Liepard",
+   "number": "053/086",
+   "rarity": "Uncommon",
+   "marketPrice": 3.51,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637298,
+   "name": "Durant",
+   "number": "068/086",
+   "rarity": "Uncommon",
+   "marketPrice": 6.88,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637303,
+   "name": "Herdier",
+   "number": "075/086",
+   "rarity": "Common",
+   "marketPrice": 2.31,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 636598,
+   "name": "Gigalith",
+   "number": "045/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV11W: White Flare"
+  },
+  {
+   "productId": 637237,
+   "name": "Swadloon",
+   "number": "002/086",
+   "rarity": "Common",
+   "marketPrice": 2.82,
+   "setName": "SV11W: White Flare"
+  }
+ ]
+}

@@ -1,0 +1,1767 @@
+{
+ "set": "SV8a",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 602356,
+   "name": "Flareon ex",
+   "number": "022/187",
+   "rarity": "Double Rare",
+   "marketPrice": 1.14,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602435,
+   "name": "Sylveon",
+   "number": "068/187",
+   "rarity": "Common",
+   "marketPrice": 0.54,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602496,
+   "name": "Okidogi ex",
+   "number": "102/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.24,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602667,
+   "name": "Ceruledge ex",
+   "number": "203/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 14.4,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602678,
+   "name": "Iron Crown ex",
+   "number": "214/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 5.36,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602647,
+   "name": "Mist Energy",
+   "number": "186/187",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602684,
+   "name": "Gholdengo ex",
+   "number": "220/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 6.36,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602418,
+   "name": "Alakazam",
+   "number": "059/187",
+   "rarity": "Common",
+   "marketPrice": 0.29,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602701,
+   "name": "Terapagos ex",
+   "number": "237/187",
+   "rarity": "Ultra Rare",
+   "marketPrice": 5.57,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602595,
+   "name": "Maximum Belt",
+   "number": "159/187",
+   "rarity": "ACE Rare",
+   "marketPrice": 0.24,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602408,
+   "name": "Zeraora",
+   "number": "053/187",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602503,
+   "name": "Metang (Mirror Foil)",
+   "number": "107/187",
+   "rarity": "Common",
+   "marketPrice": 0.48,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602366,
+   "name": "Goldeen (Mirror Foil)",
+   "number": "028/187",
+   "rarity": "Common",
+   "marketPrice": 0.86,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602511,
+   "name": "Aegislash (Mirror Foil)",
+   "number": "111/187",
+   "rarity": "Common",
+   "marketPrice": 0.66,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602573,
+   "name": "Treasure Gadget",
+   "number": "146/187",
+   "rarity": "ACE Rare",
+   "marketPrice": 0.21,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604592,
+   "name": "Koraidon (Master Ball Pattern)",
+   "number": "122/187",
+   "rarity": "Common",
+   "marketPrice": 4.05,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602695,
+   "name": "Lacey",
+   "number": "231/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 7.13,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602361,
+   "name": "Chi-Yu",
+   "number": "025/187",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602640,
+   "name": "Area Zero Underdepths",
+   "number": "182/187",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604571,
+   "name": "Trubbish (Master Ball Pattern)",
+   "number": "094/187",
+   "rarity": "Common",
+   "marketPrice": 3.48,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604590,
+   "name": "Drakloak (Master Ball Pattern)",
+   "number": "119/187",
+   "rarity": "Common",
+   "marketPrice": 5.49,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604517,
+   "name": "Flareon (Master Ball Pattern)",
+   "number": "021/187",
+   "rarity": "Common",
+   "marketPrice": 10.97,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602469,
+   "name": "Great Tusk (Mirror Foil)",
+   "number": "086/187",
+   "rarity": "Common",
+   "marketPrice": 0.45,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602476,
+   "name": "Okidogi (Mirror Foil)",
+   "number": "090/187",
+   "rarity": "Common",
+   "marketPrice": 0.51,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602379,
+   "name": "Feebas (Mirror Foil)",
+   "number": "035/187",
+   "rarity": "Common",
+   "marketPrice": 0.74,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602510,
+   "name": "Aegislash",
+   "number": "111/187",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602520,
+   "name": "Iron Treads",
+   "number": "116/187",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602556,
+   "name": "Ogre's Mask",
+   "number": "137/187",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602627,
+   "name": "Professor Turo's Scenario (Mirror Foil)",
+   "number": "175/187",
+   "rarity": "Common",
+   "marketPrice": 0.35,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602656,
+   "name": "Atticus",
+   "number": "192/187",
+   "rarity": "Super Rare",
+   "marketPrice": 0.99,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602354,
+   "name": "Flareon",
+   "number": "021/187",
+   "rarity": "Common",
+   "marketPrice": 0.27,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602668,
+   "name": "Hearthflame Mask Ogerpon ex",
+   "number": "204/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 4.28,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602649,
+   "name": "Legacy Energy",
+   "number": "187/187",
+   "rarity": "ACE Rare",
+   "marketPrice": 0.31,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602498,
+   "name": "Fezandipiti ex",
+   "number": "104/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.31,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602646,
+   "name": "Jet Energy (Mirror Foil)",
+   "number": "185/187",
+   "rarity": "Common",
+   "marketPrice": 0.36,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602445,
+   "name": "Gimmighoul (Mirror Foil)",
+   "number": "073/187",
+   "rarity": "Common",
+   "marketPrice": 0.7,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604538,
+   "name": "Jolteon (Master Ball Pattern)",
+   "number": "051/187",
+   "rarity": "Common",
+   "marketPrice": 8.6,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602522,
+   "name": "Gholdengo ex",
+   "number": "117/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.3,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602619,
+   "name": "Lacey (Mirror Foil)",
+   "number": "171/187",
+   "rarity": "Common",
+   "marketPrice": 0.59,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602655,
+   "name": "Atticus",
+   "number": "191/187",
+   "rarity": "Super Rare",
+   "marketPrice": 1.28,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602394,
+   "name": "Finizen",
+   "number": "044/187",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602423,
+   "name": "Xatu (Mirror Foil)",
+   "number": "061/187",
+   "rarity": "Common",
+   "marketPrice": 1.05,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602459,
+   "name": "Gible (Mirror Foil)",
+   "number": "081/187",
+   "rarity": "Common",
+   "marketPrice": 0.6,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602563,
+   "name": "Glass Trumpet (Mirror Foil)",
+   "number": "140/187",
+   "rarity": "Common",
+   "marketPrice": 0.54,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604547,
+   "name": "Duskull (Master Ball Pattern)",
+   "number": "064/187",
+   "rarity": "Common",
+   "marketPrice": 3.68,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604562,
+   "name": "Gabite (Master Ball Pattern)",
+   "number": "082/187",
+   "rarity": "Common",
+   "marketPrice": 4.96,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604528,
+   "name": "Milotic (Master Ball Pattern)",
+   "number": "036/187",
+   "rarity": "Common",
+   "marketPrice": 8.02,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604559,
+   "name": "Relicanth (Master Ball Pattern)",
+   "number": "079/187",
+   "rarity": "Common",
+   "marketPrice": 5.11,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604568,
+   "name": "Ting-Lu (Master Ball Pattern)",
+   "number": "089/187",
+   "rarity": "Common",
+   "marketPrice": 5.19,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604535,
+   "name": "Palafin (Master Ball Pattern)",
+   "number": "045/187",
+   "rarity": "Common",
+   "marketPrice": 3.67,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602393,
+   "name": "Wugtrio (Mirror Foil)",
+   "number": "043/187",
+   "rarity": "Common",
+   "marketPrice": 0.71,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602436,
+   "name": "Sylveon (Mirror Foil)",
+   "number": "068/187",
+   "rarity": "Common",
+   "marketPrice": 12.39,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602465,
+   "name": "Hawlucha (Mirror Foil)",
+   "number": "084/187",
+   "rarity": "Common",
+   "marketPrice": 0.6,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602623,
+   "name": "Amarys (Mirror Foil)",
+   "number": "173/187",
+   "rarity": "Common",
+   "marketPrice": 0.32,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602513,
+   "name": "Duraludon (Mirror Foil)",
+   "number": "112/187",
+   "rarity": "Common",
+   "marketPrice": 0.25,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602674,
+   "name": "Iron Hands ex",
+   "number": "210/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 4.98,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602552,
+   "name": "Bloodmoon Ursaluna ex",
+   "number": "134/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.27,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602352,
+   "name": "Sinistcha ex",
+   "number": "019/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.34,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602350,
+   "name": "Sinistcha",
+   "number": "018/187",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602484,
+   "name": "Garbodor (Mirror Foil)",
+   "number": "095/187",
+   "rarity": "Common",
+   "marketPrice": 0.74,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602545,
+   "name": "Dudunsparce (Mirror Foil)",
+   "number": "130/187",
+   "rarity": "Common",
+   "marketPrice": 0.38,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602591,
+   "name": "Ancient Booster Energy Capsule",
+   "number": "157/187",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602611,
+   "name": "Professor Sada's Vitality (Mirror Foil)",
+   "number": "167/187",
+   "rarity": "Common",
+   "marketPrice": 0.55,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602700,
+   "name": "Pikachu ex",
+   "number": "236/187",
+   "rarity": "Ultra Rare",
+   "marketPrice": 56.97,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604554,
+   "name": "Flutter Mane (Master Ball Pattern)",
+   "number": "072/187",
+   "rarity": "Common",
+   "marketPrice": 3.13,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604585,
+   "name": "Archaludon (Master Ball Pattern)",
+   "number": "113/187",
+   "rarity": "Common",
+   "marketPrice": 2.24,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604586,
+   "name": "Varoom (Master Ball Pattern)",
+   "number": "114/187",
+   "rarity": "Common",
+   "marketPrice": 2.12,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604593,
+   "name": "Miraidon (Master Ball Pattern)",
+   "number": "123/187",
+   "rarity": "Common",
+   "marketPrice": 4.65,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602399,
+   "name": "Iron Bundle",
+   "number": "047/187",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602331,
+   "name": "Thwackey (Mirror Foil)",
+   "number": "007/187",
+   "rarity": "Common",
+   "marketPrice": 0.49,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602323,
+   "name": "Leafeon ex",
+   "number": "003/187",
+   "rarity": "Double Rare",
+   "marketPrice": 1.19,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602480,
+   "name": "Umbreon ex",
+   "number": "093/187",
+   "rarity": "Double Rare",
+   "marketPrice": 2.85,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604518,
+   "name": "Charcadet (Master Ball Pattern)",
+   "number": "023/187",
+   "rarity": "Common",
+   "marketPrice": 4.44,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604569,
+   "name": "Okidogi (Master Ball Pattern)",
+   "number": "090/187",
+   "rarity": "Common",
+   "marketPrice": 2.41,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602466,
+   "name": "Bloodmoon Ursaluna",
+   "number": "085/187",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602680,
+   "name": "Cornerstone Mask Ogerpon ex",
+   "number": "216/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 3.75,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602671,
+   "name": "Palafin ex",
+   "number": "207/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 10.52,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602412,
+   "name": "Iron Thorns (Mirror Foil)",
+   "number": "055/187",
+   "rarity": "Common",
+   "marketPrice": 0.64,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602419,
+   "name": "Alakazam (Mirror Foil)",
+   "number": "059/187",
+   "rarity": "Common",
+   "marketPrice": 1.68,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604503,
+   "name": "Leafeon (Master Ball Pattern)",
+   "number": "002/187",
+   "rarity": "Common",
+   "marketPrice": 10.39,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604534,
+   "name": "Finizen (Master Ball Pattern)",
+   "number": "044/187",
+   "rarity": "Common",
+   "marketPrice": 2.45,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602582,
+   "name": "Sparkling Crystal",
+   "number": "152/187",
+   "rarity": "ACE Rare",
+   "marketPrice": 0.33,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604577,
+   "name": "Roaring Moon (Master Ball Pattern)",
+   "number": "100/187",
+   "rarity": "Common",
+   "marketPrice": 5.81,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602685,
+   "name": "Dragapult ex",
+   "number": "221/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 12.78,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602424,
+   "name": "Espeon",
+   "number": "062/187",
+   "rarity": "Common",
+   "marketPrice": 0.29,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604567,
+   "name": "Slither Wing (Master Ball Pattern)",
+   "number": "087/187",
+   "rarity": "Common",
+   "marketPrice": 10.1,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602464,
+   "name": "Hawlucha",
+   "number": "084/187",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602404,
+   "name": "Wellspring Mask Ogerpon ex",
+   "number": "050/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.32,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602665,
+   "name": "Teal Mask Ogerpon ex",
+   "number": "201/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 4.69,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602672,
+   "name": "Wellspring Mask Ogerpon ex",
+   "number": "208/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 4.63,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604598,
+   "name": "Dudunsparce (Master Ball Pattern)",
+   "number": "130/187",
+   "rarity": "Common",
+   "marketPrice": 3.4,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602525,
+   "name": "Drakloak",
+   "number": "119/187",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602324,
+   "name": "Cottonee",
+   "number": "004/187",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602337,
+   "name": "Bramblin",
+   "number": "011/187",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602368,
+   "name": "Seaking (Mirror Foil)",
+   "number": "029/187",
+   "rarity": "Common",
+   "marketPrice": 0.62,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602427,
+   "name": "Duskull",
+   "number": "064/187",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602616,
+   "name": "Carmine",
+   "number": "170/187",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602639,
+   "name": "Jamming Tower (Mirror Foil)",
+   "number": "181/187",
+   "rarity": "Common",
+   "marketPrice": 0.55,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602341,
+   "name": "Rellor",
+   "number": "013/187",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602444,
+   "name": "Gimmighoul",
+   "number": "073/187",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602516,
+   "name": "Varoom",
+   "number": "114/187",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602620,
+   "name": "Explorer's Guidance",
+   "number": "172/187",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602628,
+   "name": "Briar",
+   "number": "176/187",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602630,
+   "name": "Bianca's Devotion",
+   "number": "177/187",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602583,
+   "name": "Rescue Board",
+   "number": "153/187",
+   "rarity": "Common",
+   "marketPrice": 0.19,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602381,
+   "name": "Milotic (Mirror Foil)",
+   "number": "036/187",
+   "rarity": "Common",
+   "marketPrice": 1.2,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604552,
+   "name": "Ceruledge (Master Ball Pattern)",
+   "number": "070/187",
+   "rarity": "Common",
+   "marketPrice": 9.23,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602342,
+   "name": "Rellor (Mirror Foil)",
+   "number": "013/187",
+   "rarity": "Common",
+   "marketPrice": 0.67,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602490,
+   "name": "Morpeko (Mirror Foil)",
+   "number": "098/187",
+   "rarity": "Common",
+   "marketPrice": 1.09,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602396,
+   "name": "Palafin",
+   "number": "045/187",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604599,
+   "name": "Fan Rotom (Master Ball Pattern)",
+   "number": "131/187",
+   "rarity": "Common",
+   "marketPrice": 3.72,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602497,
+   "name": "Munkidori ex",
+   "number": "103/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.26,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602336,
+   "name": "Hydrapple ex",
+   "number": "010/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.32,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602371,
+   "name": "Vaporeon ex",
+   "number": "031/187",
+   "rarity": "Double Rare",
+   "marketPrice": 1.1,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602364,
+   "name": "Gouging Fire ex",
+   "number": "027/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.3,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602676,
+   "name": "Sylveon ex",
+   "number": "212/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 102.3,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602555,
+   "name": "Terapagos ex",
+   "number": "136/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.36,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602683,
+   "name": "Pecharunt ex",
+   "number": "219/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 4.58,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602386,
+   "name": "Garchomp ex",
+   "number": "039/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.33,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602537,
+   "name": "Eevee ex",
+   "number": "126/187",
+   "rarity": "Double Rare",
+   "marketPrice": 1.77,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602437,
+   "name": "Sylveon ex",
+   "number": "069/187",
+   "rarity": "Double Rare",
+   "marketPrice": 1.79,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602413,
+   "name": "Iron Thorns ex",
+   "number": "056/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.32,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602531,
+   "name": "Koraidon (Mirror Foil)",
+   "number": "122/187",
+   "rarity": "Common",
+   "marketPrice": 0.65,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604550,
+   "name": "Swirlix (Master Ball Pattern)",
+   "number": "067/187",
+   "rarity": "Common",
+   "marketPrice": 2.67,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604555,
+   "name": "Gimmighoul (Master Ball Pattern)",
+   "number": "073/187",
+   "rarity": "Common",
+   "marketPrice": 2.34,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604506,
+   "name": "Grookey (Master Ball Pattern)",
+   "number": "006/187",
+   "rarity": "Common",
+   "marketPrice": 4.36,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602360,
+   "name": "Iron Moth (Mirror Foil)",
+   "number": "024/187",
+   "rarity": "Common",
+   "marketPrice": 0.65,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602434,
+   "name": "Swirlix (Mirror Foil)",
+   "number": "067/187",
+   "rarity": "Common",
+   "marketPrice": 0.7,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602541,
+   "name": "Noctowl (Mirror Foil)",
+   "number": "128/187",
+   "rarity": "Common",
+   "marketPrice": 0.64,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604556,
+   "name": "Munkidori (Master Ball Pattern)",
+   "number": "075/187",
+   "rarity": "Common",
+   "marketPrice": 4.4,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602343,
+   "name": "Rabsca",
+   "number": "014/187",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602666,
+   "name": "Flareon ex",
+   "number": "202/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 49.92,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602690,
+   "name": "Terapagos ex",
+   "number": "226/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 4.83,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602681,
+   "name": "Umbreon ex",
+   "number": "217/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 399.2,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602410,
+   "name": "Iron Hands ex",
+   "number": "054/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.26,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602534,
+   "name": "Raging Bolt ex",
+   "number": "124/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.33,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602677,
+   "name": "Iron Valiant ex",
+   "number": "213/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 7.58,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602686,
+   "name": "Raging Bolt ex",
+   "number": "222/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 12.84,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602530,
+   "name": "Koraidon",
+   "number": "122/187",
+   "rarity": "Common",
+   "marketPrice": 0.26,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602363,
+   "name": "Hearthflame Mask Ogerpon ex",
+   "number": "026/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.28,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602440,
+   "name": "Scream Tail",
+   "number": "071/187",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602588,
+   "name": "Luxurious Cape (Mirror Foil)",
+   "number": "155/187",
+   "rarity": "Common",
+   "marketPrice": 0.41,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602536,
+   "name": "Eevee (Mirror Foil)",
+   "number": "125/187",
+   "rarity": "Common",
+   "marketPrice": 3.68,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602679,
+   "name": "Sandy Shocks ex",
+   "number": "215/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 4.13,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602362,
+   "name": "Chi-Yu (Mirror Foil)",
+   "number": "025/187",
+   "rarity": "Common",
+   "marketPrice": 1.17,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602592,
+   "name": "Ancient Booster Energy Capsule (Mirror Foil)",
+   "number": "157/187",
+   "rarity": "Common",
+   "marketPrice": 0.33,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602673,
+   "name": "Jolteon ex",
+   "number": "209/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 46.86,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602669,
+   "name": "Vaporeon ex",
+   "number": "205/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 52.54,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602687,
+   "name": "Eevee ex",
+   "number": "223/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 38.48,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602478,
+   "name": "Umbreon",
+   "number": "092/187",
+   "rarity": "Common",
+   "marketPrice": 0.34,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602499,
+   "name": "Pecharunt ex",
+   "number": "105/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.36,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602675,
+   "name": "Espeon ex",
+   "number": "211/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 57.57,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602527,
+   "name": "Dragapult ex",
+   "number": "120/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.26,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602446,
+   "name": "Iron Valiant ex",
+   "number": "074/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.3,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602405,
+   "name": "Jolteon",
+   "number": "051/187",
+   "rarity": "Common",
+   "marketPrice": 0.3,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602387,
+   "name": "Glaceon",
+   "number": "040/187",
+   "rarity": "Common",
+   "marketPrice": 0.23,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602670,
+   "name": "Glaceon ex",
+   "number": "206/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 59.14,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602689,
+   "name": "Bloodmoon Ursaluna ex",
+   "number": "225/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 9.74,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602369,
+   "name": "Vaporeon",
+   "number": "030/187",
+   "rarity": "Common",
+   "marketPrice": 0.26,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604645,
+   "name": "Mist Energy (Master Ball Pattern)",
+   "number": "186/187",
+   "rarity": "Common",
+   "marketPrice": null,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602385,
+   "name": "Froslass (Mirror Foil)",
+   "number": "038/187",
+   "rarity": "Common",
+   "marketPrice": 0.76,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602532,
+   "name": "Miraidon",
+   "number": "123/187",
+   "rarity": "Common",
+   "marketPrice": 0.21,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602557,
+   "name": "Ogre's Mask (Mirror Foil)",
+   "number": "137/187",
+   "rarity": "Common",
+   "marketPrice": 0.71,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602578,
+   "name": "Bug Catching Set",
+   "number": "150/187",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604566,
+   "name": "Great Tusk (Master Ball Pattern)",
+   "number": "086/187",
+   "rarity": "Common",
+   "marketPrice": 2.86,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604579,
+   "name": "Metang (Master Ball Pattern)",
+   "number": "107/187",
+   "rarity": "Common",
+   "marketPrice": 3.27,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602600,
+   "name": "Larry's Efficiency",
+   "number": "162/187",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602632,
+   "name": "Morty's Conviction",
+   "number": "178/187",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602550,
+   "name": "Bouffalant",
+   "number": "133/187",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602544,
+   "name": "Dudunsparce",
+   "number": "130/187",
+   "rarity": "Common",
+   "marketPrice": 0.2,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602389,
+   "name": "Glaceon ex",
+   "number": "041/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.97,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602407,
+   "name": "Jolteon ex",
+   "number": "052/187",
+   "rarity": "Double Rare",
+   "marketPrice": 1.27,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602688,
+   "name": "Eevee ex",
+   "number": "224/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 22.1,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602487,
+   "name": "Zoroark",
+   "number": "097/187",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602586,
+   "name": "Binding Mochi (Mirror Foil)",
+   "number": "154/187",
+   "rarity": "Common",
+   "marketPrice": 0.42,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602335,
+   "name": "Dipplin (Mirror Foil)",
+   "number": "009/187",
+   "rarity": "Common",
+   "marketPrice": 0.88,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602398,
+   "name": "Palafin ex",
+   "number": "046/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.3,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602664,
+   "name": "Leafeon ex",
+   "number": "200/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 58.88,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602426,
+   "name": "Espeon ex",
+   "number": "063/187",
+   "rarity": "Double Rare",
+   "marketPrice": 1.51,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602374,
+   "name": "Croconaw",
+   "number": "033/187",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602697,
+   "name": "Iron Leaves ex",
+   "number": "233/187",
+   "rarity": "Ultra Rare",
+   "marketPrice": 3.72,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602693,
+   "name": "Drayton",
+   "number": "229/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 3.62,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602691,
+   "name": "Crispin",
+   "number": "227/187",
+   "rarity": "Special Art Rare",
+   "marketPrice": 4.74,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602521,
+   "name": "Iron Treads (Mirror Foil)",
+   "number": "116/187",
+   "rarity": "Common",
+   "marketPrice": 0.64,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604539,
+   "name": "Zeraora (Master Ball Pattern)",
+   "number": "053/187",
+   "rarity": "Common",
+   "marketPrice": 5.15,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602610,
+   "name": "Professor Sada's Vitality",
+   "number": "167/187",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602645,
+   "name": "Jet Energy",
+   "number": "185/187",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602420,
+   "name": "Natu",
+   "number": "060/187",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602631,
+   "name": "Bianca's Devotion (Mirror Foil)",
+   "number": "177/187",
+   "rarity": "Common",
+   "marketPrice": 0.72,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602348,
+   "name": "Poltchageist",
+   "number": "017/187",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602390,
+   "name": "Wiglett",
+   "number": "042/187",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602638,
+   "name": "Jamming Tower",
+   "number": "181/187",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602384,
+   "name": "Froslass",
+   "number": "038/187",
+   "rarity": "Common",
+   "marketPrice": 0.24,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602347,
+   "name": "Iron Leaves ex",
+   "number": "016/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.29,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602392,
+   "name": "Wugtrio",
+   "number": "043/187",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602572,
+   "name": "Tera Orb (Mirror Foil)",
+   "number": "145/187",
+   "rarity": "Common",
+   "marketPrice": 0.71,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602590,
+   "name": "Haban Berry (Mirror Foil)",
+   "number": "156/187",
+   "rarity": "Common",
+   "marketPrice": 0.35,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602597,
+   "name": "Technical Machine: Evolution (Mirror Foil)",
+   "number": "160/187",
+   "rarity": "Common",
+   "marketPrice": 0.49,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602607,
+   "name": "Ciphermaniac's Codebreaking (Mirror Foil)",
+   "number": "165/187",
+   "rarity": "Common",
+   "marketPrice": 0.34,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604512,
+   "name": "Rellor (Master Ball Pattern)",
+   "number": "013/187",
+   "rarity": "Common",
+   "marketPrice": 3.16,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604520,
+   "name": "Chi-Yu (Master Ball Pattern)",
+   "number": "025/187",
+   "rarity": "Common",
+   "marketPrice": 4.73,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602431,
+   "name": "Dusknoir",
+   "number": "066/187",
+   "rarity": "Common",
+   "marketPrice": 0.19,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602558,
+   "name": "Enhanced Hammer",
+   "number": "138/187",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602622,
+   "name": "Amarys",
+   "number": "173/187",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602472,
+   "name": "Sandy Shocks ex",
+   "number": "088/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.33,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602353,
+   "name": "Teal Mask Ogerpon ex",
+   "number": "020/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.27,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602403,
+   "name": "Walking Wake ex",
+   "number": "049/187",
+   "rarity": "Double Rare",
+   "marketPrice": 0.29,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604580,
+   "name": "Jirachi (Master Ball Pattern)",
+   "number": "108/187",
+   "rarity": "Common",
+   "marketPrice": 18.04,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602358,
+   "name": "Charcadet (Mirror Foil)",
+   "number": "023/187",
+   "rarity": "Common",
+   "marketPrice": 0.6,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602457,
+   "name": "Groudon (Mirror Foil)",
+   "number": "080/187",
+   "rarity": "Common",
+   "marketPrice": 0.75,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602625,
+   "name": "Friends in Paldea (Mirror Foil)",
+   "number": "174/187",
+   "rarity": "Common",
+   "marketPrice": 0.43,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602414,
+   "name": "Abra",
+   "number": "057/187",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602605,
+   "name": "Colress's Tenacity (Mirror Foil)",
+   "number": "164/187",
+   "rarity": "Common",
+   "marketPrice": 0.61,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602698,
+   "name": "Teal Mask Ogerpon ex",
+   "number": "234/187",
+   "rarity": "Ultra Rare",
+   "marketPrice": 4.96,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604524,
+   "name": "Totodile (Master Ball Pattern)",
+   "number": "032/187",
+   "rarity": "Common",
+   "marketPrice": 15.63,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 604545,
+   "name": "Xatu (Master Ball Pattern)",
+   "number": "061/187",
+   "rarity": "Common",
+   "marketPrice": 5.11,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602319,
+   "name": "Budew",
+   "number": "001/187",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602320,
+   "name": "Budew (Mirror Foil)",
+   "number": "001/187",
+   "rarity": "Common",
+   "marketPrice": 0.76,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602325,
+   "name": "Cottonee (Mirror Foil)",
+   "number": "004/187",
+   "rarity": "Common",
+   "marketPrice": 0.75,
+   "setName": "SV8a: Terastal Fest ex"
+  },
+  {
+   "productId": 602430,
+   "name": "Dusclops (Mirror Foil)",
+   "number": "065/187",
+   "rarity": "Common",
+   "marketPrice": 0.45,
+   "setName": "SV8a: Terastal Fest ex"
+  }
+ ]
+}

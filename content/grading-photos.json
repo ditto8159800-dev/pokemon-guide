@@ -1,40 +1,89 @@
 {
-  "_note": "Real slab photos shown on grading.html. Each image was checked by eye to be the right company. Empty-slab photos could not be found from sources reachable from the build machine (see report).",
+  "_note": "Real slab photos shown on grading.html. Each image was checked by eye to be the right company.",
   "PSA": {
     "how": "紅框白底標籤在上方：左邊寫年份／系列／卡名，右邊寫分數（例如 GEM MT 10）與 8–9 位數證書編號；標籤中間有 PSA 標誌與會隨角度變化的 LightHouse 全像防偽。沒有分項分數。",
-    "empty": null,
     "photos": [
-      {"src": "assets/grading/psa-pokemon.jpg", "alt": "PSA 10 鑑定盒裡的日版リザードンex SAR（SV2a 201/165）", "caption": "裝著寶可夢卡：日版リザードンex SAR（151），PSA 10（GEM MT）", "credit": "SNKRDUNK 賣家刊登照片", "url": "https://snkrdunk.com/en/trading-cards/used/listings/01M5T4W8G0CD5AA29H3212TN6S"},
-      {"src": "assets/grading/psa-official.jpg", "alt": "PSA 2024 新款鑑定盒（官方照片）", "caption": "PSA 官方照片：2024 年新款鑑定盒（醫療級塑膠，外型尺寸不變）", "credit": "PSA 官方文章《Meet The New Standard》", "url": "https://www.psacard.com/articles/articleview/11060/meet-the-new-standard"}
+      {
+        "src": "assets/grading/psa-pokemon.jpg",
+        "alt": "PSA 10 鑑定盒裡的日版リザードンex SAR（SV2a 201/165）",
+        "caption": "裝著寶可夢卡：日版リザードンex SAR（151），PSA 10（GEM MT）",
+        "credit": "SNKRDUNK 賣家刊登照片",
+        "url": "https://snkrdunk.com/en/trading-cards/used/listings/01M5T4W8G0CD5AA29H3212TN6S"
+      },
+      {
+        "src": "assets/grading/psa-official.jpg",
+        "alt": "PSA 2024 新款鑑定盒（官方照片）",
+        "caption": "PSA 官方照片：2024 年新款鑑定盒（醫療級塑膠，外型尺寸不變）",
+        "credit": "PSA 官方文章《Meet The New Standard》",
+        "url": "https://www.psacard.com/articles/articleview/11060/meet-the-new-standard"
+      }
     ]
   },
   "BGS": {
     "how": "標籤顏色看分數：黑標＝Pristine 10（四項全 10）、金標＝9.5／10、銀標＝其他分數；標籤上直接印 4 個分項分數（置中 Centering、邊角 Corners、邊緣 Edges、表面 Surface），左上有 Beckett「B」標誌。",
-    "empty": null,
     "photos": [
-      {"src": "assets/grading/bgs-pokemon.jpg", "alt": "BGS 9.5 鑑定盒裡的日版グレイシアVMAX", "caption": "裝著寶可夢卡：日版グレイシアVMAX（イーブイヒーローズ），BGS 9.5 金標，可看到 4 個分項分數", "credit": "SNKRDUNK 賣家刊登照片", "url": "https://snkrdunk.com/en/trading-cards/used/listings/01KYEVVXF04T5XFJ15AP84P3ZS"}
+      {
+        "src": "assets/grading/bgs-pokemon.jpg",
+        "alt": "BGS 9.5 鑑定盒裡的日版グレイシアVMAX",
+        "caption": "裝著寶可夢卡：日版グレイシアVMAX（イーブイヒーローズ），BGS 9.5 金標，可看到 4 個分項分數",
+        "credit": "SNKRDUNK 賣家刊登照片",
+        "url": "https://snkrdunk.com/en/trading-cards/used/listings/01KYEVVXF04T5XFJ15AP84P3ZS"
+      }
     ]
   },
   "CGC": {
     "how": "標籤上方有「CGC」標誌和 CERTIFIED GUARANTY COMPANY 字樣；一般高分（GEM MINT 10）是藍色系標籤，Pristine 10 是金色標籤；有條碼、QR code 與證書編號。",
-    "empty": null,
     "photos": [
-      {"src": "assets/grading/cgc-official.jpg", "alt": "CGC 官方宣傳圖：鑑定盒裡的水箭龜（Base Set）", "caption": "CGC 官方宣傳圖：左邊是寶可夢水箭龜（Base Set）GEM MINT 10 藍標，右邊是 Pristine 10 金標", "credit": "CGC Cards 官網首頁輪播圖", "url": "https://www.cgccards.com/"}
+      {
+        "src": "assets/grading/cgc-official.jpg",
+        "alt": "CGC 官方宣傳圖：鑑定盒裡的水箭龜（Base Set）",
+        "caption": "CGC 官方宣傳圖：左邊是寶可夢水箭龜（Base Set）GEM MINT 10 藍標，右邊是 Pristine 10 金標",
+        "credit": "CGC Cards 官網首頁輪播圖",
+        "url": "https://www.cgccards.com/"
+      }
     ]
   },
-  "SGC": {"how": "黑色外框標籤（俗稱「燕尾服 Tuxedo」）是最好認的特徵。", "empty": null, "photos": []},
+  "SGC": {
+    "how": "黑色外框墊板＋上方黑底白字標籤（俗稱「燕尾服 Tuxedo」）最好認：標籤左上角有小小的「SGC」字樣，左邊寫年份／系列／卡號／卡名，右邊是大大的分數（例如 10）和「GM」（Gem Mint）圓章，下方是證書編號；背面上方有 SGC 標誌。",
+    "photos": [
+      {
+        "src": "assets/grading/sgc-pokemon.jpg",
+        "alt": "SGC 10 鑑定盒裡的日版サザレ SR（SV5a 087/066）正面",
+        "caption": "裝著寶可夢卡：日版サザレ SR（クリムゾンヘイズ 087/066），SGC 10 GM——注意黑色墊板、標籤右邊的「10」與「GM」圓章",
+        "credit": "Dadachu.com 賣場商品照片",
+        "url": "https://www.dadachu.com/product-page/2024-pok%C3%A9mon-jp-sv5a-perrin-sr-087-crimson-haze-sgc-10-gem-mint"
+      },
+      {
+        "src": "assets/grading/sgc-back.jpg",
+        "alt": "同一張 SGC 鑑定盒背面",
+        "caption": "同一張的背面：上方黑底有銀色 SGC 標誌",
+        "credit": "Dadachu.com 賣場商品照片",
+        "url": "https://www.dadachu.com/product-page/2024-pok%C3%A9mon-jp-sv5a-perrin-sr-087-crimson-haze-sgc-10-gem-mint"
+      }
+    ]
+  },
   "TAG": {
     "how": "沒有紙標籤：分數、卡名、QR code 直接印／刻在透明殼上方的黑色區塊，頂端有「TAG」字樣；除了 1–10 分外還有 1000 分制的 TAG Score（掃 QR code 看詳細報告）。",
-    "empty": null,
     "photos": [
-      {"src": "assets/grading/tag-official.jpg", "alt": "TAG 官方圖：鑑定盒裡的噴火龍VMAX與仙子伊布ex", "caption": "TAG 官方圖：噴火龍VMAX、仙子伊布ex 都是 10 分；左邊說明 10 分制 Grade，右邊說明 1000 分制 Score", "credit": "TAG Grading 官網", "url": "https://taggrading.com/"}
+      {
+        "src": "assets/grading/tag-official.jpg",
+        "alt": "TAG 官方圖：鑑定盒裡的噴火龍VMAX與仙子伊布ex",
+        "caption": "TAG 官方圖：噴火龍VMAX、仙子伊布ex 都是 10 分；左邊說明 10 分制 Grade，右邊說明 1000 分制 Score",
+        "credit": "TAG Grading 官網",
+        "url": "https://taggrading.com/"
+      }
     ]
   },
   "ACE": {
     "how": "英國公司。標籤在上方，可選標準黑金標籤、配色標籤，或延伸卡圖的特製「ACE 標籤」；右側大字是分數（例如 10 GEM MINT），背面有 ACE 標誌與 QR code。",
-    "empty": null,
     "photos": [
-      {"src": "assets/grading/ace-official.jpg", "alt": "ACE 官方圖：鑑定盒裡的妙蛙種子", "caption": "ACE 官方圖：寶可夢妙蛙種子，10 分", "credit": "ACE Grading 官網", "url": "https://acegrading.com/"}
+      {
+        "src": "assets/grading/ace-official.jpg",
+        "alt": "ACE 官方圖：鑑定盒裡的妙蛙種子",
+        "caption": "ACE 官方圖：寶可夢妙蛙種子，10 分",
+        "credit": "ACE Grading 官網",
+        "url": "https://acegrading.com/"
+      }
     ]
   }
 }

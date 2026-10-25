@@ -1,0 +1,895 @@
+{
+ "set": "M6",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 709211,
+   "name": "Mega Rayquaza ex",
+   "number": "058/076",
+   "rarity": "Double Rare",
+   "marketPrice": 2,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709238,
+   "name": "Inkay",
+   "number": "085/076",
+   "rarity": "Art Rare",
+   "marketPrice": 2.87,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709260,
+   "name": "Mega Golisopod ex",
+   "number": "107/076",
+   "rarity": "Special Art Rare",
+   "marketPrice": 10.27,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709187,
+   "name": "Mega Golurk ex",
+   "number": "033/076",
+   "rarity": "Double Rare",
+   "marketPrice": 0.38,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709227,
+   "name": "Legendary Summit",
+   "number": "074/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.21,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709205,
+   "name": "Kommo-o",
+   "number": "052/076",
+   "rarity": "Rare",
+   "marketPrice": 0.17,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709173,
+   "name": "Mantine",
+   "number": "017/076",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709179,
+   "name": "Electivire",
+   "number": "023/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.14,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709223,
+   "name": "Tate & Liza's Training",
+   "number": "070/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.36,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709329,
+   "name": "Legendary Marine Trench [Set of 2]",
+   "number": "071/076 / 072/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.49,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709327,
+   "name": "Legendary Summit [Set of 2]",
+   "number": "073/076 / 074/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.47,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709266,
+   "name": "Zinnia's Trust",
+   "number": "112/076",
+   "rarity": "Special Art Rare",
+   "marketPrice": 21.63,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709239,
+   "name": "Azurill",
+   "number": "086/076",
+   "rarity": "Art Rare",
+   "marketPrice": 4.46,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709245,
+   "name": "Raikou ex",
+   "number": "092/076",
+   "rarity": "Super Rare",
+   "marketPrice": 4.95,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709209,
+   "name": "Altaria",
+   "number": "056/076",
+   "rarity": "Rare",
+   "marketPrice": 0.32,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709206,
+   "name": "Cyclizar",
+   "number": "053/076",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709196,
+   "name": "Nidoqueen",
+   "number": "043/076",
+   "rarity": "Rare",
+   "marketPrice": 0.25,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709180,
+   "name": "Pincurchin",
+   "number": "026/076",
+   "rarity": "Common",
+   "marketPrice": 0.2,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709232,
+   "name": "Magmortar",
+   "number": "079/076",
+   "rarity": "Art Rare",
+   "marketPrice": 2.83,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709203,
+   "name": "Jangmo-o",
+   "number": "050/076",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709230,
+   "name": "Masquerain",
+   "number": "077/076",
+   "rarity": "Art Rare",
+   "marketPrice": 1.55,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709158,
+   "name": "Surskit",
+   "number": "002/076",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709163,
+   "name": "Vespiquen",
+   "number": "007/076",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709170,
+   "name": "Torkoal",
+   "number": "014/076",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709197,
+   "name": "Spinarak",
+   "number": "044/076",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709236,
+   "name": "Enamorus",
+   "number": "083/076",
+   "rarity": "Art Rare",
+   "marketPrice": 1.37,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709234,
+   "name": "Electivire",
+   "number": "081/076",
+   "rarity": "Art Rare",
+   "marketPrice": 2.81,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709186,
+   "name": "Golett",
+   "number": "032/076",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709261,
+   "name": "Raikou ex",
+   "number": "108/076",
+   "rarity": "Special Art Rare",
+   "marketPrice": 43.76,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709199,
+   "name": "Sableye",
+   "number": "046/076",
+   "rarity": "Common",
+   "marketPrice": 0.29,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709157,
+   "name": "Heracross",
+   "number": "001/076",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709190,
+   "name": "Onix",
+   "number": "037/076",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709207,
+   "name": "Azurill",
+   "number": "054/076",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709235,
+   "name": "Pincurchin",
+   "number": "082/076",
+   "rarity": "Art Rare",
+   "marketPrice": 2.33,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709228,
+   "name": "Legendary Lava Tube",
+   "number": "075/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.29,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709176,
+   "name": "Jellicent",
+   "number": "020/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.17,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709168,
+   "name": "Magmar",
+   "number": "012/076",
+   "rarity": "Common",
+   "marketPrice": 0.21,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709246,
+   "name": "Mega Golurk ex",
+   "number": "093/076",
+   "rarity": "Super Rare",
+   "marketPrice": 4.2,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709202,
+   "name": "Druddigon",
+   "number": "049/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.18,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709286,
+   "name": "Raikou ex",
+   "number": "024/076",
+   "rarity": "Double Rare",
+   "marketPrice": 0.37,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709258,
+   "name": "Nitro Fire Energy",
+   "number": "105/076",
+   "rarity": "Super Rare",
+   "marketPrice": 0.47,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709164,
+   "name": "Wimpod",
+   "number": "008/076",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709244,
+   "name": "Wishiwashi ex",
+   "number": "091/076",
+   "rarity": "Super Rare",
+   "marketPrice": 3.26,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709248,
+   "name": "Mega Rayquaza ex",
+   "number": "095/076",
+   "rarity": "Super Rare",
+   "marketPrice": 19.37,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709225,
+   "name": "Legendary Marine Trench",
+   "number": "072/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.22,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709166,
+   "name": "Growlithe",
+   "number": "010/076",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709198,
+   "name": "Ariados",
+   "number": "045/076",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709224,
+   "name": "Legendary Marine Trench",
+   "number": "071/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.28,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709222,
+   "name": "Zinnia's Trust",
+   "number": "069/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709289,
+   "name": "Thundurus",
+   "number": "025/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709194,
+   "name": "Nidoran F",
+   "number": "041/076",
+   "rarity": "Common",
+   "marketPrice": 0.23,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709165,
+   "name": "Mega Golisopod ex",
+   "number": "009/076",
+   "rarity": "Double Rare",
+   "marketPrice": 0.5,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709218,
+   "name": "Custom Vest",
+   "number": "065/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.19,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709201,
+   "name": "Mega Malamar ex",
+   "number": "048/076",
+   "rarity": "Double Rare",
+   "marketPrice": 0.34,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709259,
+   "name": "Bubbly Water Energy",
+   "number": "106/076",
+   "rarity": "Super Rare",
+   "marketPrice": 0.53,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709177,
+   "name": "Wishiwashi ex",
+   "number": "021/076",
+   "rarity": "Double Rare",
+   "marketPrice": 0.25,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709262,
+   "name": "Mega Golurk ex",
+   "number": "109/076",
+   "rarity": "Special Art Rare",
+   "marketPrice": 17.01,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709185,
+   "name": "Giratina",
+   "number": "031/076",
+   "rarity": "Rare",
+   "marketPrice": 0.52,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709217,
+   "name": "Adventuring Lantern",
+   "number": "064/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709167,
+   "name": "Arcanine",
+   "number": "011/076",
+   "rarity": "Rare",
+   "marketPrice": 0.29,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709255,
+   "name": "Zinnia's Trust",
+   "number": "102/076",
+   "rarity": "Super Rare",
+   "marketPrice": 10.11,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709264,
+   "name": "Mega Rayquaza ex",
+   "number": "110/076",
+   "rarity": "Special Art Rare",
+   "marketPrice": 269.87,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709231,
+   "name": "Growlithe",
+   "number": "078/076",
+   "rarity": "Art Rare",
+   "marketPrice": 5.3,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709233,
+   "name": "Kyogre",
+   "number": "080/076",
+   "rarity": "Art Rare",
+   "marketPrice": 9.21,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709191,
+   "name": "Steelix",
+   "number": "038/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709193,
+   "name": "Landorus",
+   "number": "040/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.14,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709182,
+   "name": "Kilowattrel",
+   "number": "028/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.2,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709213,
+   "name": "Fletchling",
+   "number": "060/076",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709240,
+   "name": "Altaria",
+   "number": "087/076",
+   "rarity": "Art Rare",
+   "marketPrice": 4.53,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709215,
+   "name": "Talonflame ex",
+   "number": "062/076",
+   "rarity": "Double Rare",
+   "marketPrice": 0.71,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709189,
+   "name": "Sandslash",
+   "number": "036/076",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709172,
+   "name": "Heatmor",
+   "number": "016/076",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709212,
+   "name": "Tornadus",
+   "number": "059/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.22,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709171,
+   "name": "Heat Rotom ex",
+   "number": "015/076",
+   "rarity": "Double Rare",
+   "marketPrice": 0.28,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709247,
+   "name": "Mega Malamar ex",
+   "number": "094/076",
+   "rarity": "Super Rare",
+   "marketPrice": 5.15,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709216,
+   "name": "Delicious Onigiri",
+   "number": "063/076",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709254,
+   "name": "Aarune",
+   "number": "101/076",
+   "rarity": "Super Rare",
+   "marketPrice": 3.66,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709226,
+   "name": "Legendary Summit",
+   "number": "073/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.26,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709219,
+   "name": "Mega Rayquaza Cap",
+   "number": "066/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.2,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709184,
+   "name": "Hypno",
+   "number": "030/076",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709159,
+   "name": "Masquerain",
+   "number": "003/076",
+   "rarity": "Common",
+   "marketPrice": 0.2,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709183,
+   "name": "Drowzee",
+   "number": "029/076",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709169,
+   "name": "Magmortar",
+   "number": "013/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.25,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709178,
+   "name": "Electabuzz",
+   "number": "022/076",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709188,
+   "name": "Enamorus",
+   "number": "034/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709200,
+   "name": "Inkay",
+   "number": "047/076",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709288,
+   "name": "Sandshrew",
+   "number": "035/076",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709160,
+   "name": "Cacnea",
+   "number": "004/076",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709204,
+   "name": "Hakamo-o",
+   "number": "051/076",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709220,
+   "name": "Emcee's Hype",
+   "number": "067/076",
+   "rarity": "Common",
+   "marketPrice": 0.24,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709242,
+   "name": "Mega Golisopod ex",
+   "number": "089/076",
+   "rarity": "Super Rare",
+   "marketPrice": 5.43,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709249,
+   "name": "Talonflame ex",
+   "number": "096/076",
+   "rarity": "Super Rare",
+   "marketPrice": 4.61,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709267,
+   "name": "Mega Rayquaza ex",
+   "number": "113/076",
+   "rarity": "Mega Ultra Rare",
+   "marketPrice": 747.33,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709243,
+   "name": "Heat Rotom ex",
+   "number": "090/076",
+   "rarity": "Super Rare",
+   "marketPrice": 3.19,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709252,
+   "name": "Custom Vest",
+   "number": "099/076",
+   "rarity": "Super Rare",
+   "marketPrice": 0.52,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709250,
+   "name": "Adventuring Lantern",
+   "number": "097/076",
+   "rarity": "Super Rare",
+   "marketPrice": 1.15,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709265,
+   "name": "Aarune",
+   "number": "111/076",
+   "rarity": "Special Art Rare",
+   "marketPrice": 7.34,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709251,
+   "name": "Pokemon Catcher",
+   "number": "098/076",
+   "rarity": "Super Rare",
+   "marketPrice": 0.48,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709175,
+   "name": "Frillish",
+   "number": "019/076",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709174,
+   "name": "Kyogre",
+   "number": "018/076",
+   "rarity": "Rare",
+   "marketPrice": 0.3,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709192,
+   "name": "Groudon",
+   "number": "039/076",
+   "rarity": "Rare",
+   "marketPrice": 0.25,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709328,
+   "name": "Legendary Lava Tube [Set of 2]",
+   "number": "075/076 / 076/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.67,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709161,
+   "name": "Cacturne",
+   "number": "005/076",
+   "rarity": "Rare",
+   "marketPrice": 0.23,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709214,
+   "name": "Fletchinder",
+   "number": "061/076",
+   "rarity": "Common",
+   "marketPrice": 0.23,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709208,
+   "name": "Swablu",
+   "number": "055/076",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709195,
+   "name": "Nidorina",
+   "number": "042/076",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709162,
+   "name": "Combee",
+   "number": "006/076",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709181,
+   "name": "Wattrel",
+   "number": "027/076",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709229,
+   "name": "Legendary Lava Tube",
+   "number": "076/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.22,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709257,
+   "name": "Growing Grass Energy",
+   "number": "104/076",
+   "rarity": "Super Rare",
+   "marketPrice": 0.58,
+   "setName": "M6: Storm Emeralda"
+  },
+  {
+   "productId": 709221,
+   "name": "Aarune",
+   "number": "068/076",
+   "rarity": "Uncommon",
+   "marketPrice": 0.29,
+   "setName": "M6: Storm Emeralda"
+  }
+ ]
+}

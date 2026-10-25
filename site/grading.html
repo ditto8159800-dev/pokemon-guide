@@ -1,22 +1,19 @@
 <!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>鑑定機構介紹｜寶可夢卡牌學習站</title><link rel="stylesheet" href="assets/style.css">
+<title>鑑定機構目錄｜寶可夢卡牌學習站</title><link rel="stylesheet" href="assets/style.css">
 <script src="data/sets.js"></script><script src="data/content.js"></script><script src="assets/common.js"></script></head>
 <body><div class="layout"><main>
-<h1>🏷️ 卡片鑑定機構介紹</h1>
-<p class="muted">「鑑定卡」是把卡片寄給專業公司評分（品相分數），再封進有標籤的硬殼（俗稱「盒卡」「Slab」）。分數越高、公司越有名，通常價格越高。</p>
+<h1>🏷️ 卡片鑑定機構目錄</h1>
+<p class="muted">「鑑定卡」是把卡片寄給專業公司評分（品相分數），再封進有標籤的硬殼（俗稱「盒卡」「Slab」）。分數越高、公司越有名，通常價格越高。點下面任一家公司，看「標籤上每一格寫了什麼」的編號圖解和實物照片。</p>
 <div class="panel"><b>新手先記：</b>
 <ul class="pc"><li>分數大多是 1–10 分，<b>10 分</b>是最高（PSA 叫 GEM MT 10）。</li>
 <li>評分看四件事：<b>置中</b>（圖案是否在正中間）、<b>邊角</b>、<b>邊緣</b>、<b>表面</b>（刮痕、白點）。</li>
-<li>寶可夢卡市場最主流是 <b>PSA</b>；想看細項分數可以選 <b>BGS</b> 或 <b>CGC</b>。</li></ul></div>
-<div class="cols" id="list"></div>
+<li>寶可夢卡市場最主流是 <b>PSA</b>；想看細項分數可以選 <b>BGS</b>（印在標籤上）或 <b>ACE</b>／<b>TAG</b>（看線上報告）。</li>
+<li>每張鑑定卡都有<b>證書編號</b>，買之前先到該公司官網輸入編號查驗。</li></ul></div>
+<div class="gcards" id="list"></div>
 <p class="small muted">標示「待確認」的內容表示尚未找到可靠來源核實，請以各公司官網為準。</p>
 </main></div>
 <script>
-document.getElementById('list').innerHTML=GRADING.map(g=>`<div class="panel"><h3>${esc(g.name)} <span class="small muted">${esc(g.full)}</span></h3>
-<table class="kv"><tr><td>國家／成立</td><td>${esc(g.country)} · ${esc(g.since)}</td></tr><tr><td>分數制度</td><td>${esc(g.scale)}</td></tr><tr><td>標籤／外殼</td><td>${esc(g.label)}</td></tr>
-<tr><td>優點</td><td><ul class="pc">${g.pros.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></td></tr><tr><td>缺點</td><td><ul class="pc">${g.cons.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></td></tr></table>${slabPhotos(g.name)}</div>`).join('');
-// real slab photos (content/grading-photos.json)
-function slabPhotos(name){const P=(window.GRADING_PHOTOS||{})[name];if(!P)return '';
-  const ph=(P.photos||[]).map(p=>`<figure class="slab"><a href="${esc(p.src)}" target="_blank" rel="noopener"><img loading="lazy" src="${esc(p.src)}" alt="${esc(p.alt)}"></a><figcaption class="small">${esc(p.caption)}<br><span class="muted">圖片來源：<a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.credit)}</a></span></figcaption></figure>`).join('');
-  return `<h4>📷 實物照片怎麼認</h4><p class="small">${esc(P.how)}</p><div class="slabs">${ph}${P.empty?'':'<div class="small muted slab-missing">空盒照片：暫無（還沒找到可靠來源）</div>'}${(P.photos||[]).length?'':'<div class="small muted slab-missing">裝卡照片：暫無（還沒找到可靠來源）</div>'}</div>`;}
+const ORDER=['PSA','BGS','CGC','SGC','TAG','ACE'];
+document.getElementById('list').innerHTML=ORDER.map(n=>{const L=GRADING_LABELS[n],G=GRADING.find(g=>g.name===n)||{};
+  return `<a class="panel gcard" href="grading-${L.slug}.html"><img loading="lazy" src="${esc(L.photo)}" alt="${n} 鑑定盒實物照片"><div><h3 style="margin:0">${n}</h3><div class="small muted">${esc(G.full||'')}</div><div class="small">${esc(L.intro)}</div><div class="small" style="margin-top:6px"><b>看標籤圖解 →</b></div></div></a>`;}).join('');
 </script></body></html>

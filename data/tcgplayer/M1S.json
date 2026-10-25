@@ -1,0 +1,711 @@
+{
+ "set": "M1S",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 647250,
+   "name": "Mega Manectric ex",
+   "number": "032/063",
+   "rarity": "Double Rare",
+   "marketPrice": 0.29,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647273,
+   "name": "Clawitzer",
+   "number": "020/063",
+   "rarity": "Rare",
+   "marketPrice": 0.11,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647228,
+   "name": "Ninjask",
+   "number": "065/063",
+   "rarity": "Art Rare",
+   "marketPrice": 1.82,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647249,
+   "name": "Electrike",
+   "number": "031/063",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647271,
+   "name": "Xerneas",
+   "number": "046/063",
+   "rarity": "Rare",
+   "marketPrice": 0.21,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647203,
+   "name": "Buddy-Buddy Poffin",
+   "number": "081/063",
+   "rarity": "Super Rare",
+   "marketPrice": 0.76,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647204,
+   "name": "Mega Gardevoir ex",
+   "number": "042/063",
+   "rarity": "Double Rare",
+   "marketPrice": 0.41,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647234,
+   "name": "Alakazam",
+   "number": "071/063",
+   "rarity": "Art Rare",
+   "marketPrice": 3.53,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647274,
+   "name": "Clawitzer",
+   "number": "068/063",
+   "rarity": "Art Rare",
+   "marketPrice": 1.53,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647237,
+   "name": "Acerola's Mischief",
+   "number": "090/063",
+   "rarity": "Special Art Rare",
+   "marketPrice": 21.76,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647292,
+   "name": "Stufful",
+   "number": "075/063",
+   "rarity": "Art Rare",
+   "marketPrice": 3.39,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647233,
+   "name": "Alakazam",
+   "number": "038/063",
+   "rarity": "Rare",
+   "marketPrice": 0.38,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647247,
+   "name": "Mega Abomasnow ex",
+   "number": "018/063",
+   "rarity": "Double Rare",
+   "marketPrice": 0.41,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647232,
+   "name": "Kadabra",
+   "number": "037/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647238,
+   "name": "Mega Kangaskhan ex",
+   "number": "051/063",
+   "rarity": "Double Rare",
+   "marketPrice": 0.39,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647288,
+   "name": "Houndstone",
+   "number": "073/063",
+   "rarity": "Art Rare",
+   "marketPrice": 1.44,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647211,
+   "name": "Inteleon",
+   "number": "069/063",
+   "rarity": "Art Rare",
+   "marketPrice": 1.2,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647267,
+   "name": "Centiskorch",
+   "number": "013/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.07,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647256,
+   "name": "Delibird",
+   "number": "074/063",
+   "rarity": "Art Rare",
+   "marketPrice": 1.72,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647231,
+   "name": "Abra",
+   "number": "036/063",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647269,
+   "name": "Mantine",
+   "number": "015/063",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647291,
+   "name": "Stufful",
+   "number": "055/063",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647226,
+   "name": "Nincada",
+   "number": "007/063",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647223,
+   "name": "Wally's Compassion",
+   "number": "091/063",
+   "rarity": "Special Art Rare",
+   "marketPrice": 9.9,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647285,
+   "name": "Grumpig",
+   "number": "045/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.07,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647239,
+   "name": "Mega Kangaskhan ex",
+   "number": "080/063",
+   "rarity": "Super Rare",
+   "marketPrice": 2.63,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647281,
+   "name": "Helioptile",
+   "number": "034/063",
+   "rarity": "Common",
+   "marketPrice": 0.22,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647260,
+   "name": "Shuckle",
+   "number": "006/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647282,
+   "name": "Helioptile",
+   "number": "070/063",
+   "rarity": "Art Rare",
+   "marketPrice": 1.75,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647244,
+   "name": "Meganium",
+   "number": "005/063",
+   "rarity": "Rare",
+   "marketPrice": 0.22,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647213,
+   "name": "Ralts",
+   "number": "040/063",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647236,
+   "name": "Acerola's Mischief",
+   "number": "084/063",
+   "rarity": "Super Rare",
+   "marketPrice": 3.47,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647243,
+   "name": "Bayleef",
+   "number": "004/063",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647257,
+   "name": "Jynx",
+   "number": "039/063",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647278,
+   "name": "Magnemite",
+   "number": "027/063",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647219,
+   "name": "Mega Signal",
+   "number": "058/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.05,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647245,
+   "name": "Snover",
+   "number": "017/063",
+   "rarity": "Common",
+   "marketPrice": 0.06,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647287,
+   "name": "Houndstone",
+   "number": "048/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647251,
+   "name": "Mega Manectric ex",
+   "number": "077/063",
+   "rarity": "Super Rare",
+   "marketPrice": 1.68,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647210,
+   "name": "Inteleon",
+   "number": "023/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.08,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647220,
+   "name": "Mega Signal",
+   "number": "083/063",
+   "rarity": "Super Rare",
+   "marketPrice": 0.38,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647277,
+   "name": "Eiscue",
+   "number": "026/063",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647290,
+   "name": "Lopunny",
+   "number": "054/063",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647240,
+   "name": "Mega Kangaskhan ex",
+   "number": "089/063",
+   "rarity": "Special Art Rare",
+   "marketPrice": 26.81,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647214,
+   "name": "Kirlia",
+   "number": "041/063",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647216,
+   "name": "Mega Latias ex",
+   "number": "079/063",
+   "rarity": "Super Rare",
+   "marketPrice": 3.34,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647284,
+   "name": "Spoink",
+   "number": "044/063",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647205,
+   "name": "Mega Gardevoir ex",
+   "number": "078/063",
+   "rarity": "Super Rare",
+   "marketPrice": 4.14,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647279,
+   "name": "Magneton",
+   "number": "028/063",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647264,
+   "name": "Litleo",
+   "number": "066/063",
+   "rarity": "Art Rare",
+   "marketPrice": 2.08,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647206,
+   "name": "Mega Gardevoir ex",
+   "number": "087/063",
+   "rarity": "Special Art Rare",
+   "marketPrice": 91.16,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647208,
+   "name": "Sobble",
+   "number": "021/063",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647253,
+   "name": "Vitality Forest",
+   "number": "061/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647263,
+   "name": "Litleo",
+   "number": "010/063",
+   "rarity": "Common",
+   "marketPrice": 0.06,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647268,
+   "name": "Chi-Yu",
+   "number": "014/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647255,
+   "name": "Delibird",
+   "number": "052/063",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647280,
+   "name": "Magnezone",
+   "number": "029/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647212,
+   "name": "Pachirisu",
+   "number": "033/063",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647293,
+   "name": "Bewear",
+   "number": "056/063",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647242,
+   "name": "Chikorita",
+   "number": "003/063",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647262,
+   "name": "Dhelmise",
+   "number": "009/063",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647286,
+   "name": "Greavard",
+   "number": "047/063",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647283,
+   "name": "Heliolisk",
+   "number": "035/063",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647227,
+   "name": "Ninjask",
+   "number": "008/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.06,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647207,
+   "name": "Mega Gardevoir ex",
+   "number": "092/063",
+   "rarity": "Mega Ultra Rare",
+   "marketPrice": 240.51,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647235,
+   "name": "Acerola's Mischief",
+   "number": "059/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647215,
+   "name": "Mega Latias ex",
+   "number": "049/063",
+   "rarity": "Double Rare",
+   "marketPrice": 0.4,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647217,
+   "name": "Mega Latias ex",
+   "number": "088/063",
+   "rarity": "Special Art Rare",
+   "marketPrice": 30.79,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647248,
+   "name": "Mega Abomasnow ex",
+   "number": "076/063",
+   "rarity": "Super Rare",
+   "marketPrice": 1.52,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647230,
+   "name": "Shedinja",
+   "number": "072/063",
+   "rarity": "Art Rare",
+   "marketPrice": 1.95,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647218,
+   "name": "Latios",
+   "number": "050/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647229,
+   "name": "Shedinja",
+   "number": "043/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647261,
+   "name": "Shuckle",
+   "number": "064/063",
+   "rarity": "Art Rare",
+   "marketPrice": 2.68,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647259,
+   "name": "Tangrowth",
+   "number": "002/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647209,
+   "name": "Drizzile",
+   "number": "022/063",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647265,
+   "name": "Pyroar",
+   "number": "011/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.07,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647241,
+   "name": "Kyogre",
+   "number": "016/063",
+   "rarity": "Rare",
+   "marketPrice": 0.18,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647270,
+   "name": "Raikou",
+   "number": "030/063",
+   "rarity": "Rare",
+   "marketPrice": 0.38,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647272,
+   "name": "Clauncher",
+   "number": "019/063",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647225,
+   "name": "Mystery Garden",
+   "number": "086/063",
+   "rarity": "Super Rare",
+   "marketPrice": 0.5,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647224,
+   "name": "Mystery Garden",
+   "number": "063/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.06,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647202,
+   "name": "Rare Candy",
+   "number": "082/063",
+   "rarity": "Super Rare",
+   "marketPrice": 0.72,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647258,
+   "name": "Tangela",
+   "number": "001/063",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647254,
+   "name": "Surfing Beach",
+   "number": "062/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647276,
+   "name": "Frosmoth",
+   "number": "025/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.07,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647289,
+   "name": "Buneary",
+   "number": "053/063",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647222,
+   "name": "Wally's Compassion",
+   "number": "085/063",
+   "rarity": "Super Rare",
+   "marketPrice": 1.16,
+   "setName": "m1S: Mega Symphonia"
+  },
+  {
+   "productId": 647275,
+   "name": "Snom",
+   "number": "024/063",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "m1S: Mega Symphonia"
+  }
+ ]
+}

@@ -1,0 +1,1615 @@
+{
+ "set": "SV2a",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 566496,
+   "name": "Mew ex",
+   "number": "151/165",
+   "rarity": "Double Rare",
+   "marketPrice": 1.94,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566494,
+   "name": "Dragonite",
+   "number": "149/165",
+   "rarity": "Rare",
+   "marketPrice": 0.35,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566520,
+   "name": "Psyduck",
+   "number": "175/165",
+   "rarity": "Art Rare",
+   "marketPrice": 20.04,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566490,
+   "name": "Zapdos ex",
+   "number": "145/165",
+   "rarity": "Double Rare",
+   "marketPrice": 0.52,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566532,
+   "name": "Wigglytuff ex",
+   "number": "189/165",
+   "rarity": "Super Rare",
+   "marketPrice": 2.21,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566426,
+   "name": "Magnemite",
+   "number": "081/165",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566370,
+   "name": "Pikachu",
+   "number": "025/165",
+   "rarity": "Common",
+   "marketPrice": 0.25,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566644,
+   "name": "Voltorb (Poke Ball Pattern)",
+   "number": "100/165",
+   "rarity": "Common",
+   "marketPrice": 0.28,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566541,
+   "name": "Daisy's Help",
+   "number": "198/165",
+   "rarity": "Super Rare",
+   "marketPrice": 1.65,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566578,
+   "name": "Nidorina (Poke Ball Pattern)",
+   "number": "030/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.32,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566652,
+   "name": "Lickitung (Poke Ball Pattern)",
+   "number": "108/165",
+   "rarity": "Common",
+   "marketPrice": 0.44,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566558,
+   "name": "Wartortle",
+   "number": "008/165",
+   "rarity": "Uncommon",
+   "marketPrice": 1.68,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566678,
+   "name": "Flareon (Poke Ball Pattern)",
+   "number": "136/165",
+   "rarity": "Rare",
+   "marketPrice": 1.18,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566528,
+   "name": "Charizard ex",
+   "number": "185/165",
+   "rarity": "Super Rare",
+   "marketPrice": 20.34,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566673,
+   "name": "Lapras (Poke Ball Pattern)",
+   "number": "131/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.75,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566467,
+   "name": "Mr. Mime",
+   "number": "122/165",
+   "rarity": "Rare",
+   "marketPrice": 0.2,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566486,
+   "name": "Kabutops",
+   "number": "141/165",
+   "rarity": "Rare",
+   "marketPrice": 0.24,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566603,
+   "name": "Primeape (Poke Ball Pattern)",
+   "number": "057/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.59,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566549,
+   "name": "Giovanni's Charisma",
+   "number": "207/165",
+   "rarity": "Special Art Rare",
+   "marketPrice": 18.36,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566493,
+   "name": "Dragonair",
+   "number": "148/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.17,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566623,
+   "name": "Slowpoke (Poke Ball Pattern)",
+   "number": "079/165",
+   "rarity": "Common",
+   "marketPrice": 1.57,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566550,
+   "name": "Mew ex",
+   "number": "208/165",
+   "rarity": "Ultra Rare",
+   "marketPrice": 39.82,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566713,
+   "name": "Metapod (Master Ball Pattern)",
+   "number": "011/165",
+   "rarity": "Common",
+   "marketPrice": 18.87,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566525,
+   "name": "Omanyte",
+   "number": "180/165",
+   "rarity": "Art Rare",
+   "marketPrice": 3.3,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566371,
+   "name": "Raichu",
+   "number": "026/165",
+   "rarity": "Rare",
+   "marketPrice": 0.32,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566542,
+   "name": "Bill's Transfer",
+   "number": "199/165",
+   "rarity": "Super Rare",
+   "marketPrice": 1.53,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566638,
+   "name": "Gengar (Poke Ball Pattern)",
+   "number": "094/165",
+   "rarity": "Rare",
+   "marketPrice": 14.5,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566487,
+   "name": "Aerodactyl",
+   "number": "142/165",
+   "rarity": "Rare",
+   "marketPrice": 0.34,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566609,
+   "name": "Abra (Poke Ball Pattern)",
+   "number": "063/165",
+   "rarity": "Common",
+   "marketPrice": 0.32,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566555,
+   "name": "Charmander",
+   "number": "004/165",
+   "rarity": "Common",
+   "marketPrice": 2.19,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566588,
+   "name": "Golbat (Poke Ball Pattern)",
+   "number": "042/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.6,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566437,
+   "name": "Gastly",
+   "number": "092/165",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566537,
+   "name": "Zapdos ex",
+   "number": "194/165",
+   "rarity": "Super Rare",
+   "marketPrice": 3.68,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566586,
+   "name": "Jigglypuff (Poke Ball Pattern)",
+   "number": "039/165",
+   "rarity": "Common",
+   "marketPrice": 0.51,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566347,
+   "name": "Ivysaur",
+   "number": "002/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.23,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566631,
+   "name": "Dewgong (Poke Ball Pattern)",
+   "number": "087/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.63,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566639,
+   "name": "Onix (Poke Ball Pattern)",
+   "number": "095/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.33,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566653,
+   "name": "Koffing (Poke Ball Pattern)",
+   "number": "109/165",
+   "rarity": "Common",
+   "marketPrice": 0.95,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566581,
+   "name": "Nidorino (Poke Ball Pattern)",
+   "number": "033/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.34,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566607,
+   "name": "Poliwhirl",
+   "number": "061/165",
+   "rarity": "Common",
+   "marketPrice": 0.54,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566591,
+   "name": "Vileplume (Poke Ball Pattern)",
+   "number": "045/165",
+   "rarity": "Rare",
+   "marketPrice": 0.93,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566659,
+   "name": "Horsea (Poke Ball Pattern)",
+   "number": "116/165",
+   "rarity": "Common",
+   "marketPrice": 0.54,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566466,
+   "name": "Starmie",
+   "number": "121/165",
+   "rarity": "Rare",
+   "marketPrice": 0.2,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566568,
+   "name": "Rattata (Poke Ball Pattern)",
+   "number": "019/165",
+   "rarity": "Common",
+   "marketPrice": 0.46,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566684,
+   "name": "Aerodactyl (Poke Ball Pattern)",
+   "number": "142/165",
+   "rarity": "Rare",
+   "marketPrice": 1.35,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566580,
+   "name": "Nidoran M (Poke Ball Pattern)",
+   "number": "032/165",
+   "rarity": "Common",
+   "marketPrice": 0.35,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566664,
+   "name": "Starmie (Poke Ball Pattern)",
+   "number": "121/165",
+   "rarity": "Rare",
+   "marketPrice": 0.71,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566674,
+   "name": "Ditto (Poke Ball Pattern)",
+   "number": "132/165",
+   "rarity": "Rare",
+   "marketPrice": 1.31,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566391,
+   "name": "Paras",
+   "number": "046/165",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566751,
+   "name": "Meowth (Master Ball Pattern)",
+   "number": "052/165",
+   "rarity": "Common",
+   "marketPrice": 12.4,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566831,
+   "name": "Flareon (Master Ball Pattern)",
+   "number": "136/165",
+   "rarity": "Rare",
+   "marketPrice": 19.68,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566420,
+   "name": "Graveler",
+   "number": "075/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566648,
+   "name": "Cubone (Poke Ball Pattern)",
+   "number": "104/165",
+   "rarity": "Common",
+   "marketPrice": 0.55,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566556,
+   "name": "Charmeleon",
+   "number": "005/165",
+   "rarity": "Uncommon",
+   "marketPrice": 1.13,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566636,
+   "name": "Gastly (Poke Ball Pattern)",
+   "number": "092/165",
+   "rarity": "Common",
+   "marketPrice": 2.57,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566354,
+   "name": "Blastoise ex",
+   "number": "009/165",
+   "rarity": "Double Rare",
+   "marketPrice": 0.75,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566543,
+   "name": "Venusaur ex",
+   "number": "200/165",
+   "rarity": "Special Art Rare",
+   "marketPrice": 103.28,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566579,
+   "name": "Nidoqueen (Poke Ball Pattern)",
+   "number": "031/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.41,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566390,
+   "name": "Vileplume",
+   "number": "045/165",
+   "rarity": "Rare",
+   "marketPrice": 0.22,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566524,
+   "name": "Mr. Mime",
+   "number": "179/165",
+   "rarity": "Art Rare",
+   "marketPrice": 2.7,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566409,
+   "name": "Kadabra",
+   "number": "064/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.19,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566419,
+   "name": "Geodude",
+   "number": "074/165",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566509,
+   "name": "Bill's Transfer",
+   "number": "164/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.08,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566729,
+   "name": "Sandslash (Master Ball Pattern)",
+   "number": "028/165",
+   "rarity": "Uncommon",
+   "marketPrice": 11.78,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566760,
+   "name": "Poliwhirl",
+   "number": "061/165",
+   "rarity": "Common",
+   "marketPrice": 17.61,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566806,
+   "name": "Koffing (Master Ball Pattern)",
+   "number": "109/165",
+   "rarity": "Common",
+   "marketPrice": 16.64,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566585,
+   "name": "Vulpix (Poke Ball Pattern)",
+   "number": "037/165",
+   "rarity": "Common",
+   "marketPrice": 0.61,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566534,
+   "name": "Golem ex",
+   "number": "191/165",
+   "rarity": "Super Rare",
+   "marketPrice": 2.87,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566460,
+   "name": "Kangaskhan ex",
+   "number": "115/165",
+   "rarity": "Double Rare",
+   "marketPrice": 0.31,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566477,
+   "name": "Ditto",
+   "number": "132/165",
+   "rarity": "Rare",
+   "marketPrice": 0.34,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566646,
+   "name": "Exeggcute (Poke Ball Pattern)",
+   "number": "102/165",
+   "rarity": "Common",
+   "marketPrice": 0.51,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566689,
+   "name": "Dragonair",
+   "number": "148/165",
+   "rarity": "Uncommon",
+   "marketPrice": 1.39,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566571,
+   "name": "Fearow (Poke Ball Pattern)",
+   "number": "022/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.51,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566682,
+   "name": "Kabuto (Poke Ball Pattern)",
+   "number": "140/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.84,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566399,
+   "name": "Psyduck",
+   "number": "054/165",
+   "rarity": "Common",
+   "marketPrice": 0.22,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566458,
+   "name": "Chansey",
+   "number": "113/165",
+   "rarity": "Rare",
+   "marketPrice": 0.4,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566421,
+   "name": "Golem ex",
+   "number": "076/165",
+   "rarity": "Double Rare",
+   "marketPrice": 0.4,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566360,
+   "name": "Beedrill",
+   "number": "015/165",
+   "rarity": "Rare",
+   "marketPrice": 0.19,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566553,
+   "name": "Bulbasaur",
+   "number": "001/165",
+   "rarity": "Common",
+   "marketPrice": 1.95,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566633,
+   "name": "Muk (Poke Ball Pattern)",
+   "number": "089/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.5,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566640,
+   "name": "Drowzee (Poke Ball Pattern)",
+   "number": "096/165",
+   "rarity": "Common",
+   "marketPrice": 0.55,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566563,
+   "name": "Kakuna (Poke Ball Pattern)",
+   "number": "014/165",
+   "rarity": "Common",
+   "marketPrice": 0.39,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566661,
+   "name": "Goldeen (Poke Ball Pattern)",
+   "number": "118/165",
+   "rarity": "Common",
+   "marketPrice": 0.55,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566576,
+   "name": "Sandslash (Poke Ball Pattern)",
+   "number": "028/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.52,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566672,
+   "name": "Gyarados (Poke Ball Pattern)",
+   "number": "130/165",
+   "rarity": "Rare",
+   "marketPrice": 1.28,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566480,
+   "name": "Jolteon",
+   "number": "135/165",
+   "rarity": "Rare",
+   "marketPrice": 0.32,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566531,
+   "name": "Ninetales ex",
+   "number": "188/165",
+   "rarity": "Super Rare",
+   "marketPrice": 4.63,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566380,
+   "name": "Clefairy",
+   "number": "035/165",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566681,
+   "name": "Omastar (Poke Ball Pattern)",
+   "number": "139/165",
+   "rarity": "Rare",
+   "marketPrice": 0.75,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566627,
+   "name": "Farfetch'd (Poke Ball Pattern)",
+   "number": "083/165",
+   "rarity": "Common",
+   "marketPrice": 0.68,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566688,
+   "name": "Dratini (Poke Ball Pattern)",
+   "number": "147/165",
+   "rarity": "Common",
+   "marketPrice": 1.12,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566630,
+   "name": "Seel (Poke Ball Pattern)",
+   "number": "086/165",
+   "rarity": "Common",
+   "marketPrice": 0.53,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566546,
+   "name": "Alakazam ex",
+   "number": "203/165",
+   "rarity": "Special Art Rare",
+   "marketPrice": 56.58,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566647,
+   "name": "Exeggutor (Poke Ball Pattern)",
+   "number": "103/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.54,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566676,
+   "name": "Vaporeon (Poke Ball Pattern)",
+   "number": "134/165",
+   "rarity": "Rare",
+   "marketPrice": 1.51,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566701,
+   "name": "Erika's Invitation",
+   "number": "161/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.34,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566430,
+   "name": "Dodrio",
+   "number": "085/165",
+   "rarity": "Rare",
+   "marketPrice": 0.15,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566350,
+   "name": "Charmeleon",
+   "number": "005/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.14,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566362,
+   "name": "Pidgeotto",
+   "number": "017/165",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566665,
+   "name": "Mr. Mime",
+   "number": "122/165",
+   "rarity": "Rare",
+   "marketPrice": 0.72,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566702,
+   "name": "Giovanni's Charisma",
+   "number": "162/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.31,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566616,
+   "name": "Victreebel (Poke Ball Pattern)",
+   "number": "071/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.66,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566475,
+   "name": "Gyarados",
+   "number": "130/165",
+   "rarity": "Rare",
+   "marketPrice": 0.34,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566351,
+   "name": "Charizard ex",
+   "number": "006/165",
+   "rarity": "Double Rare",
+   "marketPrice": 2.47,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566484,
+   "name": "Omastar",
+   "number": "139/165",
+   "rarity": "Rare",
+   "marketPrice": 0.25,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566606,
+   "name": "Poliwag (Poke Ball Pattern)",
+   "number": "060/165",
+   "rarity": "Common",
+   "marketPrice": 0.74,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566671,
+   "name": "Magikarp (Poke Ball Pattern)",
+   "number": "129/165",
+   "rarity": "Common",
+   "marketPrice": 1.12,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566382,
+   "name": "Vulpix",
+   "number": "037/165",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566515,
+   "name": "Squirtle",
+   "number": "170/165",
+   "rarity": "Art Rare",
+   "marketPrice": 21.06,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566838,
+   "name": "Snorlax (Master Ball Pattern)",
+   "number": "143/165",
+   "rarity": "Uncommon",
+   "marketPrice": 32.99,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566628,
+   "name": "Doduo (Poke Ball Pattern)",
+   "number": "084/165",
+   "rarity": "Common",
+   "marketPrice": 0.33,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566471,
+   "name": "Magmar",
+   "number": "126/165",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566417,
+   "name": "Tentacool",
+   "number": "072/165",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566514,
+   "name": "Charmeleon",
+   "number": "169/165",
+   "rarity": "Art Rare",
+   "marketPrice": 16.14,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566469,
+   "name": "Jynx ex",
+   "number": "124/165",
+   "rarity": "Double Rare",
+   "marketPrice": 0.4,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566369,
+   "name": "Arbok ex",
+   "number": "024/165",
+   "rarity": "Double Rare",
+   "marketPrice": 0.37,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566535,
+   "name": "Kangaskhan ex",
+   "number": "192/165",
+   "rarity": "Super Rare",
+   "marketPrice": 1.65,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566383,
+   "name": "Ninetales ex",
+   "number": "038/165",
+   "rarity": "Double Rare",
+   "marketPrice": 0.5,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566533,
+   "name": "Alakazam ex",
+   "number": "190/165",
+   "rarity": "Super Rare",
+   "marketPrice": 2.85,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566538,
+   "name": "Mew ex",
+   "number": "195/165",
+   "rarity": "Super Rare",
+   "marketPrice": 17.33,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566385,
+   "name": "Wigglytuff ex",
+   "number": "040/165",
+   "rarity": "Double Rare",
+   "marketPrice": 0.41,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566545,
+   "name": "Blastoise ex",
+   "number": "202/165",
+   "rarity": "Special Art Rare",
+   "marketPrice": 147.2,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566530,
+   "name": "Arbok ex",
+   "number": "187/165",
+   "rarity": "Super Rare",
+   "marketPrice": 2.49,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 577147,
+   "name": "Mew ex",
+   "number": "205/165",
+   "rarity": "Special Art Rare",
+   "marketPrice": 208.14,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566410,
+   "name": "Alakazam ex",
+   "number": "065/165",
+   "rarity": "Double Rare",
+   "marketPrice": 0.43,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566544,
+   "name": "Charizard ex",
+   "number": "201/165",
+   "rarity": "Special Art Rare",
+   "marketPrice": 388.35,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566348,
+   "name": "Venusaur ex",
+   "number": "003/165",
+   "rarity": "Double Rare",
+   "marketPrice": 0.59,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566527,
+   "name": "Venusaur ex",
+   "number": "184/165",
+   "rarity": "Super Rare",
+   "marketPrice": 5.23,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566829,
+   "name": "Vaporeon (Master Ball Pattern)",
+   "number": "134/165",
+   "rarity": "Rare",
+   "marketPrice": 18.84,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566479,
+   "name": "Vaporeon",
+   "number": "134/165",
+   "rarity": "Rare",
+   "marketPrice": 0.43,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566481,
+   "name": "Flareon",
+   "number": "136/165",
+   "rarity": "Rare",
+   "marketPrice": 0.32,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566677,
+   "name": "Jolteon (Poke Ball Pattern)",
+   "number": "135/165",
+   "rarity": "Rare",
+   "marketPrice": 1.45,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566830,
+   "name": "Jolteon (Master Ball Pattern)",
+   "number": "135/165",
+   "rarity": "Rare",
+   "marketPrice": 25.72,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566439,
+   "name": "Gengar",
+   "number": "094/165",
+   "rarity": "Rare",
+   "marketPrice": 2.55,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566495,
+   "name": "Mewtwo",
+   "number": "150/165",
+   "rarity": "Rare",
+   "marketPrice": 0.57,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566529,
+   "name": "Blastoise ex",
+   "number": "186/165",
+   "rarity": "Super Rare",
+   "marketPrice": 9.03,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566488,
+   "name": "Snorlax",
+   "number": "143/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.28,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566526,
+   "name": "Dragonair",
+   "number": "182/165",
+   "rarity": "Art Rare",
+   "marketPrice": 8.87,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566590,
+   "name": "Gloom (Poke Ball Pattern)",
+   "number": "044/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.29,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566352,
+   "name": "Squirtle",
+   "number": "007/165",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566612,
+   "name": "Machoke",
+   "number": "067/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.43,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566611,
+   "name": "Machop (Poke Ball Pattern)",
+   "number": "066/165",
+   "rarity": "Common",
+   "marketPrice": 0.38,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566624,
+   "name": "Slowbro (Poke Ball Pattern)",
+   "number": "080/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.74,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566660,
+   "name": "Seadra (Poke Ball Pattern)",
+   "number": "117/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.56,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566388,
+   "name": "Oddish",
+   "number": "043/165",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566738,
+   "name": "Vulpix (Master Ball Pattern)",
+   "number": "037/165",
+   "rarity": "Common",
+   "marketPrice": 8.87,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566747,
+   "name": "Venonat (Master Ball Pattern)",
+   "number": "048/165",
+   "rarity": "Common",
+   "marketPrice": 10.47,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566822,
+   "name": "Pinsir (Master Ball Pattern)",
+   "number": "127/165",
+   "rarity": "Uncommon",
+   "marketPrice": 14.09,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566440,
+   "name": "Onix",
+   "number": "095/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566462,
+   "name": "Seadra",
+   "number": "117/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566718,
+   "name": "Pidgey (Master Ball Pattern)",
+   "number": "016/165",
+   "rarity": "Common",
+   "marketPrice": 5.64,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566741,
+   "name": "Golbat (Master Ball Pattern)",
+   "number": "042/165",
+   "rarity": "Uncommon",
+   "marketPrice": 14.98,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566827,
+   "name": "Ditto (Master Ball Pattern)",
+   "number": "132/165",
+   "rarity": "Rare",
+   "marketPrice": 22.78,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566742,
+   "name": "Oddish (Master Ball Pattern)",
+   "number": "043/165",
+   "rarity": "Common",
+   "marketPrice": 18.73,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566820,
+   "name": "Electabuzz (Master Ball Pattern)",
+   "number": "125/165",
+   "rarity": "Common",
+   "marketPrice": 13.97,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566393,
+   "name": "Venonat",
+   "number": "048/165",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566693,
+   "name": "Grabber (Poke Ball Pattern)",
+   "number": "153/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.37,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566434,
+   "name": "Muk",
+   "number": "089/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566502,
+   "name": "Protective Goggles",
+   "number": "157/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566396,
+   "name": "Dugtrio",
+   "number": "051/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566483,
+   "name": "Omanyte",
+   "number": "138/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566737,
+   "name": "Clefable (Master Ball Pattern)",
+   "number": "036/165",
+   "rarity": "Uncommon",
+   "marketPrice": 13.97,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566748,
+   "name": "Venomoth (Master Ball Pattern)",
+   "number": "049/165",
+   "rarity": "Uncommon",
+   "marketPrice": 11.69,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566753,
+   "name": "Psyduck",
+   "number": "054/165",
+   "rarity": "Common",
+   "marketPrice": 106.26,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566761,
+   "name": "Poliwrath (Master Ball Pattern)",
+   "number": "062/165",
+   "rarity": "Uncommon",
+   "marketPrice": 15.44,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566764,
+   "name": "Machop (Master Ball Pattern)",
+   "number": "066/165",
+   "rarity": "Common",
+   "marketPrice": 10.77,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566767,
+   "name": "Bellsprout (Master Ball Pattern)",
+   "number": "069/165",
+   "rarity": "Common",
+   "marketPrice": 17.91,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566776,
+   "name": "Slowpoke (Master Ball Pattern)",
+   "number": "079/165",
+   "rarity": "Common",
+   "marketPrice": 55.22,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566694,
+   "name": "Antique Helix Fossil (Poke Ball Pattern)",
+   "number": "154/165",
+   "rarity": "Common",
+   "marketPrice": 0.48,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566521,
+   "name": "Poliwhirl",
+   "number": "176/165",
+   "rarity": "Art Rare",
+   "marketPrice": 14.28,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566618,
+   "name": "Tentacruel (Poke Ball Pattern)",
+   "number": "073/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.54,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566700,
+   "name": "Leftovers (Poke Ball Pattern)",
+   "number": "160/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.24,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566785,
+   "name": "Grimer (Master Ball Pattern)",
+   "number": "088/165",
+   "rarity": "Common",
+   "marketPrice": 10.91,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566501,
+   "name": "Antique Old Amber",
+   "number": "156/165",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566511,
+   "name": "Bulbasaur",
+   "number": "166/165",
+   "rarity": "Art Rare",
+   "marketPrice": 19.27,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566583,
+   "name": "Clefairy (Poke Ball Pattern)",
+   "number": "035/165",
+   "rarity": "Common",
+   "marketPrice": 1.0864,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566517,
+   "name": "Caterpie",
+   "number": "172/165",
+   "rarity": "Art Rare",
+   "marketPrice": 5.46,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566518,
+   "name": "Pikachu",
+   "number": "173/165",
+   "rarity": "Art Rare",
+   "marketPrice": 21.37,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566620,
+   "name": "Graveler (Poke Ball Pattern)",
+   "number": "075/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.28,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566438,
+   "name": "Haunter",
+   "number": "093/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.23,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566577,
+   "name": "Nidoran F (Poke Ball Pattern)",
+   "number": "029/165",
+   "rarity": "Common",
+   "marketPrice": 0.35,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566774,
+   "name": "Ponyta (Master Ball Pattern)",
+   "number": "077/165",
+   "rarity": "Common",
+   "marketPrice": 15.61,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566402,
+   "name": "Primeape",
+   "number": "057/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566712,
+   "name": "Caterpie",
+   "number": "010/165",
+   "rarity": "Common",
+   "marketPrice": 15.17,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566498,
+   "name": "Grabber",
+   "number": "153/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566523,
+   "name": "Tangela",
+   "number": "178/165",
+   "rarity": "Art Rare",
+   "marketPrice": 3.97,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566519,
+   "name": "Nidoking",
+   "number": "174/165",
+   "rarity": "Art Rare",
+   "marketPrice": 4.22,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566522,
+   "name": "Machoke",
+   "number": "177/165",
+   "rarity": "Art Rare",
+   "marketPrice": 5.65,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566685,
+   "name": "Snorlax (Poke Ball Pattern)",
+   "number": "143/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.91,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566792,
+   "name": "Onix (Master Ball Pattern)",
+   "number": "095/165",
+   "rarity": "Uncommon",
+   "marketPrice": 7.67,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566815,
+   "name": "Seaking (Master Ball Pattern)",
+   "number": "119/165",
+   "rarity": "Uncommon",
+   "marketPrice": 11.91,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566837,
+   "name": "Aerodactyl (Master Ball Pattern)",
+   "number": "142/165",
+   "rarity": "Rare",
+   "marketPrice": 44.95,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566839,
+   "name": "Articuno (Master Ball Pattern)",
+   "number": "144/165",
+   "rarity": "Rare",
+   "marketPrice": 11.64,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566840,
+   "name": "Moltres (Master Ball Pattern)",
+   "number": "146/165",
+   "rarity": "Rare",
+   "marketPrice": 11.62,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566482,
+   "name": "Porygon",
+   "number": "137/165",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566610,
+   "name": "Kadabra (Poke Ball Pattern)",
+   "number": "064/165",
+   "rarity": "Uncommon",
+   "marketPrice": 0.44,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566478,
+   "name": "Eevee",
+   "number": "133/165",
+   "rarity": "Common",
+   "marketPrice": 0.24,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566816,
+   "name": "Staryu (Master Ball Pattern)",
+   "number": "120/165",
+   "rarity": "Common",
+   "marketPrice": 5.33,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566834,
+   "name": "Omastar (Master Ball Pattern)",
+   "number": "139/165",
+   "rarity": "Rare",
+   "marketPrice": 18.22,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566848,
+   "name": "Antique Dome Fossil (Master Ball Pattern)",
+   "number": "155/165",
+   "rarity": "Common",
+   "marketPrice": 9.27,
+   "setName": "SV2a: Pokemon Card 151"
+  },
+  {
+   "productId": 566850,
+   "name": "Protective Goggles (Master Ball Pattern)",
+   "number": "157/165",
+   "rarity": "Uncommon",
+   "marketPrice": 11.93,
+   "setName": "SV2a: Pokemon Card 151"
+  }
+ ]
+}

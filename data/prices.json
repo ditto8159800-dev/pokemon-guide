@@ -4707,12 +4707,20 @@
   "fetched": "2026-10-26",
   "stale": false,
   "psa10": {
-   "price": 192,
-   "currency": "USD",
-   "source": "SNKRDUNK",
-   "url": "https://snkrdunk.com/en/trading-cards/418756/used?condition=psa_10",
-   "fetched": "2026-10-26",
-   "note": "PSA 10 最低在售價"
+   "price": 6000,
+   "currency": "JPY",
+   "source": "Pokeca-Now",
+   "url": "https://pokecanow.com/articles/packs/sv8/hits/",
+   "fetched": "2026-10-25",
+   "note": "PSA 10 日本二手平台成交中位數（SNKRDUNK 掛單價與成交行情差太多，改用成交中位數）",
+   "replaced": {
+    "price": 192,
+    "currency": "USD",
+    "source": "SNKRDUNK",
+    "url": "https://snkrdunk.com/en/trading-cards/418756/used?condition=psa_10",
+    "fetched": "2026-10-26",
+    "note": "PSA 10 最低在售價"
+   }
   },
   "link": {
    "url": "https://www.tcgplayer.com/product/587702",
@@ -4867,7 +4875,14 @@
   "url": "https://www.tcgplayer.com/product/587711",
   "fetched": "2026-10-26",
   "stale": false,
-  "psa10": null,
+  "psa10": {
+   "price": 45,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/418753/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最近成交價（目前無人在賣）"
+  },
   "link": {
    "url": "https://www.tcgplayer.com/product/587711",
    "kind": "TCGplayer"
@@ -4883,7 +4898,14 @@
   "url": "https://www.tcgplayer.com/product/587701",
   "fetched": "2026-10-26",
   "stale": false,
-  "psa10": null,
+  "psa10": {
+   "price": 10000,
+   "currency": "JPY",
+   "source": "Pokeca-Now",
+   "url": "https://pokecanow.com/articles/packs/sv8/hits/",
+   "fetched": "2026-10-25",
+   "note": "PSA 10 日本二手平台成交中位數"
+  },
   "link": {
    "url": "https://www.tcgplayer.com/product/587701",
    "kind": "TCGplayer"
@@ -5786,11 +5808,11 @@
   "tcgplayerId": 629051
  },
  "ja:SV11B-173": {
-  "price": 29,
+  "price": 59.27,
   "currency": "USD",
-  "condition": "raw (ungraded, 狀態 A) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/606907",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636527",
   "fetched": "2026-10-26",
   "stale": false,
   "psa10": {
@@ -5802,10 +5824,11 @@
    "note": "PSA 10 最低在售價"
   },
   "link": {
-   "url": "https://snkrdunk.com/en/trading-cards/606907",
-   "kind": "SNKRDUNK"
+   "url": "https://www.tcgplayer.com/product/636527",
+   "kind": "TCGplayer"
   },
-  "cardCheck": "2026-10-26"
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636527
  },
  "ja:SV11B-172": {
   "price": 23.57,
@@ -6368,7 +6391,7 @@
   "fetched": "2026-10-26",
   "stale": false,
   "psa10": {
-   "price": 79,
+   "price": 77,
    "currency": "USD",
    "source": "SNKRDUNK",
    "url": "https://snkrdunk.com/en/trading-cards/657363/used?condition=psa_10",
@@ -6498,7 +6521,7 @@
   "tcgplayerId": 647207
  },
  "ja:M1S-091": {
-  "price": 9.9,
+  "price": 9.9016,
   "currency": "USD",
   "condition": "raw (ungraded) — TCGplayer market price",
   "source": "TCGplayer",
@@ -7013,7 +7036,7 @@
   "tcgplayerId": 665918
  },
  "ja:M2a-246": {
-  "price": 158.8692,
+  "price": 158.87,
   "currency": "USD",
   "condition": "raw (ungraded) — TCGplayer market price",
   "source": "TCGplayer",
@@ -7036,7 +7059,7 @@
   "tcgplayerId": 665917
  },
  "ja:M2a-245": {
-  "price": 24.83,
+  "price": 24.71,
   "currency": "USD",
   "condition": "raw (ungraded) — TCGplayer market price",
   "source": "TCGplayer",
@@ -7105,7 +7128,7 @@
   "tcgplayerId": 665914
  },
  "ja:M2a-242": {
-  "price": 50.39,
+  "price": 50.3,
   "currency": "USD",
   "condition": "raw (ungraded) — TCGplayer market price",
   "source": "TCGplayer",
@@ -7387,7 +7410,7 @@
   "tcgplayerId": 683770
  },
  "ja:M4-118": {
-  "price": 7.25,
+  "price": 7.23,
   "currency": "USD",
   "condition": "raw (ungraded) — TCGplayer market price",
   "source": "TCGplayer",
@@ -7479,12 +7502,12 @@
   "tcgplayerId": 683766
  },
  "ja:M4-114": {
-  "price": 224.57,
-  "currency": "USD",
-  "condition": "raw (ungraded) — TCGplayer market price",
-  "source": "TCGplayer",
-  "url": "https://www.tcgplayer.com/product/683765",
-  "fetched": "2026-10-26",
+  "price": 12000,
+  "currency": "JPY",
+  "condition": "raw (ungraded) — 日本二手平台成交中位數（TCGplayer 價格與成交行情差太多，改用成交中位數）",
+  "source": "Pokeca-Now",
+  "url": "https://pokecanow.com/articles/packs/m4/hits/",
+  "fetched": "2026-10-25",
   "stale": false,
   "psa10": {
    "price": 184,
@@ -7499,7 +7522,20 @@
    "kind": "TCGplayer"
   },
   "cardCheck": "2026-10-26",
-  "tcgplayerId": 683765
+  "tcgplayerId": 683765,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/7741933e-2432-47b7-9b3f-6aa150211963.webp?size=m",
+  "replaced": {
+   "price": 224.57,
+   "currency": "USD",
+   "condition": "raw (ungraded) — TCGplayer market price",
+   "source": "TCGplayer",
+   "url": "https://www.tcgplayer.com/product/683765",
+   "fetched": "2026-10-26",
+   "stale": false,
+   "cardCheck": "2026-10-26",
+   "tcgplayerId": 683765,
+   "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/7741933e-2432-47b7-9b3f-6aa150211963.webp?size=m"
+  }
  },
  "ja:M4-095": {
   "price": 1.11,
@@ -7571,27 +7607,48 @@
   "tcgplayerId": 683744
  },
  "ja:M5-118": {
-  "price": 391.89,
-  "currency": "USD",
-  "condition": "raw (ungraded) — TCGplayer market price",
-  "source": "TCGplayer",
-  "url": "https://www.tcgplayer.com/product/695000",
-  "fetched": "2026-10-26",
+  "price": 21000,
+  "currency": "JPY",
+  "condition": "raw (ungraded) — 日本二手平台成交中位數（TCGplayer 價格與成交行情差太多，改用成交中位數）",
+  "source": "Pokeca-Now",
+  "url": "https://pokecanow.com/articles/packs/m5/hits/",
+  "fetched": "2026-10-25",
   "stale": false,
   "psa10": {
-   "price": 414,
-   "currency": "USD",
-   "source": "SNKRDUNK",
-   "url": "https://snkrdunk.com/en/trading-cards/826556/used?condition=psa_10",
-   "fetched": "2026-10-26",
-   "note": "PSA 10 最低在售價"
+   "price": 74800,
+   "currency": "JPY",
+   "source": "Pokeca-Now",
+   "url": "https://pokecanow.com/articles/packs/m5/hits/",
+   "fetched": "2026-10-25",
+   "note": "PSA 10 日本二手平台成交中位數（SNKRDUNK 掛單價與成交行情差太多，改用成交中位數）",
+   "replaced": {
+    "price": 147,
+    "currency": "USD",
+    "source": "SNKRDUNK",
+    "url": "https://snkrdunk.com/en/trading-cards/826556/used?condition=psa_10",
+    "fetched": "2026-10-26",
+    "note": "PSA 10 最低在售價"
+   }
   },
   "link": {
    "url": "https://www.tcgplayer.com/product/695000",
    "kind": "TCGplayer"
   },
   "cardCheck": "2026-10-26",
-  "tcgplayerId": 695000
+  "tcgplayerId": 695000,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/af31749e-ca7d-477e-9dfc-f16510e3933b.webp?size=m",
+  "replaced": {
+   "price": 391.89,
+   "currency": "USD",
+   "condition": "raw (ungraded) — TCGplayer market price",
+   "source": "TCGplayer",
+   "url": "https://www.tcgplayer.com/product/695000",
+   "fetched": "2026-10-26",
+   "stale": false,
+   "cardCheck": "2026-10-26",
+   "tcgplayerId": 695000,
+   "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/af31749e-ca7d-477e-9dfc-f16510e3933b.webp?size=m"
+  }
  },
  "ja:M5-117": {
   "price": 28.62,
@@ -7617,7 +7674,7 @@
   "tcgplayerId": 695043
  },
  "ja:M5-116": {
-  "price": 13.79,
+  "price": 13.68,
   "currency": "USD",
   "condition": "raw (ungraded) — TCGplayer market price",
   "source": "TCGplayer",
@@ -7787,12 +7844,12 @@
   "tcgplayerId": 695027
  },
  "ja:M6-113": {
-  "price": 747.33,
-  "currency": "USD",
-  "condition": "raw (ungraded) — TCGplayer market price",
-  "source": "TCGplayer",
-  "url": "https://www.tcgplayer.com/product/709267",
-  "fetched": "2026-10-26",
+  "price": 44000,
+  "currency": "JPY",
+  "condition": "raw (ungraded) — 日本二手平台成交中位數（TCGplayer 價格與成交行情差太多，改用成交中位數）",
+  "source": "Pokeca-Now",
+  "url": "https://pokecanow.com/articles/packs/m6/hits/",
+  "fetched": "2026-10-25",
   "stale": false,
   "psa10": {
    "price": 1390,
@@ -7807,23 +7864,56 @@
    "kind": "TCGplayer"
   },
   "cardCheck": "2026-10-26",
-  "tcgplayerId": 709267
+  "tcgplayerId": 709267,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/d892b4da-0800-4bc7-b3d7-1418b45d9b72.webp?size=m",
+  "replaced": {
+   "price": 747.33,
+   "currency": "USD",
+   "condition": "raw (ungraded) — TCGplayer market price",
+   "source": "TCGplayer",
+   "url": "https://www.tcgplayer.com/product/709267",
+   "fetched": "2026-10-26",
+   "stale": false,
+   "cardCheck": "2026-10-26",
+   "tcgplayerId": 709267,
+   "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/d892b4da-0800-4bc7-b3d7-1418b45d9b72.webp?size=m"
+  }
  },
  "ja:M6-112": {
-  "price": 21.63,
-  "currency": "USD",
-  "condition": "raw (ungraded) — TCGplayer market price",
-  "source": "TCGplayer",
-  "url": "https://www.tcgplayer.com/product/709266",
-  "fetched": "2026-10-26",
+  "price": 1200,
+  "currency": "JPY",
+  "condition": "raw (ungraded) — 日本二手平台成交中位數（TCGplayer 價格與成交行情差太多，改用成交中位數）",
+  "source": "Pokeca-Now",
+  "url": "https://pokecanow.com/articles/packs/m6/hits/",
+  "fetched": "2026-10-25",
   "stale": false,
-  "psa10": null,
+  "psa10": {
+   "price": 8800,
+   "currency": "JPY",
+   "source": "Pokeca-Now",
+   "url": "https://pokecanow.com/articles/packs/m6/hits/",
+   "fetched": "2026-10-25",
+   "note": "PSA 10 日本二手平台成交中位數"
+  },
   "link": {
    "url": "https://www.tcgplayer.com/product/709266",
    "kind": "TCGplayer"
   },
   "cardCheck": "2026-10-26",
-  "tcgplayerId": 709266
+  "tcgplayerId": 709266,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/91db047f-380b-499f-a587-8af3425c9ada.webp?size=m",
+  "replaced": {
+   "price": 21.63,
+   "currency": "USD",
+   "condition": "raw (ungraded) — TCGplayer market price",
+   "source": "TCGplayer",
+   "url": "https://www.tcgplayer.com/product/709266",
+   "fetched": "2026-10-26",
+   "stale": false,
+   "cardCheck": "2026-10-26",
+   "tcgplayerId": 709266,
+   "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/91db047f-380b-499f-a587-8af3425c9ada.webp?size=m"
+  }
  },
  "ja:M6-111": {
   "price": 7.34,
@@ -7865,12 +7955,12 @@
   "tcgplayerId": 709264
  },
  "ja:M6-109": {
-  "price": 17.01,
-  "currency": "USD",
-  "condition": "raw (ungraded) — TCGplayer market price",
-  "source": "TCGplayer",
-  "url": "https://www.tcgplayer.com/product/709262",
-  "fetched": "2026-10-26",
+  "price": 700,
+  "currency": "JPY",
+  "condition": "raw (ungraded) — 日本二手平台成交中位數（TCGplayer 價格與成交行情差太多，改用成交中位數）",
+  "source": "Pokeca-Now",
+  "url": "https://pokecanow.com/articles/packs/m6/hits/",
+  "fetched": "2026-10-25",
   "stale": false,
   "psa10": null,
   "link": {
@@ -7878,7 +7968,20 @@
    "kind": "TCGplayer"
   },
   "cardCheck": "2026-10-26",
-  "tcgplayerId": 709262
+  "tcgplayerId": 709262,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/c6d5e4d9-7e7c-42d7-843f-d102e12dca71.webp?size=m",
+  "replaced": {
+   "price": 17.01,
+   "currency": "USD",
+   "condition": "raw (ungraded) — TCGplayer market price",
+   "source": "TCGplayer",
+   "url": "https://www.tcgplayer.com/product/709262",
+   "fetched": "2026-10-26",
+   "stale": false,
+   "cardCheck": "2026-10-26",
+   "tcgplayerId": 709262,
+   "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/c6d5e4d9-7e7c-42d7-843f-d102e12dca71.webp?size=m"
+  }
  },
  "ja:M6-108": {
   "price": 43.76,
@@ -7888,7 +7991,14 @@
   "url": "https://www.tcgplayer.com/product/709261",
   "fetched": "2026-10-26",
   "stale": false,
-  "psa10": null,
+  "psa10": {
+   "price": 192,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/868610/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最近成交價（目前無人在賣）"
+  },
   "link": {
    "url": "https://www.tcgplayer.com/product/709261",
    "kind": "TCGplayer"
@@ -14662,7 +14772,22 @@
   "url": "https://www.tcgplayer.com/product/716977",
   "fetched": "2026-10-26",
   "stale": false,
-  "psa10": null,
+  "psa10": {
+   "price": 37000,
+   "currency": "JPY",
+   "source": "Pokeca-Now",
+   "url": "https://pokecanow.com/articles/packs/m6a/hits/",
+   "fetched": "2026-10-25",
+   "note": "PSA 10 日本二手平台成交中位數（SNKRDUNK 掛單價與成交行情差太多，改用成交中位數）",
+   "replaced": {
+    "price": 1212,
+    "currency": "USD",
+    "source": "SNKRDUNK",
+    "url": "https://snkrdunk.com/en/trading-cards/882281/used?condition=psa_10",
+    "fetched": "2026-10-26",
+    "note": "PSA 10 最近成交價（目前無人在賣）"
+   }
+  },
   "link": {
    "url": "https://www.tcgplayer.com/product/716977",
    "kind": "TCGplayer"
@@ -14678,7 +14803,22 @@
   "url": "https://www.tcgplayer.com/product/716979",
   "fetched": "2026-10-26",
   "stale": false,
-  "psa10": null,
+  "psa10": {
+   "price": 40000,
+   "currency": "JPY",
+   "source": "Pokeca-Now",
+   "url": "https://pokecanow.com/articles/packs/m6a/hits/",
+   "fetched": "2026-10-25",
+   "note": "PSA 10 日本二手平台成交中位數（SNKRDUNK 掛單價與成交行情差太多，改用成交中位數）",
+   "replaced": {
+    "price": 957,
+    "currency": "USD",
+    "source": "SNKRDUNK",
+    "url": "https://snkrdunk.com/en/trading-cards/886017/used?condition=psa_10",
+    "fetched": "2026-10-26",
+    "note": "PSA 10 最近成交價（目前無人在賣）"
+   }
+  },
   "link": {
    "url": "https://www.tcgplayer.com/product/716979",
    "kind": "TCGplayer"
@@ -14694,7 +14834,22 @@
   "url": "https://www.tcgplayer.com/product/717006",
   "fetched": "2026-10-26",
   "stale": false,
-  "psa10": null,
+  "psa10": {
+   "price": 22900,
+   "currency": "JPY",
+   "source": "Pokeca-Now",
+   "url": "https://pokecanow.com/articles/packs/m6a/hits/",
+   "fetched": "2026-10-25",
+   "note": "PSA 10 日本二手平台成交中位數（SNKRDUNK 掛單價與成交行情差太多，改用成交中位數）",
+   "replaced": {
+    "price": 46,
+    "currency": "USD",
+    "source": "SNKRDUNK",
+    "url": "https://snkrdunk.com/en/trading-cards/886019/used?condition=psa_10",
+    "fetched": "2026-10-26",
+    "note": "PSA 10 最近成交價（目前無人在賣）"
+   }
+  },
   "link": {
    "url": "https://www.tcgplayer.com/product/717006",
    "kind": "TCGplayer"
@@ -14711,12 +14866,20 @@
   "fetched": "2026-10-26",
   "stale": false,
   "psa10": {
-   "price": 638,
-   "currency": "USD",
-   "source": "SNKRDUNK",
-   "url": "https://snkrdunk.com/en/trading-cards/882280/used?condition=psa_10",
-   "fetched": "2026-10-26",
-   "note": "PSA 10 最低在售價"
+   "price": 31000,
+   "currency": "JPY",
+   "source": "Pokeca-Now",
+   "url": "https://pokecanow.com/articles/packs/m6a/hits/",
+   "fetched": "2026-10-25",
+   "note": "PSA 10 日本二手平台成交中位數（SNKRDUNK 掛單價與成交行情差太多，改用成交中位數）",
+   "replaced": {
+    "price": 638,
+    "currency": "USD",
+    "source": "SNKRDUNK",
+    "url": "https://snkrdunk.com/en/trading-cards/882280/used?condition=psa_10",
+    "fetched": "2026-10-26",
+    "note": "PSA 10 最低在售價"
+   }
   },
   "link": {
    "url": "https://www.tcgplayer.com/product/716927",
@@ -14834,5 +14997,2480 @@
   },
   "cardCheck": "2026-10-26",
   "tcgplayerId": 716929
+ },
+ "ja:SM12a-182": {
+  "price": 133300,
+  "currency": "JPY",
+  "condition": "raw (ungraded) — 日本二手平台成交中位數（TCGplayer 價格與成交行情差太多，改用成交中位數）",
+  "source": "Pokeca-Now",
+  "url": "https://pokecanow.com/articles/packs/sm12a/hits/",
+  "fetched": "2026-10-25",
+  "stale": false,
+  "psa10": {
+   "price": 1990,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/93082/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572836",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572836,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/e9591f49-ecf6-422f-8297-5d8498706582.webp?size=m",
+  "replaced": {
+   "price": 129.99,
+   "currency": "USD",
+   "condition": "raw (ungraded) — TCGplayer market price",
+   "source": "TCGplayer",
+   "url": "https://www.tcgplayer.com/product/572836",
+   "fetched": "2026-10-26",
+   "stale": false,
+   "cardCheck": "2026-10-26",
+   "tcgplayerId": 572836,
+   "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/e9591f49-ecf6-422f-8297-5d8498706582.webp?size=m"
+  }
+ },
+ "ja:SM12a-192": {
+  "price": 800,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/572846",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 1747,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/91269/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572846",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572846
+ },
+ "ja:SM12a-222": {
+  "price": 55000,
+  "currency": "JPY",
+  "condition": "raw (ungraded) — 日本二手平台成交中位數（TCGplayer 價格與成交行情差太多，改用成交中位數）",
+  "source": "Pokeca-Now",
+  "url": "https://pokecanow.com/articles/packs/sm12a/hits/",
+  "fetched": "2026-10-25",
+  "stale": false,
+  "psa10": {
+   "price": 1263,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/91270/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572875",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572875,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/8ebb11fc-5267-4f5e-b591-b9bb36b1c9b1.webp?size=m",
+  "replaced": {
+   "price": 109.99,
+   "currency": "USD",
+   "condition": "raw (ungraded) — TCGplayer market price",
+   "source": "TCGplayer",
+   "url": "https://www.tcgplayer.com/product/572875",
+   "fetched": "2026-10-26",
+   "stale": false,
+   "cardCheck": "2026-10-26",
+   "tcgplayerId": 572875,
+   "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/8ebb11fc-5267-4f5e-b591-b9bb36b1c9b1.webp?size=m"
+  }
+ },
+ "ja:SM12a-190": {
+  "price": 450,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/572844",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 1276,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/93089/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572844",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572844
+ },
+ "ja:SM12a-188": {
+  "price": 125.99,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/572842",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 1179,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/93085/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572842",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572842
+ },
+ "ja:SM12a-186": {
+  "price": 240,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/572840",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 817,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/93092/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572840",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572840
+ },
+ "ja:SM12a-196": {
+  "price": 463.02,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/572850",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 1036,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/93083/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572850",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572850
+ },
+ "ja:SM12a-221": {
+  "price": 103.94,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/572874",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 593,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/93090/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572874",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572874
+ },
+ "ja:SM12a-191": {
+  "price": 402.49,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/572845",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 472,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/91272/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572845",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572845
+ },
+ "ja:S6a-71": {
+  "price": 97.09,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570533",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 233,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/91170/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570533",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570533
+ },
+ "ja:S11-106": {
+  "price": 140.4,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570037",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 205,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/93378/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570037",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570037
+ },
+ "ja:S11-120": {
+  "price": 15.68,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570051",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 57,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/96559/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570051",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570051
+ },
+ "ja:S11-104": {
+  "price": 24.58,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570035",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 51,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/93375/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570035",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570035
+ },
+ "ja:S11-109": {
+  "price": 13.84,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570040",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 56,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/96624/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570040",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570040
+ },
+ "ja:S11-122": {
+  "price": 11.47,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570053",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 52,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/96627/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570053",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570053
+ },
+ "ja:S11-118": {
+  "price": 8.24,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570048",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 80,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/137049/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570048",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570048
+ },
+ "ja:S12a-205": {
+  "price": 236.68,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571743",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 452,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/105553/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571743",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571743
+ },
+ "ja:S12a-261": {
+  "price": 300.85,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571791",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 307,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/105536/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571791",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571791
+ },
+ "ja:S12a-262": {
+  "price": 173.16,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571792",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 173,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/105530/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571792",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571792
+ },
+ "ja:S12a-221": {
+  "price": 114.63,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571759",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 157,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/103080/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571759",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571759
+ },
+ "ja:S12a-212": {
+  "price": 86.51,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571750",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 179,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/103079/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571750",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571750
+ },
+ "ja:S12a-259": {
+  "price": 86.57,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571789",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 159,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/105552/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571789",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571789
+ },
+ "ja:S12a-260": {
+  "price": 91.93,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571790",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 154,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/105546/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571790",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571790
+ },
+ "ja:S12a-211": {
+  "price": 45.48,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571749",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 112,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/105568/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571749",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571749
+ },
+ "ja:S12a-210": {
+  "price": 54.55,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571748",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 71,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/103794/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571748",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571748
+ },
+ "ja:S12a-183": {
+  "price": 45.01,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571721",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 111,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/103085/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571721",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571721
+ },
+ "ja:SV2a-094-mb": {
+  "price": 694.93,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/566791",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 1097,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/128212/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/566791",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 566791,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/6acd1029-7b00-4d92-aad1-f823c7982cd5.webp?size=m"
+ },
+ "ja:SV2a-025-mb": {
+  "price": 256.8,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/566726",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 597,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/128147/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/566726",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 566726,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/14b48ff1-9200-4087-83a4-2e17bfa2f67d.webp?size=m"
+ },
+ "ja:SV2a-205": {
+  "price": 208.14,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/577147",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 424,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/128121/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/577147",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 577147
+ },
+ "ja:SV2a-054-mb": {
+  "price": 106.26,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/566753",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 205,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/128174/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/566753",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 566753,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/daf0e431-ff92-48c6-bcf3-5f9bd9d8eb89.webp?size=m"
+ },
+ "ja:SV2a-149-mb": {
+  "price": 113.87,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/566843",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 182,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/128264/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/566843",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 566843,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/8bdc21c8-cf6e-4125-8674-9e1174b96899.webp?size=m"
+ },
+ "ja:SV2a-129-mb": {
+  "price": 85.21,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/566824",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 128,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/128245/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/566824",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 566824,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/7b951a56-1ff0-45f7-bd0d-f865a45caf40.webp?size=m"
+ },
+ "ja:SV2a-150-mb": {
+  "price": 80.12,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/566844",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 189,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/128265/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/566844",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 566844,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/6811bbba-6ccd-4dae-920e-13b0a7a3cdbc.webp?size=m"
+ },
+ "ja:SV4a-347": {
+  "price": 510.64,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/567746",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 855,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/164250/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/567746",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 567746
+ },
+ "ja:SV4a-349": {
+  "price": 226.74,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/567748",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 418,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/162095/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/567748",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 567748
+ },
+ "ja:SV4a-348": {
+  "price": 140.06,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/567747",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 201,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/162094/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/567747",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 567747
+ },
+ "ja:SV4a-350": {
+  "price": 33.77,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/567749",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 150,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/164251/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/567749",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 567749
+ },
+ "ja:SV4a-236": {
+  "price": 42.97,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/567637",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 159,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/160129/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/567637",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 567637
+ },
+ "ja:SV4a-327": {
+  "price": 18.56,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/567727",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 63,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/160147/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/567727",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 567727
+ },
+ "ja:SV4a-341": {
+  "price": 16.69,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/567741",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 95,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/164260/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/567741",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 567741
+ },
+ "ja:SV4a-331": {
+  "price": 13.82,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/567731",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 58,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/151753/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/567731",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 567731
+ },
+ "ja:SV4a-309": {
+  "price": 17.34,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/567710",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 103,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/160146/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/567710",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 567710
+ },
+ "ja:SV4a-310": {
+  "price": 18.5,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/567711",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 61,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/164692/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/567711",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 567711
+ },
+ "ja:SV8-122": {
+  "price": 31.8,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/587694",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 154,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/395201/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/587694",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 587694
+ },
+ "ja:SV8-127": {
+  "price": 1100,
+  "currency": "JPY",
+  "condition": "raw (ungraded) — 日本二手平台成交中位數（TCGplayer 價格與成交行情差太多，改用成交中位數）",
+  "source": "Pokeca-Now",
+  "url": "https://pokecanow.com/articles/packs/sv8/hits/",
+  "fetched": "2026-10-25",
+  "stale": false,
+  "psa10": {
+   "price": 4600,
+   "currency": "JPY",
+   "source": "Pokeca-Now",
+   "url": "https://pokecanow.com/articles/packs/sv8/hits/",
+   "fetched": "2026-10-25",
+   "note": "PSA 10 日本二手平台成交中位數"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/587696",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 587696,
+  "replaced": {
+   "price": 1.39,
+   "currency": "USD",
+   "condition": "raw (ungraded) — TCGplayer market price",
+   "source": "TCGplayer",
+   "url": "https://www.tcgplayer.com/product/587696",
+   "fetched": "2026-10-26",
+   "stale": false,
+   "cardCheck": "2026-10-26",
+   "tcgplayerId": 587696
+  }
+ },
+ "ja:SV8a-217": {
+  "price": 399.2,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/602681",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 456,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/455596/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/602681",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 602681
+ },
+ "ja:SV8a-212": {
+  "price": 102.3,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/602676",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 146,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/455595/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/602676",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 602676
+ },
+ "ja:SV8a-092-mb": {
+  "price": 46.35,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/604570",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 185,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/471633/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/604570",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 604570,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/d039b505-9730-4dd2-88f6-de8c9ef05fdf.webp?size=m"
+ },
+ "ja:SV8a-200": {
+  "price": 58.88,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/602664",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 103,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/469625/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/602664",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 602664
+ },
+ "ja:SV8a-211": {
+  "price": 57.57,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/602675",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 106,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/469628/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/602675",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 602675
+ },
+ "ja:SV8a-206": {
+  "price": 59.14,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/602670",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 98,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/455594/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/602670",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 602670
+ },
+ "ja:SV8a-205": {
+  "price": 52.54,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/602669",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 90,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/456933/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/602669",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 602669
+ },
+ "ja:SV8a-202": {
+  "price": 49.92,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/602666",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 73,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/459531/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/602666",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 602666
+ },
+ "ja:SV8a-209": {
+  "price": 46.86,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/602673",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 75,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/458562/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/602673",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 602673
+ },
+ "ja:SV9-115": {
+  "price": 9.06,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/614991",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 76,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/505953/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/614991",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 614991
+ },
+ "ja:SV9-109": {
+  "price": 11.41,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/614985",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 69,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/485654/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/614985",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 614985
+ },
+ "ja:SV9a-071": {
+  "price": 29.12,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/623319",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 85,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/543243/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/623319",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 623319
+ },
+ "ja:SV9a-072": {
+  "price": 18.51,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/623320",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 71,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/546106/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/623320",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 623320
+ },
+ "ja:SV9a-080": {
+  "price": 6.1,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/623328",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 53,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/541529/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/623328",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 623328
+ },
+ "ja:SV9a-070": {
+  "price": 14.31,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/623318",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 55,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/544501/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/623318",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 623318
+ },
+ "ja:SV10-122": {
+  "price": 8.58,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/629063",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 3300,
+   "currency": "JPY",
+   "source": "Pokeca-Now",
+   "url": "https://pokecanow.com/articles/packs/sv10/hits/",
+   "fetched": "2026-10-25",
+   "note": "PSA 10 日本二手平台成交中位數"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/629063",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 629063
+ },
+ "ja:SV10-114": {
+  "price": 19.46,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/629055",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 52,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/568897/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/629055",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 629055
+ },
+ "ja:SV10-109": {
+  "price": 11.37,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/629050",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 63,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/550925/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/629050",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 629050
+ },
+ "ja:SV11B-109": {
+  "price": 82.29,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636463",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 115,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/607932/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636463",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636463
+ },
+ "ja:SV11B-097": {
+  "price": 17.86,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636451",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 43,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/584786/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636451",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636451
+ },
+ "ja:SV11B-135": {
+  "price": 20.68,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636489",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 106,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/608505/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636489",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636489
+ },
+ "ja:SV11W-102": {
+  "price": 48.79,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636655",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 80,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/584798/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636655",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636655
+ },
+ "ja:SV11W-166": {
+  "price": 7.92,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636719",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 60,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/608603/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636719",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636719
+ },
+ "ja:SV11W-140": {
+  "price": 24.08,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636693",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 49,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/608580/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636693",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636693
+ },
+ "ja:SV11W-141": {
+  "price": 20.45,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636694",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 50,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/608581/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636694",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636694
+ },
+ "ja:M1L-086": {
+  "price": 4000,
+  "currency": "JPY",
+  "condition": "raw (ungraded) — 日本二手平台成交中位數（TCGplayer 價格與成交行情差太多，改用成交中位數）",
+  "source": "Pokeca-Now",
+  "url": "https://pokecanow.com/articles/packs/m1l/hits/",
+  "fetched": "2026-10-25",
+  "stale": false,
+  "psa10": {
+   "price": 108,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/663636/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647195",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647195,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/caf1234f-4c67-415f-a76b-ea466d25d5ba.webp?size=m",
+  "replaced": {
+   "price": 10.16,
+   "currency": "USD",
+   "condition": "raw (ungraded) — TCGplayer market price",
+   "source": "TCGplayer",
+   "url": "https://www.tcgplayer.com/product/647195",
+   "fetched": "2026-10-26",
+   "stale": false,
+   "cardCheck": "2026-10-26",
+   "tcgplayerId": 647195,
+   "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/caf1234f-4c67-415f-a76b-ea466d25d5ba.webp?size=m"
+  }
+ },
+ "ja:M1L-078": {
+  "price": 7.1,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647187",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 36,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/664105/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647187",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647187
+ },
+ "ja:M1L-084": {
+  "price": 600,
+  "currency": "JPY",
+  "condition": "raw (ungraded) — 日本二手平台成交中位數（TCGplayer 價格與成交行情差太多，改用成交中位數）",
+  "source": "Pokeca-Now",
+  "url": "https://pokecanow.com/articles/packs/m1l/hits/",
+  "fetched": "2026-10-25",
+  "stale": false,
+  "psa10": {
+   "price": 6000,
+   "currency": "JPY",
+   "source": "Pokeca-Now",
+   "url": "https://pokecanow.com/articles/packs/m1l/hits/",
+   "fetched": "2026-10-25",
+   "note": "PSA 10 日本二手平台成交中位數"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647193",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647193,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/ece1a48e-8e06-47a8-8aaf-3c4f11396311.webp?size=m",
+  "replaced": {
+   "price": 0.5,
+   "currency": "USD",
+   "condition": "raw (ungraded) — TCGplayer market price",
+   "source": "TCGplayer",
+   "url": "https://www.tcgplayer.com/product/647193",
+   "fetched": "2026-10-26",
+   "stale": false,
+   "cardCheck": "2026-10-26",
+   "tcgplayerId": 647193,
+   "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/ece1a48e-8e06-47a8-8aaf-3c4f11396311.webp?size=m"
+  }
+ },
+ "ja:M1L-076": {
+  "price": 6.88,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647185",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 39,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/664095/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647185",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647185
+ },
+ "ja:M1S-073": {
+  "price": 1600,
+  "currency": "JPY",
+  "condition": "raw (ungraded) — 日本二手平台成交中位數（TCGplayer 價格與成交行情差太多，改用成交中位數）",
+  "source": "Pokeca-Now",
+  "url": "https://pokecanow.com/articles/packs/m1s/hits/",
+  "fetched": "2026-10-25",
+  "stale": false,
+  "psa10": {
+   "price": 26,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/664117/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647288",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647288,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/4ef232d2-bf21-4a2b-bf15-c6933e2483d0.webp?size=m",
+  "replaced": {
+   "price": 1.44,
+   "currency": "USD",
+   "condition": "raw (ungraded) — TCGplayer market price",
+   "source": "TCGplayer",
+   "url": "https://www.tcgplayer.com/product/647288",
+   "fetched": "2026-10-26",
+   "stale": false,
+   "cardCheck": "2026-10-26",
+   "tcgplayerId": 647288,
+   "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/4ef232d2-bf21-4a2b-bf15-c6933e2483d0.webp?size=m"
+  }
+ },
+ "ja:M1S-068": {
+  "price": 1000,
+  "currency": "JPY",
+  "condition": "raw (ungraded) — 日本二手平台成交中位數（TCGplayer 價格與成交行情差太多，改用成交中位數）",
+  "source": "Pokeca-Now",
+  "url": "https://pokecanow.com/articles/packs/m1s/hits/",
+  "fetched": "2026-10-25",
+  "stale": false,
+  "psa10": {
+   "price": 26,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/664114/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647274",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647274,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/ffac41fc-b7ed-459f-b4e7-1b5f06fbc035.webp?size=m",
+  "replaced": {
+   "price": 1.53,
+   "currency": "USD",
+   "condition": "raw (ungraded) — TCGplayer market price",
+   "source": "TCGplayer",
+   "url": "https://www.tcgplayer.com/product/647274",
+   "fetched": "2026-10-26",
+   "stale": false,
+   "cardCheck": "2026-10-26",
+   "tcgplayerId": 647274,
+   "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/ffac41fc-b7ed-459f-b4e7-1b5f06fbc035.webp?size=m"
+  }
+ },
+ "ja:M1S-066": {
+  "price": 1000,
+  "currency": "JPY",
+  "condition": "raw (ungraded) — 日本二手平台成交中位數（TCGplayer 價格與成交行情差太多，改用成交中位數）",
+  "source": "Pokeca-Now",
+  "url": "https://pokecanow.com/articles/packs/m1s/hits/",
+  "fetched": "2026-10-25",
+  "stale": false,
+  "psa10": {
+   "price": 27,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/663639/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647264",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647264,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/3e3553a3-f417-4c67-b11d-f5d4116a4b2e.webp?size=m",
+  "replaced": {
+   "price": 2.08,
+   "currency": "USD",
+   "condition": "raw (ungraded) — TCGplayer market price",
+   "source": "TCGplayer",
+   "url": "https://www.tcgplayer.com/product/647264",
+   "fetched": "2026-10-26",
+   "stale": false,
+   "cardCheck": "2026-10-26",
+   "tcgplayerId": 647264,
+   "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/3e3553a3-f417-4c67-b11d-f5d4116a4b2e.webp?size=m"
+  }
+ },
+ "ja:M2-082": {
+  "price": 3100,
+  "currency": "JPY",
+  "condition": "raw (ungraded) — 日本二手平台成交中位數（TCGplayer 價格與成交行情差太多，改用成交中位數）",
+  "source": "Pokeca-Now",
+  "url": "https://pokecanow.com/articles/packs/m2/hits/",
+  "fetched": "2026-10-25",
+  "stale": false,
+  "psa10": {
+   "price": 26,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/704377/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/655861",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 655861,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/9dc6c381-83ac-443f-94ff-d1a7ab08a9a9.webp?size=m",
+  "replaced": {
+   "price": 1.29,
+   "currency": "USD",
+   "condition": "raw (ungraded) — TCGplayer market price",
+   "source": "TCGplayer",
+   "url": "https://www.tcgplayer.com/product/655861",
+   "fetched": "2026-10-26",
+   "stale": false,
+   "cardCheck": "2026-10-26",
+   "tcgplayerId": 655861,
+   "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/9dc6c381-83ac-443f-94ff-d1a7ab08a9a9.webp?size=m"
+  }
+ },
+ "ja:M2-094": {
+  "price": 22.38,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/655873",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 63,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/704385/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/655873",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 655873
+ },
+ "ja:M2-106": {
+  "price": 5.05,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/655883",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 43,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/704397/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/655883",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 655883
+ },
+ "ja:M2-085": {
+  "price": 5.17,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/655864",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 35,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/704380/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/655864",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 655864
+ },
+ "ja:M2a-240": {
+  "price": 266.54,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/665911",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 382,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/724996/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/665911",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 665911
+ },
+ "ja:M2a-234": {
+  "price": 249.21,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/665905",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 281,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/730956/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/665905",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 665905
+ },
+ "ja:M2a-237": {
+  "price": 104.26,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/665908",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 150,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/730958/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/665908",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 665908
+ },
+ "ja:M2a-223": {
+  "price": 22.68,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/665894",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 64,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/722239/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/665894",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 665894
+ },
+ "ja:M2a-236": {
+  "price": 33.29,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/665907",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 44,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/730957/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/665907",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 665907
+ },
+ "ja:M4-098": {
+  "price": 8.74,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/683749",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 30,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/776349/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/683749",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 683749
+ },
+ "ja:M4-086": {
+  "price": 3.44,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/683737",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 27,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/776339/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/683737",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 683737
+ },
+ "ja:M4-111": {
+  "price": 2.41,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/683762",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 43,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/776362/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/683762",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 683762
+ },
+ "ja:M5-111": {
+  "price": 8.51,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/695042",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 96,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/826551/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最近成交價（目前無人在賣）"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/695042",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 695042
+ },
+ "ja:M5-108": {
+  "price": 16.02,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/695048",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 96,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/826548/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/695048",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 695048
+ },
+ "ja:M5-099": {
+  "price": 8.66,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/694998",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 63,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/826540/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/694998",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 694998
+ },
+ "ja:M6-095": {
+  "price": 19.37,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/709248",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 195,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/868768/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最近成交價（目前無人在賣）"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/709248",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 709248
+ },
+ "ja:M6-080": {
+  "price": 9.21,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/709233",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 128,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/868590/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最近成交價（目前無人在賣）"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/709233",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 709233
+ },
+ "ja:M6-084": {
+  "price": 600,
+  "currency": "JPY",
+  "condition": "raw (ungraded) — 日本二手平台成交中位數（TCGplayer 價格與成交行情差太多，改用成交中位數）",
+  "source": "Pokeca-Now",
+  "url": "https://pokecanow.com/articles/packs/m6/hits/",
+  "fetched": "2026-10-25",
+  "stale": false,
+  "psa10": {
+   "price": 127,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/868594/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最近成交價（目前無人在賣）"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/709237",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 709237,
+  "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/56b331ee-fce9-4dc4-b82c-66c052548d92.webp?size=m",
+  "replaced": {
+   "price": 10.76,
+   "currency": "USD",
+   "condition": "raw (ungraded) — TCGplayer market price",
+   "source": "TCGplayer",
+   "url": "https://www.tcgplayer.com/product/709237",
+   "fetched": "2026-10-26",
+   "stale": false,
+   "cardCheck": "2026-10-26",
+   "tcgplayerId": 709237,
+   "snkImg": "https://cdn.snkrdunk.com/upload_bg_removed/56b331ee-fce9-4dc4-b82c-66c052548d92.webp?size=m"
+  }
+ },
+ "ja:M6-096": {
+  "price": 4.61,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/709249",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/709249",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 709249
+ },
+ "ja:M6a-R-RGB": {
+  "price": 4888,
+  "currency": "USD",
+  "condition": "raw (ungraded, 狀態 A) — SNKRDUNK 最低在售價",
+  "source": "SNKRDUNK",
+  "url": "https://snkrdunk.com/en/trading-cards/898625",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 17532,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/898625/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/717600",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 717600
+ },
+ "ja:M6a-B-RGB": {
+  "price": 3889,
+  "currency": "USD",
+  "condition": "raw (ungraded, 狀態 A) — SNKRDUNK 最低在售價",
+  "source": "SNKRDUNK",
+  "url": "https://snkrdunk.com/en/trading-cards/898627",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 470000,
+   "currency": "JPY",
+   "source": "Pokeca-Now",
+   "url": "https://pokecanow.com/articles/packs/m6a/hits/",
+   "fetched": "2026-10-25",
+   "note": "PSA 10 日本二手平台成交中位數（SNKRDUNK 掛單價與成交行情差太多，改用成交中位數）",
+   "replaced": {
+    "price": 13707,
+    "currency": "USD",
+    "source": "SNKRDUNK",
+    "url": "https://snkrdunk.com/en/trading-cards/898627/used?condition=psa_10",
+    "fetched": "2026-10-26",
+    "note": "PSA 10 最低在售價"
+   }
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/717602",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 717602
+ },
+ "ja:M6a-G-RGB": {
+  "price": 3698,
+  "currency": "USD",
+  "condition": "raw (ungraded, 狀態 A) — SNKRDUNK 最低在售價",
+  "source": "SNKRDUNK",
+  "url": "https://snkrdunk.com/en/trading-cards/898626",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 12751,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/898626/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/717601",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 717601
+ },
+ "ja:M6a-135": {
+  "price": 68.08,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/716932",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 26000,
+   "currency": "JPY",
+   "source": "Pokeca-Now",
+   "url": "https://pokecanow.com/articles/packs/m6a/hits/",
+   "fetched": "2026-10-25",
+   "note": "PSA 10 日本二手平台成交中位數（SNKRDUNK 掛單價與成交行情差太多，改用成交中位數）",
+   "replaced": {
+    "price": 542,
+    "currency": "USD",
+    "source": "SNKRDUNK",
+    "url": "https://snkrdunk.com/en/trading-cards/881429/used?condition=psa_10",
+    "fetched": "2026-10-26",
+    "note": "PSA 10 最低在售價"
+   }
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/716932",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 716932
+ },
+ "ja:M6a-129": {
+  "price": 69.01,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/719553",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": {
+   "price": 26000,
+   "currency": "JPY",
+   "source": "Pokeca-Now",
+   "url": "https://pokecanow.com/articles/packs/m6a/hits/",
+   "fetched": "2026-10-25",
+   "note": "PSA 10 日本二手平台成交中位數（SNKRDUNK 掛單價與成交行情差太多，改用成交中位數）",
+   "replaced": {
+    "price": 39,
+    "currency": "USD",
+    "source": "SNKRDUNK",
+    "url": "https://snkrdunk.com/en/trading-cards/896991/used?condition=psa_10",
+    "fetched": "2026-10-26",
+    "note": "PSA 10 最近成交價（目前無人在賣）"
+   }
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/719553",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 719553
  }
 }

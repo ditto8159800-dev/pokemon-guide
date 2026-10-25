@@ -1,0 +1,590 @@
+{
+ "_note": "大獎卡（Top 10）研究紀錄。方法：先看日本（当たりランキング網站、SNKRDUNK 文章、カードラッシュ買取表）、台灣（PTT／巴哈姆特）、美國（Reddit／PokeBeach）社群公認的「大獎」，再依目前市場成交價排序（價格越高＝獎越大）。排序用的價格來源預設是 Pokeca-Now 每日統計的日本二手平台實際成交中位數（メルカリ・Y!フリマ・ヤフオク）；Pokeca-Now 不收「大師球鏡面」卡，所以 151 和 テラスタルフェスex 改用有收鏡面卡的排行。官方保底只寫官方網站明寫的內容。",
+ "_method_zh": "社群公認的大獎卡 → 依目前市場成交價由高到低取前 10 張",
+ "sets": {
+  "ja:M6a": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "スニーカーダンク：30th CELEBRATIONの当たりランキング（10/25更新）",
+     "url": "https://snkrdunk.com/articles/30971/"
+    },
+    {
+     "lang": "ja",
+     "title": "ポケカチ：30thセレブレーション当たりカード買取価格ランキング（カードラッシュ買取 10/26）",
+     "url": "https://altema.jp/pokemoncard/celebrationcollection"
+    },
+    {
+     "lang": "en",
+     "title": "PokeBeach：Mew RGB Secret Rares Pulled From 30th Celebration",
+     "url": "https://www.pokebeach.com/2026/09/mew-rgb-secret-rares-pulled-from-30th-celebration"
+    },
+    {
+     "lang": "en",
+     "title": "Reddit r/PokemonTCG：High-quality scans of the RGB Mew cards",
+     "url": "https://www.reddit.com/r/PokemonTCG/comments/1whafc1/theyre_real_highquality_scans_of_the_rgb_mew/"
+    }
+   ],
+   "summary": "三張 RGB 夢幻（赤／青／綠）是日、美社群公認的頂級大獎（官方未公開、Reddit 與 PokeBeach 熱烈討論）；其次是 30 週年復刻的噴火龍、洛奇亞。",
+   "guarantee": {
+    "official": "官方未公布每盒大獎保底。官方網站只寫：每包必有 1 張皮卡丘卡、每包確定有 1 張基本能量（YOSHIROTTEN 特別設計）。",
+    "url": "https://www.30th.pokemon-card.com/product/m6a"
+   },
+   "snkIds": {
+    "R/RGB": 898625,
+    "B/RGB": 898627,
+    "G/RGB": 898626
+   }
+  },
+  "ja:M6": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "ポケカ研：ストームエメラルダ 当たりランキング・買取相場",
+     "url": "https://pokeca-ken.com/pack/M6/"
+    },
+    {
+     "lang": "ja",
+     "title": "MYCaFolio：ストームエメラルダの当たりカードランキング",
+     "url": "https://mycafolio.com/pokemon/box/storm-emeralda/"
+    },
+    {
+     "lang": "en",
+     "title": "Samurai Sword Tokyo：Mega Rayquaza ex MUR and SAR chase guide",
+     "url": "https://samuraiswordtokyo.com/blogs/news/delta-reign-chase-cards-guide"
+    }
+   ],
+   "summary": "日本各排行一致：超級烈空坐ex 的 MUR、SAR 遠高於其他卡。",
+   "guarantee": {
+    "official": "官方未公布保底（官網只寫「卡片隨機封入」）。",
+    "url": "https://www.pokemon-card.com/ex/m6/",
+    "community": "玩家實測（非官方）：每盒 SR 以上（SR／SAR／MUR）共 2 張、AR 3 張。",
+    "communityUrl": "https://pokeka-atari.jp/expansion/storm-emeralda"
+   }
+  },
+  "ja:M2a": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "ポケカチ：MEGAドリームexの当たりカード（カードラッシュ買取 10/25）",
+     "url": "https://altema.jp/pokemoncard/megadreamex"
+    },
+    {
+     "lang": "ja",
+     "title": "トレカの地図：メガドリームexの当たりランキング",
+     "url": "https://torecamap.co.jp/column/m2a/"
+    }
+   ],
+   "summary": "超級耿鬼ex SAR、皮卡丘ex SAR、超級快龍ex MUR 是各排行公認前三。",
+   "guarantee": {
+    "official": "官方未公布保底（官網只寫「10 張入、隨機封入」）。",
+    "url": "https://www.pokemon-card.com/ex/m2a/"
+   }
+  },
+  "ja:SV2a": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "MYCaFolio：ポケモンカード151の当たりカードランキング（素体相場 2026/10/25）",
+     "url": "https://mycafolio.com/pokemon/box/pokemon-card-151/"
+    },
+    {
+     "lang": "ja",
+     "title": "A Rushメディア：ポケカ151の当たりカードランキングTOP20（遊々亭・カードラッシュ 10/12）",
+     "url": "https://arush.jp/media/pokeca-151-atari/"
+    },
+    {
+     "lang": "zh",
+     "title": "巴哈姆特：強化擴充包「寶可夢卡牌151」開箱",
+     "url": "https://home.gamer.com.tw/artwork.php?sn=5746571"
+    }
+   ],
+   "summary": "日本、台灣都把「大師球鏡面」耿鬼、皮卡丘和噴火龍ex SAR 當最大獎；大師球鏡面卡不是官方高稀有度，卻是社群公認大獎。",
+   "rankingSource": {
+    "name": "MYCaFolio 素體（未鑑定）相場",
+    "url": "https://mycafolio.com/pokemon/box/pokemon-card-151/",
+    "date": "2026-10-25",
+    "currency": "JPY"
+   },
+   "ranking": [
+    {
+     "name": "ゲンガー",
+     "rarity": "マスターボールミラー",
+     "num": "094/165",
+     "variant": "master",
+     "price": 110000
+    },
+    {
+     "name": "ピカチュウ",
+     "rarity": "マスターボールミラー",
+     "num": "025/165",
+     "variant": "master",
+     "price": 59000
+    },
+    {
+     "name": "リザードンex",
+     "rarity": "SAR",
+     "num": "201/165",
+     "price": 58000
+    },
+    {
+     "name": "ミュウex",
+     "rarity": "SAR",
+     "num": "205/165",
+     "price": 37000
+    },
+    {
+     "name": "カメックスex",
+     "rarity": "SAR",
+     "num": "202/165",
+     "price": 18000
+    },
+    {
+     "name": "コダック",
+     "rarity": "マスターボールミラー",
+     "num": "054/165",
+     "variant": "master",
+     "price": 17000
+    },
+    {
+     "name": "カイリュー",
+     "rarity": "マスターボールミラー",
+     "num": "149/165",
+     "variant": "master",
+     "price": 17000
+    },
+    {
+     "name": "コイキング",
+     "rarity": "マスターボールミラー",
+     "num": "129/165",
+     "variant": "master",
+     "price": 15000
+    },
+    {
+     "name": "ミュウツー",
+     "rarity": "マスターボールミラー",
+     "num": "150/165",
+     "variant": "master",
+     "price": 15000
+    },
+    {
+     "name": "フシギバナex",
+     "rarity": "SAR",
+     "num": "200/165",
+     "price": 15000
+    }
+   ],
+   "guarantee": {
+    "official": "官方未公布保底（官網只寫「7 張入、隨機封入」）。",
+    "url": "https://www.pokemon-card.com/ex/sv2a/"
+   }
+  },
+  "ja:SV8a": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "トレカの地図：テラスタルフェスexの当たりランキング（販売價 10/23）",
+     "url": "https://torecamap.co.jp/column/sv8a/"
+    },
+    {
+     "lang": "ja",
+     "title": "Gamebase：テラスタルフェスex 当たりカードランキング",
+     "url": "https://gamebase.jp/pokeka/52168/"
+    },
+    {
+     "lang": "en",
+     "title": "Samurai Sword Tokyo：Umbreon full art cards ranked",
+     "url": "https://samuraiswordtokyo.com/blogs/news/top-umbreon-cards-guide"
+    },
+    {
+     "lang": "en",
+     "title": "Reddit r/PokemonTCG：Prismatic Evolutions vs Terastal Festival",
+     "url": "https://www.reddit.com/r/PokemonTCG/comments/1kvpbwp/prismatic_evolutions_vs_terastal_festival/"
+    }
+   ],
+   "summary": "月亮伊布ex SAR 是日、美公認的看板大獎；月亮伊布「大師球鏡面」也進前三。",
+   "rankingSource": {
+    "name": "トレカの地図 販売價格",
+    "url": "https://torecamap.co.jp/column/sv8a/",
+    "date": "2026-10-23",
+    "currency": "JPY"
+   },
+   "ranking": [
+    {
+     "name": "ブラッキーex",
+     "rarity": "SAR",
+     "num": "217/187",
+     "price": 54800
+    },
+    {
+     "name": "ニンフィアex",
+     "rarity": "SAR",
+     "num": "212/187",
+     "price": 19300
+    },
+    {
+     "name": "ブラッキー",
+     "rarity": "マスターボールミラー",
+     "num": "092/187",
+     "variant": "master",
+     "price": 18800
+    },
+    {
+     "name": "リーフィアex",
+     "rarity": "SAR",
+     "num": "200/187",
+     "price": 8230
+    },
+    {
+     "name": "エーフィex",
+     "rarity": "SAR",
+     "num": "211/187",
+     "price": 7980
+    },
+    {
+     "name": "ピカチュウex",
+     "rarity": "UR",
+     "num": "236/187",
+     "price": 7980
+    },
+    {
+     "name": "グレイシアex",
+     "rarity": "SAR",
+     "num": "206/187",
+     "price": 7730
+    },
+    {
+     "name": "シャワーズex",
+     "rarity": "SAR",
+     "num": "205/187",
+     "price": 7480
+    },
+    {
+     "name": "ブースターex",
+     "rarity": "SAR",
+     "num": "202/187",
+     "price": 6730
+    },
+    {
+     "name": "サンダースex",
+     "rarity": "SAR",
+     "num": "209/187",
+     "price": 6730
+    }
+   ],
+   "guarantee": {
+    "official": "官方：每包確定 1 張「寶可夢ex」（官網宣傳圖「ポケモンexが確定！」）。官方未公布每盒 SAR 保底。",
+    "url": "https://www.pokemon-card.com/ex/sv8a/"
+   }
+  },
+  "ja:M2": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "MYCaFolio：インフェルノXの当たりカードランキング",
+     "url": "https://mycafolio.com/pokemon/box/inferno-x/"
+    },
+    {
+     "lang": "en",
+     "title": "Reddit r/PokeInvesting：Inferno X launch in Japan: Charizard SAR already $470",
+     "url": "https://www.reddit.com/r/PokeInvesting/comments/1nq2w0y/inferno_x_launch_in_japan_charizard_sar_already/"
+    }
+   ],
+   "summary": "超級噴火龍X ex 的 MUR、SAR 是日、美社群的話題中心。",
+   "guarantee": {
+    "official": "官方未公布保底（官網只寫「5 張入、隨機封入」）。",
+    "url": "https://www.pokemon-card.com/ex/m2/"
+   }
+  },
+  "ja:M5": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "ポケカチ：アビスアイの当たりカードと買取価格相場",
+     "url": "https://altema.jp/pokemoncard/abysseye"
+    },
+    {
+     "lang": "ja",
+     "title": "ポケカナウ：アビスアイ 当たりカード相場ランキング",
+     "url": "https://pokecanow.com/articles/packs/m5/hits/"
+    }
+   ],
+   "summary": "超級達克萊伊ex MUR、SAR 公認前二。",
+   "guarantee": {
+    "official": "官方未公布保底（官網只寫「5 張入、隨機封入」）。",
+    "url": "https://www.pokemon-card.com/ex/m5/"
+   }
+  },
+  "ja:M1L": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "MYCaFolio：メガブレイブの当たりカードランキング",
+     "url": "https://mycafolio.com/pokemon/box/mega-brave/"
+    },
+    {
+     "lang": "ja",
+     "title": "ポケカチ：メガブレイブの当たりランキング",
+     "url": "https://altema.jp/pokemoncard/megabrave"
+    }
+   ],
+   "summary": "超級路卡利歐ex MUR 與莉莉艾的決心 SAR 是公認前二。",
+   "guarantee": {
+    "official": "官方未公布保底（官網只寫「隨機封入」）。",
+    "url": "https://www.pokemon-card.com/ex/m1/"
+   }
+  },
+  "ja:M4": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "Gamebase：ニンジャスピナー 当たりカードランキング",
+     "url": "https://gamebase.jp/pokeka/52126/"
+    },
+    {
+     "lang": "ja",
+     "title": "A Rushメディア：ニンジャスピナーの当たりランキングTOP20",
+     "url": "https://arush.jp/media/ninja-spinner-atari/"
+    }
+   ],
+   "summary": "超級甲賀忍蛙ex MUR、SAR 是唯二超過盒價的卡。",
+   "guarantee": {
+    "official": "官方未公布保底（官網只寫「5 張入、隨機封入」）。",
+    "url": "https://www.pokemon-card.com/ex/m4/"
+   }
+  },
+  "ja:S6a": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "pokeka-atari：イーブイヒーローズ 当たり・買取価格",
+     "url": "https://pokeka-atari.jp/expansion/eevee-heroes"
+    },
+    {
+     "lang": "ja",
+     "title": "トレカの地図：イーブイヒーローズ当たりランキング",
+     "url": "https://torecamap.co.jp/column/s6a/"
+    },
+    {
+     "lang": "en",
+     "title": "TheGamer：The Best Eevee Heroes Chase Cards",
+     "url": "https://www.thegamer.com/pokemon-tcg-eevee-heroes-valuable-cards/"
+    }
+   ],
+   "summary": "「Moonbreon」月亮伊布VMAX SA 是全球公認的現代頂級大獎，其次是仙子伊布、冰伊布 VMAX SA。",
+   "guarantee": {
+    "official": "官方未公布保底。",
+    "url": "https://www.pokemon-card.com/products/s/s6a.html"
+   }
+  },
+  "ja:SV11B": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "pokeka-atari：ブラックボルト 当たり・買取価格",
+     "url": "https://pokeka-atari.jp/expansion/black-bolt"
+    },
+    {
+     "lang": "ja",
+     "title": "ポケカチ：ブラックボルトとホワイトフレアどっちを買うべき？",
+     "url": "https://altema.jp/pokemoncard/bvwhdotti"
+    }
+   ],
+   "summary": "捷克羅姆ex BWR（黑白稀有）與 SAR 是公認前二。",
+   "guarantee": {
+    "official": "一般盒官方未公布保底。官網只對另一款「拡張パックデラックス」（35 張入）寫每包確定 1 張 AR。",
+    "url": "https://www.pokemon-card.com/ex/sv11/"
+   }
+  },
+  "ja:SV11W": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "pokeka-atari：ホワイトフレア 当たり・買取価格",
+     "url": "https://pokeka-atari.jp/expansion/white-flare"
+    },
+    {
+     "lang": "ja",
+     "title": "トレカの地図：ホワイトフレアの当たりカードランキング",
+     "url": "https://torecamap.co.jp/column/sv11w/"
+    }
+   ],
+   "summary": "萊希拉姆ex BWR、SAR 與 透子 SAR 是公認前三。",
+   "guarantee": {
+    "official": "一般盒官方未公布保底。官網只對「拡張パックデラックス」（35 張入）寫每包確定 1 張 AR。",
+    "url": "https://www.pokemon-card.com/ex/sv11/"
+   }
+  },
+  "ja:SV10": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "MYCaFolio：ロケット団の栄光の当たりカードランキング",
+     "url": "https://mycafolio.com/pokemon/box/rocket-gang-glory/"
+    },
+    {
+     "lang": "ja",
+     "title": "トレカの地図：ロケット団の栄光の当たりランキング",
+     "url": "https://torecamap.co.jp/column/sv10/"
+    }
+   ],
+   "summary": "火箭隊的超夢ex SAR 是公認最大獎，其次是火箭隊的火焰鳥ex SAR。",
+   "guarantee": {
+    "official": "官方未公布保底（官網只寫「5 張入、隨機封入」）。",
+    "url": "https://www.pokemon-card.com/ex/sv10/"
+   }
+  },
+  "ja:SV9": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "ポケカチ：バトルパートナーズの当たりランキング",
+     "url": "https://altema.jp/pokemoncard/battlepartners"
+    },
+    {
+     "lang": "ja",
+     "title": "トレカの地図：バトルパートナーズの当たりランキング",
+     "url": "https://torecamap.co.jp/column/sv9/"
+    }
+   ],
+   "summary": "莉莉艾的皮皮ex SAR 公認第一，奇樹的電肚蛙ex、N 的索羅亞克ex SAR 次之。",
+   "guarantee": {
+    "official": "官方未公布保底（官網只寫「5 張入、隨機封入」）。",
+    "url": "https://www.pokemon-card.com/ex/sv9/"
+   }
+  },
+  "ja:SV8": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "MYCaFolio：超電ブレイカーの当たりカードランキング",
+     "url": "https://mycafolio.com/pokemon/box/chodenki-breaker/"
+    },
+    {
+     "lang": "ja",
+     "title": "トレカの地図：超電ブレイカーの当たりランキング",
+     "url": "https://torecamap.co.jp/column/sv8/"
+    }
+   ],
+   "summary": "皮卡丘ex SAR 是公認最大獎。",
+   "guarantee": {
+    "official": "官方未公布保底（官網只寫「5 張入、隨機封入」）。",
+    "url": "https://www.pokemon-card.com/ex/sv8/"
+   }
+  },
+  "ja:S11": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "pokeka-atari：ロストアビス 当たり・買取価格",
+     "url": "https://pokeka-atari.jp/expansion/lost-abyss"
+    },
+    {
+     "lang": "ja",
+     "title": "トレカの地図：ロストアビス当たりランキング",
+     "url": "https://torecamap.co.jp/column/s11/"
+    }
+   ],
+   "summary": "騎拉帝納V SA 是公認的超級大獎（約 20 萬日圓）。",
+   "guarantee": {
+    "official": "官方未公布保底（官網只寫「5 張入、隨機封入」）。",
+    "url": "https://www.pokemon-card.com/ex/s11/"
+   }
+  },
+  "ja:S12a": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "ポケカチ：VSTARユニバースの当たりカードと買取価格",
+     "url": "https://altema.jp/pokemoncard/vstaruniverse"
+    },
+    {
+     "lang": "ja",
+     "title": "MYCaFolio：VSTARユニバースの当たりカードランキング",
+     "url": "https://mycafolio.com/pokemon/box/vstar-universe/"
+    }
+   ],
+   "summary": "皮卡丘 AR 是公認第一（AR 稀有度卻是最大獎），其次是騎拉帝納VSTAR UR。",
+   "guarantee": {
+    "official": "官方：每包確定 1 張 V、VSTAR 或 VMAX（官網「V・VSTAR・VMAXいずれか確定！」）。官方未公布每盒 SAR 保底。",
+    "url": "https://www.pokemon-card.com/ex/s12a/"
+   }
+  },
+  "ja:M1S": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "トレカの地図：メガシンフォニアの当たりランキング",
+     "url": "https://torecamap.co.jp/column/m1s/"
+    },
+    {
+     "lang": "ja",
+     "title": "Gamebase：メガシンフォニア 当たりカードランキング",
+     "url": "https://gamebase.jp/pokeka/52116/"
+    }
+   ],
+   "summary": "超級沙奈朵ex MUR、SAR 公認前二。",
+   "guarantee": {
+    "official": "官方未公布保底（官網只寫「隨機封入」）。",
+    "url": "https://www.pokemon-card.com/ex/m1/"
+   }
+  },
+  "ja:SV9a": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "MYCaFolio：熱風のアリーナの当たりカードランキング",
+     "url": "https://mycafolio.com/pokemon/box/neppu-no-arena/"
+    },
+    {
+     "lang": "ja",
+     "title": "ポケカ研：熱風のアリーナの当たりランキング",
+     "url": "https://pokeca-ken.com/pack/SV9a/"
+    }
+   ],
+   "summary": "竹蘭的烈咬陸鯊ex SAR、阿響的鳳王ex SAR 公認前二。",
+   "guarantee": {
+    "official": "官方未公布保底。",
+    "url": "https://www.pokemon-card.com/products/sv/sv9a.html"
+   }
+  },
+  "ja:SV4a": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "MYCaFolio：シャイニートレジャーexの当たりカードランキング",
+     "url": "https://mycafolio.com/pokemon/box/shiny-treasure-ex/"
+    },
+    {
+     "lang": "ja",
+     "title": "ポケカチ：ミュウex SAR（シャイニートレジャーex）買取価格",
+     "url": "https://altema.jp/pokemoncard/card/24462"
+    }
+   ],
+   "summary": "夢幻ex SAR 公認第一，噴火龍ex SAR、沙奈朵ex SAR 次之。",
+   "guarantee": {
+    "official": "官方：每包確定 1 張「寶可夢ex」（官網「ポケモンex確定！」）。官方未公布每盒 SAR 保底。",
+    "url": "https://www.pokemon-card.com/ex/sv4a/"
+   }
+  },
+  "ja:SM12a": {
+   "sources": [
+    {
+     "lang": "ja",
+     "title": "ポケカチ：タッグオールスターズの当たりカードと買取値段相場",
+     "url": "https://altema.jp/pokemoncard/tagallstars"
+    },
+    {
+     "lang": "ja",
+     "title": "アミューズメディア：TAG TEAM GX タッグオールスターズ 当たりランキング",
+     "url": "https://www.amuse-p.com/media/tag-team-gx/"
+    }
+   ],
+   "summary": "月亮伊布&達克萊伊GX SA 與 觀光客 SR 輪流當第一。",
+   "guarantee": {
+    "official": "官方：每包必有 TAG TEAM GX 或寶可夢GX；每盒（1BOX）必有 1 張以上 SR 或更高稀有度。",
+    "url": "https://www.pokemon-card.com/ex/sm12a/"
+   }
+  }
+ }
+}

@@ -6,8 +6,12 @@ for(const r of rarity){const e=r.example;const s=raw[e.lang].find(x=>x.id===e.se
   const c=s.cards.map(c=>({id:c.id,...cards[e.lang][c.id]})).find(c=>e.pick?c.l===e.pick:c.r===e.rarity);
   if(c&&c.i) r.exampleCard={name:c.n,num:c.l,set:s.name,img:c.i+'/low.webp',key:`${e.lang}:${c.id}`};}
 const rdetail=fs.existsSync('content/rarity-details.json')?R('content/rarity-details.json'):null;
+const glabels=fs.existsSync('content/grading-labels.json')?R('content/grading-labels.json'):{};
 const gphotos=fs.existsSync('content/grading-photos.json')?R('content/grading-photos.json'):{};
-fs.writeFileSync('site/data/content.js','window.RARITY='+JSON.stringify(rarity)+';\nwindow.GRADING='+JSON.stringify(grading)+';\nwindow.GRADING_PHOTOS='+JSON.stringify(gphotos)+';\nwindow.RARITY_DETAIL='+JSON.stringify(rdetail)+';\n');
+fs.writeFileSync('site/data/content.js','window.RARITY='+JSON.stringify(rarity)+';\nwindow.GRADING='+JSON.stringify(grading)+';\nwindow.GRADING_PHOTOS='+JSON.stringify(gphotos)+';\nwindow.RARITY_DETAIL='+JSON.stringify(rdetail)+';\nwindow.GRADING_LABELS='+JSON.stringify(glabels)+';\n');
+// one catalog page per grading company (site/grading-<slug>.html), rendered by assets/grading-company.js
+for(const [name,L] of Object.entries(glabels)){if(name.startsWith('_'))continue;
+  fs.writeFileSync(`site/grading-${L.slug}.html`,`<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">\n<title>${name} 鑑定標籤怎麼看｜寶可夢卡牌學習站</title><link rel="stylesheet" href="assets/style.css">\n<script src="data/sets.js"></script><script src="data/content.js"></script><script src="assets/common.js"></script></head>\n<body><div class="layout"><main id="gc"></main></div>\n<script>window.COMPANY=${JSON.stringify(name)};</script><script src="assets/grading-company.js"></script></body></html>\n`);}
 // ---- question bank ----
 const Q=[];const sh=a=>a.map(x=>[Math.random(),x]).sort((a,b)=>a[0]-b[0]).map(x=>x[1]);
 const pickOthers=(pool,ans,n=3)=>sh([...new Set(pool.filter(x=>x!==ans))]).slice(0,n);
@@ -43,7 +47,7 @@ for(const s of HOT){
   if(s.nameZh) add('卡盒歷史',`日版卡盒「${s.name}」的中文名是？`,nm(s),pickOthers(HOT.filter(x=>x.nameZh&&x.key!==s.key).map(nm),nm(s)),`「${s.name}」= ${nm(s)}。`,ref);
   // 3) top chase card (the #1 card, by its Chinese name when we have one)
   const top=s.chase?.[0];const tn=c=>c.nameZh||c.name;
-  if(top) add('大獎卡',`${nm(s)}裡價格最高的大獎卡是哪一張？`,tn(top),pickOthers(HOT.filter(x=>x.key!==s.key&&x.chase?.length).map(x=>tn(x.chase[0])).filter(n=>n!==tn(top)),tn(top)),`${nm(s)}的頭號大獎卡是 ${tn(top)}（${top.num}，${top.rarity}）。`,ref);
+  if(top) add('大獎卡',`${nm(s)}裡社群公認、目前成交價最高的頭號大獎卡是哪一張？`,tn(top),pickOthers(HOT.filter(x=>x.key!==s.key&&x.chase?.length).map(x=>tn(x.chase[0])).filter(n=>n!==tn(top)),tn(top)),`${nm(s)}的頭號大獎卡是 ${tn(top)}（${top.num}，${top.rarity}）。`,ref);
 }
 // 4) which of these is a hot set right now (easy recognition)
 const hotNames=HOT.filter(s=>s.rank&&s.rank<=8).map(nm);

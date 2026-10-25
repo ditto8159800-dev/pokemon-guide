@@ -1,0 +1,168 @@
+{
+ "set": "M6a",
+ "source": "Pokeca-Now（フリマ実売中央値）",
+ "url": "https://pokecanow.com/articles/packs/m6a/hits/",
+ "fetched": "2026-10-25",
+ "cards": [
+  {
+   "rank": 1,
+   "name": "ミュウ 赤",
+   "rarity": "RGB",
+   "num": "R/RGB",
+   "price": 540000,
+   "psa10": null
+  },
+  {
+   "rank": 2,
+   "name": "ミュウ 青",
+   "rarity": "RGB",
+   "num": "B/RGB",
+   "price": 399900,
+   "psa10": 470000
+  },
+  {
+   "rank": 3,
+   "name": "ミュウ 緑",
+   "rarity": "RGB",
+   "num": "G/RGB",
+   "price": 370000,
+   "psa10": null
+  },
+  {
+   "rank": 4,
+   "name": "リザードン",
+   "rarity": "30th",
+   "num": "137/103",
+   "price": 15000,
+   "psa10": 37000
+  },
+  {
+   "rank": 5,
+   "name": "ルギア",
+   "rarity": "30th",
+   "num": "142/103",
+   "price": 14400,
+   "psa10": 40000
+  },
+  {
+   "rank": 6,
+   "name": "ミュウex",
+   "rarity": "FUR",
+   "num": "135/103",
+   "price": 5800,
+   "psa10": 26000
+  },
+  {
+   "rank": 7,
+   "name": "ピカチュウex",
+   "rarity": "SAR",
+   "num": "127/103",
+   "price": 5600,
+   "psa10": 31000
+  },
+  {
+   "rank": 8,
+   "name": "ミュウex",
+   "rarity": "SAR",
+   "num": "129/103",
+   "price": 4900,
+   "psa10": 26000
+  },
+  {
+   "rank": 9,
+   "name": "コイキング",
+   "rarity": "30th",
+   "num": "165/103",
+   "price": 4700,
+   "psa10": 22900
+  },
+  {
+   "rank": 10,
+   "name": "ピカチュウex",
+   "rarity": "SAR",
+   "num": "126/103",
+   "price": 4600,
+   "psa10": 41800
+  },
+  {
+   "rank": 11,
+   "name": "ミュウツーex",
+   "rarity": "FUR",
+   "num": "134/103",
+   "price": 4000,
+   "psa10": 21600
+  },
+  {
+   "rank": 12,
+   "name": "ゲンガー",
+   "rarity": "30th",
+   "num": "150/103",
+   "price": 3800,
+   "psa10": 18800
+  },
+  {
+   "rank": 13,
+   "name": "ゲンガーex",
+   "rarity": "SAR",
+   "num": "131/103",
+   "price": 3600,
+   "psa10": 25500
+  },
+  {
+   "rank": 14,
+   "name": "ピカチュウ",
+   "rarity": "30th",
+   "num": "136/103",
+   "price": 3400,
+   "psa10": 14300
+  },
+  {
+   "rank": 15,
+   "name": "ミュウツーex",
+   "rarity": "SAR",
+   "num": "128/103",
+   "price": 2400,
+   "psa10": 27000
+  },
+  {
+   "rank": 16,
+   "name": "ニンフィアex",
+   "rarity": "SAR",
+   "num": "130/103",
+   "price": 2300,
+   "psa10": 15300
+  },
+  {
+   "rank": 17,
+   "name": "ジラーチex",
+   "rarity": "SAR",
+   "num": "132/103",
+   "price": 1900,
+   "psa10": 20000
+  },
+  {
+   "rank": 18,
+   "name": "ダークライ＆クレセリアLEGEND（上）",
+   "rarity": "30th",
+   "num": "151/103",
+   "price": 1800,
+   "psa10": null
+  },
+  {
+   "rank": 19,
+   "name": "ピカチュウ&ゼクロムGX",
+   "rarity": "30th",
+   "num": "160/103",
+   "price": 1600,
+   "psa10": 17200
+  },
+  {
+   "rank": 20,
+   "name": "ホゲータex",
+   "rarity": "SAR",
+   "num": "124/103",
+   "price": 1400,
+   "psa10": null
+  }
+ ]
+}

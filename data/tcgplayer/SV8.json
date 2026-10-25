@@ -1,0 +1,1071 @@
+{
+ "set": "SV8",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 587725,
+   "name": "Magneton",
+   "number": "112/106",
+   "rarity": "Art Rare",
+   "marketPrice": 5.5,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587687,
+   "name": "Vivillon",
+   "number": "107/106",
+   "rarity": "Art Rare",
+   "marketPrice": 1.75,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587661,
+   "name": "Tatsugiri ex",
+   "number": "081/106",
+   "rarity": "Double Rare",
+   "marketPrice": 0.47,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587722,
+   "name": "Slakoth",
+   "number": "117/106",
+   "rarity": "Art Rare",
+   "marketPrice": 4.73,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587583,
+   "name": "Durant ex",
+   "number": "003/106",
+   "rarity": "Double Rare",
+   "marketPrice": 0.23,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587633,
+   "name": "Espurr",
+   "number": "053/106",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587673,
+   "name": "Terapagos",
+   "number": "093/106",
+   "rarity": "Rare",
+   "marketPrice": 0.15,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587674,
+   "name": "Deduction Set",
+   "number": "094/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587686,
+   "name": "Gravity Mountain",
+   "number": "106/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.08,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587623,
+   "name": "Kilowattrel",
+   "number": "043/106",
+   "rarity": "Common",
+   "marketPrice": 0.04,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587632,
+   "name": "Cofagrigus",
+   "number": "052/106",
+   "rarity": "Rare",
+   "marketPrice": 0.2,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587586,
+   "name": "Vivillon",
+   "number": "006/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.43,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587619,
+   "name": "Zebstrika",
+   "number": "039/106",
+   "rarity": "Common",
+   "marketPrice": 0.19,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587651,
+   "name": "Zweilous",
+   "number": "071/106",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587656,
+   "name": "Alolan Diglett",
+   "number": "076/106",
+   "rarity": "Common",
+   "marketPrice": 0.21,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587682,
+   "name": "Cyrano",
+   "number": "102/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.23,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587592,
+   "name": "Victini",
+   "number": "012/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587701,
+   "name": "Gravity Mountain",
+   "number": "138/106",
+   "rarity": "Ultra Rare",
+   "marketPrice": 6.8,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587610,
+   "name": "Shellos",
+   "number": "030/106",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587650,
+   "name": "Deino",
+   "number": "070/106",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587670,
+   "name": "Oranguru",
+   "number": "090/106",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587685,
+   "name": "Exciting Stadium",
+   "number": "105/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587723,
+   "name": "Alolan Dugtrio",
+   "number": "116/106",
+   "rarity": "Art Rare",
+   "marketPrice": 4.77,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587688,
+   "name": "Ceruledge",
+   "number": "109/106",
+   "rarity": "Art Rare",
+   "marketPrice": 8.51,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587671,
+   "name": "Tandemaus",
+   "number": "091/106",
+   "rarity": "Common",
+   "marketPrice": 0.2,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587716,
+   "name": "Hydreigon ex",
+   "number": "124/106",
+   "rarity": "Super Rare",
+   "marketPrice": 2.7,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587666,
+   "name": "Kecleon",
+   "number": "086/106",
+   "rarity": "Common",
+   "marketPrice": 0.25,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587678,
+   "name": "Amulet of Hope",
+   "number": "098/106",
+   "rarity": "ACE Rare",
+   "marketPrice": 0.25,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587657,
+   "name": "Alolan Dugtrio",
+   "number": "077/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587605,
+   "name": "Feebas",
+   "number": "025/106",
+   "rarity": "Common",
+   "marketPrice": 0.23,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587622,
+   "name": "Wattrel",
+   "number": "042/106",
+   "rarity": "Common",
+   "marketPrice": 0.06,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587631,
+   "name": "Yamask",
+   "number": "051/106",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587665,
+   "name": "Zangoose",
+   "number": "085/106",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587683,
+   "name": "Clemont's Wit",
+   "number": "103/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587613,
+   "name": "Pikachu ex",
+   "number": "033/106",
+   "rarity": "Double Rare",
+   "marketPrice": 1.69,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587606,
+   "name": "Milotic ex",
+   "number": "026/106",
+   "rarity": "Double Rare",
+   "marketPrice": 0.37,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587690,
+   "name": "Spheal",
+   "number": "111/106",
+   "rarity": "Art Rare",
+   "marketPrice": 4.77,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587726,
+   "name": "Larvesta",
+   "number": "108/106",
+   "rarity": "Art Rare",
+   "marketPrice": 1.47,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587692,
+   "name": "Phanpy",
+   "number": "115/106",
+   "rarity": "Art Rare",
+   "marketPrice": 3.43,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587637,
+   "name": "Palossand ex",
+   "number": "057/106",
+   "rarity": "Double Rare",
+   "marketPrice": 0.29,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587607,
+   "name": "Spheal",
+   "number": "027/106",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587704,
+   "name": "Jasmine's Gaze",
+   "number": "129/106",
+   "rarity": "Super Rare",
+   "marketPrice": 2.04,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587695,
+   "name": "Palossand ex",
+   "number": "123/106",
+   "rarity": "Super Rare",
+   "marketPrice": 1.44,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587649,
+   "name": "Koraidon",
+   "number": "069/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587634,
+   "name": "Meowstic",
+   "number": "054/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.18,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587721,
+   "name": "Durant ex",
+   "number": "119/106",
+   "rarity": "Super Rare",
+   "marketPrice": 0.86,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587585,
+   "name": "Spewpa",
+   "number": "005/106",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587600,
+   "name": "Charcadet",
+   "number": "020/106",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587614,
+   "name": "Magnemite",
+   "number": "034/106",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587616,
+   "name": "Magnezone",
+   "number": "036/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587617,
+   "name": "Rotom",
+   "number": "037/106",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587641,
+   "name": "Primeape",
+   "number": "061/106",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587642,
+   "name": "Annihilape",
+   "number": "062/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587659,
+   "name": "Bronzong",
+   "number": "079/106",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587652,
+   "name": "Hydreigon ex",
+   "number": "072/106",
+   "rarity": "Double Rare",
+   "marketPrice": 0.47,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587664,
+   "name": "Slaking ex",
+   "number": "084/106",
+   "rarity": "Double Rare",
+   "marketPrice": 0.27,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587693,
+   "name": "Kecleon",
+   "number": "118/106",
+   "rarity": "Art Rare",
+   "marketPrice": 3.04,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587714,
+   "name": "Slaking ex",
+   "number": "126/106",
+   "rarity": "Super Rare",
+   "marketPrice": 1.01,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587720,
+   "name": "Scovillain ex",
+   "number": "120/106",
+   "rarity": "Super Rare",
+   "marketPrice": 0.89,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587677,
+   "name": "Miracle Intercom",
+   "number": "097/106",
+   "rarity": "ACE Rare",
+   "marketPrice": 0.24,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587691,
+   "name": "Mesprit",
+   "number": "114/106",
+   "rarity": "Art Rare",
+   "marketPrice": 6.17,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587603,
+   "name": "Scovillain ex",
+   "number": "023/106",
+   "rarity": "Double Rare",
+   "marketPrice": 0.24,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587698,
+   "name": "Milotic ex",
+   "number": "131/106",
+   "rarity": "Special Art Rare",
+   "marketPrice": 98.73,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587712,
+   "name": "Clemont's Wit",
+   "number": "134/106",
+   "rarity": "Special Art Rare",
+   "marketPrice": 6.1,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587601,
+   "name": "Armarouge",
+   "number": "021/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587672,
+   "name": "Maushold",
+   "number": "092/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.21,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587611,
+   "name": "Iron Bundle",
+   "number": "031/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.08,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587630,
+   "name": "Azelf",
+   "number": "050/106",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587635,
+   "name": "Dedenne",
+   "number": "055/106",
+   "rarity": "Common",
+   "marketPrice": 0.26,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587689,
+   "name": "Feebas",
+   "number": "110/106",
+   "rarity": "Art Rare",
+   "marketPrice": 3.34,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587724,
+   "name": "Stunfisk",
+   "number": "113/106",
+   "rarity": "Art Rare",
+   "marketPrice": 0.9,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587669,
+   "name": "Heliolisk",
+   "number": "089/106",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587681,
+   "name": "Technical Machine: Fluorite",
+   "number": "101/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.06,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587589,
+   "name": "Rabsca",
+   "number": "009/106",
+   "rarity": "Rare",
+   "marketPrice": 0.19,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587604,
+   "name": "Paldean Tauros",
+   "number": "024/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587639,
+   "name": "Flutter Mane",
+   "number": "059/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587645,
+   "name": "Donphan",
+   "number": "065/106",
+   "rarity": "Common",
+   "marketPrice": 0.24,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587647,
+   "name": "Glimmet",
+   "number": "067/106",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587602,
+   "name": "Ceruledge",
+   "number": "022/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587612,
+   "name": "Chien-Pao",
+   "number": "032/106",
+   "rarity": "Rare",
+   "marketPrice": 0.21,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587581,
+   "name": "Exeggcute",
+   "number": "001/106",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587587,
+   "name": "Capsakid",
+   "number": "007/106",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587588,
+   "name": "Rellor",
+   "number": "008/106",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587593,
+   "name": "Larvesta",
+   "number": "013/106",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587640,
+   "name": "Mankey",
+   "number": "060/106",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587648,
+   "name": "Glimmora",
+   "number": "068/106",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587653,
+   "name": "Shroodle",
+   "number": "073/106",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587662,
+   "name": "Slakoth",
+   "number": "082/106",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587663,
+   "name": "Vigoroth",
+   "number": "083/106",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587644,
+   "name": "Phanpy",
+   "number": "064/106",
+   "rarity": "Common",
+   "marketPrice": 0.2,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587590,
+   "name": "Wo-Chien",
+   "number": "010/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.2,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587594,
+   "name": "Volcarona",
+   "number": "014/106",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587599,
+   "name": "Skeledirge",
+   "number": "019/106",
+   "rarity": "Rare",
+   "marketPrice": 0.22,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587676,
+   "name": "Carefree Cat Toy",
+   "number": "096/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.05,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587680,
+   "name": "Babiri Berry",
+   "number": "100/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.03,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587717,
+   "name": "Milotic ex",
+   "number": "121/106",
+   "rarity": "Super Rare",
+   "marketPrice": 2.21,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587699,
+   "name": "Pikachu ex",
+   "number": "132/106",
+   "rarity": "Special Art Rare",
+   "marketPrice": 253.96,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587715,
+   "name": "Tatsugiri ex",
+   "number": "125/106",
+   "rarity": "Super Rare",
+   "marketPrice": 1.79,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587711,
+   "name": "Durant ex",
+   "number": "130/106",
+   "rarity": "Special Art Rare",
+   "marketPrice": 24.58,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587694,
+   "name": "Pikachu ex",
+   "number": "122/106",
+   "rarity": "Super Rare",
+   "marketPrice": 31.8,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587700,
+   "name": "Hydreigon ex",
+   "number": "133/106",
+   "rarity": "Special Art Rare",
+   "marketPrice": 28.05,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587703,
+   "name": "Pikachu ex",
+   "number": "136/106",
+   "rarity": "Ultra Rare",
+   "marketPrice": 76.5,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587696,
+   "name": "Cyrano",
+   "number": "127/106",
+   "rarity": "Super Rare",
+   "marketPrice": 1.39,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587660,
+   "name": "Eternatus",
+   "number": "080/106",
+   "rarity": "Rare",
+   "marketPrice": 0.28,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587697,
+   "name": "Jasmine's Gaze",
+   "number": "135/106",
+   "rarity": "Special Art Rare",
+   "marketPrice": 21.06,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587624,
+   "name": "Miraidon",
+   "number": "044/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587608,
+   "name": "Sealeo",
+   "number": "028/106",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587621,
+   "name": "Tapu Koko",
+   "number": "041/106",
+   "rarity": "Rare",
+   "marketPrice": 0.15,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587629,
+   "name": "Mesprit",
+   "number": "049/106",
+   "rarity": "Common",
+   "marketPrice": 0.21,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587668,
+   "name": "Helioptile",
+   "number": "088/106",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587679,
+   "name": "Colbur Berry",
+   "number": "099/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.05,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587628,
+   "name": "Uxie",
+   "number": "048/106",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587638,
+   "name": "Indeedee",
+   "number": "058/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587654,
+   "name": "Grafaiai",
+   "number": "074/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587658,
+   "name": "Bronzor",
+   "number": "078/106",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587591,
+   "name": "Paldean Tauros",
+   "number": "011/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587595,
+   "name": "Sizzlipede",
+   "number": "015/106",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587596,
+   "name": "Centiskorch",
+   "number": "016/106",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587609,
+   "name": "Walrein",
+   "number": "029/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587636,
+   "name": "Sandygast",
+   "number": "056/106",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587646,
+   "name": "Gastrodon",
+   "number": "066/106",
+   "rarity": "Rare",
+   "marketPrice": 0.18,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587655,
+   "name": "Pecharunt",
+   "number": "075/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587597,
+   "name": "Fuecoco",
+   "number": "017/106",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587707,
+   "name": "Clemont's Wit",
+   "number": "128/106",
+   "rarity": "Super Rare",
+   "marketPrice": 1.14,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587675,
+   "name": "Scramble Switch",
+   "number": "095/106",
+   "rarity": "ACE Rare",
+   "marketPrice": 0.23,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587615,
+   "name": "Magneton",
+   "number": "035/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587684,
+   "name": "Jasmine's Gaze",
+   "number": "104/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.24,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587667,
+   "name": "Bouffalant",
+   "number": "087/106",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587584,
+   "name": "Scatterbug",
+   "number": "004/106",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587598,
+   "name": "Crocalor",
+   "number": "018/106",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587620,
+   "name": "Stunfisk",
+   "number": "040/106",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587626,
+   "name": "Togetic",
+   "number": "046/106",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV8: Super Electric Breaker"
+  },
+  {
+   "productId": 587643,
+   "name": "Paldean Tauros",
+   "number": "063/106",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV8: Super Electric Breaker"
+  }
+ ]
+}

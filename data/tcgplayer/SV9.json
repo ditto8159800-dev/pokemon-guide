@@ -1,0 +1,951 @@
+{
+ "set": "SV9",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 614988,
+   "name": "Hop's Wooloo",
+   "number": "112/100",
+   "rarity": "Art Rare",
+   "marketPrice": 1.12,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614912,
+   "name": "N's Zoroark ex",
+   "number": "061/100",
+   "rarity": "Double Rare",
+   "marketPrice": 0.34,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614931,
+   "name": "Noibat",
+   "number": "080/100",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614979,
+   "name": "Wailord",
+   "number": "103/100",
+   "rarity": "Art Rare",
+   "marketPrice": 4.36,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614990,
+   "name": "Iono's Bellibolt ex",
+   "number": "114/100",
+   "rarity": "Super Rare",
+   "marketPrice": 2.36,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614978,
+   "name": "Articuno",
+   "number": "102/100",
+   "rarity": "Art Rare",
+   "marketPrice": 7.53,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614937,
+   "name": "Hop's Dubwool",
+   "number": "086/100",
+   "rarity": "Rare",
+   "marketPrice": 0.16,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614868,
+   "name": "Volcanion ex",
+   "number": "017/100",
+   "rarity": "Double Rare",
+   "marketPrice": 0.23,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614915,
+   "name": "N's Klink",
+   "number": "064/100",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614921,
+   "name": "Bagon",
+   "number": "070/100",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614942,
+   "name": "Hop's Bag",
+   "number": "091/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.07,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 615004,
+   "name": "Hop's Zacian ex",
+   "number": "128/100",
+   "rarity": "Special Art Rare",
+   "marketPrice": 22.48,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614897,
+   "name": "Mamoswine ex",
+   "number": "046/100",
+   "rarity": "Double Rare",
+   "marketPrice": 0.31,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614891,
+   "name": "N's Sigilyph",
+   "number": "040/100",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614932,
+   "name": "Noivern",
+   "number": "081/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.18,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614947,
+   "name": "Brock's Scouting",
+   "number": "096/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614880,
+   "name": "Iono's Tadbulb",
+   "number": "029/100",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614853,
+   "name": "Metapod",
+   "number": "002/100",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614993,
+   "name": "N's Zoroark ex",
+   "number": "117/100",
+   "rarity": "Super Rare",
+   "marketPrice": 3.71,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614869,
+   "name": "Articuno",
+   "number": "018/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614992,
+   "name": "Mamoswine ex",
+   "number": "116/100",
+   "rarity": "Super Rare",
+   "marketPrice": 0.98,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614997,
+   "name": "Iris's Fighting Spirit",
+   "number": "121/100",
+   "rarity": "Super Rare",
+   "marketPrice": 1.63,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614984,
+   "name": "N's Zorua",
+   "number": "108/100",
+   "rarity": "Art Rare",
+   "marketPrice": 5.34,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614977,
+   "name": "Maractus",
+   "number": "101/100",
+   "rarity": "Art Rare",
+   "marketPrice": 1.17,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614913,
+   "name": "Pangoro",
+   "number": "062/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614860,
+   "name": "Accelgor",
+   "number": "009/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.07,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614922,
+   "name": "Shelgon",
+   "number": "071/100",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614924,
+   "name": "Druddigon",
+   "number": "073/100",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614939,
+   "name": "Super Potion",
+   "number": "088/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.05,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614923,
+   "name": "Salamence ex",
+   "number": "072/100",
+   "rarity": "Double Rare",
+   "marketPrice": 0.42,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614857,
+   "name": "Maractus",
+   "number": "006/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.07,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614859,
+   "name": "Shelmet",
+   "number": "008/100",
+   "rarity": "Common",
+   "marketPrice": 0.06,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614902,
+   "name": "Rockruff",
+   "number": "051/100",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614948,
+   "name": "N's Castle",
+   "number": "097/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614987,
+   "name": "Noibat",
+   "number": "111/100",
+   "rarity": "Art Rare",
+   "marketPrice": 2.59,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614980,
+   "name": "Iono's Kilowattrel",
+   "number": "104/100",
+   "rarity": "Art Rare",
+   "marketPrice": 2.66,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614886,
+   "name": "Shuppet",
+   "number": "035/100",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614881,
+   "name": "Iono's Bellibolt ex",
+   "number": "030/100",
+   "rarity": "Double Rare",
+   "marketPrice": 0.3,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614930,
+   "name": "Dudunsparce ex",
+   "number": "079/100",
+   "rarity": "Double Rare",
+   "marketPrice": 0.28,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614919,
+   "name": "Hop's Corviknight",
+   "number": "068/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614941,
+   "name": "Exchange Ticket",
+   "number": "090/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.05,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 615001,
+   "name": "Iono's Bellibolt ex",
+   "number": "125/100",
+   "rarity": "Special Art Rare",
+   "marketPrice": 37.7,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614854,
+   "name": "Butterfree",
+   "number": "003/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614898,
+   "name": "Larvitar",
+   "number": "047/100",
+   "rarity": "Common",
+   "marketPrice": 0.23,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614875,
+   "name": "Wailmer",
+   "number": "024/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.14,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614983,
+   "name": "Lycanroc",
+   "number": "107/100",
+   "rarity": "Art Rare",
+   "marketPrice": 1.72,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614906,
+   "name": "Klawf",
+   "number": "055/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.08,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614936,
+   "name": "Hop's Wooloo",
+   "number": "085/100",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614876,
+   "name": "Wailord",
+   "number": "025/100",
+   "rarity": "Rare",
+   "marketPrice": 0.21,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614890,
+   "name": "Metagross",
+   "number": "039/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.08,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614893,
+   "name": "Lillie's Ribombee",
+   "number": "042/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614944,
+   "name": "Lillie's Pearl",
+   "number": "093/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.23,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614863,
+   "name": "Meowscarada",
+   "number": "012/100",
+   "rarity": "Rare",
+   "marketPrice": 0.24,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614991,
+   "name": "Lillie's Clefairy ex",
+   "number": "115/100",
+   "rarity": "Super Rare",
+   "marketPrice": 9.06,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 615007,
+   "name": "N's Zoroark ex",
+   "number": "131/100",
+   "rarity": "Ultra Rare",
+   "marketPrice": 12.76,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614928,
+   "name": "Furret",
+   "number": "077/100",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 615002,
+   "name": "Lillie's Clefairy ex",
+   "number": "126/100",
+   "rarity": "Special Art Rare",
+   "marketPrice": 126.46,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614905,
+   "name": "Hop's Sandaconda",
+   "number": "054/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.06,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614871,
+   "name": "Octillery",
+   "number": "020/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.07,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614888,
+   "name": "Beldum",
+   "number": "037/100",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614896,
+   "name": "Piloswine",
+   "number": "045/100",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614918,
+   "name": "Magearna",
+   "number": "067/100",
+   "rarity": "Rare",
+   "marketPrice": 0.21,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614874,
+   "name": "Ludicolo",
+   "number": "023/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614907,
+   "name": "Koffing",
+   "number": "056/100",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614910,
+   "name": "N's Purrloin",
+   "number": "059/100",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614949,
+   "name": "Levincia",
+   "number": "098/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.08,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614900,
+   "name": "Regirock",
+   "number": "049/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614892,
+   "name": "Lillie's Cutiefly",
+   "number": "041/100",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614908,
+   "name": "Weezing",
+   "number": "057/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.08,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614927,
+   "name": "Sentret",
+   "number": "076/100",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614938,
+   "name": "Hop's Cramorant",
+   "number": "087/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.18,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614878,
+   "name": "Iono's Electrode",
+   "number": "027/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.18,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614885,
+   "name": "Mr. Mime",
+   "number": "034/100",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614894,
+   "name": "Lillie's Comfey",
+   "number": "043/100",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614935,
+   "name": "Hop's Corvisquire",
+   "number": "084/100",
+   "rarity": "Common",
+   "marketPrice": 0.06,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614873,
+   "name": "Lombre",
+   "number": "022/100",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614889,
+   "name": "Metang",
+   "number": "038/100",
+   "rarity": "Common",
+   "marketPrice": 0.06,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 615005,
+   "name": "Salamence ex",
+   "number": "129/100",
+   "rarity": "Special Art Rare",
+   "marketPrice": 32.44,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614855,
+   "name": "Paras",
+   "number": "004/100",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614916,
+   "name": "N's Klang",
+   "number": "065/100",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614946,
+   "name": "Ruffian",
+   "number": "095/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.04,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614981,
+   "name": "Lillie's Ribombee",
+   "number": "105/100",
+   "rarity": "Art Rare",
+   "marketPrice": 3.06,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614994,
+   "name": "Hop's Zacian ex",
+   "number": "118/100",
+   "rarity": "Super Rare",
+   "marketPrice": 1.5,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614995,
+   "name": "Salamence ex",
+   "number": "119/100",
+   "rarity": "Super Rare",
+   "marketPrice": 1.51,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614852,
+   "name": "Caterpie",
+   "number": "001/100",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614864,
+   "name": "Magmar",
+   "number": "013/100",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614877,
+   "name": "Iono's Voltorb",
+   "number": "026/100",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614884,
+   "name": "Lillie's Clefairy ex",
+   "number": "033/100",
+   "rarity": "Double Rare",
+   "marketPrice": 0.49,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614989,
+   "name": "Volcanion ex",
+   "number": "113/100",
+   "rarity": "Super Rare",
+   "marketPrice": 0.87,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 615003,
+   "name": "N's Zoroark ex",
+   "number": "127/100",
+   "rarity": "Special Art Rare",
+   "marketPrice": 41.19,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614920,
+   "name": "Hop's Zacian ex",
+   "number": "069/100",
+   "rarity": "Double Rare",
+   "marketPrice": 0.31,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614996,
+   "name": "Dudunsparce ex",
+   "number": "120/100",
+   "rarity": "Super Rare",
+   "marketPrice": 0.89,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 615000,
+   "name": "Volcanion ex",
+   "number": "124/100",
+   "rarity": "Special Art Rare",
+   "marketPrice": 12.01,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 615006,
+   "name": "Iono's Bellibolt ex",
+   "number": "130/100",
+   "rarity": "Ultra Rare",
+   "marketPrice": 12.56,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614940,
+   "name": "N's PP Up",
+   "number": "089/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614933,
+   "name": "Komala",
+   "number": "082/100",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614929,
+   "name": "Dunsparce",
+   "number": "078/100",
+   "rarity": "Common",
+   "marketPrice": 0.25,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614998,
+   "name": "Ruffian",
+   "number": "122/100",
+   "rarity": "Super Rare",
+   "marketPrice": 0.81,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614985,
+   "name": "N's Reshiram",
+   "number": "109/100",
+   "rarity": "Art Rare",
+   "marketPrice": 11.41,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614858,
+   "name": "Karrablast",
+   "number": "007/100",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614865,
+   "name": "Magmortar",
+   "number": "014/100",
+   "rarity": "Rare",
+   "marketPrice": 0.24,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614866,
+   "name": "N's Darumaka",
+   "number": "015/100",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614945,
+   "name": "Iris's Fighting Spirit",
+   "number": "094/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.22,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614867,
+   "name": "N's Darmanitan",
+   "number": "016/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614914,
+   "name": "Escavalier",
+   "number": "063/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614901,
+   "name": "Pancham",
+   "number": "050/100",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614903,
+   "name": "Lycanroc",
+   "number": "052/100",
+   "rarity": "Rare",
+   "marketPrice": 0.15,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614951,
+   "name": "Spike Energy",
+   "number": "100/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614862,
+   "name": "Floragato",
+   "number": "011/100",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614879,
+   "name": "N's Joltik",
+   "number": "028/100",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614861,
+   "name": "Sprigatito",
+   "number": "010/100",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614925,
+   "name": "N's Reshiram",
+   "number": "074/100",
+   "rarity": "Rare",
+   "marketPrice": 0.26,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614856,
+   "name": "Parasect",
+   "number": "005/100",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614887,
+   "name": "Banette",
+   "number": "036/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614895,
+   "name": "Swinub",
+   "number": "044/100",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614899,
+   "name": "Pupitar",
+   "number": "048/100",
+   "rarity": "Common",
+   "marketPrice": 0.25,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614943,
+   "name": "Hop's Choice Band",
+   "number": "092/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.04,
+   "setName": "SV9: Battle Partners"
+  },
+  {
+   "productId": 614950,
+   "name": "Postwick",
+   "number": "099/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.06,
+   "setName": "SV9: Battle Partners"
+  }
+ ]
+}

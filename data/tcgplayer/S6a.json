@@ -1,0 +1,711 @@
+{
+ "set": "S6a",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 570503,
+   "name": "Sylveon V",
+   "number": "040/069",
+   "rarity": "Double Rare",
+   "marketPrice": 2.06,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570504,
+   "name": "Sylveon VMAX",
+   "number": "041/069",
+   "rarity": "Triple Rare",
+   "marketPrice": 4.83,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570488,
+   "name": "Glaceon VMAX",
+   "number": "025/069",
+   "rarity": "Triple Rare",
+   "marketPrice": 2.99,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570499,
+   "name": "Mawile",
+   "number": "036/069",
+   "rarity": "Common",
+   "marketPrice": 0.21,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570501,
+   "name": "Floette",
+   "number": "038/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570534,
+   "name": "Flareon V",
+   "number": "072/069",
+   "rarity": "Super Rare",
+   "marketPrice": 11.2,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570523,
+   "name": "Boost Shake",
+   "number": "060/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570502,
+   "name": "Florges",
+   "number": "039/069",
+   "rarity": "Rare",
+   "marketPrice": 0.24,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570491,
+   "name": "Voltorb",
+   "number": "028/069",
+   "rarity": "Common",
+   "marketPrice": 0.27,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570533,
+   "name": "Leafeon V",
+   "number": "071/069",
+   "rarity": "Super Rare",
+   "marketPrice": 97.09,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570544,
+   "name": "Sylveon V",
+   "number": "082/069",
+   "rarity": "Super Rare",
+   "marketPrice": 24.33,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570490,
+   "name": "Raichu",
+   "number": "027/069",
+   "rarity": "Rare",
+   "marketPrice": 0.33,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570506,
+   "name": "Palossand",
+   "number": "043/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570482,
+   "name": "Mudkip",
+   "number": "019/069",
+   "rarity": "Common",
+   "marketPrice": 0.29,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570511,
+   "name": "Umbreon VMAX",
+   "number": "048/069",
+   "rarity": "Triple Rare",
+   "marketPrice": 8.21,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570555,
+   "name": "Sylveon VMAX",
+   "number": "093/069",
+   "rarity": "Hyper Rare",
+   "marketPrice": null,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 577287,
+   "name": "Snow Leaf Badge",
+   "number": "063/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570528,
+   "name": "Aroma Lady",
+   "number": "066/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570489,
+   "name": "Pikachu",
+   "number": "026/069",
+   "rarity": "Common",
+   "marketPrice": 0.57,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570465,
+   "name": "Leafeon V",
+   "number": "002/069",
+   "rarity": "Double Rare",
+   "marketPrice": 1.49,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570538,
+   "name": "Glaceon V",
+   "number": "076/069",
+   "rarity": "Super Rare",
+   "marketPrice": 19.14,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570518,
+   "name": "Meowth",
+   "number": "055/069",
+   "rarity": "Common",
+   "marketPrice": 0.2,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570469,
+   "name": "Leavanny",
+   "number": "006/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.19,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570526,
+   "name": "Moon & Sun Badge",
+   "number": "064/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570553,
+   "name": "Glaceon VMAX",
+   "number": "091/069",
+   "rarity": "Hyper Rare",
+   "marketPrice": 370,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570480,
+   "name": "Azumarill",
+   "number": "017/069",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570520,
+   "name": "Kangaskhan",
+   "number": "057/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.24,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570521,
+   "name": "Eevee",
+   "number": "058/069",
+   "rarity": "Common",
+   "marketPrice": 0.58,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570545,
+   "name": "Sylveon V",
+   "number": "083/069",
+   "rarity": "Super Rare",
+   "marketPrice": 153.74,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570527,
+   "name": "Ribbon Badge",
+   "number": "065/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570537,
+   "name": "Vaporeon V",
+   "number": "075/069",
+   "rarity": "Super Rare",
+   "marketPrice": 94.75,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570464,
+   "name": "Pinsir",
+   "number": "001/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570472,
+   "name": "Gossifleur",
+   "number": "009/069",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570497,
+   "name": "Eelektross",
+   "number": "034/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570542,
+   "name": "Espeon V",
+   "number": "080/069",
+   "rarity": "Super Rare",
+   "marketPrice": 17.5,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570551,
+   "name": "Leafeon VMAX",
+   "number": "089/069",
+   "rarity": "Hyper Rare",
+   "marketPrice": 302.87,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570559,
+   "name": "Gordie",
+   "number": "097/069",
+   "rarity": "Hyper Rare",
+   "marketPrice": 1.98,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570467,
+   "name": "Sewaddle",
+   "number": "004/069",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570540,
+   "name": "Jolteon V",
+   "number": "078/069",
+   "rarity": "Super Rare",
+   "marketPrice": 12.66,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570531,
+   "name": "Treasure Energy",
+   "number": "069/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570560,
+   "name": "Inteleon",
+   "number": "098/069",
+   "rarity": "Ultra Rare",
+   "marketPrice": 6.73,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570562,
+   "name": "Turffield Stadium",
+   "number": "100/069",
+   "rarity": "Ultra Rare",
+   "marketPrice": 3.14,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570495,
+   "name": "Tynamo",
+   "number": "032/069",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570515,
+   "name": "Impidimp",
+   "number": "052/069",
+   "rarity": "Common",
+   "marketPrice": 0.21,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570552,
+   "name": "Glaceon VMAX",
+   "number": "090/069",
+   "rarity": "Hyper Rare",
+   "marketPrice": 16.28,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570507,
+   "name": "Marshadow",
+   "number": "044/069",
+   "rarity": "Rare",
+   "marketPrice": 0.23,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570522,
+   "name": "Smeargle",
+   "number": "059/069",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570547,
+   "name": "Umbreon V",
+   "number": "085/069",
+   "rarity": "Super Rare",
+   "marketPrice": 280,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570473,
+   "name": "Eldegoss",
+   "number": "010/069",
+   "rarity": "Rare",
+   "marketPrice": 0.27,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570486,
+   "name": "Milotic",
+   "number": "023/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.22,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570546,
+   "name": "Umbreon V",
+   "number": "084/069",
+   "rarity": "Super Rare",
+   "marketPrice": 38,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570550,
+   "name": "Leafeon VMAX",
+   "number": "088/069",
+   "rarity": "Hyper Rare",
+   "marketPrice": 20.74,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570525,
+   "name": "Elemental Badge",
+   "number": "062/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570500,
+   "name": "Flabebe",
+   "number": "037/069",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570543,
+   "name": "Espeon V",
+   "number": "081/069",
+   "rarity": "Super Rare",
+   "marketPrice": 150.23,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570519,
+   "name": "Persian",
+   "number": "056/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.18,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570529,
+   "name": "Gordie",
+   "number": "067/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570549,
+   "name": "Gordie",
+   "number": "087/069",
+   "rarity": "Super Rare",
+   "marketPrice": 0.73,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570554,
+   "name": "Sylveon VMAX",
+   "number": "092/069",
+   "rarity": "Hyper Rare",
+   "marketPrice": 32.54,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570484,
+   "name": "Swampert",
+   "number": "021/069",
+   "rarity": "Rare",
+   "marketPrice": 0.38,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570557,
+   "name": "Umbreon VMAX",
+   "number": "095/069",
+   "rarity": "Hyper Rare",
+   "marketPrice": null,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570468,
+   "name": "Swadloon",
+   "number": "005/069",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570496,
+   "name": "Eelektrik",
+   "number": "033/069",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570512,
+   "name": "Zorua",
+   "number": "049/069",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570558,
+   "name": "Aroma Lady",
+   "number": "096/069",
+   "rarity": "Hyper Rare",
+   "marketPrice": 5.29,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570498,
+   "name": "Espeon V",
+   "number": "035/069",
+   "rarity": "Double Rare",
+   "marketPrice": 1.64,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570487,
+   "name": "Glaceon V",
+   "number": "024/069",
+   "rarity": "Double Rare",
+   "marketPrice": 1.7,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570510,
+   "name": "Umbreon V",
+   "number": "047/069",
+   "rarity": "Double Rare",
+   "marketPrice": 3.32,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570493,
+   "name": "Jolteon V",
+   "number": "030/069",
+   "rarity": "Double Rare",
+   "marketPrice": 1.24,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570474,
+   "name": "Flareon V",
+   "number": "011/069",
+   "rarity": "Double Rare",
+   "marketPrice": 1.49,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570475,
+   "name": "Slugma",
+   "number": "012/069",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570476,
+   "name": "Magcargo",
+   "number": "013/069",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570508,
+   "name": "Indeedee",
+   "number": "045/069",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570517,
+   "name": "Grimmsnarl",
+   "number": "054/069",
+   "rarity": "Rare",
+   "marketPrice": 0.28,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570530,
+   "name": "Shopping Center",
+   "number": "068/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570471,
+   "name": "Araquanid",
+   "number": "008/069",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570514,
+   "name": "Pangoro",
+   "number": "051/069",
+   "rarity": "Common",
+   "marketPrice": 0.31,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570536,
+   "name": "Vaporeon V",
+   "number": "074/069",
+   "rarity": "Super Rare",
+   "marketPrice": 14.32,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570539,
+   "name": "Glaceon V",
+   "number": "077/069",
+   "rarity": "Super Rare",
+   "marketPrice": 112.77,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570548,
+   "name": "Aroma Lady",
+   "number": "086/069",
+   "rarity": "Super Rare",
+   "marketPrice": 8.65,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570541,
+   "name": "Jolteon V",
+   "number": "079/069",
+   "rarity": "Super Rare",
+   "marketPrice": 72.68,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570513,
+   "name": "Zoroark",
+   "number": "050/069",
+   "rarity": "Rare",
+   "marketPrice": 0.27,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570470,
+   "name": "Dewpider",
+   "number": "007/069",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570483,
+   "name": "Marshtomp",
+   "number": "020/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.18,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570524,
+   "name": "Dream Ball",
+   "number": "061/069",
+   "rarity": "Uncommon",
+   "marketPrice": 0.14,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570466,
+   "name": "Leafeon VMAX",
+   "number": "003/069",
+   "rarity": "Triple Rare",
+   "marketPrice": 3.11,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570535,
+   "name": "Flareon V",
+   "number": "073/069",
+   "rarity": "Super Rare",
+   "marketPrice": 114.5,
+   "setName": "S6a: Eevee Heroes"
+  },
+  {
+   "productId": 570478,
+   "name": "Vaporeon V",
+   "number": "015/069",
+   "rarity": "Double Rare",
+   "marketPrice": 1.77,
+   "setName": "S6a: Eevee Heroes"
+  }
+ ]
+}

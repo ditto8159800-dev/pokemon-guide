@@ -1,0 +1,623 @@
+{
+ "set": "SV9a",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 623321,
+   "name": "Electrike",
+   "number": "073/063",
+   "rarity": "Art Rare",
+   "marketPrice": 1.86,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623318,
+   "name": "Ethan's Typhlosion",
+   "number": "070/063",
+   "rarity": "Art Rare",
+   "marketPrice": 14.31,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623286,
+   "name": "Zeraora",
+   "number": "040/063",
+   "rarity": "Rare",
+   "marketPrice": 0.18,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623254,
+   "name": "Crustle",
+   "number": "008/063",
+   "rarity": "Rare",
+   "marketPrice": 0.18,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623308,
+   "name": "Judge",
+   "number": "062/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623339,
+   "name": "Cynthia's Garchomp ex",
+   "number": "091/063",
+   "rarity": "Ultra Rare",
+   "marketPrice": 29.14,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623312,
+   "name": "Yanma",
+   "number": "064/063",
+   "rarity": "Art Rare",
+   "marketPrice": 2.38,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623281,
+   "name": "Electivire ex",
+   "number": "035/063",
+   "rarity": "Double Rare",
+   "marketPrice": 0.29,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623278,
+   "name": "Dondozo ex",
+   "number": "032/063",
+   "rarity": "Double Rare",
+   "marketPrice": 0.29,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623261,
+   "name": "Ethan's Cyndaquil",
+   "number": "015/063",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623305,
+   "name": "Pokemon Catcher",
+   "number": "059/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623298,
+   "name": "Arven's Mabosstiff ex",
+   "number": "052/063",
+   "rarity": "Double Rare",
+   "marketPrice": 0.26,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623322,
+   "name": "Rotom",
+   "number": "074/063",
+   "rarity": "Art Rare",
+   "marketPrice": 2.08,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623266,
+   "name": "Ethan's Ho-Oh ex",
+   "number": "020/063",
+   "rarity": "Double Rare",
+   "marketPrice": 0.41,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623317,
+   "name": "Rapidash",
+   "number": "069/063",
+   "rarity": "Art Rare",
+   "marketPrice": 4.64,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623262,
+   "name": "Ethan's Quilava",
+   "number": "016/063",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623315,
+   "name": "Crustle",
+   "number": "067/063",
+   "rarity": "Art Rare",
+   "marketPrice": 1.26,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623313,
+   "name": "Cynthia's Roserade",
+   "number": "065/063",
+   "rarity": "Art Rare",
+   "marketPrice": 7.82,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623326,
+   "name": "Dondozo ex",
+   "number": "078/063",
+   "rarity": "Super Rare",
+   "marketPrice": 1.35,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623268,
+   "name": "Misty's Psyduck",
+   "number": "022/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.47,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623340,
+   "name": "Levincia",
+   "number": "092/063",
+   "rarity": "Ultra Rare",
+   "marketPrice": 6.6,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623260,
+   "name": "Rapidash",
+   "number": "014/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623274,
+   "name": "Cynthia's Feebas",
+   "number": "028/063",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623251,
+   "name": "Cynthia's Roserade",
+   "number": "005/063",
+   "rarity": "Rare",
+   "marketPrice": 0.18,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623333,
+   "name": "Yanmega ex",
+   "number": "085/063",
+   "rarity": "Special Art Rare",
+   "marketPrice": 14.46,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623270,
+   "name": "Misty's Starmie",
+   "number": "024/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.18,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623328,
+   "name": "Cynthia's Garchomp ex",
+   "number": "080/063",
+   "rarity": "Super Rare",
+   "marketPrice": 6.1,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623250,
+   "name": "Cynthia's Roselia",
+   "number": "004/063",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623275,
+   "name": "Cynthia's Milotic",
+   "number": "029/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.17,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623287,
+   "name": "Ethan's Sudowoodo",
+   "number": "041/063",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623257,
+   "name": "Hydrapple",
+   "number": "011/063",
+   "rarity": "Rare",
+   "marketPrice": 0.2,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623282,
+   "name": "Ethan's Pichu",
+   "number": "036/063",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623253,
+   "name": "Dwebble",
+   "number": "007/063",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623264,
+   "name": "Ethan's Slugma",
+   "number": "018/063",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623267,
+   "name": "Hearthflame Mask Ogerpon",
+   "number": "021/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.17,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623292,
+   "name": "Mudsdale",
+   "number": "046/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.08,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623294,
+   "name": "Arven's Toedscruel",
+   "number": "048/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623331,
+   "name": "Judge",
+   "number": "083/063",
+   "rarity": "Super Rare",
+   "marketPrice": 1.22,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623259,
+   "name": "Ponyta",
+   "number": "013/063",
+   "rarity": "Common",
+   "marketPrice": 0.19,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623329,
+   "name": "Arven's Mabosstiff ex",
+   "number": "081/063",
+   "rarity": "Super Rare",
+   "marketPrice": 1.33,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623323,
+   "name": "Arven's Greedent",
+   "number": "075/063",
+   "rarity": "Art Rare",
+   "marketPrice": 2.19,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623316,
+   "name": "Hydrapple",
+   "number": "068/063",
+   "rarity": "Art Rare",
+   "marketPrice": 2.49,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623265,
+   "name": "Ethan's Magcargo",
+   "number": "019/063",
+   "rarity": "Rare",
+   "marketPrice": 0.18,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623314,
+   "name": "Shaymin",
+   "number": "066/063",
+   "rarity": "Art Rare",
+   "marketPrice": 7.43,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623283,
+   "name": "Electrike",
+   "number": "037/063",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623293,
+   "name": "Arven's Toedscool",
+   "number": "047/063",
+   "rarity": "Common",
+   "marketPrice": 0.06,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623289,
+   "name": "Cynthia's Gabite",
+   "number": "043/063",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623269,
+   "name": "Misty's Staryu",
+   "number": "023/063",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623272,
+   "name": "Misty's Gyarados",
+   "number": "026/063",
+   "rarity": "Rare",
+   "marketPrice": 0.59,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623327,
+   "name": "Electivire ex",
+   "number": "079/063",
+   "rarity": "Super Rare",
+   "marketPrice": 1.42,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623256,
+   "name": "Dipplin",
+   "number": "010/063",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623297,
+   "name": "Arven's Maschiff",
+   "number": "051/063",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623335,
+   "name": "Cynthia's Garchomp ex",
+   "number": "087/063",
+   "rarity": "Special Art Rare",
+   "marketPrice": 215.09,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623276,
+   "name": "Buizel",
+   "number": "030/063",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623252,
+   "name": "Shaymin",
+   "number": "006/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.17,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623255,
+   "name": "Applin",
+   "number": "009/063",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623336,
+   "name": "Arven's Mabosstiff ex",
+   "number": "088/063",
+   "rarity": "Special Art Rare",
+   "marketPrice": 24.45,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623304,
+   "name": "Switch",
+   "number": "058/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623280,
+   "name": "Electabuzz",
+   "number": "034/063",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623299,
+   "name": "Tauros",
+   "number": "053/063",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623338,
+   "name": "Ethan's Ho-Oh ex",
+   "number": "090/063",
+   "rarity": "Ultra Rare",
+   "marketPrice": 17.59,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623279,
+   "name": "Wellspring Mask Ogerpon",
+   "number": "033/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.14,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623309,
+   "name": "Ethan's Adventure",
+   "number": "063/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623249,
+   "name": "Yanmega ex",
+   "number": "003/063",
+   "rarity": "Double Rare",
+   "marketPrice": 0.29,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623258,
+   "name": "Teal Mask Ogerpon",
+   "number": "012/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623306,
+   "name": "Cynthia's Power Weight",
+   "number": "060/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623273,
+   "name": "Misty's Lapras",
+   "number": "027/063",
+   "rarity": "Common",
+   "marketPrice": 0.2,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623285,
+   "name": "Rotom",
+   "number": "039/063",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623296,
+   "name": "Cynthia's Spiritomb",
+   "number": "050/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623300,
+   "name": "Arven's Skwovet",
+   "number": "054/063",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623303,
+   "name": "Arven's Sandwich",
+   "number": "057/063",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623332,
+   "name": "Ethan's Adventure",
+   "number": "084/063",
+   "rarity": "Super Rare",
+   "marketPrice": 2.52,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623291,
+   "name": "Mudbray",
+   "number": "045/063",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623325,
+   "name": "Ethan's Ho-Oh ex",
+   "number": "077/063",
+   "rarity": "Super Rare",
+   "marketPrice": 4.38,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623290,
+   "name": "Cynthia's Garchomp ex",
+   "number": "044/063",
+   "rarity": "Double Rare",
+   "marketPrice": 0.32,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623324,
+   "name": "Yanmega ex",
+   "number": "076/063",
+   "rarity": "Super Rare",
+   "marketPrice": 1.35,
+   "setName": "SV9a: Heat Wave Arena"
+  },
+  {
+   "productId": 623334,
+   "name": "Ethan's Ho-Oh ex",
+   "number": "086/063",
+   "rarity": "Special Art Rare",
+   "marketPrice": 137.9,
+   "setName": "SV9a: Heat Wave Arena"
+  }
+ ]
+}

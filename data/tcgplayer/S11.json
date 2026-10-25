@@ -1,0 +1,903 @@
+{
+ "set": "S11",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 569978,
+   "name": "Swirlix",
+   "number": "047/100",
+   "rarity": "Common",
+   "marketPrice": 0.31,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569975,
+   "name": "Sableye",
+   "number": "044/100",
+   "rarity": "Rare",
+   "marketPrice": 0.75,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570015,
+   "name": "Porygon2",
+   "number": "084/100",
+   "rarity": "Common",
+   "marketPrice": 0.33,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569936,
+   "name": "Seedot",
+   "number": "005/100",
+   "rarity": "Common",
+   "marketPrice": 0.24,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569974,
+   "name": "Hypno",
+   "number": "043/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.59,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569984,
+   "name": "Drakloak",
+   "number": "053/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570037,
+   "name": "Aerodactyl V",
+   "number": "106/100",
+   "rarity": "Super Rare",
+   "marketPrice": 140.4,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569950,
+   "name": "Talonflame",
+   "number": "019/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569951,
+   "name": "Seel",
+   "number": "020/100",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569976,
+   "name": "Shuppet",
+   "number": "045/100",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570038,
+   "name": "Drapion V",
+   "number": "107/100",
+   "rarity": "Super Rare",
+   "marketPrice": 1.05,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569939,
+   "name": "Foongus",
+   "number": "008/100",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569954,
+   "name": "Seadra",
+   "number": "023/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569955,
+   "name": "Kingdra",
+   "number": "024/100",
+   "rarity": "Rare",
+   "marketPrice": 0.51,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570026,
+   "name": "Colress's Experiment",
+   "number": "095/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.07,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569961,
+   "name": "Kyurem VMAX",
+   "number": "030/100",
+   "rarity": "Triple Rare",
+   "marketPrice": 1.39,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570003,
+   "name": "Toxapex",
+   "number": "072/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.28,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569953,
+   "name": "Horsea",
+   "number": "022/100",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569935,
+   "name": "Sunflora",
+   "number": "004/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569943,
+   "name": "Trevenant",
+   "number": "012/100",
+   "rarity": "Rare",
+   "marketPrice": 0.26,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569970,
+   "name": "Tynamo",
+   "number": "039/100",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570033,
+   "name": "Kyurem V",
+   "number": "102/100",
+   "rarity": "Super Rare",
+   "marketPrice": 4.28,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570044,
+   "name": "Colress's Experiment",
+   "number": "113/100",
+   "rarity": "Super Rare",
+   "marketPrice": 2.07,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570010,
+   "name": "Galarian Perrserker V",
+   "number": "079/100",
+   "rarity": "Double Rare",
+   "marketPrice": 0.47,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570007,
+   "name": "Ferroseed",
+   "number": "076/100",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570024,
+   "name": "Lost Vacuum",
+   "number": "093/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570049,
+   "name": "Kyurem VMAX",
+   "number": "117/100",
+   "rarity": "Hyper Rare",
+   "marketPrice": 7.78,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570053,
+   "name": "Lady",
+   "number": "122/100",
+   "rarity": "Hyper Rare",
+   "marketPrice": 11.47,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569986,
+   "name": "Spectrier",
+   "number": "055/100",
+   "rarity": "Rare",
+   "marketPrice": 0.68,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569988,
+   "name": "Aerodactyl VSTAR",
+   "number": "057/100",
+   "rarity": "Triple Rare",
+   "marketPrice": 0.73,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569952,
+   "name": "Dewgong",
+   "number": "021/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.22,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570002,
+   "name": "Mareanie",
+   "number": "071/100",
+   "rarity": "Common",
+   "marketPrice": 0.19,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570046,
+   "name": "Thorton",
+   "number": "115/100",
+   "rarity": "Super Rare",
+   "marketPrice": 1.66,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570047,
+   "name": "Fantina",
+   "number": "116/100",
+   "rarity": "Super Rare",
+   "marketPrice": 4.02,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569932,
+   "name": "Venonat",
+   "number": "001/100",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569933,
+   "name": "Venomoth",
+   "number": "002/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569958,
+   "name": "Finneon",
+   "number": "027/100",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569959,
+   "name": "Lumineon",
+   "number": "028/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569979,
+   "name": "Slurpuff",
+   "number": "048/100",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570058,
+   "name": "Collapsed Stadium",
+   "number": "127/100",
+   "rarity": "Ultra Rare",
+   "marketPrice": 6.72,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569998,
+   "name": "Drapion VSTAR",
+   "number": "067/100",
+   "rarity": "Triple Rare",
+   "marketPrice": 0.67,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570014,
+   "name": "Porygon",
+   "number": "083/100",
+   "rarity": "Common",
+   "marketPrice": 0.23,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569989,
+   "name": "Phanpy",
+   "number": "058/100",
+   "rarity": "Common",
+   "marketPrice": 0.24,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569987,
+   "name": "Aerodactyl V",
+   "number": "056/100",
+   "rarity": "Double Rare",
+   "marketPrice": 0.55,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569964,
+   "name": "Cramorant",
+   "number": "033/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.28,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569997,
+   "name": "Drapion V",
+   "number": "066/100",
+   "rarity": "Double Rare",
+   "marketPrice": 0.41,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570013,
+   "name": "Pidgeot V",
+   "number": "082/100",
+   "rarity": "Double Rare",
+   "marketPrice": 0.57,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569960,
+   "name": "Kyurem V",
+   "number": "029/100",
+   "rarity": "Double Rare",
+   "marketPrice": 0.6,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569957,
+   "name": "Wailord",
+   "number": "026/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.18,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569938,
+   "name": "Shiftry",
+   "number": "007/100",
+   "rarity": "Rare",
+   "marketPrice": 0.45,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569971,
+   "name": "Eelektrik",
+   "number": "040/100",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569972,
+   "name": "Eelektross",
+   "number": "041/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570006,
+   "name": "Metagross",
+   "number": "075/100",
+   "rarity": "Rare",
+   "marketPrice": 0.33,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570019,
+   "name": "Lopunny",
+   "number": "088/100",
+   "rarity": "Common",
+   "marketPrice": 0.28,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570023,
+   "name": "Mirage Gate",
+   "number": "092/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.06,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570025,
+   "name": "Panic Mask",
+   "number": "094/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.06,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570028,
+   "name": "Thorton",
+   "number": "097/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570029,
+   "name": "Fantina",
+   "number": "098/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.19,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570054,
+   "name": "Thorton",
+   "number": "123/100",
+   "rarity": "Hyper Rare",
+   "marketPrice": 3.01,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569990,
+   "name": "Donphan",
+   "number": "059/100",
+   "rarity": "Common",
+   "marketPrice": 0.34,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569983,
+   "name": "Dreepy",
+   "number": "052/100",
+   "rarity": "Common",
+   "marketPrice": 0.48,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570036,
+   "name": "Aerodactyl V",
+   "number": "105/100",
+   "rarity": "Super Rare",
+   "marketPrice": 4.06,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569944,
+   "name": "Vulpix",
+   "number": "013/100",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570000,
+   "name": "Krokorok",
+   "number": "069/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570001,
+   "name": "Krookodile",
+   "number": "070/100",
+   "rarity": "Rare",
+   "marketPrice": 0.43,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570009,
+   "name": "Galarian Stunfisk",
+   "number": "078/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570016,
+   "name": "Porygon-Z",
+   "number": "085/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.2,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570042,
+   "name": "Giratina V",
+   "number": "111/100",
+   "rarity": "Super Rare",
+   "marketPrice": 646.14,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570045,
+   "name": "Lady",
+   "number": "114/100",
+   "rarity": "Super Rare",
+   "marketPrice": 11.78,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569993,
+   "name": "Hawlucha",
+   "number": "062/100",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569994,
+   "name": "Sandygast",
+   "number": "063/100",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569973,
+   "name": "Drowzee",
+   "number": "042/100",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570004,
+   "name": "Beldum",
+   "number": "073/100",
+   "rarity": "Common",
+   "marketPrice": 0.29,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569934,
+   "name": "Sunkern",
+   "number": "003/100",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569945,
+   "name": "Ninetales",
+   "number": "014/100",
+   "rarity": "Common",
+   "marketPrice": 0.34,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569946,
+   "name": "Slugma",
+   "number": "015/100",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569947,
+   "name": "Magcargo",
+   "number": "016/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569962,
+   "name": "Dewpider",
+   "number": "031/100",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569963,
+   "name": "Araquanid",
+   "number": "032/100",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569941,
+   "name": "Durant",
+   "number": "010/100",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569980,
+   "name": "Comfey",
+   "number": "049/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.14,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570017,
+   "name": "Spinda",
+   "number": "086/100",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570018,
+   "name": "Buneary",
+   "number": "087/100",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570030,
+   "name": "Lost City",
+   "number": "099/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.22,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570040,
+   "name": "Galarian Perrserker V",
+   "number": "109/100",
+   "rarity": "Super Rare",
+   "marketPrice": 13.84,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570041,
+   "name": "Giratina V",
+   "number": "110/100",
+   "rarity": "Super Rare",
+   "marketPrice": 19.31,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570052,
+   "name": "Colress's Experiment",
+   "number": "121/100",
+   "rarity": "Hyper Rare",
+   "marketPrice": 3.33,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570057,
+   "name": "Lost Vacuum",
+   "number": "126/100",
+   "rarity": "Ultra Rare",
+   "marketPrice": 5.75,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570011,
+   "name": "Giratina V",
+   "number": "080/100",
+   "rarity": "Double Rare",
+   "marketPrice": 0.86,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569948,
+   "name": "Delphox V",
+   "number": "017/100",
+   "rarity": "Double Rare",
+   "marketPrice": 0.53,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570043,
+   "name": "Pidgeot V",
+   "number": "112/100",
+   "rarity": "Super Rare",
+   "marketPrice": 2.17,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569968,
+   "name": "Rotom V",
+   "number": "037/100",
+   "rarity": "Double Rare",
+   "marketPrice": 0.6,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570032,
+   "name": "Delphox V",
+   "number": "101/100",
+   "rarity": "Super Rare",
+   "marketPrice": 2.67,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569965,
+   "name": "Glastrier",
+   "number": "034/100",
+   "rarity": "Rare",
+   "marketPrice": 0.54,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569985,
+   "name": "Dragapult",
+   "number": "054/100",
+   "rarity": "Rare",
+   "marketPrice": 0.37,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570050,
+   "name": "Drapion VSTAR",
+   "number": "119/100",
+   "rarity": "Hyper Rare",
+   "marketPrice": 4.26,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569991,
+   "name": "Binacle",
+   "number": "060/100",
+   "rarity": "Common",
+   "marketPrice": 0.28,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569940,
+   "name": "Amoonguss",
+   "number": "009/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569966,
+   "name": "Chinchou",
+   "number": "035/100",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570005,
+   "name": "Metang",
+   "number": "074/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570020,
+   "name": "Bouffalant",
+   "number": "089/100",
+   "rarity": "Uncommon",
+   "marketPrice": 0.19,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570021,
+   "name": "Fletchling",
+   "number": "090/100",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570048,
+   "name": "Aerodactyl VSTAR",
+   "number": "118/100",
+   "rarity": "Hyper Rare",
+   "marketPrice": 8.24,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570051,
+   "name": "Giratina VSTAR",
+   "number": "120/100",
+   "rarity": "Hyper Rare",
+   "marketPrice": 15.68,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570055,
+   "name": "Fantina",
+   "number": "124/100",
+   "rarity": "Hyper Rare",
+   "marketPrice": 7.49,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 570012,
+   "name": "Giratina VSTAR",
+   "number": "081/100",
+   "rarity": "Triple Rare",
+   "marketPrice": 1.41,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569969,
+   "name": "Emolga",
+   "number": "038/100",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569992,
+   "name": "Barbaracle",
+   "number": "061/100",
+   "rarity": "Rare",
+   "marketPrice": 0.43,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569995,
+   "name": "Palossand",
+   "number": "064/100",
+   "rarity": "Common",
+   "marketPrice": 0.2,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569942,
+   "name": "Phantump",
+   "number": "011/100",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569949,
+   "name": "Fletchinder",
+   "number": "018/100",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "S11: Lost Abyss"
+  },
+  {
+   "productId": 569999,
+   "name": "Sandile",
+   "number": "068/100",
+   "rarity": "Common",
+   "marketPrice": 0.06,
+   "setName": "S11: Lost Abyss"
+  }
+ ]
+}

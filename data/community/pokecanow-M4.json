@@ -1,0 +1,168 @@
+{
+ "set": "M4",
+ "source": "Pokeca-Now（フリマ実売中央値）",
+ "url": "https://pokecanow.com/articles/packs/m4/hits/",
+ "fetched": "2026-10-25",
+ "cards": [
+  {
+   "rank": 1,
+   "name": "メガゲッコウガex",
+   "rarity": "MUR",
+   "num": "120/083",
+   "price": 30000,
+   "psa10": 113000
+  },
+  {
+   "rank": 2,
+   "name": "メガゲッコウガex",
+   "rarity": "SAR",
+   "num": "114/083",
+   "price": 12000,
+   "psa10": 27500
+  },
+  {
+   "rank": 3,
+   "name": "チラチーノex",
+   "rarity": "SAR",
+   "num": "117/083",
+   "price": 2400,
+   "psa10": 6500
+  },
+  {
+   "rank": 4,
+   "name": "メガドラミドロex",
+   "rarity": "SAR",
+   "num": "116/083",
+   "price": 1200,
+   "psa10": 5500
+  },
+  {
+   "rank": 5,
+   "name": "メガゲッコウガex",
+   "rarity": "SR",
+   "num": "098/083",
+   "price": 1000,
+   "psa10": 4400
+  },
+  {
+   "rank": 6,
+   "name": "メガフラエッテex",
+   "rarity": "SAR",
+   "num": "115/083",
+   "price": 900,
+   "psa10": 5500
+  },
+  {
+   "rank": 7,
+   "name": "AZの安らぎ",
+   "rarity": "SAR",
+   "num": "118/083",
+   "price": 800,
+   "psa10": 4300
+  },
+  {
+   "rank": 8,
+   "name": "ホミカの演奏",
+   "rarity": "SAR",
+   "num": "119/083",
+   "price": 800,
+   "psa10": 5500
+  },
+  {
+   "rank": 9,
+   "name": "ケロマツ",
+   "rarity": "AR",
+   "num": "086/083",
+   "price": 600,
+   "psa10": 4300
+  },
+  {
+   "rank": 10,
+   "name": "マチエール",
+   "rarity": "SR",
+   "num": "111/083",
+   "price": 600,
+   "psa10": 6000
+  },
+  {
+   "rank": 11,
+   "name": "ホミカの演奏",
+   "rarity": "SR",
+   "num": "110/083",
+   "price": 500,
+   "psa10": 6000
+  },
+  {
+   "rank": 12,
+   "name": "パンプジンex",
+   "rarity": "SR",
+   "num": "100/083",
+   "price": 500,
+   "psa10": 4000
+  },
+  {
+   "rank": 13,
+   "name": "ゼルネアス",
+   "rarity": "AR",
+   "num": "089/083",
+   "price": 400,
+   "psa10": 4500
+  },
+  {
+   "rank": 14,
+   "name": "スペシャルレッドカード",
+   "rarity": "SR",
+   "num": "106/083",
+   "price": 400,
+   "psa10": null
+  },
+  {
+   "rank": 15,
+   "name": "ゲコガシラ",
+   "rarity": "AR",
+   "num": "087/083",
+   "price": 400,
+   "psa10": 4000
+  },
+  {
+   "rank": 16,
+   "name": "AZの安らぎ",
+   "rarity": "SR",
+   "num": "108/083",
+   "price": 400,
+   "psa10": null
+  },
+  {
+   "rank": 17,
+   "name": "メガフラエッテex",
+   "rarity": "SR",
+   "num": "099/083",
+   "price": 400,
+   "psa10": 4600
+  },
+  {
+   "rank": 18,
+   "name": "ネンドール",
+   "rarity": "AR",
+   "num": "090/083",
+   "price": 400,
+   "psa10": 4000
+  },
+  {
+   "rank": 19,
+   "name": "メガカエンジシex",
+   "rarity": "SR",
+   "num": "097/083",
+   "price": 400,
+   "psa10": null
+  },
+  {
+   "rank": 20,
+   "name": "コバルオンex",
+   "rarity": "SR",
+   "num": "101/083",
+   "price": 400,
+   "psa10": 6000
+  }
+ ]
+}

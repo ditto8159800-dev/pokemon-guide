@@ -1,0 +1,1367 @@
+{
+ "set": "SM12a",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 572749,
+   "name": "Alolan Ninetales GX",
+   "number": "095/173",
+   "rarity": "Double Rare",
+   "marketPrice": 3.02,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572709,
+   "name": "Mew",
+   "number": "055/173",
+   "rarity": "None",
+   "marketPrice": 4.17,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572754,
+   "name": "Rayquaza GX",
+   "number": "100/173",
+   "rarity": "Double Rare",
+   "marketPrice": 10.55,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572690,
+   "name": "Keldeo GX",
+   "number": "036/173",
+   "rarity": "Double Rare",
+   "marketPrice": 1.24,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572725,
+   "name": "Stakataka",
+   "number": "071/173",
+   "rarity": "None",
+   "marketPrice": 0.55,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572731,
+   "name": "Darkrai Prism Star",
+   "number": "077/173",
+   "rarity": "Prism Rare",
+   "marketPrice": 9.94,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578519,
+   "name": "Zorua (Mirror Holofoil)",
+   "number": "078/173",
+   "rarity": "None",
+   "marketPrice": 1.33,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572660,
+   "name": "Jumpluff",
+   "number": "006/173",
+   "rarity": "None",
+   "marketPrice": 0.4,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572693,
+   "name": "Wishiwashi GX",
+   "number": "039/173",
+   "rarity": "Double Rare",
+   "marketPrice": 0.66,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572801,
+   "name": "Misty & Lorelei",
+   "number": "147/173",
+   "rarity": "None",
+   "marketPrice": 1.32,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572819,
+   "name": "Viridian Forest",
+   "number": "165/173",
+   "rarity": "None",
+   "marketPrice": 0.78,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 614964,
+   "name": "Basic Lightning Energy - LIG",
+   "number": "LIG",
+   "rarity": "None",
+   "marketPrice": 0.57,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572672,
+   "name": "Ninetales",
+   "number": "018/173",
+   "rarity": "None",
+   "marketPrice": 0.69,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572802,
+   "name": "Diantha",
+   "number": "148/173",
+   "rarity": "None",
+   "marketPrice": 0.48,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572812,
+   "name": "Lisia",
+   "number": "158/173",
+   "rarity": "None",
+   "marketPrice": 0.71,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572878,
+   "name": "Garchomp & Giratina GX",
+   "number": "225/173",
+   "rarity": "Ultra Rare",
+   "marketPrice": 150.44,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578558,
+   "name": "Mysterious Treasure",
+   "number": "135/173",
+   "rarity": "None",
+   "marketPrice": 3.43,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572877,
+   "name": "Lucario & Melmetal GX",
+   "number": "224/173",
+   "rarity": "Ultra Rare",
+   "marketPrice": 105,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572722,
+   "name": "Tyrogue",
+   "number": "068/173",
+   "rarity": "None",
+   "marketPrice": 0.45,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572680,
+   "name": "Salandit",
+   "number": "026/173",
+   "rarity": "None",
+   "marketPrice": 0.16,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572815,
+   "name": "Martial Arts Dojo",
+   "number": "161/173",
+   "rarity": "None",
+   "marketPrice": 0.6,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572827,
+   "name": "Recycle Energy",
+   "number": "173/173",
+   "rarity": "None",
+   "marketPrice": 0.82,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572843,
+   "name": "Will",
+   "number": "189/173",
+   "rarity": "Super Rare",
+   "marketPrice": 34.56,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578489,
+   "name": "Grovyle (Mirror Holofoil)",
+   "number": "009/173",
+   "rarity": "None",
+   "marketPrice": 0.71,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572844,
+   "name": "Erika's Hospitality",
+   "number": "190/173",
+   "rarity": "Super Rare",
+   "marketPrice": 450,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572866,
+   "name": "Trevenant & Dusknoir GX",
+   "number": "213/173",
+   "rarity": "Hyper Rare",
+   "marketPrice": 37.07,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572868,
+   "name": "Umbreon & Darkrai GX",
+   "number": "215/173",
+   "rarity": "Hyper Rare",
+   "marketPrice": 193.26,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572808,
+   "name": "Green's Exploration",
+   "number": "154/173",
+   "rarity": "None",
+   "marketPrice": 1.44,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578584,
+   "name": "Giant Hearth (Mirror Holofoil)",
+   "number": "162/173",
+   "rarity": "None",
+   "marketPrice": 1.12,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578485,
+   "name": "Hoppip (Mirror Holofoil)",
+   "number": "004/173",
+   "rarity": "None",
+   "marketPrice": 2.75,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578496,
+   "name": "Torracat (Mirror Holofoil)",
+   "number": "024/173",
+   "rarity": "None",
+   "marketPrice": 2.42,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578499,
+   "name": "Salazzle (Mirror Holofoil)",
+   "number": "027/173",
+   "rarity": "None",
+   "marketPrice": 1.4,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578508,
+   "name": "Zebstrika (Mirror Holofoil)",
+   "number": "046/173",
+   "rarity": "None",
+   "marketPrice": 1,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578522,
+   "name": "Magnemite (Mirror Holofoil)",
+   "number": "086/173",
+   "rarity": "None",
+   "marketPrice": 1.37,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578525,
+   "name": "Cleffa (Mirror Holofoil)",
+   "number": "096/173",
+   "rarity": "None",
+   "marketPrice": 10.37,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578528,
+   "name": "Pidgey (Mirror Holofoil)",
+   "number": "103/173",
+   "rarity": "None",
+   "marketPrice": 1.32,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578557,
+   "name": "Mysterious Treasure",
+   "number": "134/173",
+   "rarity": "None",
+   "marketPrice": null,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578559,
+   "name": "Reset Stamp",
+   "number": "136/173",
+   "rarity": "None",
+   "marketPrice": 3.43,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578569,
+   "name": "Misty & Lorelei",
+   "number": "147/173",
+   "rarity": "None",
+   "marketPrice": 3.76,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 684920,
+   "name": "Volcanion (Mirror Holofoil)",
+   "number": "022/173",
+   "rarity": "None",
+   "marketPrice": 1.49,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572823,
+   "name": "Wondrous Labyrinth",
+   "number": "169/173",
+   "rarity": "Prism Rare",
+   "marketPrice": 1.68,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572859,
+   "name": "Basic Lightning Energy",
+   "number": "205/173",
+   "rarity": "Super Rare",
+   "marketPrice": 1.98,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 614968,
+   "name": "Basic Psychic Energy - PSY",
+   "number": "PSY",
+   "rarity": "None",
+   "marketPrice": 0.89,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572776,
+   "name": "Acro Bike",
+   "number": "122/173",
+   "rarity": "None",
+   "marketPrice": 1.36,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572656,
+   "name": "Paras",
+   "number": "002/173",
+   "rarity": "None",
+   "marketPrice": 0.3,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572659,
+   "name": "Skiploom",
+   "number": "005/173",
+   "rarity": "None",
+   "marketPrice": 0.56,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572676,
+   "name": "Volcanion",
+   "number": "022/173",
+   "rarity": "None",
+   "marketPrice": 0.33,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578500,
+   "name": "Squirtle (Mirror Holofoil)",
+   "number": "029/173",
+   "rarity": "None",
+   "marketPrice": 6.31,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578493,
+   "name": "Ninetales (Mirror Holofoil)",
+   "number": "018/173",
+   "rarity": "None",
+   "marketPrice": 1.19,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 577558,
+   "name": "Basic Darkness Energy",
+   "number": "208/173",
+   "rarity": "Super Rare",
+   "marketPrice": 4.63,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572689,
+   "name": "White Kyurem",
+   "number": "035/173",
+   "rarity": "None",
+   "marketPrice": 0.54,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572875,
+   "name": "Mewtwo & Mew GX",
+   "number": "222/173",
+   "rarity": "Ultra Rare",
+   "marketPrice": 109.99,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 656303,
+   "name": "Absol (Mirror Holofoil)",
+   "number": "075/173",
+   "rarity": "None",
+   "marketPrice": 4.25,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572818,
+   "name": "Mt. Coronet",
+   "number": "164/173",
+   "rarity": "None",
+   "marketPrice": 0.46,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572820,
+   "name": "Heat Factory",
+   "number": "166/173",
+   "rarity": "Prism Rare",
+   "marketPrice": 1.91,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572821,
+   "name": "Black Market",
+   "number": "167/173",
+   "rarity": "Prism Rare",
+   "marketPrice": 2.15,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572826,
+   "name": "Beast Energy",
+   "number": "172/173",
+   "rarity": "Prism Rare",
+   "marketPrice": 2.43,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572661,
+   "name": "Shuckle",
+   "number": "007/173",
+   "rarity": "None",
+   "marketPrice": 0.59,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572715,
+   "name": "Inkay",
+   "number": "061/173",
+   "rarity": "None",
+   "marketPrice": 0.29,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572777,
+   "name": "Electromagnetic Radar",
+   "number": "123/173",
+   "rarity": "None",
+   "marketPrice": 0.65,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572783,
+   "name": "Pokegear 3.0",
+   "number": "129/173",
+   "rarity": "None",
+   "marketPrice": 2.25,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572809,
+   "name": "Morty",
+   "number": "155/173",
+   "rarity": "None",
+   "marketPrice": 1.17,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572847,
+   "name": "Blue's Strategy",
+   "number": "193/173",
+   "rarity": "Super Rare",
+   "marketPrice": 209.36,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572848,
+   "name": "Bellelba & Brycen-Man",
+   "number": "194/173",
+   "rarity": "Super Rare",
+   "marketPrice": 54.78,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578517,
+   "name": "Tyrogue (Mirror Holofoil)",
+   "number": "068/173",
+   "rarity": "None",
+   "marketPrice": 1.45,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578531,
+   "name": "Persian (Mirror Holofoil)",
+   "number": "106/173",
+   "rarity": "None",
+   "marketPrice": 2.13,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578537,
+   "name": "Munchlax (Mirror Holofoil)",
+   "number": "114/173",
+   "rarity": "None",
+   "marketPrice": 4.65,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578585,
+   "name": "Mt. Coronet (Mirror Holofoil)",
+   "number": "164/173",
+   "rarity": "None",
+   "marketPrice": 0.75,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578509,
+   "name": "Stunfisk (Mirror Holofoil)",
+   "number": "047/173",
+   "rarity": "None",
+   "marketPrice": 2.29,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572760,
+   "name": "Persian",
+   "number": "106/173",
+   "rarity": "None",
+   "marketPrice": 0.5,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578526,
+   "name": "Cottonee (Mirror Holofoil)",
+   "number": "097/173",
+   "rarity": "None",
+   "marketPrice": 0.22,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578527,
+   "name": "Whimsicott (Mirror Holofoil)",
+   "number": "098/173",
+   "rarity": "None",
+   "marketPrice": 0.38,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572740,
+   "name": "Magnemite",
+   "number": "086/173",
+   "rarity": "None",
+   "marketPrice": 0.38,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572858,
+   "name": "Basic Water Energy",
+   "number": "204/173",
+   "rarity": "Super Rare",
+   "marketPrice": 2.92,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572744,
+   "name": "Jirachi",
+   "number": "090/173",
+   "rarity": "None",
+   "marketPrice": 1.92,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572737,
+   "name": "Lucario & Melmetal GX",
+   "number": "083/173",
+   "rarity": "Double Rare",
+   "marketPrice": 12.7,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572665,
+   "name": "Shaymin Prism Star",
+   "number": "011/173",
+   "rarity": "Prism Rare",
+   "marketPrice": 4.58,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578535,
+   "name": "Porygon2 (Mirror Holofoil)",
+   "number": "111/173",
+   "rarity": "None",
+   "marketPrice": 2.83,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572766,
+   "name": "Porygon-Z",
+   "number": "112/173",
+   "rarity": "None",
+   "marketPrice": 0.55,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572860,
+   "name": "Basic Psychic Energy",
+   "number": "206/173",
+   "rarity": "Super Rare",
+   "marketPrice": 2.08,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572742,
+   "name": "Magnezone",
+   "number": "088/173",
+   "rarity": "None",
+   "marketPrice": 0.24,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572713,
+   "name": "Espurr",
+   "number": "059/173",
+   "rarity": "None",
+   "marketPrice": 0.77,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572797,
+   "name": "U-Turn Board",
+   "number": "143/173",
+   "rarity": "None",
+   "marketPrice": 2.37,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572753,
+   "name": "Garchomp & Giratina GX",
+   "number": "099/173",
+   "rarity": "Double Rare",
+   "marketPrice": 16.3,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572828,
+   "name": "Wishiwashi GX",
+   "number": "174/173",
+   "rarity": "Super Rare",
+   "marketPrice": 8.32,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578490,
+   "name": "Bounsweet (Mirror Holofoil)",
+   "number": "012/173",
+   "rarity": "None",
+   "marketPrice": 0.95,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578532,
+   "name": "Kangaskhan (Mirror Holofoil)",
+   "number": "107/173",
+   "rarity": "None",
+   "marketPrice": 0.97,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578542,
+   "name": "Electropower",
+   "number": "119/173",
+   "rarity": "None",
+   "marketPrice": 4.28,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578544,
+   "name": "Acro Bike",
+   "number": "121/173",
+   "rarity": "None",
+   "marketPrice": 4,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578561,
+   "name": "Lost Blender (Mirror Holofoil)",
+   "number": "138/173",
+   "rarity": "None",
+   "marketPrice": 1,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578581,
+   "name": "Red's Challenge",
+   "number": "159/173",
+   "rarity": "None",
+   "marketPrice": 2.4,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572668,
+   "name": "Tsareena",
+   "number": "014/173",
+   "rarity": "None",
+   "marketPrice": 0.34,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572769,
+   "name": "Audino",
+   "number": "115/173",
+   "rarity": "None",
+   "marketPrice": 0.52,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572851,
+   "name": "Roxie",
+   "number": "197/173",
+   "rarity": "Super Rare",
+   "marketPrice": 72.97,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578582,
+   "name": "Shrine of Punishment (Mirror Holofoil)",
+   "number": "160/173",
+   "rarity": "None",
+   "marketPrice": 2.45,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572814,
+   "name": "Shrine of Punishment",
+   "number": "160/173",
+   "rarity": "None",
+   "marketPrice": 0.18,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572726,
+   "name": "Greninja & Zoroark GX",
+   "number": "072/173",
+   "rarity": "Double Rare",
+   "marketPrice": 18.01,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572706,
+   "name": "Mewtwo & Mew GX",
+   "number": "052/173",
+   "rarity": "Double Rare",
+   "marketPrice": 38.54,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578546,
+   "name": "Electromagnetic Radar",
+   "number": "123/173",
+   "rarity": "None",
+   "marketPrice": 3.28,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578547,
+   "name": "Electromagnetic Radar",
+   "number": "124/173",
+   "rarity": "None",
+   "marketPrice": 5,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572778,
+   "name": "Electromagnetic Radar",
+   "number": "124/173",
+   "rarity": "None",
+   "marketPrice": 1.23,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572876,
+   "name": "Greninja & Zoroark GX",
+   "number": "223/173",
+   "rarity": "Ultra Rare",
+   "marketPrice": 107.49,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 614957,
+   "name": "Basic Fairy Energy - FAI",
+   "number": "FAI",
+   "rarity": "None",
+   "marketPrice": 1.56,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572712,
+   "name": "Giratina Prism Star",
+   "number": "058/173",
+   "rarity": "Prism Rare",
+   "marketPrice": 11.55,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572730,
+   "name": "Spiritomb",
+   "number": "076/173",
+   "rarity": "None",
+   "marketPrice": 0.41,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578529,
+   "name": "Pidgeotto (Mirror Holofoil)",
+   "number": "104/173",
+   "rarity": "None",
+   "marketPrice": 0.71,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578556,
+   "name": "Fire Crystal (Mirror Holofoil)",
+   "number": "133/173",
+   "rarity": "None",
+   "marketPrice": 0.4,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 614972,
+   "name": "Basic Water Energy - WAT",
+   "number": "WAT",
+   "rarity": "None",
+   "marketPrice": 0.73,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572833,
+   "name": "Trevenant & Dusknoir GX",
+   "number": "179/173",
+   "rarity": "Super Rare",
+   "marketPrice": 94.46,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578501,
+   "name": "Wartortle (Mirror Holofoil)",
+   "number": "030/173",
+   "rarity": "None",
+   "marketPrice": 4.92,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578503,
+   "name": "Vaporeon (Mirror Holofoil)",
+   "number": "033/173",
+   "rarity": "None",
+   "marketPrice": 4.47,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578538,
+   "name": "Audino (Mirror Holofoil)",
+   "number": "115/173",
+   "rarity": "None",
+   "marketPrice": 1.39,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578571,
+   "name": "Sightseer",
+   "number": "149/173",
+   "rarity": "None",
+   "marketPrice": 8.95,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578574,
+   "name": "Bellelba & Brycen-Man",
+   "number": "152/173",
+   "rarity": "None",
+   "marketPrice": 2.2,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578580,
+   "name": "Lisia (Mirror Holofoil)",
+   "number": "158/173",
+   "rarity": "None",
+   "marketPrice": null,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572795,
+   "name": "Spell Tag",
+   "number": "141/173",
+   "rarity": "None",
+   "marketPrice": 0.98,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572686,
+   "name": "Alolan Vulpix",
+   "number": "032/173",
+   "rarity": "None",
+   "marketPrice": 1.12,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572748,
+   "name": "Togepi & Cleffa & Igglybuff GX",
+   "number": "094/173",
+   "rarity": "Double Rare",
+   "marketPrice": 22.76,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 614958,
+   "name": "Basic Fire Energy - FIR",
+   "number": "FIR",
+   "rarity": "None",
+   "marketPrice": 0.84,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 614974,
+   "name": "Basic Darkness Energy - DAR",
+   "number": "DAR",
+   "rarity": "None",
+   "marketPrice": 0.82,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572772,
+   "name": "Electropower",
+   "number": "118/173",
+   "rarity": "None",
+   "marketPrice": 0.5,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572799,
+   "name": "Professor Elm's Lecture",
+   "number": "145/173",
+   "rarity": "None",
+   "marketPrice": 1.16,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572657,
+   "name": "Parasect",
+   "number": "003/173",
+   "rarity": "None",
+   "marketPrice": 0.44,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578545,
+   "name": "Acro Bike",
+   "number": "122/173",
+   "rarity": "None",
+   "marketPrice": 4.19,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578577,
+   "name": "Morty (Mirror Holofoil)",
+   "number": "155/173",
+   "rarity": "None",
+   "marketPrice": 0.97,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578486,
+   "name": "Skiploom (Mirror Holofoil)",
+   "number": "005/173",
+   "rarity": "None",
+   "marketPrice": 1.46,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578492,
+   "name": "Vulpix (Mirror Holofoil)",
+   "number": "017/173",
+   "rarity": "None",
+   "marketPrice": 2.29,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578494,
+   "name": "Flareon (Mirror Holofoil)",
+   "number": "019/173",
+   "rarity": "None",
+   "marketPrice": 4.88,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572836,
+   "name": "Umbreon & Darkrai GX",
+   "number": "182/173",
+   "rarity": "Super Rare",
+   "marketPrice": 129.99,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572838,
+   "name": "Melmetal GX",
+   "number": "184/173",
+   "rarity": "Super Rare",
+   "marketPrice": 3.86,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572841,
+   "name": "Eevee GX",
+   "number": "187/173",
+   "rarity": "Super Rare",
+   "marketPrice": 43.29,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572870,
+   "name": "Melmetal GX",
+   "number": "217/173",
+   "rarity": "Hyper Rare",
+   "marketPrice": 16.92,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572771,
+   "name": "Trumbeak",
+   "number": "117/173",
+   "rarity": "None",
+   "marketPrice": 0.82,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572784,
+   "name": "Pokegear 3.0",
+   "number": "130/173",
+   "rarity": "None",
+   "marketPrice": 1.13,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572805,
+   "name": "Giovanni's Exile",
+   "number": "151/173",
+   "rarity": "None",
+   "marketPrice": 0.58,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578483,
+   "name": "Paras (Mirror Holofoil)",
+   "number": "002/173",
+   "rarity": "None",
+   "marketPrice": 1.75,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578491,
+   "name": "Steenee (Mirror Holofoil)",
+   "number": "013/173",
+   "rarity": "None",
+   "marketPrice": 0.55,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578504,
+   "name": "Wishiwashi (Mirror Holofoil)",
+   "number": "038/173",
+   "rarity": "None",
+   "marketPrice": 1.75,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578507,
+   "name": "Blitzle (Mirror Holofoil)",
+   "number": "045/173",
+   "rarity": "None",
+   "marketPrice": 1.46,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578520,
+   "name": "Alolan Diglett (Mirror Holofoil)",
+   "number": "084/173",
+   "rarity": "None",
+   "marketPrice": 2.3,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578521,
+   "name": "Alolan Dugtrio (Mirror Holofoil)",
+   "number": "085/173",
+   "rarity": "None",
+   "marketPrice": 1.65,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578536,
+   "name": "Glameow (Mirror Holofoil)",
+   "number": "113/173",
+   "rarity": "None",
+   "marketPrice": 1.59,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578541,
+   "name": "Electropower",
+   "number": "118/173",
+   "rarity": "None",
+   "marketPrice": 2.45,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578573,
+   "name": "Giovanni's Exile (Mirror Holofoil)",
+   "number": "151/173",
+   "rarity": "None",
+   "marketPrice": 3.25,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578588,
+   "name": "Recycle Energy (Mirror Holofoil)",
+   "number": "173/173",
+   "rarity": "None",
+   "marketPrice": 2,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578524,
+   "name": "Meltan (Mirror Holofoil)",
+   "number": "092/173",
+   "rarity": "None",
+   "marketPrice": 1.02,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 684759,
+   "name": "Zoroark (Mirror Holofoil)",
+   "number": "079/173",
+   "rarity": "None",
+   "marketPrice": null,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572746,
+   "name": "Meltan",
+   "number": "092/173",
+   "rarity": "None",
+   "marketPrice": 0.28,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572782,
+   "name": "Adventure Bag",
+   "number": "128/173",
+   "rarity": "None",
+   "marketPrice": 0.22,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578523,
+   "name": "Magneton (Mirror Holofoil)",
+   "number": "087/173",
+   "rarity": "None",
+   "marketPrice": null,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 578570,
+   "name": "Diantha (Mirror Holofoil)",
+   "number": "148/173",
+   "rarity": "None",
+   "marketPrice": null,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572770,
+   "name": "Pikipek",
+   "number": "116/173",
+   "rarity": "None",
+   "marketPrice": 0.58,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572794,
+   "name": "Karate Belt",
+   "number": "140/173",
+   "rarity": "None",
+   "marketPrice": 0.6,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572811,
+   "name": "Welder",
+   "number": "157/173",
+   "rarity": "None",
+   "marketPrice": 0.41,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572830,
+   "name": "Espeon & Deoxys GX",
+   "number": "176/173",
+   "rarity": "Super Rare",
+   "marketPrice": 72.06,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572850,
+   "name": "Green's Exploration",
+   "number": "196/173",
+   "rarity": "Super Rare",
+   "marketPrice": 463.02,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572855,
+   "name": "Red's Challenge",
+   "number": "201/173",
+   "rarity": "Super Rare",
+   "marketPrice": 206.35,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572869,
+   "name": "Weavile GX",
+   "number": "216/173",
+   "rarity": "Hyper Rare",
+   "marketPrice": 28.81,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572704,
+   "name": "Zeraora",
+   "number": "050/173",
+   "rarity": "None",
+   "marketPrice": 0.5,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572716,
+   "name": "Malamar",
+   "number": "062/173",
+   "rarity": "None",
+   "marketPrice": 0.2,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572751,
+   "name": "Cottonee",
+   "number": "097/173",
+   "rarity": "None",
+   "marketPrice": 0.67,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572764,
+   "name": "Porygon",
+   "number": "110/173",
+   "rarity": "None",
+   "marketPrice": 1.05,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572720,
+   "name": "Naganadel",
+   "number": "066/173",
+   "rarity": "None",
+   "marketPrice": 0.86,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572683,
+   "name": "Squirtle",
+   "number": "029/173",
+   "rarity": "None",
+   "marketPrice": 0.85,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 614960,
+   "name": "Basic Fighting Energy - FIG",
+   "number": "FIG",
+   "rarity": "None",
+   "marketPrice": 0.53,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572759,
+   "name": "Meowth",
+   "number": "105/173",
+   "rarity": "None",
+   "marketPrice": 3.2,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572788,
+   "name": "Mysterious Treasure",
+   "number": "134/173",
+   "rarity": "None",
+   "marketPrice": 1.35,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572674,
+   "name": "Victini",
+   "number": "020/173",
+   "rarity": "None",
+   "marketPrice": 0.6,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572714,
+   "name": "Meowstic",
+   "number": "060/173",
+   "rarity": "None",
+   "marketPrice": 0.89,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  },
+  {
+   "productId": 572861,
+   "name": "Basic Fighting Energy",
+   "number": "207/173",
+   "rarity": "Super Rare",
+   "marketPrice": 2.19,
+   "setName": "SM12a: TAG TEAM GX: Tag All Stars"
+  }
+ ]
+}

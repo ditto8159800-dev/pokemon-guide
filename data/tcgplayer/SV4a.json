@@ -1,0 +1,1631 @@
+{
+ "set": "SV4a",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 567516,
+   "name": "Charizard ex",
+   "number": "115/190",
+   "rarity": "Double Rare",
+   "marketPrice": 2.2,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567377,
+   "name": "Espathra ex",
+   "number": "023/190",
+   "rarity": "Double Rare",
+   "marketPrice": 0.27,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567725,
+   "name": "Quaquaval ex",
+   "number": "325/190",
+   "rarity": "Shiny Secret Rare",
+   "marketPrice": 0.76,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567515,
+   "name": "Koraidon ex",
+   "number": "114/190",
+   "rarity": "Double Rare",
+   "marketPrice": 0.3,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567726,
+   "name": "Alakazam ex",
+   "number": "326/190",
+   "rarity": "Shiny Secret Rare",
+   "marketPrice": 2.04,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567724,
+   "name": "Skeledirge ex",
+   "number": "324/190",
+   "rarity": "Shiny Secret Rare",
+   "marketPrice": 1.1,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567536,
+   "name": "Noivern ex",
+   "number": "135/190",
+   "rarity": "Double Rare",
+   "marketPrice": 0.3,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567736,
+   "name": "Wigglytuff ex",
+   "number": "336/190",
+   "rarity": "Shiny Secret Rare",
+   "marketPrice": 1.39,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567721,
+   "name": "Meowscarada ex",
+   "number": "321/190",
+   "rarity": "Shiny Secret Rare",
+   "marketPrice": 1.48,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567461,
+   "name": "Wigglytuff",
+   "number": "072/190",
+   "rarity": "None",
+   "marketPrice": 0.21,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567750,
+   "name": "Clive",
+   "number": "352/190",
+   "rarity": "Special Art Rare",
+   "marketPrice": 20.11,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567609,
+   "name": "Scovillain",
+   "number": "208/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 0.77,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567654,
+   "name": "Abra",
+   "number": "253/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 2.85,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567613,
+   "name": "Paldean Tauros",
+   "number": "212/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.26,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567740,
+   "name": "Pawmi",
+   "number": "340/190",
+   "rarity": "Art Rare",
+   "marketPrice": 5.76,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567600,
+   "name": "Snover",
+   "number": "199/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.07,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567670,
+   "name": "Rabsca",
+   "number": "269/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 0.75,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567751,
+   "name": "Arven",
+   "number": "353/190",
+   "rarity": "Special Art Rare",
+   "marketPrice": 6.64,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567687,
+   "name": "Glimmet",
+   "number": "286/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 0.75,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567708,
+   "name": "Doduo",
+   "number": "307/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.38,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567744,
+   "name": "Paldean Student",
+   "number": "345/190",
+   "rarity": "Super Rare",
+   "marketPrice": 0.48,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577377,
+   "name": "Snorlax",
+   "number": "145/190",
+   "rarity": "None",
+   "marketPrice": 4.16,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577379,
+   "name": "Pelipper",
+   "number": "147/190",
+   "rarity": "None",
+   "marketPrice": 0.41,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567598,
+   "name": "Jumpluff",
+   "number": "197/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.79,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567709,
+   "name": "Dodrio",
+   "number": "308/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 0.98,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567707,
+   "name": "Jigglypuff",
+   "number": "306/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 6.07,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567711,
+   "name": "Snorlax",
+   "number": "310/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 18.5,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567518,
+   "name": "Paldean Clodsire ex",
+   "number": "117/190",
+   "rarity": "Double Rare",
+   "marketPrice": 0.31,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567355,
+   "name": "Jumpluff",
+   "number": "007/190",
+   "rarity": "None",
+   "marketPrice": 0.17,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567553,
+   "name": "Tandemaus",
+   "number": "152/190",
+   "rarity": "None",
+   "marketPrice": 0.17,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567560,
+   "name": "Nest Ball",
+   "number": "159/190",
+   "rarity": "None",
+   "marketPrice": 0.29,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567628,
+   "name": "Wugtrio",
+   "number": "227/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.26,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567655,
+   "name": "Kadabra",
+   "number": "254/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 2.38,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567700,
+   "name": "Scizor",
+   "number": "299/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 2.32,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567716,
+   "name": "Lechonk",
+   "number": "315/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 2.74,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577341,
+   "name": "Kirlia",
+   "number": "081/190",
+   "rarity": "None",
+   "marketPrice": 1.06,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567719,
+   "name": "Flamigo",
+   "number": "319/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 0.98,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567728,
+   "name": "Gardevoir ex",
+   "number": "328/190",
+   "rarity": "Shiny Secret Rare",
+   "marketPrice": 5.12,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567391,
+   "name": "Skeledirge ex",
+   "number": "032/190",
+   "rarity": "Double Rare",
+   "marketPrice": 0.3,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577317,
+   "name": "Quaxly",
+   "number": "041/190",
+   "rarity": "None",
+   "marketPrice": 0.52,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567679,
+   "name": "Annihilape",
+   "number": "278/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.23,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567681,
+   "name": "Riolu",
+   "number": "280/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 5.21,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567689,
+   "name": "Murkrow",
+   "number": "288/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.41,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567696,
+   "name": "Kingambit",
+   "number": "294/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 0.98,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567633,
+   "name": "Tatsugiri",
+   "number": "232/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 2.51,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567672,
+   "name": "Tinkatink",
+   "number": "271/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 2.36,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567610,
+   "name": "Rellor",
+   "number": "209/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 0.89,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567487,
+   "name": "Mimikyu",
+   "number": "088/190",
+   "rarity": "None",
+   "marketPrice": 0.41,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577381,
+   "name": "Greedent",
+   "number": "149/190",
+   "rarity": "None",
+   "marketPrice": 0.41,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567706,
+   "name": "Pidgeotto",
+   "number": "305/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.46,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577357,
+   "name": "Nacli",
+   "number": "107/190",
+   "rarity": "None",
+   "marketPrice": 0.38,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567473,
+   "name": "Ralts",
+   "number": "080/190",
+   "rarity": "None",
+   "marketPrice": 0.12,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567558,
+   "name": "Superior Energy Retrieval",
+   "number": "157/190",
+   "rarity": "None",
+   "marketPrice": 0.08,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567468,
+   "name": "Cleffa",
+   "number": "077/190",
+   "rarity": "None",
+   "marketPrice": 0.31,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567608,
+   "name": "Capsakid",
+   "number": "207/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 0.72,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567413,
+   "name": "Palafin",
+   "number": "047/190",
+   "rarity": "None",
+   "marketPrice": 0.15,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567742,
+   "name": "Judge",
+   "number": "342/190",
+   "rarity": "Super Rare",
+   "marketPrice": 0.6,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577321,
+   "name": "Finizen",
+   "number": "046/190",
+   "rarity": "None",
+   "marketPrice": 0.86,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577343,
+   "name": "Drifblim",
+   "number": "084/190",
+   "rarity": "None",
+   "marketPrice": 0.45,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567714,
+   "name": "Skwovet",
+   "number": "313/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 0.93,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577353,
+   "name": "Primeape",
+   "number": "101/190",
+   "rarity": "None",
+   "marketPrice": 0.35,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567622,
+   "name": "Staryu",
+   "number": "221/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.53,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567626,
+   "name": "Quaxwell",
+   "number": "225/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 0.99,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567675,
+   "name": "Greavard",
+   "number": "274/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 0.97,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567488,
+   "name": "Fidough",
+   "number": "089/190",
+   "rarity": "None",
+   "marketPrice": 0.15,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567665,
+   "name": "Klefki",
+   "number": "264/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.08,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567454,
+   "name": "Pawmot",
+   "number": "068/190",
+   "rarity": "None",
+   "marketPrice": 0.24,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567692,
+   "name": "Sableye",
+   "number": "291/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 2.26,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567717,
+   "name": "Tandemaus",
+   "number": "317/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 14.97,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577328,
+   "name": "Luxio",
+   "number": "060/190",
+   "rarity": "None",
+   "marketPrice": 1.04,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567618,
+   "name": "Charcadet",
+   "number": "217/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.82,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577296,
+   "name": "Scyther",
+   "number": "004/190",
+   "rarity": "None",
+   "marketPrice": 0.67,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577295,
+   "name": "Gloom",
+   "number": "002/190",
+   "rarity": "None",
+   "marketPrice": 0.43,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567605,
+   "name": "Dolliv",
+   "number": "204/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.12,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567666,
+   "name": "Mimikyu",
+   "number": "265/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 20.13,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567497,
+   "name": "Tinkaton",
+   "number": "096/190",
+   "rarity": "None",
+   "marketPrice": 0.26,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567592,
+   "name": "Oddish",
+   "number": "191/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 2.06,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577332,
+   "name": "Pawmo",
+   "number": "067/190",
+   "rarity": "None",
+   "marketPrice": 0.65,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567483,
+   "name": "Spiritomb",
+   "number": "086/190",
+   "rarity": "None",
+   "marketPrice": 0.15,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567505,
+   "name": "Riolu",
+   "number": "104/190",
+   "rarity": "None",
+   "marketPrice": 0.12,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577318,
+   "name": "Quaxwell",
+   "number": "042/190",
+   "rarity": "None",
+   "marketPrice": 0.33,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577374,
+   "name": "Pidgeotto",
+   "number": "138/190",
+   "rarity": "None",
+   "marketPrice": 0.34,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567722,
+   "name": "Toedscruel ex",
+   "number": "322/190",
+   "rarity": "Shiny Secret Rare",
+   "marketPrice": 0.78,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577336,
+   "name": "Kadabra",
+   "number": "074/190",
+   "rarity": "None",
+   "marketPrice": 0.75,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577389,
+   "name": "Super Rod (Mirror Holofoil)",
+   "number": "158/190",
+   "rarity": "None",
+   "marketPrice": 0.91,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567347,
+   "name": "Oddish",
+   "number": "001/190",
+   "rarity": "None",
+   "marketPrice": 0.15,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567604,
+   "name": "Smoliv",
+   "number": "203/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.8,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577330,
+   "name": "Toxel",
+   "number": "064/190",
+   "rarity": "None",
+   "marketPrice": 0.36,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577331,
+   "name": "Pawmi",
+   "number": "066/190",
+   "rarity": "None",
+   "marketPrice": 0.95,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577567,
+   "name": "Penny",
+   "number": "354/190",
+   "rarity": "Special Art Rare",
+   "marketPrice": 13.49,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567402,
+   "name": "Starmie",
+   "number": "039/190",
+   "rarity": "None",
+   "marketPrice": 0.18,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567522,
+   "name": "Sableye",
+   "number": "121/190",
+   "rarity": "None",
+   "marketPrice": 0.27,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567349,
+   "name": "Gloom",
+   "number": "002/190",
+   "rarity": "None",
+   "marketPrice": 0.06,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567544,
+   "name": "Dodrio",
+   "number": "143/190",
+   "rarity": "None",
+   "marketPrice": 0.14,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567748,
+   "name": "Charizard ex",
+   "number": "349/190",
+   "rarity": "Special Art Rare",
+   "marketPrice": 226.74,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577405,
+   "name": "Clive",
+   "number": "175/190",
+   "rarity": "None",
+   "marketPrice": 0.87,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577352,
+   "name": "Mankey",
+   "number": "100/190",
+   "rarity": "None",
+   "marketPrice": 0.38,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577362,
+   "name": "Sneasel",
+   "number": "119/190",
+   "rarity": "None",
+   "marketPrice": 0.42,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577366,
+   "name": "Mabosstiff",
+   "number": "126/190",
+   "rarity": "None",
+   "marketPrice": 0.34,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577388,
+   "name": "Superior Energy Retrieval (Mirror Holofoil)",
+   "number": "157/190",
+   "rarity": "None",
+   "marketPrice": 2.27,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577390,
+   "name": "Nest Ball (Mirror Holofoil)",
+   "number": "159/190",
+   "rarity": "None",
+   "marketPrice": 3.79,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577306,
+   "name": "Capsakid",
+   "number": "020/190",
+   "rarity": "None",
+   "marketPrice": 0.52,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567388,
+   "name": "Fuecoco",
+   "number": "030/190",
+   "rarity": "None",
+   "marketPrice": 0.11,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567417,
+   "name": "Dondozo",
+   "number": "049/190",
+   "rarity": "None",
+   "marketPrice": 0.12,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567555,
+   "name": "Squawkabilly ex",
+   "number": "154/190",
+   "rarity": "Double Rare",
+   "marketPrice": 0.29,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567752,
+   "name": "Wo-Chien ex",
+   "number": "355/190",
+   "rarity": "Ultra Rare",
+   "marketPrice": 3.35,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567723,
+   "name": "Espathra ex",
+   "number": "323/190",
+   "rarity": "Shiny Secret Rare",
+   "marketPrice": 0.73,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567540,
+   "name": "Pidgeot ex",
+   "number": "139/190",
+   "rarity": "Double Rare",
+   "marketPrice": 0.32,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567737,
+   "name": "Squawkabilly ex",
+   "number": "337/190",
+   "rarity": "Shiny Secret Rare",
+   "marketPrice": 0.67,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567727,
+   "name": "Mew ex",
+   "number": "327/190",
+   "rarity": "Shiny Secret Rare",
+   "marketPrice": 18.56,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567746,
+   "name": "Mew ex",
+   "number": "347/190",
+   "rarity": "Special Art Rare",
+   "marketPrice": 510.64,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567739,
+   "name": "Palafin",
+   "number": "339/190",
+   "rarity": "Art Rare",
+   "marketPrice": 2.3,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567713,
+   "name": "Pelipper",
+   "number": "312/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 0.95,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567685,
+   "name": "Naclstack",
+   "number": "284/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 0.82,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567648,
+   "name": "Pawmi",
+   "number": "247/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.19,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567745,
+   "name": "Paldean Student",
+   "number": "346/190",
+   "rarity": "Super Rare",
+   "marketPrice": 0.43,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577406,
+   "name": "Paldean Student",
+   "number": "178/190",
+   "rarity": "None",
+   "marketPrice": 0.27,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567638,
+   "name": "Raichu",
+   "number": "237/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 8.14,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577324,
+   "name": "Arctibax",
+   "number": "052/190",
+   "rarity": "None",
+   "marketPrice": 0.36,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567734,
+   "name": "Noivern ex",
+   "number": "334/190",
+   "rarity": "Shiny Secret Rare",
+   "marketPrice": 1.14,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567650,
+   "name": "Pawmot",
+   "number": "249/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.58,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567651,
+   "name": "Wattrel",
+   "number": "250/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.1,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567673,
+   "name": "Tinkatuff",
+   "number": "272/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.86,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567395,
+   "name": "Armarouge",
+   "number": "034/190",
+   "rarity": "None",
+   "marketPrice": 0.15,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567595,
+   "name": "Scyther",
+   "number": "194/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 2.6,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567703,
+   "name": "Noibat",
+   "number": "302/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.42,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577325,
+   "name": "Pikachu",
+   "number": "055/190",
+   "rarity": "None",
+   "marketPrice": 5.71,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577407,
+   "name": "Paldean Student",
+   "number": "179/190",
+   "rarity": "None",
+   "marketPrice": 0.47,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567632,
+   "name": "Dondozo",
+   "number": "231/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.01,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567649,
+   "name": "Pawmo",
+   "number": "248/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.33,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567691,
+   "name": "Weavile",
+   "number": "290/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.25,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567704,
+   "name": "Cyclizar",
+   "number": "303/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.16,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577303,
+   "name": "Smoliv",
+   "number": "015/190",
+   "rarity": "None",
+   "marketPrice": 0.58,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577404,
+   "name": "Iono",
+   "number": "174/190",
+   "rarity": "None",
+   "marketPrice": 1.33,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567556,
+   "name": "Flamigo",
+   "number": "155/190",
+   "rarity": "None",
+   "marketPrice": 0.08,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577314,
+   "name": "Slowpoke",
+   "number": "036/190",
+   "rarity": "None",
+   "marketPrice": 2.8,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577319,
+   "name": "Wiglett",
+   "number": "044/190",
+   "rarity": "None",
+   "marketPrice": 0.46,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577361,
+   "name": "Murkrow",
+   "number": "118/190",
+   "rarity": "None",
+   "marketPrice": 0.55,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567503,
+   "name": "Annihilape",
+   "number": "102/190",
+   "rarity": "None",
+   "marketPrice": 0.11,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567374,
+   "name": "Scovillain",
+   "number": "021/190",
+   "rarity": "None",
+   "marketPrice": 0.15,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567514,
+   "name": "Ting-Lu ex",
+   "number": "113/190",
+   "rarity": "Double Rare",
+   "marketPrice": 0.23,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577385,
+   "name": "Maushold",
+   "number": "153/190",
+   "rarity": "None",
+   "marketPrice": 6.6,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577413,
+   "name": "Pokemon League Headquarters (Mirror Holofoil)",
+   "number": "186/190",
+   "rarity": "None",
+   "marketPrice": 1.07,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567456,
+   "name": "Wattrel",
+   "number": "069/190",
+   "rarity": "None",
+   "marketPrice": 0.08,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567562,
+   "name": "Ultra Ball",
+   "number": "161/190",
+   "rarity": "None",
+   "marketPrice": 0.28,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567561,
+   "name": "Nemona's Backpack",
+   "number": "160/190",
+   "rarity": "None",
+   "marketPrice": 0.04,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567422,
+   "name": "Frigibax",
+   "number": "051/190",
+   "rarity": "None",
+   "marketPrice": 0.09,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567498,
+   "name": "Greavard",
+   "number": "097/190",
+   "rarity": "None",
+   "marketPrice": 0.12,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567569,
+   "name": "Defiance Band",
+   "number": "168/190",
+   "rarity": "None",
+   "marketPrice": 0.1,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577376,
+   "name": "Doduo",
+   "number": "142/190",
+   "rarity": "None",
+   "marketPrice": 0.34,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567753,
+   "name": "Chi-Yu ex",
+   "number": "356/190",
+   "rarity": "Ultra Rare",
+   "marketPrice": 7.16,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567364,
+   "name": "Meowscarada ex",
+   "number": "014/190",
+   "rarity": "Double Rare",
+   "marketPrice": 0.31,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567408,
+   "name": "Quaquaval ex",
+   "number": "043/190",
+   "rarity": "Double Rare",
+   "marketPrice": 0.29,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567477,
+   "name": "Gardevoir ex",
+   "number": "082/190",
+   "rarity": "Double Rare",
+   "marketPrice": 0.38,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567720,
+   "name": "Forretress ex",
+   "number": "320/190",
+   "rarity": "Shiny Secret Rare",
+   "marketPrice": 0.75,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577298,
+   "name": "Skiploom",
+   "number": "006/190",
+   "rarity": "None",
+   "marketPrice": 0.64,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567549,
+   "name": "Skwovet",
+   "number": "148/190",
+   "rarity": "None",
+   "marketPrice": 0.24,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567426,
+   "name": "Chien-Pao ex",
+   "number": "054/190",
+   "rarity": "Double Rare",
+   "marketPrice": 0.35,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567731,
+   "name": "Charizard ex",
+   "number": "331/190",
+   "rarity": "Shiny Secret Rare",
+   "marketPrice": 13.82,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567757,
+   "name": "Koraidon ex",
+   "number": "360/190",
+   "rarity": "Ultra Rare",
+   "marketPrice": 6.11,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567755,
+   "name": "Miraidon ex",
+   "number": "358/190",
+   "rarity": "None",
+   "marketPrice": 8.06,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567754,
+   "name": "Chien-Pao ex",
+   "number": "357/190",
+   "rarity": "Ultra Rare",
+   "marketPrice": 5,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567730,
+   "name": "Great Tusk ex",
+   "number": "330/190",
+   "rarity": "Shiny Secret Rare",
+   "marketPrice": 0.68,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567733,
+   "name": "Iron Treads ex",
+   "number": "333/190",
+   "rarity": "Shiny Secret Rare",
+   "marketPrice": 0.7,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567756,
+   "name": "Ting-Lu ex",
+   "number": "359/190",
+   "rarity": "None",
+   "marketPrice": 3.09,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567459,
+   "name": "Miraidon ex",
+   "number": "071/190",
+   "rarity": "Double Rare",
+   "marketPrice": 0.26,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567359,
+   "name": "Forretress ex",
+   "number": "009/190",
+   "rarity": "Double Rare",
+   "marketPrice": 0.27,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567652,
+   "name": "Kilowattrel",
+   "number": "251/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.13,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567570,
+   "name": "Bravery Charm",
+   "number": "169/190",
+   "rarity": "None",
+   "marketPrice": 0.09,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567611,
+   "name": "Charmander",
+   "number": "210/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 12.59,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567624,
+   "name": "Paldean Tauros",
+   "number": "223/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.35,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567669,
+   "name": "Ceruledge",
+   "number": "268/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 4.23,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567718,
+   "name": "Maushold",
+   "number": "318/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 18.26,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577355,
+   "name": "Riolu",
+   "number": "104/190",
+   "rarity": "None",
+   "marketPrice": 0.62,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567606,
+   "name": "Arboliva",
+   "number": "205/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.02,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577565,
+   "name": "Nemona",
+   "number": "343/190",
+   "rarity": "Super Rare",
+   "marketPrice": 0.78,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567545,
+   "name": "Ditto",
+   "number": "144/190",
+   "rarity": "None",
+   "marketPrice": 0.42,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567554,
+   "name": "Maushold",
+   "number": "153/190",
+   "rarity": "None",
+   "marketPrice": 0.16,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567591,
+   "name": "Luminous Energy",
+   "number": "190/190",
+   "rarity": "None",
+   "marketPrice": 0.16,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577345,
+   "name": "Fidough",
+   "number": "089/190",
+   "rarity": "None",
+   "marketPrice": 1.08,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567495,
+   "name": "Tinkatink",
+   "number": "094/190",
+   "rarity": "None",
+   "marketPrice": 0.12,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567641,
+   "name": "Shinx",
+   "number": "240/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 4.47,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567671,
+   "name": "Flittle",
+   "number": "270/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 0.83,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577382,
+   "name": "Lechonk",
+   "number": "150/190",
+   "rarity": "None",
+   "marketPrice": 0.66,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567533,
+   "name": "Iron Treads ex",
+   "number": "132/190",
+   "rarity": "Double Rare",
+   "marketPrice": 0.28,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567732,
+   "name": "Paldean Clodsire ex",
+   "number": "332/190",
+   "rarity": "Shiny Secret Rare",
+   "marketPrice": 1.56,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567615,
+   "name": "Oricorio",
+   "number": "214/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.29,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567602,
+   "name": "Sprigatito",
+   "number": "201/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 6.27,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567698,
+   "name": "Mabosstiff",
+   "number": "296/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 0.83,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567682,
+   "name": "Lucario",
+   "number": "281/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 9.72,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567738,
+   "name": "Wugtrio",
+   "number": "338/190",
+   "rarity": "Art Rare",
+   "marketPrice": 2.39,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567621,
+   "name": "Slowbro",
+   "number": "220/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 5.22,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567674,
+   "name": "Tinkaton",
+   "number": "273/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 6.12,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567702,
+   "name": "Revavroom",
+   "number": "301/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 0.69,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567657,
+   "name": "Natu",
+   "number": "256/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.16,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567398,
+   "name": "Slowpoke",
+   "number": "036/190",
+   "rarity": "None",
+   "marketPrice": 0.13,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577351,
+   "name": "Gimmighoul (Mirror Holofoil)",
+   "number": "099/190",
+   "rarity": "None",
+   "marketPrice": 0.31,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577339,
+   "name": "Xatu",
+   "number": "079/190",
+   "rarity": "None",
+   "marketPrice": 0.45,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567686,
+   "name": "Garganacl",
+   "number": "285/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 0.81,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 567593,
+   "name": "Gloom",
+   "number": "192/190",
+   "rarity": "Shiny Rare",
+   "marketPrice": 1.6,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577392,
+   "name": "Ultra Ball (Mirror Holofoil)",
+   "number": "161/190",
+   "rarity": "None",
+   "marketPrice": 1.31,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577414,
+   "name": "Practice Studio (Mirror Holofoil)",
+   "number": "187/190",
+   "rarity": "None",
+   "marketPrice": 0.8,
+   "setName": "SV4a: Shiny Treasure ex"
+  },
+  {
+   "productId": 577323,
+   "name": "Frigibax",
+   "number": "051/190",
+   "rarity": "None",
+   "marketPrice": 0.35,
+   "setName": "SV4a: Shiny Treasure ex"
+  }
+ ]
+}

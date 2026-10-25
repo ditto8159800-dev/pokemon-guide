@@ -1,0 +1,1351 @@
+{
+ "set": "S12a",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 571586,
+   "name": "Gengar",
+   "number": "048/172",
+   "rarity": "None",
+   "marketPrice": 2.31,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571723,
+   "name": "Deoxys",
+   "number": "185/172",
+   "rarity": "Art Rare",
+   "marketPrice": 9.12,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571555,
+   "name": "Magmortar",
+   "number": "017/172",
+   "rarity": "None",
+   "marketPrice": 0.15,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571770,
+   "name": "Zamazenta V",
+   "number": "232/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 12.03,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571591,
+   "name": "Mew V",
+   "number": "053/172",
+   "rarity": "Double Rare",
+   "marketPrice": 2.54,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571578,
+   "name": "Zeraora V",
+   "number": "040/172",
+   "rarity": "Double Rare",
+   "marketPrice": 0.55,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571652,
+   "name": "Hisuian Goodra",
+   "number": "114/172",
+   "rarity": "None",
+   "marketPrice": 0.23,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571790,
+   "name": "Origin Forme Dialga VSTAR",
+   "number": "260/172",
+   "rarity": "Ultra Rare",
+   "marketPrice": 91.93,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571657,
+   "name": "Miltank",
+   "number": "119/172",
+   "rarity": "None",
+   "marketPrice": 0.19,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571782,
+   "name": "Melony",
+   "number": "244/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 7.76,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571691,
+   "name": "Cynthia's Ambition",
+   "number": "153/172",
+   "rarity": "None",
+   "marketPrice": 0.2,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577532,
+   "name": "Darkness Energy",
+   "number": "257/172",
+   "rarity": "None",
+   "marketPrice": 1.07,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577436,
+   "name": "Parasect (Mirror Holofoil)",
+   "number": "002/172",
+   "rarity": "None",
+   "marketPrice": 0.34,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577440,
+   "name": "Grotle (Mirror Holofoil)",
+   "number": "007/172",
+   "rarity": "None",
+   "marketPrice": 1.05,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577456,
+   "name": "Regieleki (Mirror Holofoil)",
+   "number": "045/172",
+   "rarity": "None",
+   "marketPrice": 0.6,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577446,
+   "name": "Oricorio",
+   "number": "022/172",
+   "rarity": "None",
+   "marketPrice": 0.5,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577486,
+   "name": "Regidrago (Mirror Holofoil)",
+   "number": "116/172",
+   "rarity": "None",
+   "marketPrice": 0.47,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577490,
+   "name": "Fan of Waves (Mirror Holofoil)",
+   "number": "132/172",
+   "rarity": "None",
+   "marketPrice": 0.63,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577491,
+   "name": "Gutsy Pickaxe (Mirror Holofoil)",
+   "number": "133/172",
+   "rarity": "None",
+   "marketPrice": 0.4,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577508,
+   "name": "Grant",
+   "number": "152/172",
+   "rarity": "None",
+   "marketPrice": 0.65,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577509,
+   "name": "Cynthia's Ambition",
+   "number": "153/172",
+   "rarity": "None",
+   "marketPrice": 0.99,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571540,
+   "name": "Parasect",
+   "number": "002/172",
+   "rarity": "None",
+   "marketPrice": 0.2,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571544,
+   "name": "Turtwig",
+   "number": "006/172",
+   "rarity": "None",
+   "marketPrice": 0.2,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571568,
+   "name": "Hisuian Basculin",
+   "number": "030/172",
+   "rarity": "None",
+   "marketPrice": 0.11,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577512,
+   "name": "Roxanne",
+   "number": "157/172",
+   "rarity": "None",
+   "marketPrice": 0.99,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577524,
+   "name": "Double Turbo Energy (Mirror Holofoil)",
+   "number": "171/172",
+   "rarity": "None",
+   "marketPrice": 0.42,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571612,
+   "name": "Solrock",
+   "number": "074/172",
+   "rarity": "None",
+   "marketPrice": 0.11,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571715,
+   "name": "Lapras",
+   "number": "177/172",
+   "rarity": "Art Rare",
+   "marketPrice": 8.06,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571592,
+   "name": "Mew VMAX",
+   "number": "054/172",
+   "rarity": "Triple Rare",
+   "marketPrice": 6.59,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571553,
+   "name": "Radiant Charizard",
+   "number": "015/172",
+   "rarity": "Kagayaku",
+   "marketPrice": 5.96,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571610,
+   "name": "Machamp VMAX",
+   "number": "072/172",
+   "rarity": "Triple Rare",
+   "marketPrice": 1.03,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571667,
+   "name": "Hisuian Zoroark VSTAR",
+   "number": "129/172",
+   "rarity": "Triple Rare",
+   "marketPrice": 0.58,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571588,
+   "name": "Mewtwo V",
+   "number": "050/172",
+   "rarity": "Double Rare",
+   "marketPrice": 2.99,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571732,
+   "name": "Altaria",
+   "number": "194/172",
+   "rarity": "Art Rare",
+   "marketPrice": 5.29,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571737,
+   "name": "Miltank",
+   "number": "199/172",
+   "rarity": "Art Rare",
+   "marketPrice": 4.86,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571662,
+   "name": "Regigigas V",
+   "number": "124/172",
+   "rarity": "Double Rare",
+   "marketPrice": 0.33,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571566,
+   "name": "Origin Forme Palkia VSTAR",
+   "number": "028/172",
+   "rarity": "Triple Rare",
+   "marketPrice": 0.67,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571593,
+   "name": "Radiant Gardevoir",
+   "number": "055/172",
+   "rarity": "Kagayaku",
+   "marketPrice": 1.05,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571552,
+   "name": "Charizard VSTAR",
+   "number": "014/172",
+   "rarity": "Triple Rare",
+   "marketPrice": 4.59,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571735,
+   "name": "Ditto",
+   "number": "197/172",
+   "rarity": "Art Rare",
+   "marketPrice": 6.62,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571571,
+   "name": "Radiant Greninja",
+   "number": "033/172",
+   "rarity": "Kagayaku",
+   "marketPrice": 1.63,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571751,
+   "name": "Entei V",
+   "number": "213/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 30.75,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571753,
+   "name": "Suicune V",
+   "number": "215/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 42.87,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571664,
+   "name": "Arceus V",
+   "number": "126/172",
+   "rarity": "Double Rare",
+   "marketPrice": 0.8,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571734,
+   "name": "Hisuian Goodra",
+   "number": "196/172",
+   "rarity": "Art Rare",
+   "marketPrice": 2.22,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571724,
+   "name": "Diancie",
+   "number": "186/172",
+   "rarity": "Art Rare",
+   "marketPrice": 3.08,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571755,
+   "name": "Glaceon VSTAR",
+   "number": "217/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 46.91,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571624,
+   "name": "Hisuian Samurott V",
+   "number": "086/172",
+   "rarity": "Double Rare",
+   "marketPrice": 0.4,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571561,
+   "name": "Lapras",
+   "number": "023/172",
+   "rarity": "None",
+   "marketPrice": 0.15,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571687,
+   "name": "Irida",
+   "number": "149/172",
+   "rarity": "None",
+   "marketPrice": 0.23,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571587,
+   "name": "Galarian Articuno",
+   "number": "049/172",
+   "rarity": "None",
+   "marketPrice": 0.22,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571761,
+   "name": "Deoxys VSTAR",
+   "number": "223/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 28.23,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571716,
+   "name": "Manaphy",
+   "number": "178/172",
+   "rarity": "Art Rare",
+   "marketPrice": 4.54,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571736,
+   "name": "Dunsparce",
+   "number": "198/172",
+   "rarity": "Art Rare",
+   "marketPrice": 2.51,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571604,
+   "name": "Hatterene VMAX",
+   "number": "066/172",
+   "rarity": "Triple Rare",
+   "marketPrice": 0.65,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571730,
+   "name": "Thievul",
+   "number": "192/172",
+   "rarity": "Art Rare",
+   "marketPrice": 1.64,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571733,
+   "name": "Latias",
+   "number": "195/172",
+   "rarity": "Art Rare",
+   "marketPrice": 9.37,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571722,
+   "name": "Lunatone",
+   "number": "184/172",
+   "rarity": "Art Rare",
+   "marketPrice": 4,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571608,
+   "name": "Hisuian Arcanine",
+   "number": "070/172",
+   "rarity": "None",
+   "marketPrice": 0.25,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571614,
+   "name": "Riolu",
+   "number": "076/172",
+   "rarity": "None",
+   "marketPrice": 0.16,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571773,
+   "name": "Colress's Experiment",
+   "number": "235/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 2.96,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577449,
+   "name": "Manaphy",
+   "number": "029/172",
+   "rarity": "None",
+   "marketPrice": 0.56,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577480,
+   "name": "Registeel (Mirror Holofoil)",
+   "number": "097/172",
+   "rarity": "None",
+   "marketPrice": 0.8,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571590,
+   "name": "Mew",
+   "number": "052/172",
+   "rarity": "None",
+   "marketPrice": 1.51,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571569,
+   "name": "Hisuian Basculegion",
+   "number": "031/172",
+   "rarity": "None",
+   "marketPrice": 0.19,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571637,
+   "name": "Bronzong",
+   "number": "099/172",
+   "rarity": "None",
+   "marketPrice": 0.12,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571645,
+   "name": "Rayquaza V",
+   "number": "107/172",
+   "rarity": "Double Rare",
+   "marketPrice": 1.08,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571700,
+   "name": "Melony",
+   "number": "162/172",
+   "rarity": "None",
+   "marketPrice": 0.13,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571668,
+   "name": "Oranguru V",
+   "number": "130/172",
+   "rarity": "Double Rare",
+   "marketPrice": 0.44,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571653,
+   "name": "Radiant Eternatus",
+   "number": "115/172",
+   "rarity": "Kagayaku",
+   "marketPrice": 0.66,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571771,
+   "name": "Regigigas VSTAR",
+   "number": "233/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 15.16,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571760,
+   "name": "Deoxys VMAX",
+   "number": "222/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 23.13,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571574,
+   "name": "Mareep",
+   "number": "036/172",
+   "rarity": "None",
+   "marketPrice": 0.19,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571669,
+   "name": "Wyrdeer V",
+   "number": "131/172",
+   "rarity": "Double Rare",
+   "marketPrice": 0.43,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571775,
+   "name": "Raihan",
+   "number": "237/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 4.82,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571783,
+   "name": "Volo",
+   "number": "245/172",
+   "rarity": "Super Rare",
+   "marketPrice": 1.27,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571617,
+   "name": "Galarian Moltres",
+   "number": "079/172",
+   "rarity": "None",
+   "marketPrice": 0.25,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571609,
+   "name": "Machamp V",
+   "number": "071/172",
+   "rarity": "Double Rare",
+   "marketPrice": 0.66,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571603,
+   "name": "Hatterene V",
+   "number": "065/172",
+   "rarity": "Double Rare",
+   "marketPrice": 0.47,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571788,
+   "name": "Boss's Orders",
+   "number": "250/172",
+   "rarity": "Super Rare",
+   "marketPrice": 4.77,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571598,
+   "name": "Deoxys",
+   "number": "060/172",
+   "rarity": "None",
+   "marketPrice": 0.36,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571772,
+   "name": "Hisuian Zoroark VSTAR",
+   "number": "234/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 33.64,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571647,
+   "name": "Garchomp V",
+   "number": "109/172",
+   "rarity": "Double Rare",
+   "marketPrice": 0.41,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577443,
+   "name": "Kricketune",
+   "number": "010/172",
+   "rarity": "None",
+   "marketPrice": 0.72,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577489,
+   "name": "Bidoof",
+   "number": "121/172",
+   "rarity": "None",
+   "marketPrice": 1.49,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577492,
+   "name": "Fog Crystal (Mirror Holofoil)",
+   "number": "134/172",
+   "rarity": "None",
+   "marketPrice": 0.55,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571635,
+   "name": "Registeel",
+   "number": "097/172",
+   "rarity": "None",
+   "marketPrice": 0.13,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571673,
+   "name": "Dark Patch",
+   "number": "135/172",
+   "rarity": "None",
+   "marketPrice": 0.14,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571780,
+   "name": "Roxanne",
+   "number": "242/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 6.9,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577463,
+   "name": "Pumpkaboo (Mirror Holofoil)",
+   "number": "061/172",
+   "rarity": "None",
+   "marketPrice": 1.02,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571559,
+   "name": "Simisear VSTAR",
+   "number": "021/172",
+   "rarity": "Triple Rare",
+   "marketPrice": 0.42,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571557,
+   "name": "Entei V",
+   "number": "019/172",
+   "rarity": "Double Rare",
+   "marketPrice": 0.59,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571641,
+   "name": "Zamazenta V",
+   "number": "103/172",
+   "rarity": "Double Rare",
+   "marketPrice": 0.53,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571752,
+   "name": "Simisear VSTAR",
+   "number": "214/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 31.22,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571589,
+   "name": "Mewtwo VSTAR",
+   "number": "051/172",
+   "rarity": "Triple Rare",
+   "marketPrice": 2.76,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577526,
+   "name": "Grass Energy",
+   "number": "251/172",
+   "rarity": "None",
+   "marketPrice": 0.63,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571616,
+   "name": "Radiant Hawlucha",
+   "number": "078/172",
+   "rarity": "Kagayaku",
+   "marketPrice": 0.46,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571768,
+   "name": "Hisuian Samurott VSTAR",
+   "number": "230/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 9.49,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571738,
+   "name": "Bibarel",
+   "number": "200/172",
+   "rarity": "Art Rare",
+   "marketPrice": 2.18,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571699,
+   "name": "Boss's Orders",
+   "number": "161/172",
+   "rarity": "None",
+   "marketPrice": 0.2,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571781,
+   "name": "Gardenia's Vigor",
+   "number": "243/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 17.77,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577438,
+   "name": "Hisuian Electrode (Mirror Holofoil)",
+   "number": "004/172",
+   "rarity": "None",
+   "marketPrice": 0.65,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571764,
+   "name": "Lucario VSTAR",
+   "number": "226/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 18.76,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571649,
+   "name": "Giratina VSTAR",
+   "number": "111/172",
+   "rarity": "Triple Rare",
+   "marketPrice": 0.96,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571748,
+   "name": "Leafeon VSTAR",
+   "number": "210/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 54.55,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571750,
+   "name": "Charizard VSTAR",
+   "number": "212/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 86.51,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571766,
+   "name": "Darkrai VSTAR",
+   "number": "228/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 51.84,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571665,
+   "name": "Arceus VSTAR",
+   "number": "127/172",
+   "rarity": "Triple Rare",
+   "marketPrice": 0.82,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571550,
+   "name": "Leafeon VSTAR",
+   "number": "012/172",
+   "rarity": "Triple Rare",
+   "marketPrice": 1.09,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571663,
+   "name": "Regigigas VSTAR",
+   "number": "125/172",
+   "rarity": "Triple Rare",
+   "marketPrice": 0.74,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571789,
+   "name": "Origin Forme Palkia VSTAR",
+   "number": "259/172",
+   "rarity": "Ultra Rare",
+   "marketPrice": 86.57,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571792,
+   "name": "Arceus VSTAR",
+   "number": "262/172",
+   "rarity": "Ultra Rare",
+   "marketPrice": 173.16,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571625,
+   "name": "Hisuian Samurott VSTAR",
+   "number": "087/172",
+   "rarity": "Triple Rare",
+   "marketPrice": 0.53,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571639,
+   "name": "Origin Forme Dialga VSTAR",
+   "number": "101/172",
+   "rarity": "Triple Rare",
+   "marketPrice": 0.74,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571758,
+   "name": "Zeraora VSTAR",
+   "number": "220/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 17.9,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571646,
+   "name": "Rayquaza VMAX",
+   "number": "108/172",
+   "rarity": "Triple Rare",
+   "marketPrice": 5.06,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571579,
+   "name": "Zeraora VMAX",
+   "number": "041/172",
+   "rarity": "Triple Rare",
+   "marketPrice": 0.92,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571763,
+   "name": "Zacian V",
+   "number": "225/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 15.24,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571661,
+   "name": "Regigigas",
+   "number": "123/172",
+   "rarity": "None",
+   "marketPrice": 0.24,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571623,
+   "name": "Drapion V",
+   "number": "085/172",
+   "rarity": "Double Rare",
+   "marketPrice": 0.29,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571562,
+   "name": "Suicune V",
+   "number": "024/172",
+   "rarity": "Double Rare",
+   "marketPrice": 0.53,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571712,
+   "name": "Kricketune",
+   "number": "174/172",
+   "rarity": "Art Rare",
+   "marketPrice": 4.07,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571745,
+   "name": "Paras",
+   "number": "207/172",
+   "rarity": "Art Rare",
+   "marketPrice": 21.71,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571720,
+   "name": "Galarian Articuno",
+   "number": "182/172",
+   "rarity": "Art Rare",
+   "marketPrice": 3.17,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571684,
+   "name": "Sky Seal Stone",
+   "number": "146/172",
+   "rarity": "None",
+   "marketPrice": 0.2,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571757,
+   "name": "Zeraora VMAX",
+   "number": "219/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 21.39,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571756,
+   "name": "Raikou V",
+   "number": "218/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 31.72,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571567,
+   "name": "Manaphy",
+   "number": "029/172",
+   "rarity": "None",
+   "marketPrice": 0.14,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571744,
+   "name": "Turtwig",
+   "number": "206/172",
+   "rarity": "Art Rare",
+   "marketPrice": 20.66,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571577,
+   "name": "Radiant Charjabug",
+   "number": "039/172",
+   "rarity": "Kagayaku",
+   "marketPrice": 0.49,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577448,
+   "name": "Regice (Mirror Holofoil)",
+   "number": "025/172",
+   "rarity": "None",
+   "marketPrice": 0.69,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571754,
+   "name": "Lumineon V",
+   "number": "216/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 18.74,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571606,
+   "name": "Enamorus V",
+   "number": "068/172",
+   "rarity": "Double Rare",
+   "marketPrice": 0.45,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571611,
+   "name": "Galarian Zapdos",
+   "number": "073/172",
+   "rarity": "None",
+   "marketPrice": 0.25,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571696,
+   "name": "Gardenia's Vigor",
+   "number": "158/172",
+   "rarity": "None",
+   "marketPrice": 0.15,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571670,
+   "name": "Fan of Waves",
+   "number": "132/172",
+   "rarity": "None",
+   "marketPrice": 0.11,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571791,
+   "name": "Giratina VSTAR",
+   "number": "261/172",
+   "rarity": "Ultra Rare",
+   "marketPrice": 300.85,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571713,
+   "name": "Magmortar",
+   "number": "175/172",
+   "rarity": "Art Rare",
+   "marketPrice": 4,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571727,
+   "name": "Solrock",
+   "number": "189/172",
+   "rarity": "Art Rare",
+   "marketPrice": 3.53,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577444,
+   "name": "Magmar (Mirror Holofoil)",
+   "number": "016/172",
+   "rarity": "None",
+   "marketPrice": 3.23,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571741,
+   "name": "Duskull",
+   "number": "203/172",
+   "rarity": "Art Rare",
+   "marketPrice": 12.36,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571746,
+   "name": "Poochyena",
+   "number": "208/172",
+   "rarity": "Art Rare",
+   "marketPrice": 14.54,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571778,
+   "name": "Adaman",
+   "number": "240/172",
+   "rarity": "Special Art Rare",
+   "marketPrice": 7.07,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571630,
+   "name": "Nickit",
+   "number": "092/172",
+   "rarity": "None",
+   "marketPrice": 0.16,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571740,
+   "name": "Swablu",
+   "number": "202/172",
+   "rarity": "Art Rare",
+   "marketPrice": 13.8,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577470,
+   "name": "Poochyena",
+   "number": "081/172",
+   "rarity": "None",
+   "marketPrice": 1.06,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577484,
+   "name": "Goomy (Mirror Holofoil)",
+   "number": "112/172",
+   "rarity": "None",
+   "marketPrice": 0.82,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577452,
+   "name": "Electivire",
+   "number": "035/172",
+   "rarity": "None",
+   "marketPrice": 0.74,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577482,
+   "name": "Altaria",
+   "number": "104/172",
+   "rarity": "None",
+   "marketPrice": 1.15,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577510,
+   "name": "Friends in Sinnoh",
+   "number": "154/172",
+   "rarity": "None",
+   "marketPrice": 0.74,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571622,
+   "name": "Spiritomb",
+   "number": "084/172",
+   "rarity": "None",
+   "marketPrice": 0.15,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571682,
+   "name": "Lost Vacuum",
+   "number": "144/172",
+   "rarity": "None",
+   "marketPrice": 0.14,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577506,
+   "name": "Elesa's Sparkle",
+   "number": "150/172",
+   "rarity": "None",
+   "marketPrice": 0.7,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571634,
+   "name": "Magnezone",
+   "number": "096/172",
+   "rarity": "None",
+   "marketPrice": 0.17,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571688,
+   "name": "Elesa's Sparkle",
+   "number": "150/172",
+   "rarity": "None",
+   "marketPrice": 0.16,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571786,
+   "name": "Professor's Research",
+   "number": "248/172",
+   "rarity": "Super Rare",
+   "marketPrice": 1.02,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571554,
+   "name": "Magmar",
+   "number": "016/172",
+   "rarity": "None",
+   "marketPrice": 0.19,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571701,
+   "name": "Cheryl",
+   "number": "163/172",
+   "rarity": "None",
+   "marketPrice": 0.16,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571584,
+   "name": "Gastly",
+   "number": "046/172",
+   "rarity": "None",
+   "marketPrice": 0.16,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577460,
+   "name": "Duskull",
+   "number": "057/172",
+   "rarity": "None",
+   "marketPrice": 0.82,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577473,
+   "name": "Purrloin (Mirror Holofoil)",
+   "number": "088/172",
+   "rarity": "None",
+   "marketPrice": 0.51,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577503,
+   "name": "Choice Belt (Mirror Holofoil)",
+   "number": "145/172",
+   "rarity": "None",
+   "marketPrice": 0.37,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 577513,
+   "name": "Gardenia's Vigor",
+   "number": "158/172",
+   "rarity": "None",
+   "marketPrice": 0.76,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571695,
+   "name": "Roxanne",
+   "number": "157/172",
+   "rarity": "None",
+   "marketPrice": 0.13,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571743,
+   "name": "Pikachu",
+   "number": "205/172",
+   "rarity": "Art Rare",
+   "marketPrice": 236.68,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571595,
+   "name": "Duskull",
+   "number": "057/172",
+   "rarity": "None",
+   "marketPrice": 0.12,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571631,
+   "name": "Thievul",
+   "number": "093/172",
+   "rarity": "None",
+   "marketPrice": 0.15,
+   "setName": "S12a: VSTAR Universe"
+  },
+  {
+   "productId": 571636,
+   "name": "Bronzor",
+   "number": "098/172",
+   "rarity": "None",
+   "marketPrice": 0.12,
+   "setName": "S12a: VSTAR Universe"
+  }
+ ]
+}

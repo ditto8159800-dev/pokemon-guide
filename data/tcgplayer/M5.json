@@ -1,0 +1,943 @@
+{
+ "set": "M5",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 695017,
+   "name": "Thievul",
+   "number": "089/081",
+   "rarity": "Art Rare",
+   "marketPrice": 1.18,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695098,
+   "name": "Toucannon",
+   "number": "092/081",
+   "rarity": "Art Rare",
+   "marketPrice": 1.98,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695049,
+   "name": "Mega Zeraora ex",
+   "number": "026/081",
+   "rarity": "Double Rare",
+   "marketPrice": 0.5,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695048,
+   "name": "Misty's Spirit",
+   "number": "108/081",
+   "rarity": "Super Rare",
+   "marketPrice": 16.02,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695042,
+   "name": "Gwynn",
+   "number": "111/081",
+   "rarity": "Super Rare",
+   "marketPrice": 8.51,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695086,
+   "name": "Mandibuzz",
+   "number": "048/081",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695016,
+   "name": "Thievul",
+   "number": "052/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.17,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695065,
+   "name": "Goldeen",
+   "number": "084/081",
+   "rarity": "Art Rare",
+   "marketPrice": 2.78,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695023,
+   "name": "Rampardos ex",
+   "number": "043/081",
+   "rarity": "Double Rare",
+   "marketPrice": 0.32,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695056,
+   "name": "Lurantis ex",
+   "number": "004/081",
+   "rarity": "Double Rare",
+   "marketPrice": 0.33,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695012,
+   "name": "Slowpoke",
+   "number": "028/081",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695024,
+   "name": "Rampardos ex",
+   "number": "098/081",
+   "rarity": "Super Rare",
+   "marketPrice": 4.84,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 694995,
+   "name": "Brave Bangle",
+   "number": "107/081",
+   "rarity": "Super Rare",
+   "marketPrice": 0.59,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695045,
+   "name": "Wailord ex",
+   "number": "015/081",
+   "rarity": "Double Rare",
+   "marketPrice": 0.35,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695054,
+   "name": "Fomantis",
+   "number": "003/081",
+   "rarity": "Common",
+   "marketPrice": 0.2,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695039,
+   "name": "Dhelmise",
+   "number": "088/081",
+   "rarity": "Art Rare",
+   "marketPrice": 1.96,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695055,
+   "name": "Fomantis",
+   "number": "082/081",
+   "rarity": "Art Rare",
+   "marketPrice": 2.01,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695108,
+   "name": "Gladion's Showdown",
+   "number": "116/081",
+   "rarity": "Special Art Rare",
+   "marketPrice": 13.79,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695060,
+   "name": "Centiskorch",
+   "number": "009/081",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695027,
+   "name": "Bastiodon",
+   "number": "091/081",
+   "rarity": "Art Rare",
+   "marketPrice": 1.09,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695057,
+   "name": "Lurantis ex",
+   "number": "094/081",
+   "rarity": "Super Rare",
+   "marketPrice": 5.55,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695014,
+   "name": "Slowbro",
+   "number": "087/081",
+   "rarity": "Art Rare",
+   "marketPrice": 4.96,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695087,
+   "name": "Morpeko ex",
+   "number": "053/081",
+   "rarity": "Double Rare",
+   "marketPrice": 0.44,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695083,
+   "name": "Mankey",
+   "number": "040/081",
+   "rarity": "Common",
+   "marketPrice": 0.22,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695089,
+   "name": "Morpeko ex",
+   "number": "115/081",
+   "rarity": "Special Art Rare",
+   "marketPrice": 24.62,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 694993,
+   "name": "Energy Switch",
+   "number": "103/081",
+   "rarity": "Super Rare",
+   "marketPrice": 0.82,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695051,
+   "name": "Mega Zeraora ex",
+   "number": "112/081",
+   "rarity": "Special Art Rare",
+   "marketPrice": 19.3,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695019,
+   "name": "Antique Skull Fossil",
+   "number": "071/081",
+   "rarity": "Common",
+   "marketPrice": 0.2,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695095,
+   "name": "Pikipek",
+   "number": "064/081",
+   "rarity": "Common",
+   "marketPrice": 0.19,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695070,
+   "name": "Primarina",
+   "number": "085/081",
+   "rarity": "Art Rare",
+   "marketPrice": 2.07,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695044,
+   "name": "Wailmer",
+   "number": "014/081",
+   "rarity": "Common",
+   "marketPrice": 0.33,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695043,
+   "name": "Gwynn",
+   "number": "117/081",
+   "rarity": "Special Art Rare",
+   "marketPrice": 28.62,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695026,
+   "name": "Bastiodon",
+   "number": "060/081",
+   "rarity": "Rare",
+   "marketPrice": 0.34,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695028,
+   "name": "Poltchageist",
+   "number": "005/081",
+   "rarity": "Common",
+   "marketPrice": 0.21,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695075,
+   "name": "Manectric",
+   "number": "086/081",
+   "rarity": "Art Rare",
+   "marketPrice": 1.21,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695009,
+   "name": "Drilbur",
+   "number": "044/081",
+   "rarity": "Common",
+   "marketPrice": 0.22,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695018,
+   "name": "Relicanth",
+   "number": "016/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.17,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695037,
+   "name": "Mega Chandelure ex",
+   "number": "113/081",
+   "rarity": "Special Art Rare",
+   "marketPrice": 14.53,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695104,
+   "name": "Terrific Bomb",
+   "number": "106/081",
+   "rarity": "Super Rare",
+   "marketPrice": 0.8,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695069,
+   "name": "Primarina",
+   "number": "019/081",
+   "rarity": "Rare",
+   "marketPrice": 0.48,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 694999,
+   "name": "Mega Darkrai ex",
+   "number": "114/081",
+   "rarity": "Special Art Rare",
+   "marketPrice": 167.15,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695050,
+   "name": "Mega Zeraora ex",
+   "number": "096/081",
+   "rarity": "Super Rare",
+   "marketPrice": 4.13,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695008,
+   "name": "Shadowy Darkess Energy",
+   "number": "081/081",
+   "rarity": "Rare",
+   "marketPrice": 0.28,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695097,
+   "name": "Toucannon",
+   "number": "066/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.22,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695063,
+   "name": "Armarouge",
+   "number": "083/081",
+   "rarity": "Art Rare",
+   "marketPrice": 2.26,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695010,
+   "name": "Mega Excadrill ex",
+   "number": "063/081",
+   "rarity": "Double Rare",
+   "marketPrice": 0.32,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695033,
+   "name": "Litwick",
+   "number": "034/081",
+   "rarity": "Common",
+   "marketPrice": 0.19,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695061,
+   "name": "Charcadet",
+   "number": "010/081",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695067,
+   "name": "Popplio",
+   "number": "017/081",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695007,
+   "name": "Dark Bell",
+   "number": "105/081",
+   "rarity": "Super Rare",
+   "marketPrice": 0.54,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695011,
+   "name": "Mega Excadrill ex",
+   "number": "101/081",
+   "rarity": "Super Rare",
+   "marketPrice": 3.09,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695078,
+   "name": "Volt Lightning Energy",
+   "number": "080/081",
+   "rarity": "Rare",
+   "marketPrice": 0.3,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695020,
+   "name": "Antique Armor Fossil",
+   "number": "072/081",
+   "rarity": "Common",
+   "marketPrice": 0.19,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695032,
+   "name": "Spiritomb",
+   "number": "033/081",
+   "rarity": "Rare",
+   "marketPrice": 0.25,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695092,
+   "name": "Skarmory",
+   "number": "058/081",
+   "rarity": "Common",
+   "marketPrice": 0.24,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695106,
+   "name": "Gladion's Showdown",
+   "number": "076/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.17,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695029,
+   "name": "Sinistcha",
+   "number": "006/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.24,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695073,
+   "name": "Electrike",
+   "number": "022/081",
+   "rarity": "Common",
+   "marketPrice": 0.21,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695081,
+   "name": "Jynx",
+   "number": "030/081",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695071,
+   "name": "Finizen",
+   "number": "020/081",
+   "rarity": "Common",
+   "marketPrice": 0.19,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695079,
+   "name": "Miraidon",
+   "number": "027/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.2,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 694996,
+   "name": "Iron Defender",
+   "number": "102/081",
+   "rarity": "Super Rare",
+   "marketPrice": 0.41,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695038,
+   "name": "Dhelmise",
+   "number": "037/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.24,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695082,
+   "name": "Annihilape",
+   "number": "039/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695100,
+   "name": "Silvally",
+   "number": "068/081",
+   "rarity": "Rare",
+   "marketPrice": 0.42,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695066,
+   "name": "Seaking",
+   "number": "013/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.19,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695015,
+   "name": "Nickit",
+   "number": "051/081",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695030,
+   "name": "Shuppet",
+   "number": "031/081",
+   "rarity": "Common",
+   "marketPrice": 0.24,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695058,
+   "name": "Heatran",
+   "number": "007/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.25,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695084,
+   "name": "Primeape",
+   "number": "041/081",
+   "rarity": "Common",
+   "marketPrice": 0.19,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695109,
+   "name": "Rust Syndicate Grunt",
+   "number": "077/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695077,
+   "name": "Vikavolt",
+   "number": "025/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695059,
+   "name": "Sizzlipede",
+   "number": "008/081",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695103,
+   "name": "Terrific Bomb",
+   "number": "073/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.23,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695013,
+   "name": "Slowbro",
+   "number": "029/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.27,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695088,
+   "name": "Morpeko ex",
+   "number": "100/081",
+   "rarity": "Super Rare",
+   "marketPrice": 6.36,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695107,
+   "name": "Gladion's Showdown",
+   "number": "109/081",
+   "rarity": "Super Rare",
+   "marketPrice": 3.98,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695062,
+   "name": "Armarouge",
+   "number": "011/081",
+   "rarity": "Rare",
+   "marketPrice": 0.31,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695053,
+   "name": "Grubbin",
+   "number": "002/081",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695094,
+   "name": "Bronzong",
+   "number": "062/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.19,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695000,
+   "name": "Mega Darkrai ex",
+   "number": "118/081",
+   "rarity": "Mega Ultra Rare",
+   "marketPrice": 391.89,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695047,
+   "name": "Misty's Spirit",
+   "number": "075/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.36,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695099,
+   "name": "Type: Null",
+   "number": "067/081",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695002,
+   "name": "Malamar",
+   "number": "050/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695040,
+   "name": "Marshadow",
+   "number": "038/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.18,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695080,
+   "name": "Koraidon",
+   "number": "045/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.21,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695105,
+   "name": "Retry Badge",
+   "number": "074/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695035,
+   "name": "Mega Chandelure ex",
+   "number": "036/081",
+   "rarity": "Double Rare",
+   "marketPrice": 0.5,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695036,
+   "name": "Mega Chandelure ex",
+   "number": "097/081",
+   "rarity": "Super Rare",
+   "marketPrice": 6.06,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695046,
+   "name": "Wailord ex",
+   "number": "095/081",
+   "rarity": "Super Rare",
+   "marketPrice": 3.52,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 694998,
+   "name": "Mega Darkrai ex",
+   "number": "099/081",
+   "rarity": "Super Rare",
+   "marketPrice": 8.66,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 694997,
+   "name": "Mega Darkrai ex",
+   "number": "046/081",
+   "rarity": "Double Rare",
+   "marketPrice": 0.77,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695004,
+   "name": "Zarude",
+   "number": "090/081",
+   "rarity": "Art Rare",
+   "marketPrice": 1.4,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695101,
+   "name": "Silvally",
+   "number": "093/081",
+   "rarity": "Art Rare",
+   "marketPrice": 2.06,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 694994,
+   "name": "Crushing Hammer",
+   "number": "104/081",
+   "rarity": "Super Rare",
+   "marketPrice": 0.73,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695005,
+   "name": "Chi-Yu",
+   "number": "057/081",
+   "rarity": "Rare",
+   "marketPrice": 0.24,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695025,
+   "name": "Shieldon",
+   "number": "059/081",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695041,
+   "name": "Gwynn",
+   "number": "078/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.2,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695031,
+   "name": "Banette",
+   "number": "032/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.27,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695093,
+   "name": "Bronzor",
+   "number": "061/081",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695006,
+   "name": "Dark Bell",
+   "number": "070/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.25,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695021,
+   "name": "Fossil Excavation Site",
+   "number": "079/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.17,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695064,
+   "name": "Goldeen",
+   "number": "012/081",
+   "rarity": "Common",
+   "marketPrice": 0.23,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695072,
+   "name": "Palafin",
+   "number": "021/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695076,
+   "name": "Charjabug",
+   "number": "024/081",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695003,
+   "name": "Zarude",
+   "number": "054/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.21,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695034,
+   "name": "Lampent",
+   "number": "035/081",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695074,
+   "name": "Manectric",
+   "number": "023/081",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695090,
+   "name": "Maschiff",
+   "number": "055/081",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695091,
+   "name": "Mabosstiff",
+   "number": "056/081",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695102,
+   "name": "Bombirdier",
+   "number": "069/081",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695068,
+   "name": "Brionne",
+   "number": "018/081",
+   "rarity": "Common",
+   "marketPrice": 0.19,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695001,
+   "name": "Inkay",
+   "number": "049/081",
+   "rarity": "Common",
+   "marketPrice": 0.2,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695052,
+   "name": "Tropius",
+   "number": "001/081",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695096,
+   "name": "Trumbeak",
+   "number": "065/081",
+   "rarity": "Common",
+   "marketPrice": 0.2,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695085,
+   "name": "Vullaby",
+   "number": "047/081",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "M5: Abyss Eye"
+  },
+  {
+   "productId": 695022,
+   "name": "Cranidos",
+   "number": "042/081",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "M5: Abyss Eye"
+  }
+ ]
+}

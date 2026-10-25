@@ -9,6 +9,8 @@ const curated=R('content/curated.json');
 const CFG=R('content/site-config.json');const SHOWN=CFG.languages; // languages shown on the site (currently ja only)
 const KEEP=CFG.keep?new Set(Object.keys(CFG.keep.hot)):null; // hand-checked hot/iconic list; null = keep all
 const prices=fs.existsSync('data/prices.json')?R('data/prices.json'):{};
+const PICKS=fs.existsSync('content/chase-picks.json')?JSON.parse(fs.readFileSync('content/chase-picks.json','utf8')).sets:{};
+const EVID=fs.existsSync('content/chase-evidence.json')?JSON.parse(fs.readFileSync('content/chase-evidence.json','utf8')).sets:{};
 const bulbaJp=R('data/sources/bulba-jp.json');
 const bulbaTw=R('data/sources/bulba-zhtw.json').filter(x=>!/Simplified/.test(x.zh_tw));
 const raw={},cards={};
@@ -169,7 +171,7 @@ for(const s of [...sets].sort((a,b)=>order.indexOf(a.lang)-order.indexOf(b.lang)
     s.notes=[`繁中版與日版《${jaTwin.name}》卡表相同；大獎卡依日版資料列出，卡圖暫用日版，價格僅供日版參考。`];
     s.status='full';full++;continue;
   }
-  const cur=curated[s.key];
+  const cur=PICKS[s.key]?null:curated[s.key];
   let chase;
   if(cur?.chase){chase=cur.chase.map(lid=>list.find(c=>c.l===lid)).filter(Boolean);s.chaseMethod='curated';}
   else if(chaseB){chase=chaseB;}
@@ -180,6 +182,16 @@ for(const s of [...sets].sort((a,b)=>order.indexOf(a.lang)-order.indexOf(b.lang)
     }}
   chase=chase.slice(0,10);
   s.chase=chase.map(c=>{const key=`${c.lang}:${c.id}`;return {key,name:c.n,num:`${c.l}${s.official?'/'+String(s.official).padStart(3,'0'):''}`,localId:c.l,rarity:c.r&&!/^(null|None)$/.test(c.r)?c.r:'待確認',img:c.i?c.i+'/low.webp':null,imgHigh:c.i?c.i+'/high.webp':null,price:(c.lang===s.lang&&prices[key])||null,link:(c.lang===s.lang&&prices[key]?.link)||null};});
+  // community-picked chase cards (content/chase-picks.json, from scripts/research-chase.js --pick): overrides the rarity-based list
+  if(PICKS[s.key]){const P=PICKS[s.key];const nz=x=>String(x).replace(/^0+(?=\d)/,'');
+    s.chase=P.cards.map(p=>{const mb=p.variant==='master';const tc=list.find(c=>nz(c.l)===nz(p.localId));const key=`ja:${s.id}-${String(tc?tc.l:p.localId).replace(/\//g,'-')}${mb?'-mb':''}`;
+      const tp=p.tcgplayerId||prices[key]?.tcgplayerId||null;
+      const snkImg=prices[key]?.snkImg||null;const img=mb&&snkImg?snkImg:tp?`https://tcgplayer-cdn.tcgplayer.com/product/${tp}_in_400x400.jpg`:(!mb&&tc?.i?tc.i+'/low.webp':snkImg);
+      return {key,name:p.name+(mb?'（マスターボールミラー）':''),baseName:p.name,num:p.num,localId:p.localId,rarity:mb?'マスターボールミラー':(p.rarity||'待確認'),variant:p.variant||null,
+        img,imgHigh:mb&&snkImg?snkImg.replace('?size=m','?size=l'):tp?`https://tcgplayer-cdn.tcgplayer.com/product/${tp}_in_1000x1000.jpg`:(!mb&&tc?.i?tc.i+'/high.webp':snkImg),imgSrc:mb&&snkImg?'SNKRDUNK':tp?'TCGplayer':(img?'TCGdex':null),
+        marketJpy:p.marketJpy,tcgplayerId:p.tcgplayerId||null,snkId:p.snkId||null,price:prices[key]||null,link:prices[key]?.link||null};});
+    s.chaseMethod='community';s.rankingSource=P.rankingSource;chase=s.chase;}
+  if(EVID[s.key]) s.evidence=EVID[s.key];
   s.borrowedFrom=borrowed;
   s.notes=[];
   if(borrowed) s.notes.push(`TCGdex 尚無此繁中版卡表；大獎卡依對應日版《${byKey[borrowed].name}》列出（亞洲版與日版卡表通常相同，卡圖暫用日版）。`);
@@ -191,6 +203,7 @@ for(const s of [...sets].sort((a,b)=>order.indexOf(a.lang)-order.indexOf(b.lang)
   if(s.chaseMethod==='auto-bulbapedia') s.notes.push('卡表與稀有度取自 Bulbapedia（簡中版頁面），卡名以英文標示；依稀有度自動排序，非市場熱度。');
   if(s.chaseMethod==='auto'&&chase.length) s.notes.push('大獎卡依 TCGdex 官方稀有度由高到低自動排序（同稀有度以人氣寶可夢優先），非市場熱度排行。');
   if(!chase.length) s.notes.push('此彈在 TCGdex 中沒有可用的高稀有度卡資料（例如促銷卡、牌組），大獎卡待確認。');
+  if(s.chaseMethod==='community'){s.notes=s.notes.filter(n=>!/TCGdex 尚未收錄/.test(n));s.notes.push(`大獎卡＝日、台、美社群公認的大獎，再依目前市場成交價排序（排序依據：${s.rankingSource.name}，${s.rankingSource.date}）。`);}
   if(s.chaseMethod==='tcgplayer'){s.notes=s.notes.filter(n=>!/沒有可用的高稀有度/.test(n));}
   s.status=chase.length?(s.chaseMethod==='heuristic'?'partial':'full'):'partial';
   s.upcoming=!!(s.date&&s.date>new Date().toISOString().slice(0,10));
@@ -232,7 +245,7 @@ for(const s of shownSets){
   s.rank=ORDER.indexOf(s.key)+1||null; s.tier=!s.rank?null:s.rank<=5?'gold':s.rank<=12?'silver':'bronze';
   s.nameZh=(CFG.zhNames||{})[s.key]||(s.names['zh-tw']&&s.names['zh-tw']!==s.name?s.names['zh-tw']:null);
   if(BOX[s.key]) s.box=BOX[s.key];
-  for(const c of s.chase||[]){c.nameZh=toZh(c.name);const p=prices[c.key];
+  for(const c of s.chase||[]){c.nameZh=toZh(c.baseName||c.name);if(c.nameZh&&c.variant==='master')c.nameZh+='（大師球鏡面）';const p=prices[c.key];
     if(!c.img&&p?.tcgplayerId){c.img=`https://tcgplayer-cdn.tcgplayer.com/product/${p.tcgplayerId}_in_400x400.jpg`;c.imgHigh=`https://tcgplayer-cdn.tcgplayer.com/product/${p.tcgplayerId}_in_1000x1000.jpg`;c.imgSrc='TCGplayer';}}
 }
 shownSets.sort((a,b)=>(a.rank||99)-(b.rank||99));

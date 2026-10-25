@@ -1,0 +1,975 @@
+{
+ "set": "SV10",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 629062,
+   "name": "Team Rocket's Giovanni",
+   "number": "121/098",
+   "rarity": "Super Rare",
+   "marketPrice": 4.8,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628738,
+   "name": "Team Rocket's Factory",
+   "number": "097/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.14,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628672,
+   "name": "Cetoddle",
+   "number": "031/098",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628676,
+   "name": "Team Rocket's Flaaffy",
+   "number": "035/098",
+   "rarity": "Common",
+   "marketPrice": 0.21,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629048,
+   "name": "Zamazenta",
+   "number": "107/098",
+   "rarity": "Art Rare",
+   "marketPrice": 2.15,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628681,
+   "name": "Team Rocket's Wobbuffet",
+   "number": "040/098",
+   "rarity": "Rare",
+   "marketPrice": 0.29,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629045,
+   "name": "Team Rocket's Orbeetle",
+   "number": "104/098",
+   "rarity": "Art Rare",
+   "marketPrice": 1.35,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629040,
+   "name": "Team Rocket's Spidops",
+   "number": "099/098",
+   "rarity": "Art Rare",
+   "marketPrice": 1.35,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628699,
+   "name": "Team Rocket's Nidoran F",
+   "number": "058/098",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628655,
+   "name": "Arcanine",
+   "number": "014/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.19,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628651,
+   "name": "Smoliv",
+   "number": "010/098",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628658,
+   "name": "Team Rocket's Houndoom",
+   "number": "017/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629050,
+   "name": "Team Rocket's Meowth",
+   "number": "109/098",
+   "rarity": "Art Rare",
+   "marketPrice": 11.37,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629063,
+   "name": "Team Rocket's Petrel",
+   "number": "122/098",
+   "rarity": "Super Rare",
+   "marketPrice": 8.58,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629065,
+   "name": "Team Rocket's Moltres ex",
+   "number": "124/098",
+   "rarity": "Special Art Rare",
+   "marketPrice": 94.05,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628696,
+   "name": "Regirock ex",
+   "number": "055/098",
+   "rarity": "Double Rare",
+   "marketPrice": 0.31,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628698,
+   "name": "Team Rocket's Arbok",
+   "number": "057/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.22,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629052,
+   "name": "Arboliva ex",
+   "number": "111/098",
+   "rarity": "Super Rare",
+   "marketPrice": 2.34,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628675,
+   "name": "Team Rocket's Mareep",
+   "number": "034/098",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628688,
+   "name": "Annihilape",
+   "number": "047/098",
+   "rarity": "Rare",
+   "marketPrice": 0.22,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629055,
+   "name": "Team Rocket's Mewtwo ex",
+   "number": "114/098",
+   "rarity": "Super Rare",
+   "marketPrice": 19.46,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629066,
+   "name": "Team Rocket's Mewtwo ex",
+   "number": "125/098",
+   "rarity": "Special Art Rare",
+   "marketPrice": 367.61,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628704,
+   "name": "Team Rocket's Nidoking ex",
+   "number": "063/098",
+   "rarity": "Double Rare",
+   "marketPrice": 0.38,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629041,
+   "name": "Team Rocket's Houndoom",
+   "number": "100/098",
+   "rarity": "Art Rare",
+   "marketPrice": 4.99,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629049,
+   "name": "Team Rocket's Raticate",
+   "number": "108/098",
+   "rarity": "Art Rare",
+   "marketPrice": 2.53,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629043,
+   "name": "Clamperl",
+   "number": "102/098",
+   "rarity": "Art Rare",
+   "marketPrice": 2.22,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628656,
+   "name": "Team Rocket's Moltres ex",
+   "number": "015/098",
+   "rarity": "Double Rare",
+   "marketPrice": 0.43,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629047,
+   "name": "Team Rocket's Murkrow",
+   "number": "106/098",
+   "rarity": "Art Rare",
+   "marketPrice": 4.29,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629074,
+   "name": "Jamming Tower",
+   "number": "132/098",
+   "rarity": "Ultra Rare",
+   "marketPrice": 9.66,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628737,
+   "name": "Team Rocket's Watchtower",
+   "number": "096/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629042,
+   "name": "Blaziken",
+   "number": "101/098",
+   "rarity": "Art Rare",
+   "marketPrice": 3.75,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628673,
+   "name": "Cetitan ex",
+   "number": "032/098",
+   "rarity": "Double Rare",
+   "marketPrice": 0.29,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628717,
+   "name": "Team Rocket's Rattata",
+   "number": "076/098",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629064,
+   "name": "Team Rocket's Proton",
+   "number": "123/098",
+   "rarity": "Super Rare",
+   "marketPrice": 3.61,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628720,
+   "name": "Team Rocket's Persian ex",
+   "number": "079/098",
+   "rarity": "Double Rare",
+   "marketPrice": 0.35,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628659,
+   "name": "Torchic",
+   "number": "018/098",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628665,
+   "name": "Huntail",
+   "number": "024/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628714,
+   "name": "Forretress",
+   "number": "073/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628686,
+   "name": "Mankey",
+   "number": "045/098",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628653,
+   "name": "Arboliva ex",
+   "number": "012/098",
+   "rarity": "Double Rare",
+   "marketPrice": 0.32,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629056,
+   "name": "Regirock ex",
+   "number": "115/098",
+   "rarity": "Super Rare",
+   "marketPrice": 3.55,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629070,
+   "name": "Team Rocket's Giovanni",
+   "number": "129/098",
+   "rarity": "Special Art Rare",
+   "marketPrice": 19.72,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628702,
+   "name": "Team Rocket's Nidoran M",
+   "number": "061/098",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628680,
+   "name": "Team Rocket's Mewtwo ex",
+   "number": "039/098",
+   "rarity": "Double Rare",
+   "marketPrice": 0.8,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629059,
+   "name": "Team Rocket's Persian ex",
+   "number": "118/098",
+   "rarity": "Super Rare",
+   "marketPrice": 4.14,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628723,
+   "name": "Team Rocket's Porygon2",
+   "number": "082/098",
+   "rarity": "Common",
+   "marketPrice": 0.19,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628725,
+   "name": "Taillow",
+   "number": "084/098",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629054,
+   "name": "Cetitan ex",
+   "number": "113/098",
+   "rarity": "Super Rare",
+   "marketPrice": 2.21,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629071,
+   "name": "Team Rocket's Mewtwo ex",
+   "number": "130/098",
+   "rarity": "Ultra Rare",
+   "marketPrice": 44.18,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629061,
+   "name": "Team Rocket's Archer",
+   "number": "120/098",
+   "rarity": "Super Rare",
+   "marketPrice": 2.88,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629058,
+   "name": "Team Rocket's Crobat ex",
+   "number": "117/098",
+   "rarity": "Super Rare",
+   "marketPrice": 3.16,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629067,
+   "name": "Team Rocket's Nidoking ex",
+   "number": "126/098",
+   "rarity": "Special Art Rare",
+   "marketPrice": 85.55,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628642,
+   "name": "Pineco",
+   "number": "001/098",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628670,
+   "name": "Arrokuda",
+   "number": "029/098",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628689,
+   "name": "Team Rocket's Larvitar",
+   "number": "048/098",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628724,
+   "name": "Team Rocket's Porygon-Z",
+   "number": "083/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.23,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628726,
+   "name": "Swellow",
+   "number": "085/098",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628692,
+   "name": "Nosepass",
+   "number": "051/098",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628691,
+   "name": "Team Rocket's Tyranitar",
+   "number": "050/098",
+   "rarity": "Rare",
+   "marketPrice": 0.35,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628721,
+   "name": "Kangaskhan",
+   "number": "080/098",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628732,
+   "name": "Team Rocket's Ariana",
+   "number": "091/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628733,
+   "name": "Team Rocket's Archer",
+   "number": "092/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.19,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628736,
+   "name": "Team Rocket's Proton",
+   "number": "095/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628671,
+   "name": "Barraskewda",
+   "number": "030/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628711,
+   "name": "Team Rocket's Weezing",
+   "number": "070/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628728,
+   "name": "Team Rocket's Hindering Robo",
+   "number": "087/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.08,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629057,
+   "name": "Team Rocket's Nidoking ex",
+   "number": "116/098",
+   "rarity": "Super Rare",
+   "marketPrice": 4.31,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628716,
+   "name": "Zamazenta",
+   "number": "075/098",
+   "rarity": "Rare",
+   "marketPrice": 0.14,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628644,
+   "name": "Breloom",
+   "number": "003/098",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628647,
+   "name": "Lurantis",
+   "number": "006/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628662,
+   "name": "Heat Rotom",
+   "number": "021/098",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628690,
+   "name": "Team Rocket's Pupitar",
+   "number": "049/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.18,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628709,
+   "name": "Team Rocket's Muk",
+   "number": "068/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628654,
+   "name": "Growlithe",
+   "number": "013/098",
+   "rarity": "Common",
+   "marketPrice": 0.19,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628683,
+   "name": "Team Rocket's Mimikyu",
+   "number": "042/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.21,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628666,
+   "name": "Gorebyss",
+   "number": "025/098",
+   "rarity": "Rare",
+   "marketPrice": 0.15,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628682,
+   "name": "Team Rocket's Chingling",
+   "number": "041/098",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628705,
+   "name": "Team Rocket's Zubat",
+   "number": "064/098",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628693,
+   "name": "Probopass",
+   "number": "052/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628667,
+   "name": "Snover",
+   "number": "026/098",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628695,
+   "name": "Medicham",
+   "number": "054/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628701,
+   "name": "Team Rocket's Nidoqueen",
+   "number": "060/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628722,
+   "name": "Team Rocket's Porygon",
+   "number": "081/098",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628739,
+   "name": "Team Rocket Energy",
+   "number": "098/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628646,
+   "name": "Fomantis",
+   "number": "005/098",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628649,
+   "name": "Team Rocket's Tarountula",
+   "number": "008/098",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628668,
+   "name": "Abomasnow",
+   "number": "027/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628687,
+   "name": "Primeape",
+   "number": "046/098",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628694,
+   "name": "Meditite",
+   "number": "053/098",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628708,
+   "name": "Team Rocket's Grimer",
+   "number": "067/098",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628713,
+   "name": "Team Rocket's Sneasel",
+   "number": "072/098",
+   "rarity": "Rare",
+   "marketPrice": 0.21,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628731,
+   "name": "Team Rocket's Receiver",
+   "number": "090/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629053,
+   "name": "Team Rocket's Moltres ex",
+   "number": "112/098",
+   "rarity": "Super Rare",
+   "marketPrice": 6.61,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628707,
+   "name": "Team Rocket's Crobat ex",
+   "number": "066/098",
+   "rarity": "Double Rare",
+   "marketPrice": 0.31,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629072,
+   "name": "Team Rocket's Crobat ex",
+   "number": "131/098",
+   "rarity": "Ultra Rare",
+   "marketPrice": 11.51,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629068,
+   "name": "Team Rocket's Crobat ex",
+   "number": "127/098",
+   "rarity": "Special Art Rare",
+   "marketPrice": 52.57,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628719,
+   "name": "Team Rocket's Meowth",
+   "number": "078/098",
+   "rarity": "Common",
+   "marketPrice": 0.22,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628657,
+   "name": "Team Rocket's Houndour",
+   "number": "016/098",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628718,
+   "name": "Team Rocket's Raticate",
+   "number": "077/098",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628674,
+   "name": "Team Rocket's Zapdos",
+   "number": "033/098",
+   "rarity": "Rare",
+   "marketPrice": 0.38,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628650,
+   "name": "Team Rocket's Spidops",
+   "number": "009/098",
+   "rarity": "Rare",
+   "marketPrice": 0.17,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628678,
+   "name": "Team Rocket's Drowzee",
+   "number": "037/098",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628730,
+   "name": "Team Rocket's Surprise Bomb",
+   "number": "089/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628663,
+   "name": "Team Rocket's Articuno",
+   "number": "022/098",
+   "rarity": "Rare",
+   "marketPrice": 0.32,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628677,
+   "name": "Team Rocket's Ampharos",
+   "number": "036/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.18,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628679,
+   "name": "Team Rocket's Hypno",
+   "number": "038/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628685,
+   "name": "Team Rocket's Orbeetle",
+   "number": "044/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628700,
+   "name": "Team Rocket's Nidorina",
+   "number": "059/098",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628703,
+   "name": "Team Rocket's Nidorino",
+   "number": "062/098",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628710,
+   "name": "Team Rocket's Koffing",
+   "number": "069/098",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628734,
+   "name": "Team Rocket's Giovanni",
+   "number": "093/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628735,
+   "name": "Team Rocket's Petrel",
+   "number": "094/098",
+   "rarity": "Uncommon",
+   "marketPrice": 0.19,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629051,
+   "name": "Kangaskhan",
+   "number": "110/098",
+   "rarity": "Art Rare",
+   "marketPrice": 5.45,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629046,
+   "name": "Team Rocket's Weezing",
+   "number": "105/098",
+   "rarity": "Art Rare",
+   "marketPrice": 3.25,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628727,
+   "name": "Squawkabilly",
+   "number": "086/098",
+   "rarity": "Common",
+   "marketPrice": 0.06,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 629069,
+   "name": "Team Rocket's Ariana",
+   "number": "128/098",
+   "rarity": "Special Art Rare",
+   "marketPrice": 20.26,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628643,
+   "name": "Shroomish",
+   "number": "002/098",
+   "rarity": "Common",
+   "marketPrice": 0.19,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628661,
+   "name": "Blaziken",
+   "number": "020/098",
+   "rarity": "Rare",
+   "marketPrice": 0.22,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628664,
+   "name": "Clamperl",
+   "number": "023/098",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628715,
+   "name": "Skarmory",
+   "number": "074/098",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV10: The Glory of Team Rocket"
+  },
+  {
+   "productId": 628652,
+   "name": "Dolliv",
+   "number": "011/098",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV10: The Glory of Team Rocket"
+  }
+ ]
+}

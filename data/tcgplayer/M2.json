@@ -1,0 +1,927 @@
+{
+ "set": "M2",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 655871,
+   "name": "Ambipom",
+   "number": "092/080",
+   "rarity": "Art Rare",
+   "marketPrice": 1.33,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655885,
+   "name": "Battle Colosseum",
+   "number": "108/080",
+   "rarity": "Super Rare",
+   "marketPrice": 0.49,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655881,
+   "name": "Sacred Charm",
+   "number": "103/080",
+   "rarity": "Super Rare",
+   "marketPrice": 0.36,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655888,
+   "name": "Rotom ex",
+   "number": "112/080",
+   "rarity": "Special Art Rare",
+   "marketPrice": 10.53,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655900,
+   "name": "Ignition Energy",
+   "number": "109/080",
+   "rarity": "Super Rare",
+   "marketPrice": 0.39,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655873,
+   "name": "Mega Charizard X ex",
+   "number": "094/080",
+   "rarity": "Super Rare",
+   "marketPrice": 22.38,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655788,
+   "name": "Nymble",
+   "number": "009/080",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655836,
+   "name": "Toxtricity",
+   "number": "057/080",
+   "rarity": "Rare",
+   "marketPrice": 0.19,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655822,
+   "name": "Gligar",
+   "number": "043/080",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655787,
+   "name": "Genesect",
+   "number": "008/080",
+   "rarity": "Rare",
+   "marketPrice": 0.2,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655810,
+   "name": "Boltund",
+   "number": "031/080",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655805,
+   "name": "Suicune",
+   "number": "026/080",
+   "rarity": "Rare",
+   "marketPrice": 0.18,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655823,
+   "name": "Gliscor",
+   "number": "044/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.14,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655790,
+   "name": "Charmander",
+   "number": "011/080",
+   "rarity": "Common",
+   "marketPrice": 0.22,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655801,
+   "name": "Dewgong",
+   "number": "022/080",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655786,
+   "name": "Ludicolo",
+   "number": "007/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.08,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655835,
+   "name": "Toxel",
+   "number": "056/080",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655794,
+   "name": "Darumaka",
+   "number": "015/080",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655854,
+   "name": "Sacred Charm",
+   "number": "075/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.06,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655863,
+   "name": "Dewgong",
+   "number": "084/080",
+   "rarity": "Art Rare",
+   "marketPrice": 2.18,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655815,
+   "name": "Mismagius ex",
+   "number": "036/080",
+   "rarity": "Double Rare",
+   "marketPrice": 0.35,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655806,
+   "name": "Piplup",
+   "number": "027/080",
+   "rarity": "Common",
+   "marketPrice": 0.23,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655856,
+   "name": "Dawn",
+   "number": "077/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.14,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655783,
+   "name": "Mega Heracross ex",
+   "number": "004/080",
+   "rarity": "Double Rare",
+   "marketPrice": 0.31,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655813,
+   "name": "Pawmot",
+   "number": "034/080",
+   "rarity": "Rare",
+   "marketPrice": 0.18,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655830,
+   "name": "Mega Sharpedo ex",
+   "number": "051/080",
+   "rarity": "Double Rare",
+   "marketPrice": 0.43,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655886,
+   "name": "Mega Charizard X ex",
+   "number": "110/080",
+   "rarity": "Special Art Rare",
+   "marketPrice": 706.04,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655844,
+   "name": "Wigglytuff",
+   "number": "065/080",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655852,
+   "name": "Jumbo Ice Cream",
+   "number": "073/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.08,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655802,
+   "name": "Swinub",
+   "number": "023/080",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655780,
+   "name": "Oddish",
+   "number": "001/080",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655842,
+   "name": "Archaludon",
+   "number": "063/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.06,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655861,
+   "name": "Nymble",
+   "number": "082/080",
+   "rarity": "Art Rare",
+   "marketPrice": 1.29,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655867,
+   "name": "Flygon",
+   "number": "088/080",
+   "rarity": "Art Rare",
+   "marketPrice": 1.87,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655782,
+   "name": "Vileplume",
+   "number": "003/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655824,
+   "name": "Trapinch",
+   "number": "045/080",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655827,
+   "name": "Sneasel",
+   "number": "048/080",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 656254,
+   "name": "Switch",
+   "number": "102/080",
+   "rarity": "Promo",
+   "marketPrice": 0.47,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655804,
+   "name": "Mamoswine",
+   "number": "025/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.14,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655817,
+   "name": "Whimsicott",
+   "number": "038/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.14,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655839,
+   "name": "Bronzong",
+   "number": "060/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.06,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655876,
+   "name": "Mismagius ex",
+   "number": "097/080",
+   "rarity": "Super Rare",
+   "marketPrice": 1.29,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655883,
+   "name": "Dawn",
+   "number": "106/080",
+   "rarity": "Super Rare",
+   "marketPrice": 5.05,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655851,
+   "name": "Mega Lopunny ex",
+   "number": "072/080",
+   "rarity": "Double Rare",
+   "marketPrice": 0.4,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655841,
+   "name": "Duraludon",
+   "number": "062/080",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655843,
+   "name": "Jigglypuff",
+   "number": "064/080",
+   "rarity": "Common",
+   "marketPrice": 0.21,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655880,
+   "name": "Heat Burner",
+   "number": "101/080",
+   "rarity": "Super Rare",
+   "marketPrice": 0.36,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655797,
+   "name": "Oricorio ex",
+   "number": "018/080",
+   "rarity": "Double Rare",
+   "marketPrice": 0.3,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655798,
+   "name": "Charcadet",
+   "number": "019/080",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655799,
+   "name": "Ceruledge",
+   "number": "020/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655808,
+   "name": "Rotom ex",
+   "number": "029/080",
+   "rarity": "Double Rare",
+   "marketPrice": 0.27,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655879,
+   "name": "Mega Lopunny ex",
+   "number": "100/080",
+   "rarity": "Super Rare",
+   "marketPrice": 2.65,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655887,
+   "name": "Oricorio ex",
+   "number": "111/080",
+   "rarity": "Special Art Rare",
+   "marketPrice": 26.13,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655781,
+   "name": "Gloom",
+   "number": "002/080",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655785,
+   "name": "Lombre",
+   "number": "006/080",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655833,
+   "name": "Krokorok",
+   "number": "054/080",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655792,
+   "name": "Mega Charizard X ex",
+   "number": "013/080",
+   "rarity": "Double Rare",
+   "marketPrice": 2.61,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655800,
+   "name": "Seel",
+   "number": "021/080",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655819,
+   "name": "Bramblin",
+   "number": "040/080",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655825,
+   "name": "Vibrava",
+   "number": "046/080",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655848,
+   "name": "Zigzagoon",
+   "number": "069/080",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655864,
+   "name": "Piplup",
+   "number": "085/80",
+   "rarity": "Art Rare",
+   "marketPrice": 5.17,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655897,
+   "name": "Punk Helmet",
+   "number": "104/080",
+   "rarity": "Super Rare",
+   "marketPrice": 0.35,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655858,
+   "name": "Battle Colosseum",
+   "number": "079/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.07,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655859,
+   "name": "Dizzying Valley",
+   "number": "080/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.08,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655877,
+   "name": "Mega Sharpedo ex",
+   "number": "098/080",
+   "rarity": "Super Rare",
+   "marketPrice": 2.64,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655837,
+   "name": "Empoleon ex",
+   "number": "058/080",
+   "rarity": "Double Rare",
+   "marketPrice": 0.36,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655890,
+   "name": "Mega Lopunny ex",
+   "number": "114/080",
+   "rarity": "Special Art Rare",
+   "marketPrice": 6.75,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655889,
+   "name": "Mega Sharpedo ex",
+   "number": "113/080",
+   "rarity": "Special Art Rare",
+   "marketPrice": 12.05,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655875,
+   "name": "Rotom ex",
+   "number": "096/080",
+   "rarity": "Super Rare",
+   "marketPrice": 1.04,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655793,
+   "name": "Moltres",
+   "number": "014/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.14,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655814,
+   "name": "Misdreavus",
+   "number": "035/080",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655784,
+   "name": "Lotad",
+   "number": "005/080",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655795,
+   "name": "Darmanitan",
+   "number": "016/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.06,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655791,
+   "name": "Charmeleon",
+   "number": "012/080",
+   "rarity": "Common",
+   "marketPrice": 0.18,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655872,
+   "name": "Mega Heracross ex",
+   "number": "093/080",
+   "rarity": "Super Rare",
+   "marketPrice": 2.41,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655882,
+   "name": "Grimsley's One Move",
+   "number": "105/080",
+   "rarity": "Super Rare",
+   "marketPrice": 1.08,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655850,
+   "name": "Buneary",
+   "number": "071/080",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655831,
+   "name": "Seviper",
+   "number": "052/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.18,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655789,
+   "name": "Lokix",
+   "number": "010/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.07,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655809,
+   "name": "Yamper",
+   "number": "030/080",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655892,
+   "name": "Mega Charizard X ex",
+   "number": "116/080",
+   "rarity": "Mega Ultra Rare",
+   "marketPrice": 657.84,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655834,
+   "name": "Krookodile",
+   "number": "055/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.07,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655838,
+   "name": "Bronzor",
+   "number": "059/080",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655849,
+   "name": "Linoone",
+   "number": "070/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.07,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655803,
+   "name": "Piloswine",
+   "number": "024/080",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655821,
+   "name": "Paldean Tauros",
+   "number": "042/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655840,
+   "name": "Togedemaru",
+   "number": "061/080",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655853,
+   "name": "Heat Burner",
+   "number": "074/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655855,
+   "name": "Grimsley's One Move",
+   "number": "076/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.05,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655857,
+   "name": "Firebreather",
+   "number": "078/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.07,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655874,
+   "name": "Oricorio ex",
+   "number": "095/080",
+   "rarity": "Super Rare",
+   "marketPrice": 1.11,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655878,
+   "name": "Empoleon ex",
+   "number": "099/080",
+   "rarity": "Super Rare",
+   "marketPrice": 1.3,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655860,
+   "name": "Ludicolo",
+   "number": "081/080",
+   "rarity": "Art Rare",
+   "marketPrice": 1.13,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655862,
+   "name": "Charcadet",
+   "number": "083/080",
+   "rarity": "Art Rare",
+   "marketPrice": 1.53,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655846,
+   "name": "Ambipom",
+   "number": "067/080",
+   "rarity": "Rare",
+   "marketPrice": 0.14,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655865,
+   "name": "Yamper",
+   "number": "086/080",
+   "rarity": "Art Rare",
+   "marketPrice": 1.94,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655868,
+   "name": "Toxtricity",
+   "number": "089/080",
+   "rarity": "Art Rare",
+   "marketPrice": 1.06,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655869,
+   "name": "Togedemaru",
+   "number": "090/080",
+   "rarity": "Art Rare",
+   "marketPrice": 1.88,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655866,
+   "name": "Zacian",
+   "number": "087/080",
+   "rarity": "Art Rare",
+   "marketPrice": 1.86,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655811,
+   "name": "Pawmi",
+   "number": "032/080",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655812,
+   "name": "Pawmo",
+   "number": "033/080",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655832,
+   "name": "Sandile",
+   "number": "053/080",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655847,
+   "name": "Smeargle",
+   "number": "068/080",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655891,
+   "name": "Dawn",
+   "number": "115/080",
+   "rarity": "Special Art Rare",
+   "marketPrice": 21.36,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655845,
+   "name": "Aipom",
+   "number": "066/080",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655829,
+   "name": "Carvanha",
+   "number": "050/080",
+   "rarity": "Common",
+   "marketPrice": 0.06,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655816,
+   "name": "Cottonee",
+   "number": "037/080",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655807,
+   "name": "Prinplup",
+   "number": "028/080",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655828,
+   "name": "Weavile",
+   "number": "049/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.11,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655884,
+   "name": "Firebreather",
+   "number": "107/080",
+   "rarity": "Super Rare",
+   "marketPrice": 1.02,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655826,
+   "name": "Flygon",
+   "number": "047/080",
+   "rarity": "Rare",
+   "marketPrice": 0.32,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655818,
+   "name": "Zacian",
+   "number": "039/080",
+   "rarity": "Rare",
+   "marketPrice": 0.14,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655796,
+   "name": "Reshiram",
+   "number": "017/080",
+   "rarity": "Rare",
+   "marketPrice": 0.15,
+   "setName": "M2: Inferno X"
+  },
+  {
+   "productId": 655820,
+   "name": "Brambleghast",
+   "number": "041/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.07,
+   "setName": "M2: Inferno X"
+  }
+ ]
+}

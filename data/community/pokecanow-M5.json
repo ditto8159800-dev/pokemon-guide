@@ -1,0 +1,168 @@
+{
+ "set": "M5",
+ "source": "Pokeca-Now（フリマ実売中央値）",
+ "url": "https://pokecanow.com/articles/packs/m5/hits/",
+ "fetched": "2026-10-25",
+ "cards": [
+  {
+   "rank": 1,
+   "name": "メガダークライex",
+   "rarity": "MUR",
+   "num": "118/081",
+   "price": 21000,
+   "psa10": 74800
+  },
+  {
+   "rank": 2,
+   "name": "メガダークライex",
+   "rarity": "SAR",
+   "num": "114/081",
+   "price": 12800,
+   "psa10": 30000
+  },
+  {
+   "rank": 3,
+   "name": "ムク",
+   "rarity": "SAR",
+   "num": "117/081",
+   "price": 2700,
+   "psa10": 14000
+  },
+  {
+   "rank": 4,
+   "name": "モルペコex",
+   "rarity": "SAR",
+   "num": "115/081",
+   "price": 2200,
+   "psa10": 11000
+  },
+  {
+   "rank": 5,
+   "name": "メガゼラオラex",
+   "rarity": "SAR",
+   "num": "112/081",
+   "price": 1700,
+   "psa10": 10300
+  },
+  {
+   "rank": 6,
+   "name": "ムク",
+   "rarity": "SR",
+   "num": "111/081",
+   "price": 1400,
+   "psa10": 13500
+  },
+  {
+   "rank": 7,
+   "name": "カスミの元気",
+   "rarity": "SR",
+   "num": "108/081",
+   "price": 1300,
+   "psa10": 13900
+  },
+  {
+   "rank": 8,
+   "name": "メガシャンデラex",
+   "rarity": "SAR",
+   "num": "113/081",
+   "price": 1300,
+   "psa10": 8800
+  },
+  {
+   "rank": 9,
+   "name": "グラジオの決戦",
+   "rarity": "SAR",
+   "num": "116/081",
+   "price": 900,
+   "psa10": 6700
+  },
+  {
+   "rank": 10,
+   "name": "メガダークライex",
+   "rarity": "SR",
+   "num": "099/081",
+   "price": 600,
+   "psa10": 4300
+  },
+  {
+   "rank": 11,
+   "name": "ヤドラン",
+   "rarity": "AR",
+   "num": "087/081",
+   "price": 500,
+   "psa10": 4500
+  },
+  {
+   "rank": 12,
+   "name": "メガゼラオラex",
+   "rarity": "SR",
+   "num": "096/081",
+   "price": 500,
+   "psa10": 3300
+  },
+  {
+   "rank": 13,
+   "name": "メガシャンデラex",
+   "rarity": "SR",
+   "num": "097/081",
+   "price": 500,
+   "psa10": null
+  },
+  {
+   "rank": 14,
+   "name": "メガドリュウズex",
+   "rarity": "SR",
+   "num": "101/081",
+   "price": 400,
+   "psa10": null
+  },
+  {
+   "rank": 15,
+   "name": "エネルギーつけかえ",
+   "rarity": "SR",
+   "num": "103/081",
+   "price": 400,
+   "psa10": null
+  },
+  {
+   "rank": 16,
+   "name": "モルペコex",
+   "rarity": "SR",
+   "num": "100/081",
+   "price": 400,
+   "psa10": 7400
+  },
+  {
+   "rank": 17,
+   "name": "トサキント",
+   "rarity": "AR",
+   "num": "084/081",
+   "price": 400,
+   "psa10": 5600
+  },
+  {
+   "rank": 18,
+   "name": "グラジオの決戦",
+   "rarity": "SR",
+   "num": "109/081",
+   "price": 400,
+   "psa10": null
+  },
+  {
+   "rank": 19,
+   "name": "サビ組のしたっぱ",
+   "rarity": "SR",
+   "num": "110/081",
+   "price": 400,
+   "psa10": null
+  },
+  {
+   "rank": 20,
+   "name": "グレンアルマ",
+   "rarity": "AR",
+   "num": "083/081",
+   "price": 400,
+   "psa10": null
+  }
+ ]
+}

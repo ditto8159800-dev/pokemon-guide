@@ -1,0 +1,911 @@
+{
+ "set": "M4",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 683740,
+   "name": "Xerneas",
+   "number": "089/083",
+   "rarity": "Art Rare",
+   "marketPrice": 3.28,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683736,
+   "name": "Fennekin",
+   "number": "085/083",
+   "rarity": "Art Rare",
+   "marketPrice": 1.93,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683744,
+   "name": "Sliggoo",
+   "number": "093/083",
+   "rarity": "Art Rare",
+   "marketPrice": 1.76,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683686,
+   "name": "Mega Floette ex",
+   "number": "035/083",
+   "rarity": "Double Rare",
+   "marketPrice": 0.44,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683756,
+   "name": "Jumbo Ice Cream",
+   "number": "105/083",
+   "rarity": "Super Rare",
+   "marketPrice": 1.37,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683654,
+   "name": "Beedrill ex",
+   "number": "003/083",
+   "rarity": "Double Rare",
+   "marketPrice": 0.36,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683713,
+   "name": "Cobalion ex",
+   "number": "062/083",
+   "rarity": "Double Rare",
+   "marketPrice": 0.3,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683766,
+   "name": "Mega Floette ex",
+   "number": "115/083",
+   "rarity": "Special Art Rare",
+   "marketPrice": 11.47,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683768,
+   "name": "Cinccino ex",
+   "number": "117/083",
+   "rarity": "Special Art Rare",
+   "marketPrice": 32.14,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683750,
+   "name": "Mega Floette ex",
+   "number": "099/083",
+   "rarity": "Super Rare",
+   "marketPrice": 3.7,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683747,
+   "name": "Beedrill ex",
+   "number": "096/083",
+   "rarity": "Super Rare",
+   "marketPrice": 3.73,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683673,
+   "name": "Mega Greninja ex",
+   "number": "022/083",
+   "rarity": "Double Rare",
+   "marketPrice": 1.01,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683758,
+   "name": "Tool Scrapper",
+   "number": "107/083",
+   "rarity": "Super Rare",
+   "marketPrice": 0.58,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683753,
+   "name": "Mega Dragalge ex",
+   "number": "102/083",
+   "rarity": "Super Rare",
+   "marketPrice": 2.71,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683721,
+   "name": "Minccino",
+   "number": "070/083",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683688,
+   "name": "Meowstic",
+   "number": "037/080",
+   "rarity": "Uncommon",
+   "marketPrice": 0.19,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683693,
+   "name": "Xerneas",
+   "number": "042/083",
+   "rarity": "Rare",
+   "marketPrice": 0.29,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683702,
+   "name": "Qwilfish",
+   "number": "051/083",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683715,
+   "name": "Goomy",
+   "number": "064/083",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683707,
+   "name": "Skrelp",
+   "number": "056/083",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683668,
+   "name": "Octillery",
+   "number": "017/083",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683726,
+   "name": "AZ's Tranquility",
+   "number": "075/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683728,
+   "name": "Roxie's Performance",
+   "number": "077/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683725,
+   "name": "Book of Transformation",
+   "number": "074/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683735,
+   "name": "Chespin",
+   "number": "084/083",
+   "rarity": "Art Rare",
+   "marketPrice": 2.07,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683743,
+   "name": "Metang",
+   "number": "092/083",
+   "rarity": "Art Rare",
+   "marketPrice": 1.85,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683669,
+   "name": "Delibird",
+   "number": "018/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.14,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683761,
+   "name": "Roxie's Performance",
+   "number": "110/083",
+   "rarity": "Super Rare",
+   "marketPrice": 3.2,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683762,
+   "name": "Emma",
+   "number": "111/083",
+   "rarity": "Super Rare",
+   "marketPrice": 2.41,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683769,
+   "name": "AZ's Tranquility",
+   "number": "118/083",
+   "rarity": "Special Art Rare",
+   "marketPrice": 7.25,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683678,
+   "name": "Mareep",
+   "number": "027/083",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683680,
+   "name": "Ampharos",
+   "number": "029/083",
+   "rarity": "Rare",
+   "marketPrice": 0.47,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683704,
+   "name": "Skuntank",
+   "number": "053/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.16,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683748,
+   "name": "Mega Pyroar ex",
+   "number": "097/083",
+   "rarity": "Super Rare",
+   "marketPrice": 2.81,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683718,
+   "name": "Tauros",
+   "number": "067/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.14,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683764,
+   "name": "Prism Tower",
+   "number": "113/083",
+   "rarity": "Super Rare",
+   "marketPrice": 0.96,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683749,
+   "name": "Mega Greninja ex",
+   "number": "098/083",
+   "rarity": "Super Rare",
+   "marketPrice": 8.99,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683723,
+   "name": "Special Red Card",
+   "number": "072/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.22,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683659,
+   "name": "Vulpix",
+   "number": "008/083",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683710,
+   "name": "Metagross",
+   "number": "059/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.2,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683757,
+   "name": "Special Red Card",
+   "number": "106/083",
+   "rarity": "Super Rare",
+   "marketPrice": 0.59,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683672,
+   "name": "Frogadier",
+   "number": "021/083",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683676,
+   "name": "Wimpod",
+   "number": "025/083",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683685,
+   "name": "Deoxys",
+   "number": "034/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.19,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683712,
+   "name": "Ferrothorn",
+   "number": "061/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683734,
+   "name": "Magnet M Energy",
+   "number": "083/083",
+   "rarity": "Rare",
+   "marketPrice": 0.27,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683709,
+   "name": "Metang",
+   "number": "058/083",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683733,
+   "name": "Bubble W Energy",
+   "number": "082/083",
+   "rarity": "Rare",
+   "marketPrice": 0.31,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683675,
+   "name": "Avalugg",
+   "number": "024/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683716,
+   "name": "Sliggoo",
+   "number": "065/083",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683670,
+   "name": "Keldeo",
+   "number": "019/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683737,
+   "name": "Froakie",
+   "number": "086/083",
+   "rarity": "Art Rare",
+   "marketPrice": 3.44,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683745,
+   "name": "Tauros",
+   "number": "094/083",
+   "rarity": "Art Rare",
+   "marketPrice": 1.98,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683655,
+   "name": "Carnivine",
+   "number": "004/083",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683660,
+   "name": "Ninetales",
+   "number": "009/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.25,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683711,
+   "name": "Ferroseed",
+   "number": "060/083",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683674,
+   "name": "Bergmite",
+   "number": "023/083",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683682,
+   "name": "Deoxys",
+   "number": "031/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.2,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683729,
+   "name": "Emma",
+   "number": "078/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.17,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683722,
+   "name": "Cinccino ex",
+   "number": "071/083",
+   "rarity": "Double Rare",
+   "marketPrice": 0.42,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683754,
+   "name": "Cinccino ex",
+   "number": "103/083",
+   "rarity": "Super Rare",
+   "marketPrice": 5,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683732,
+   "name": "Nitro R Energy",
+   "number": "081/083",
+   "rarity": "Rare",
+   "marketPrice": 0.44,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683755,
+   "name": "Energy Retrieval",
+   "number": "104/083",
+   "rarity": "Super Rare",
+   "marketPrice": 0.59,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683751,
+   "name": "Gourgeist ex",
+   "number": "100/083",
+   "rarity": "Super Rare",
+   "marketPrice": 2.45,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683661,
+   "name": "Ho-Oh",
+   "number": "010/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.19,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683699,
+   "name": "Zubat",
+   "number": "048/083",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683667,
+   "name": "Remoraid",
+   "number": "016/083",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683763,
+   "name": "Surfing Beach",
+   "number": "112/083",
+   "rarity": "Super Rare",
+   "marketPrice": 1.86,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683741,
+   "name": "Claydol",
+   "number": "090/083",
+   "rarity": "Art Rare",
+   "marketPrice": 1.93,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683767,
+   "name": "Mega Dragalge ex",
+   "number": "116/083",
+   "rarity": "Special Art Rare",
+   "marketPrice": 11.63,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683742,
+   "name": "Crobat",
+   "number": "091/083",
+   "rarity": "Art Rare",
+   "marketPrice": 1.74,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683683,
+   "name": "Deoxys",
+   "number": "032/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.18,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683690,
+   "name": "Trevenant",
+   "number": "039/083",
+   "rarity": "Rare",
+   "marketPrice": 0.16,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683746,
+   "name": "Watchog",
+   "number": "095/083",
+   "rarity": "Art Rare",
+   "marketPrice": 1.11,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683739,
+   "name": "Ampharos",
+   "number": "088/083",
+   "rarity": "Art Rare",
+   "marketPrice": 2.63,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683666,
+   "name": "Mega Pyroar ex",
+   "number": "015/083",
+   "rarity": "Double Rare",
+   "marketPrice": 0.49,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683692,
+   "name": "Gourgeist ex",
+   "number": "041/083",
+   "rarity": "Double Rare",
+   "marketPrice": 0.33,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683759,
+   "name": "AZ's Tranquility",
+   "number": "108/083",
+   "rarity": "Super Rare",
+   "marketPrice": 1.92,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683694,
+   "name": "Sudowoodo",
+   "number": "043/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683771,
+   "name": "Mega Greninja ex",
+   "number": "120/083",
+   "rarity": "Mega Ultra Rare",
+   "marketPrice": 432.49,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683657,
+   "name": "Quilladin",
+   "number": "006/083",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683662,
+   "name": "Fennekin",
+   "number": "011/083",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683677,
+   "name": "Golisopod",
+   "number": "026/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.21,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683731,
+   "name": "Prism Tower",
+   "number": "080/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.24,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683696,
+   "name": "Donphan",
+   "number": "045/083",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683703,
+   "name": "Stunky",
+   "number": "052/083",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683727,
+   "name": "Philippe",
+   "number": "076/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.14,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683752,
+   "name": "Cobalion ex",
+   "number": "101/083",
+   "rarity": "Super Rare",
+   "marketPrice": 3.35,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683714,
+   "name": "Mega Dragalge ex",
+   "number": "063/083",
+   "rarity": "Double Rare",
+   "marketPrice": 0.37,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683765,
+   "name": "Mega Greninja ex",
+   "number": "114/083",
+   "rarity": "Special Art Rare",
+   "marketPrice": 224.57,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683653,
+   "name": "Kakuna",
+   "number": "002/083",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683760,
+   "name": "Philippe",
+   "number": "109/083",
+   "rarity": "Super Rare",
+   "marketPrice": 2.17,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683658,
+   "name": "Chesnaught",
+   "number": "007/083",
+   "rarity": "Rare",
+   "marketPrice": 0.3,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683664,
+   "name": "Delphox",
+   "number": "013/083",
+   "rarity": "Rare",
+   "marketPrice": 0.22,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683671,
+   "name": "Froakie",
+   "number": "020/083",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683684,
+   "name": "Deoxys",
+   "number": "033/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.2,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683695,
+   "name": "Phanpy",
+   "number": "044/083",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683701,
+   "name": "Crobat",
+   "number": "050/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683665,
+   "name": "Litleo",
+   "number": "014/083",
+   "rarity": "Common",
+   "marketPrice": 0.17,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683687,
+   "name": "Espurr",
+   "number": "036/083",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683689,
+   "name": "Phantump",
+   "number": "038/083",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683691,
+   "name": "Pumpkaboo",
+   "number": "040/083",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683706,
+   "name": "Garbodor",
+   "number": "055/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.1,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683720,
+   "name": "Watchog",
+   "number": "069/083",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683652,
+   "name": "Weedle",
+   "number": "001/083",
+   "rarity": "Common",
+   "marketPrice": 0.14,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683697,
+   "name": "Baltoy",
+   "number": "046/083",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683705,
+   "name": "Trubbish",
+   "number": "054/083",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683717,
+   "name": "Goodra",
+   "number": "066/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.13,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683656,
+   "name": "Chespin",
+   "number": "005/083",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683681,
+   "name": "Emolga",
+   "number": "030/083",
+   "rarity": "Common",
+   "marketPrice": 0.19,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683700,
+   "name": "Golbat",
+   "number": "049/083",
+   "rarity": "Common",
+   "marketPrice": 0.13,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683724,
+   "name": "Big Haul Net",
+   "number": "073/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "M4: Ninja Spinner"
+  },
+  {
+   "productId": 683730,
+   "name": "Ange Floette",
+   "number": "079/083",
+   "rarity": "Uncommon",
+   "marketPrice": 0.14,
+   "setName": "M4: Ninja Spinner"
+  }
+ ]
+}

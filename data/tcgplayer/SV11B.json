@@ -1,0 +1,1319 @@
+{
+ "set": "SV11B",
+ "fetched": "2026-10-25",
+ "source": "TCGplayer",
+ "cards": [
+  {
+   "productId": 636506,
+   "name": "Haxorus",
+   "number": "152/086",
+   "rarity": "Art Rare",
+   "marketPrice": 12,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636475,
+   "name": "Munna",
+   "number": "121/086",
+   "rarity": "Art Rare",
+   "marketPrice": 9.9,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636423,
+   "name": "Genesect ex",
+   "number": "069/086",
+   "rarity": "Double Rare",
+   "marketPrice": 0.31,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636507,
+   "name": "Pidove",
+   "number": "153/086",
+   "rarity": "Art Rare",
+   "marketPrice": 18.51,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636497,
+   "name": "Krookodile",
+   "number": "143/086",
+   "rarity": "Art Rare",
+   "marketPrice": 11.14,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636458,
+   "name": "Volcarona",
+   "number": "104/086",
+   "rarity": "Art Rare",
+   "marketPrice": 13.8,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636478,
+   "name": "Duosion",
+   "number": "124/086",
+   "rarity": "Art Rare",
+   "marketPrice": 9.13,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636494,
+   "name": "Scolipede",
+   "number": "140/086",
+   "rarity": "Art Rare",
+   "marketPrice": 9.33,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636491,
+   "name": "Landorus",
+   "number": "137/086",
+   "rarity": "Art Rare",
+   "marketPrice": 6.9,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636509,
+   "name": "Unfezant",
+   "number": "155/086",
+   "rarity": "Art Rare",
+   "marketPrice": 11.17,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636444,
+   "name": "Simisage",
+   "number": "090/086",
+   "rarity": "Art Rare",
+   "marketPrice": 6.06,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636455,
+   "name": "Lampent",
+   "number": "101/086",
+   "rarity": "Art Rare",
+   "marketPrice": 10.83,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636482,
+   "name": "Golett",
+   "number": "128/086",
+   "rarity": "Art Rare",
+   "marketPrice": 4.63,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636487,
+   "name": "Conkeldurr",
+   "number": "133/086",
+   "rarity": "Art Rare",
+   "marketPrice": 9.29,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636467,
+   "name": "Cubchoo",
+   "number": "113/086",
+   "rarity": "Art Rare",
+   "marketPrice": 10.57,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636492,
+   "name": "Venipede",
+   "number": "138/086",
+   "rarity": "Art Rare",
+   "marketPrice": 6.78,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636511,
+   "name": "Minccino",
+   "number": "157/086",
+   "rarity": "Art Rare",
+   "marketPrice": 15.29,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636474,
+   "name": "Thundurus",
+   "number": "120/086",
+   "rarity": "Art Rare",
+   "marketPrice": 2.62,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636520,
+   "name": "Fennel",
+   "number": "166/086",
+   "rarity": "Super Rare",
+   "marketPrice": 0.97,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637163,
+   "name": "Cinccino",
+   "number": "078/086",
+   "rarity": "Uncommon",
+   "marketPrice": 3.53,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636489,
+   "name": "Dwebble",
+   "number": "135/086",
+   "rarity": "Art Rare",
+   "marketPrice": 20.89,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636526,
+   "name": "Genesect ex",
+   "number": "172/086",
+   "rarity": "Special Art Rare",
+   "marketPrice": 23.57,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636460,
+   "name": "Simipour",
+   "number": "106/086",
+   "rarity": "Art Rare",
+   "marketPrice": 6.66,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637105,
+   "name": "Litwick",
+   "number": "015/086",
+   "rarity": "Common",
+   "marketPrice": 3.61,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636456,
+   "name": "Chandelure",
+   "number": "102/086",
+   "rarity": "Art Rare",
+   "marketPrice": 15.53,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636403,
+   "name": "Excadrill ex",
+   "number": "049/086",
+   "rarity": "Double Rare",
+   "marketPrice": 0.23,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636401,
+   "name": "Meloetta ex",
+   "number": "047/086",
+   "rarity": "Double Rare",
+   "marketPrice": 0.3,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636459,
+   "name": "Panpour",
+   "number": "105/086",
+   "rarity": "Art Rare",
+   "marketPrice": 6.65,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636450,
+   "name": "Amoonguss",
+   "number": "096/086",
+   "rarity": "Art Rare",
+   "marketPrice": 10.05,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636448,
+   "name": "Karrablast",
+   "number": "094/086",
+   "rarity": "Art Rare",
+   "marketPrice": 10.17,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636503,
+   "name": "Cobalion",
+   "number": "149/086",
+   "rarity": "Art Rare",
+   "marketPrice": 8.97,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636510,
+   "name": "Audino",
+   "number": "156/086",
+   "rarity": "Art Rare",
+   "marketPrice": 13.03,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636462,
+   "name": "Palpitoad",
+   "number": "108/086",
+   "rarity": "Art Rare",
+   "marketPrice": 5.64,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636477,
+   "name": "Solosis",
+   "number": "123/086",
+   "rarity": "Art Rare",
+   "marketPrice": 20.83,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636443,
+   "name": "Pansage",
+   "number": "089/086",
+   "rarity": "Art Rare",
+   "marketPrice": 9.12,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636469,
+   "name": "Cryogonal",
+   "number": "115/086",
+   "rarity": "Art Rare",
+   "marketPrice": 4.56,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636447,
+   "name": "Maractus",
+   "number": "093/086",
+   "rarity": "Art Rare",
+   "marketPrice": 3.16,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636483,
+   "name": "Golurk",
+   "number": "129/086",
+   "rarity": "Art Rare",
+   "marketPrice": 7.33,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636499,
+   "name": "Mandibuzz",
+   "number": "145/086",
+   "rarity": "Art Rare",
+   "marketPrice": 4.97,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636490,
+   "name": "Crustle",
+   "number": "136/086",
+   "rarity": "Art Rare",
+   "marketPrice": 3.57,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636461,
+   "name": "Tympole",
+   "number": "107/086",
+   "rarity": "Art Rare",
+   "marketPrice": 10.87,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636485,
+   "name": "Timburr",
+   "number": "131/086",
+   "rarity": "Art Rare",
+   "marketPrice": 5.75,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637228,
+   "name": "Fraxure",
+   "number": "071/086",
+   "rarity": "Common",
+   "marketPrice": 0.24,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637221,
+   "name": "Vullaby",
+   "number": "063/086",
+   "rarity": "Common",
+   "marketPrice": 0.22,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637096,
+   "name": "Petilil",
+   "number": "006/086",
+   "rarity": "Common",
+   "marketPrice": 2.76,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637104,
+   "name": "Darmanitan",
+   "number": "014/086",
+   "rarity": "Uncommon",
+   "marketPrice": 2.5,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637114,
+   "name": "Seismitoad",
+   "number": "024/086",
+   "rarity": "Uncommon",
+   "marketPrice": 7.04,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636392,
+   "name": "Munna",
+   "number": "038/086",
+   "rarity": "Common",
+   "marketPrice": 0.16,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636396,
+   "name": "Reuniclus",
+   "number": "042/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.15,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636433,
+   "name": "Energy Coin",
+   "number": "079/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.12,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637143,
+   "name": "Venipede",
+   "number": "057/086",
+   "rarity": "Common",
+   "marketPrice": 2.84,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637160,
+   "name": "Unfezant",
+   "number": "075/086",
+   "rarity": "Uncommon",
+   "marketPrice": 5.07,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637161,
+   "name": "Audino",
+   "number": "076/086",
+   "rarity": "Common",
+   "marketPrice": 3.57,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637172,
+   "name": "Foongus",
+   "number": "010/086",
+   "rarity": "Common",
+   "marketPrice": 0.31,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637204,
+   "name": "Beheeyem",
+   "number": "044/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.32,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637214,
+   "name": "Landorus",
+   "number": "056/086",
+   "rarity": "Rare",
+   "marketPrice": 0.35,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637152,
+   "name": "Pawniard",
+   "number": "066/086",
+   "rarity": "Common",
+   "marketPrice": 3.31,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637166,
+   "name": "Pansage",
+   "number": "004/086",
+   "rarity": "Common",
+   "marketPrice": 0.27,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637179,
+   "name": "Chandelure",
+   "number": "017/086",
+   "rarity": "Rare",
+   "marketPrice": 0.57,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637215,
+   "name": "Venipede",
+   "number": "057/086",
+   "rarity": "Common",
+   "marketPrice": 0.28,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637223,
+   "name": "Escavalier",
+   "number": "065/086",
+   "rarity": "Common",
+   "marketPrice": 0.32,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637226,
+   "name": "Cobalion",
+   "number": "068/086",
+   "rarity": "Rare",
+   "marketPrice": 0.38,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636515,
+   "name": "Zekrom ex",
+   "number": "161/086",
+   "rarity": "Super Rare",
+   "marketPrice": 3.86,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636391,
+   "name": "Zekrom ex",
+   "number": "037/086",
+   "rarity": "Double Rare",
+   "marketPrice": 0.41,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636514,
+   "name": "Kyurem ex",
+   "number": "160/086",
+   "rarity": "Super Rare",
+   "marketPrice": 1.21,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637115,
+   "name": "Tirtouga",
+   "number": "025/086",
+   "rarity": "Uncommon",
+   "marketPrice": 1.66,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636513,
+   "name": "Serperior ex",
+   "number": "159/086",
+   "rarity": "Super Rare",
+   "marketPrice": 1.27,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636473,
+   "name": "Eelektross",
+   "number": "119/086",
+   "rarity": "Art Rare",
+   "marketPrice": 6.81,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637110,
+   "name": "Panpour",
+   "number": "020/086",
+   "rarity": "Common",
+   "marketPrice": 3.43,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636357,
+   "name": "Serperior ex",
+   "number": "003/086",
+   "rarity": "Double Rare",
+   "marketPrice": 0.29,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637092,
+   "name": "Snivy",
+   "number": "001/086",
+   "rarity": "Common",
+   "marketPrice": 3.81,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636500,
+   "name": "Escavalier",
+   "number": "146/086",
+   "rarity": "Art Rare",
+   "marketPrice": 5.86,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636524,
+   "name": "Meloetta ex",
+   "number": "170/086",
+   "rarity": "Special Art Rare",
+   "marketPrice": 27.94,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636442,
+   "name": "Servine",
+   "number": "088/086",
+   "rarity": "Art Rare",
+   "marketPrice": 12.29,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636464,
+   "name": "Tirtouga",
+   "number": "110/086",
+   "rarity": "Art Rare",
+   "marketPrice": 15.26,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637225,
+   "name": "Bisharp",
+   "number": "067/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.35,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636372,
+   "name": "Larvesta",
+   "number": "018/086",
+   "rarity": "Common",
+   "marketPrice": 0.12,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637212,
+   "name": "Dwebble",
+   "number": "054/086",
+   "rarity": "Common",
+   "marketPrice": 0.23,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637170,
+   "name": "Maractus",
+   "number": "008/086",
+   "rarity": "Common",
+   "marketPrice": 0.28,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637232,
+   "name": "Unfezant",
+   "number": "075/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.28,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636457,
+   "name": "Larvesta",
+   "number": "103/086",
+   "rarity": "Art Rare",
+   "marketPrice": 6.53,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636481,
+   "name": "Beheeyem",
+   "number": "127/086",
+   "rarity": "Art Rare",
+   "marketPrice": 4.44,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636525,
+   "name": "Excadrill ex",
+   "number": "171/086",
+   "rarity": "Special Art Rare",
+   "marketPrice": 11.88,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636374,
+   "name": "Panpour",
+   "number": "020/086",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636394,
+   "name": "Solosis",
+   "number": "040/086",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637121,
+   "name": "Emolga",
+   "number": "032/086",
+   "rarity": "Common",
+   "marketPrice": 3.01,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637150,
+   "name": "Mandibuzz",
+   "number": "064/086",
+   "rarity": "Uncommon",
+   "marketPrice": 3.59,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637157,
+   "name": "Haxorus",
+   "number": "072/086",
+   "rarity": "Rare",
+   "marketPrice": 4.5,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636521,
+   "name": "Serperior ex",
+   "number": "167/086",
+   "rarity": "Special Art Rare",
+   "marketPrice": 39.48,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636385,
+   "name": "Kyurem ex",
+   "number": "031/086",
+   "rarity": "Double Rare",
+   "marketPrice": 0.32,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636517,
+   "name": "Excadrill ex",
+   "number": "163/086",
+   "rarity": "Super Rare",
+   "marketPrice": 0.57,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636516,
+   "name": "Meloetta ex",
+   "number": "162/086",
+   "rarity": "Super Rare",
+   "marketPrice": 1.41,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636522,
+   "name": "Kyurem ex",
+   "number": "168/086",
+   "rarity": "Special Art Rare",
+   "marketPrice": 42.01,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636518,
+   "name": "Genesect ex",
+   "number": "164/086",
+   "rarity": "Super Rare",
+   "marketPrice": 1.06,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636523,
+   "name": "Zekrom ex",
+   "number": "169/086",
+   "rarity": "Special Art Rare",
+   "marketPrice": 182.8,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636528,
+   "name": "Zekrom ex",
+   "number": "174/086",
+   "rarity": "Black White Rare",
+   "marketPrice": 305.86,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636504,
+   "name": "Axew",
+   "number": "150/086",
+   "rarity": "Art Rare",
+   "marketPrice": 12.74,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636466,
+   "name": "Alomomola",
+   "number": "112/086",
+   "rarity": "Art Rare",
+   "marketPrice": 6.16,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636484,
+   "name": "Drilbur",
+   "number": "130/086",
+   "rarity": "Art Rare",
+   "marketPrice": 3.26,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636508,
+   "name": "Tranquill",
+   "number": "154/086",
+   "rarity": "Art Rare",
+   "marketPrice": 4,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636495,
+   "name": "Sandile",
+   "number": "141/086",
+   "rarity": "Art Rare",
+   "marketPrice": 6.09,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637165,
+   "name": "Servine",
+   "number": "002/086",
+   "rarity": "Common",
+   "marketPrice": 0.33,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636431,
+   "name": "Minccino",
+   "number": "077/086",
+   "rarity": "Common",
+   "marketPrice": 0.15,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637102,
+   "name": "Victini",
+   "number": "012/086",
+   "rarity": "Rare",
+   "marketPrice": 8.63,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637130,
+   "name": "Reuniclus",
+   "number": "042/086",
+   "rarity": "Uncommon",
+   "marketPrice": 2.45,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637133,
+   "name": "Golett",
+   "number": "045/086",
+   "rarity": "Common",
+   "marketPrice": 4.55,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636512,
+   "name": "Cinccino",
+   "number": "158/086",
+   "rarity": "Art Rare",
+   "marketPrice": 14.86,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 645989,
+   "name": "Antique Cover Fossil (Poke Ball Pattern)",
+   "number": "080/086",
+   "rarity": "Common",
+   "marketPrice": 0.61,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636377,
+   "name": "Palpitoad",
+   "number": "023/086",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636402,
+   "name": "Drilbur",
+   "number": "048/086",
+   "rarity": "Common",
+   "marketPrice": 0.07,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636406,
+   "name": "Conkeldurr",
+   "number": "052/086",
+   "rarity": "Rare",
+   "marketPrice": 0.14,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636434,
+   "name": "Antique Cover Fossil",
+   "number": "080/086",
+   "rarity": "Common",
+   "marketPrice": 0.04,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637094,
+   "name": "Pansage",
+   "number": "004/086",
+   "rarity": "Common",
+   "marketPrice": 4.2,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637141,
+   "name": "Crustle",
+   "number": "055/086",
+   "rarity": "Uncommon",
+   "marketPrice": 2.3,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637146,
+   "name": "Sandile",
+   "number": "060/086",
+   "rarity": "Common",
+   "marketPrice": 3.8,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637183,
+   "name": "Simipour",
+   "number": "021/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.26,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637216,
+   "name": "Whirlipede",
+   "number": "058/086",
+   "rarity": "Common",
+   "marketPrice": 0.37,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637224,
+   "name": "Pawniard",
+   "number": "066/086",
+   "rarity": "Common",
+   "marketPrice": 0.25,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637209,
+   "name": "Gurdurr",
+   "number": "051/086",
+   "rarity": "Common",
+   "marketPrice": 0.31,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 638060,
+   "name": "Air Balloon (Poke Ball Pattern)",
+   "number": "082/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.36,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636439,
+   "name": "Fennel",
+   "number": "085/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636412,
+   "name": "Whirlipede",
+   "number": "058/086",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636425,
+   "name": "Fraxure",
+   "number": "071/086",
+   "rarity": "Common",
+   "marketPrice": 0.08,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637098,
+   "name": "Maractus",
+   "number": "008/086",
+   "rarity": "Common",
+   "marketPrice": 3.07,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636390,
+   "name": "Thundurus",
+   "number": "036/086",
+   "rarity": "Rare",
+   "marketPrice": 0.12,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636410,
+   "name": "Landorus",
+   "number": "056/086",
+   "rarity": "Rare",
+   "marketPrice": 0.15,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636415,
+   "name": "Krokorok",
+   "number": "061/086",
+   "rarity": "Common",
+   "marketPrice": 0.1,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637154,
+   "name": "Cobalion",
+   "number": "068/086",
+   "rarity": "Rare",
+   "marketPrice": 4.39,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637158,
+   "name": "Pidove",
+   "number": "073/086",
+   "rarity": "Common",
+   "marketPrice": 1.25,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636382,
+   "name": "Cubchoo",
+   "number": "028/086",
+   "rarity": "Common",
+   "marketPrice": 0.19,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637140,
+   "name": "Dwebble",
+   "number": "054/086",
+   "rarity": "Common",
+   "marketPrice": 3.48,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637180,
+   "name": "Larvesta",
+   "number": "018/086",
+   "rarity": "Common",
+   "marketPrice": 0.3,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637191,
+   "name": "Beartic",
+   "number": "029/086",
+   "rarity": "Rare",
+   "marketPrice": 0.61,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637227,
+   "name": "Axew",
+   "number": "070/086",
+   "rarity": "Common",
+   "marketPrice": 0.25,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637108,
+   "name": "Larvesta",
+   "number": "018/086",
+   "rarity": "Common",
+   "marketPrice": 2.64,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637201,
+   "name": "Duosion",
+   "number": "041/086",
+   "rarity": "Common",
+   "marketPrice": 0.36,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637222,
+   "name": "Mandibuzz",
+   "number": "064/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.24,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637100,
+   "name": "Foongus",
+   "number": "010/086",
+   "rarity": "Common",
+   "marketPrice": 4.57,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637116,
+   "name": "Carracosta",
+   "number": "026/086",
+   "rarity": "Rare",
+   "marketPrice": 3.26,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636397,
+   "name": "Elgyem",
+   "number": "043/086",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636519,
+   "name": "N's Plot",
+   "number": "165/086",
+   "rarity": "Super Rare",
+   "marketPrice": 4.4,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637162,
+   "name": "Minccino",
+   "number": "077/086",
+   "rarity": "Common",
+   "marketPrice": 2.92,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636476,
+   "name": "Musharna",
+   "number": "122/086",
+   "rarity": "Art Rare",
+   "marketPrice": 6.08,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636417,
+   "name": "Vullaby",
+   "number": "063/086",
+   "rarity": "Common",
+   "marketPrice": 0.11,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637164,
+   "name": "Snivy",
+   "number": "001/086",
+   "rarity": "Common",
+   "marketPrice": 0.28,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636378,
+   "name": "Seismitoad",
+   "number": "024/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636386,
+   "name": "Emolga",
+   "number": "032/086",
+   "rarity": "Common",
+   "marketPrice": 0.09,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637205,
+   "name": "Golett",
+   "number": "045/086",
+   "rarity": "Common",
+   "marketPrice": 0.33,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637111,
+   "name": "Simipour",
+   "number": "021/086",
+   "rarity": "Uncommon",
+   "marketPrice": 2.35,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637145,
+   "name": "Scolipede",
+   "number": "059/086",
+   "rarity": "Uncommon",
+   "marketPrice": 3.69,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637182,
+   "name": "Panpour",
+   "number": "020/086",
+   "rarity": "Common",
+   "marketPrice": 0.36,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637192,
+   "name": "Cryogonal",
+   "number": "030/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.49,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 638061,
+   "name": "Professor's Research (Poke Ball Pattern)",
+   "number": "084/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.3,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 645990,
+   "name": "Pokegear 3.0 (Poke Ball Pattern)",
+   "number": "081/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.78,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 642817,
+   "name": "Fennel",
+   "number": "085/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.36,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636436,
+   "name": "Air Balloon",
+   "number": "082/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.09,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636496,
+   "name": "Krokorok",
+   "number": "142/086",
+   "rarity": "Art Rare",
+   "marketPrice": 4.36,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636498,
+   "name": "Vullaby",
+   "number": "144/086",
+   "rarity": "Art Rare",
+   "marketPrice": 4.23,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637103,
+   "name": "Darumaka",
+   "number": "013/086",
+   "rarity": "Common",
+   "marketPrice": 3.17,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 637125,
+   "name": "Thundurus",
+   "number": "036/086",
+   "rarity": "Rare",
+   "marketPrice": 1.45,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636407,
+   "name": "Throh",
+   "number": "053/086",
+   "rarity": "Uncommon",
+   "marketPrice": 0.05,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636501,
+   "name": "Pawniard",
+   "number": "147/086",
+   "rarity": "Art Rare",
+   "marketPrice": 4.84,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636505,
+   "name": "Fraxure",
+   "number": "151/086",
+   "rarity": "Art Rare",
+   "marketPrice": 8.24,
+   "setName": "SV11B: Black Bolt"
+  },
+  {
+   "productId": 636479,
+   "name": "Reuniclus",
+   "number": "125/086",
+   "rarity": "Art Rare",
+   "marketPrice": 4.31,
+   "setName": "SV11B: Black Bolt"
+  }
+ ]
+}

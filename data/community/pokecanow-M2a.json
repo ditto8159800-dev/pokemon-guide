@@ -1,0 +1,168 @@
+{
+ "set": "M2a",
+ "source": "Pokeca-Now（フリマ実売中央値）",
+ "url": "https://pokecanow.com/articles/packs/m2a/hits/",
+ "fetched": "2026-10-25",
+ "cards": [
+  {
+   "rank": 1,
+   "name": "メガゲンガーex",
+   "rarity": "SAR",
+   "num": "240/193",
+   "price": 31600,
+   "psa10": 58500
+  },
+  {
+   "rank": 2,
+   "name": "ピカチュウex",
+   "rarity": "SAR",
+   "num": "234/193",
+   "price": 18500,
+   "psa10": 42000
+  },
+  {
+   "rank": 3,
+   "name": "メガカイリューex",
+   "rarity": "MUR",
+   "num": "250/193",
+   "price": 16800,
+   "psa10": 60500
+  },
+  {
+   "rank": 4,
+   "name": "メガカイリューex",
+   "rarity": "SAR",
+   "num": "246/193",
+   "price": 15000,
+   "psa10": 30900
+  },
+  {
+   "rank": 5,
+   "name": "ロケット団のミュウツーex",
+   "rarity": "SAR",
+   "num": "237/193",
+   "price": 8800,
+   "psa10": 21700
+  },
+  {
+   "rank": 6,
+   "name": "Nのゾロアークex",
+   "rarity": "SAR",
+   "num": "242/193",
+   "price": 5000,
+   "psa10": 10000
+  },
+  {
+   "rank": 7,
+   "name": "メガリザードンXex",
+   "rarity": "MA",
+   "num": "223/193",
+   "price": 3300,
+   "psa10": 10000
+  },
+  {
+   "rank": 8,
+   "name": "ナンジャモのハラバリーex",
+   "rarity": "SAR",
+   "num": "236/193",
+   "price": 2500,
+   "psa10": 6900
+  },
+  {
+   "rank": 9,
+   "name": "ダイゴのメタグロスex",
+   "rarity": "SAR",
+   "num": "245/193",
+   "price": 2500,
+   "psa10": 7000
+  },
+  {
+   "rank": 10,
+   "name": "マリィのオーロンゲex",
+   "rarity": "SAR",
+   "num": "243/193",
+   "price": 2400,
+   "psa10": 6500
+  },
+  {
+   "rank": 11,
+   "name": "カナリィ",
+   "rarity": "SAR",
+   "num": "248/193",
+   "price": 2300,
+   "psa10": 9000
+  },
+  {
+   "rank": 12,
+   "name": "メガゲンガーex",
+   "rarity": "MA",
+   "num": "230/193",
+   "price": 1800,
+   "psa10": 8900
+  },
+  {
+   "rank": 13,
+   "name": "メガユキメノコex",
+   "rarity": "SAR",
+   "num": "233/193",
+   "price": 1800,
+   "psa10": 5700
+  },
+  {
+   "rank": 14,
+   "name": "メガディアンシーex",
+   "rarity": "SAR",
+   "num": "238/193",
+   "price": 1700,
+   "psa10": 5500
+  },
+  {
+   "rank": 15,
+   "name": "キチキギスex",
+   "rarity": "SAR",
+   "num": "244/193",
+   "price": 1400,
+   "psa10": 5200
+  },
+  {
+   "rank": 16,
+   "name": "アイリスの闘志",
+   "rarity": "SAR",
+   "num": "247/193",
+   "price": 1400,
+   "psa10": 6200
+  },
+  {
+   "rank": 17,
+   "name": "コダック",
+   "rarity": "AR",
+   "num": "199/193",
+   "price": 1200,
+   "psa10": 7300
+  },
+  {
+   "rank": 18,
+   "name": "メガカイリューex",
+   "rarity": "MA",
+   "num": "232/193",
+   "price": 1000,
+   "psa10": 5100
+  },
+  {
+   "rank": 19,
+   "name": "メガルチャブルex",
+   "rarity": "SAR",
+   "num": "239/193",
+   "price": 1000,
+   "psa10": 5200
+  },
+  {
+   "rank": 20,
+   "name": "カナリィ",
+   "rarity": "SR",
+   "num": "219/193",
+   "price": 900,
+   "psa10": 6600
+  }
+ ]
+}
