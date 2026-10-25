@@ -27,7 +27,7 @@ document.querySelectorAll('[data-l]').forEach(b=>b.onclick=()=>{const l=b.datase
 const p=new URLSearchParams(location.search);if(p.get('era'))eraSel.value=p.get('era');
 function card(s){
   const names=Object.entries(s.names).filter(([l])=>l!==s.lang).map(([l,n])=>`${LANG_ZH[l]}：${esc(n)}`).join('<br>');
-  const img=s.logo||s.symbol;
+  const img=s.logo||s.symbol||s.thumb;
   return `<a class="set" href="set.html?k=${encodeURIComponent(s.key)}">
    <div class="img">${img?imgTag(img,s.name):`<div class="ph">${esc(s.name)}<br>（暫無圖片）</div>`}</div>
    <div class="badges"><span class="b ${s.lang}">${LANG_ZH[s.lang]}</span>${s.status==='full'?'<span class="b full">完整介紹</span>':(s.v1?'<span class="b todo">資料待確認</span>':'<span class="b todo">待補充</span>')}${s.upcoming?'<span class="b up">即將發售</span>':''}</div>

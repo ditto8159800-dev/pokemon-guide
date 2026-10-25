@@ -12,7 +12,7 @@ else{
   const links=s.links.map(k=>byKey[k]).filter(Boolean);
   const nameRow=l=>s.names[l]?esc(s.names[l]):'<span class="muted">—（無此語言版本或未對應）</span>';
   let h=`<p class="small"><a href="index.html">← 卡盒總覽</a> / <a href="index.html?era=${s.era}">${eraName[s.era]}</a></p>
-  <div class="detail-head"><div class="logo">${imgTag(s.logo||s.symbol,s.name)}</div>
+  <div class="detail-head"><div class="logo">${imgTag(s.logo||s.symbol||s.thumb,s.name)}</div>
   <div><h1>${esc(s.name)}</h1><div class="badges"><span class="b ${s.lang}">${LANG_ZH[s.lang]}</span>${s.status==='full'?'<span class="b full">完整介紹</span>':'<span class="b todo">'+(s.v1?'資料待確認':'待補充')+'</span>'}${s.upcoming?'<span class="b up">即將發售</span>':''}</div>
   <div class="muted small">${s.translated?'英譯：'+esc(s.translated)+' · ':''}代號 ${esc(s.id)} · 資料來源 ${esc(s.src)}</div></div></div>
   <div class="panel"><table class="kv">

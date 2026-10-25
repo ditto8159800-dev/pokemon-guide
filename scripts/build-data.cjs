@@ -180,6 +180,14 @@ for(const s of [...sets].sort((a,b)=>order.indexOf(a.lang)-order.indexOf(b.lang)
   if(s.upcoming) s.notes.push('尚未發售（依 Bulbapedia 公布的預定日期），資料可能變動。');
   if(s.status==='full')full++;
 }
+// ---- thumbnail fallback: no logo/symbol -> top chase card image, else first card image in the set ----
+for(const s of sets){
+  if(s.logo||s.symbol) continue;
+  const c=(s.chase||[]).find(c=>c.img);
+  if(c){s.thumb=c.img;continue;}
+  const first=(s._cards||[]).map(id=>cards[s.lang][id]).find(x=>x&&x.i);
+  if(first) s.thumb=first.i+'/low.webp';
+}
 // ---- intros ----
 const eraLabel=Object.fromEntries(ERA);
 const fmtDate=d=>d?`${+d.slice(0,4)} 年 ${+d.slice(5,7)} 月 ${+d.slice(8,10)} 日`:'（日期待確認）';
@@ -194,7 +202,7 @@ for(const s of sets){
   s.introAuto=parts.join('');
   s.intro=curated[s.key]?.intro||null;
   if(!s.v1) s.todo='歷史介紹與大獎卡待補充（後續批次）。';
-  delete s.cards;
+  delete s.cards; delete s._cards;
 }
 // language availability: own + linked
 for(const s of sets){s.editions=[...new Set([s.lang,...s.links.filter(k=>!s.partialLinks.includes(k)),...s.hopLinks].map(k=>k.split(':')[0]))];}
