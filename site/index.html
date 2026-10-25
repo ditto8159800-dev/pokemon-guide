@@ -1,41 +1,49 @@
 <!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>卡盒系列總覽｜寶可夢卡牌學習站</title><link rel="stylesheet" href="assets/style.css">
+<title>熱門日版卡盒｜寶可夢卡牌學習站</title><link rel="stylesheet" href="assets/style.css">
 <script src="data/sets.js"></script><script src="assets/common.js"></script></head>
 <body><div class="layout"><main>
-<h1>📦 寶可夢卡牌卡盒系列總覽</h1>
-<p class="muted">只收錄「現在最熱門、討論度最高」的日版擴充包（依 2026 年 10 月的社群討論與成交量、價格挑選，會隨熱度更新）。點卡片可看詳細介紹。</p>
+<h1>📦 現在最熱門的日版卡盒</h1>
+<p class="muted">只收錄「現在最熱門、討論度最高」的日版擴充包（依 2026 年 10 月社群討論、成交量與價格挑選，之後會隨熱度更新）。點卡盒可看介紹、Top 10 大獎卡和價格。</p>
 <div class="stats" id="stats"></div>
+<div class="tabs" id="tabs">
+  <button class="tab on" data-v="hot">🔥 熱門排行</button>
+  <button class="tab" data-v="new">🆕 最新發售</button>
+  <button class="tab" data-v="era">🗂️ 依世代</button>
+</div>
 <div class="filters">
   <input type="search" id="q" placeholder="搜尋卡盒名稱（中／日／英皆可）">
-  <select id="era"><option value="">全部時期</option></select>
-  <label class="small"><input type="checkbox" id="onlyFull"> 只看有完整介紹</label>
+  <span class="small muted legend"><span class="frame-chip gold">金框</span> 熱門第 1–5 名　<span class="frame-chip silver">銀框</span> 第 6–12 名　<span class="frame-chip bronze">銅框</span> 第 13 名以後</span>
 </div>
 <div id="out"></div>
 </main></div>
 <script>
 const st=STATS;
-document.getElementById('stats').innerHTML=[
- ['熱門日版卡盒',st.total],['有完整 Top 10 介紹',st.v1Full+' / '+st.v1Sets]
-].map(([a,b])=>`<div class="stat"><b>${b}</b><span class="small muted">${a}</span></div>`).join('');
-const eraSel=document.getElementById('era');ERAS.filter(([k])=>SETS.some(s=>s.era===k)).forEach(([k,v])=>eraSel.insertAdjacentHTML('beforeend',`<option value="${k}">${v}</option>`));
-['q','era','onlyFull'].forEach(id=>document.getElementById(id).addEventListener('input',render));
-const p=new URLSearchParams(location.search);if(p.get('era'))eraSel.value=p.get('era');
+document.getElementById('stats').innerHTML=[['熱門日版卡盒',st.total],['有完整 Top 10 介紹',st.v1Full+' / '+st.v1Sets]]
+ .map(([a,b])=>`<div class="stat"><b>${b}</b><span class="small muted">${a}</span></div>`).join('');
+const p=new URLSearchParams(location.search);let view=p.get('view')||'hot';
+document.querySelectorAll('.tab').forEach(b=>{b.classList.toggle('on',b.dataset.v===view);b.onclick=()=>{view=b.dataset.v;document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('on',x===b));history.replaceState(null,'','?view='+view);render();};});
+document.getElementById('q').addEventListener('input',render);
+const TIER={gold:'金框',silver:'銀框',bronze:'銅框'};
 function card(s){
-  const names=[['zh-tw','中文名'],['en','英文名']].filter(([l])=>s.names[l]&&l!==s.lang).map(([l,t])=>`${t}：${esc(s.names[l])}`).join('<br>');
-  const img=s.logo||s.symbol||s.thumb;
-  return `<a class="set" href="set.html?k=${encodeURIComponent(s.key)}">
-   <div class="img">${img?imgTag(img,s.name):`<div class="ph">${esc(s.name)}<br>（暫無圖片）</div>`}</div>
-   <div class="badges">${s.status==='full'?'<span class="b full">完整介紹</span>':(s.v1?'<span class="b todo">資料待確認</span>':'<span class="b todo">待補充</span>')}${s.upcoming?'<span class="b up">即將發售</span>':''}</div>
-   <div class="nm">${esc(s.name)}</div>
+  const img=s.box?.img||s.logo||s.symbol||s.thumb;
+  const sub=[s.nameZh?esc(s.name):'',s.names.en&&s.names.en!==s.name?esc(s.names.en):''].filter(Boolean).join(' · ');
+  return `<a class="set framed ${s.tier||''}" href="set.html?k=${encodeURIComponent(s.key)}">
+   <div class="rankbadge ${s.tier||''}">#${s.rank}</div>
+   <div class="img">${img?imgTag(img,s.name):`<div class="ph">${esc(s.nameZh||s.name)}<br>（暫無圖片）</div>`}</div>
+   <div class="badges"><span class="b metal ${s.tier}">${TIER[s.tier]||''}</span>${s.status==='full'?'<span class="b full">完整介紹</span>':'<span class="b todo">資料待確認</span>'}${s.upcoming?'<span class="b up">即將發售</span>':''}</div>
+   <div class="nm">${esc(s.nameZh||s.name)}</div>
+   ${sub?`<div class="alt">${sub}</div>`:''}
    <div class="alt">${s.date?esc(s.date):'日期待確認'}${s.official?` · ${s.official} 張`:''}</div>
-   ${names?`<div class="alt">${names}</div>`:''}${s.hotReason?`<div class="alt">🔥 ${esc(s.hotReason)}</div>`:''}</a>`;
+   ${s.hotReason?`<div class="alt hot">🔥 ${esc(s.hotReason)}</div>`:''}</a>`;
 }
 function render(){
-  const q=document.getElementById('q').value.trim().toLowerCase(),era=eraSel.value,onlyFull=document.getElementById('onlyFull').checked;
-  const list=SETS.filter(s=>(!era||s.era===era)&&(!onlyFull||s.status==='full')&&(!q||JSON.stringify([s.name,s.names,s.translated||'',s.id]).toLowerCase().includes(q)));
+  const q=document.getElementById('q').value.trim().toLowerCase();
+  let list=SETS.filter(s=>!q||JSON.stringify([s.name,s.nameZh,s.names,s.translated||'',s.id]).toLowerCase().includes(q));
   let html=`<p class="small muted">符合條件：${list.length} 個</p>`;
-  for(const [k,v] of ERAS){const g=list.filter(s=>s.era===k);if(!g.length)continue;
-    html+=`<div class="era-h"><h2>${v}</h2><span class="muted small">${g.length} 個</span></div><div class="grid">${g.map(card).join('')}</div>`;}
+  if(view==='hot'){list=[...list].sort((a,b)=>a.rank-b.rank);html+=`<div class="grid">${list.map(card).join('')}</div>`;}
+  else if(view==='new'){list=[...list].sort((a,b)=>(b.date||'').localeCompare(a.date||''));html+=`<div class="grid">${list.map(card).join('')}</div>`;}
+  else{for(const [k,v] of [...ERAS].reverse()){const g=list.filter(s=>s.era===k).sort((a,b)=>a.rank-b.rank);if(!g.length)continue;
+    html+=`<div class="era-h"><h2>${v}</h2><span class="muted small">${g.length} 個（依熱門排序）</span></div><div class="grid">${g.map(card).join('')}</div>`;}}
   document.getElementById('out').innerHTML=html;
 }
 render();

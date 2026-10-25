@@ -1,0 +1,34 @@
+{
+  "_note": "Detailed RR / AR / SAR guide (item 7). Pull-rate figures are community opening statistics, never official: The Pokémon Company has never published pull rates. Ranges are shown where sources disagree.",
+  "items": [
+    {
+      "code": "RR", "ja": "ダブルレア", "zh": "雙重稀有", "en": "Double Rare",
+      "look": ["卡片左下角印「RR」", "幾乎都是寶可夢 ex 這類強力卡（對戰主力）", "圖案會「衝出」上方的圖框，有閃卡加工；太晶（テラスタル）寶可夢的 RR 加工比較華麗"],
+      "rate": "一般擴充包每盒約 2–5 張（各來源說法不同：トレカジャパン 約 4 張、ポケカ相場ナビ 約 4–5 張、Revolve 約 2–3 張）",
+      "tips": ["數量多，大部分很便宜；只有比賽常用的強卡會到約 ¥1,000", "同一隻寶可夢的 RR 之後常會有 SR／SAR 版本"],
+      "sources": ["tradecard", "cardvalue", "revolve", "tokyocard"]
+    },
+    {
+      "code": "AR", "ja": "アートレア", "zh": "藝術稀有", "en": "Illustration Rare（美版 IR）",
+      "look": ["卡片左下角印「AR」", "整張卡都是插畫（全圖），畫寶可夢在生活場景中", "有閃亮加工，但沒有摸得到的凹凸紋路（這是跟 SAR 最快的分法）", "通常是一般寶可夢（不是 ex）；原本是 R 以下的寶可夢才會出 AR"],
+      "rate": "一般擴充包每盒約 3 張（多數來源一致，Revolve 寫 3–4 張）；但一彈常有 10 種以上 AR，指定一張的機率約 25%／盒",
+      "tips": ["2022 年 12 月《VSTAR Universe》首次登場", "人氣寶可夢（皮卡丘、伊布系）的 AR 價格會明顯比較高"],
+      "sources": ["tradecard", "cardvalue", "revolve", "tokyocard"]
+    },
+    {
+      "code": "SAR", "ja": "スペシャルアートレア", "zh": "特別藝術稀有", "en": "Special Illustration Rare（美版 SIR）",
+      "look": ["卡片左下角印「SAR」", "整張卡是有故事感的大插畫，對象是寶可夢 ex 或人物（支援者）卡", "表面有摸得到的凹凸紋路（レリーフ加工）＋彩虹閃亮，比 AR 華麗很多"],
+      "rate": "一般擴充包約 3–6 盒才 1 張（相場ナビ 約 3–5 盒、トレカジャパン 約 6 盒）；社群統計：超級進化夢想ex 約 40%／盒、忍者飛旋 約 28%／盒、綠寶石風暴 約 23 盒 1 張（樣本小）；30週年紀念彈則是每盒固定 1 張",
+      "tips": ["2022 年 12 月《VSTAR Universe》和 AR 一起登場，現在是開盒的「大獎」", "一彈通常有 5–8 種 SAR，想要指定那一張，直接買單卡通常比較划算", "人氣角色（例如奇樹）的 SAR 曾賣到 20 萬日圓以上"],
+      "sources": ["tradecard", "cardvalue", "revolve", "enthusiast", "tcgtalk", "tokyocard"]
+    }
+  ],
+  "sources": {
+    "tradecard": {"name": "トレカジャパン：ポケカのレアリティの見方と種類", "url": "https://tradecard.jp/articles/rarity"},
+    "cardvalue": {"name": "ポケカ相場ナビ：レアリティの順番・見分け方・封入率", "url": "https://card-value.jp/pokemon/rare/"},
+    "revolve": {"name": "Revolve：2026年最新 ポケカ封入率一覧", "url": "https://revolve-jgs.com/bloglists/pokeca-pull-rates/"},
+    "tokyocard": {"name": "Tokyo Card Report：What Do SAR and AR Mean? (2026)", "url": "https://tokyocardreport.com/articles/japanese-rarities-sar-ar-explained/"},
+    "enthusiast": {"name": "Enthusiast Avenue：Japanese Pokemon Booster Box Pull Rates", "url": "https://enthusiastavenue.com/blogs/guides/japanese-pokemon-pull-rates-god-packs"},
+    "tcgtalk": {"name": "TCGTalk：30th Celebration 日版 57 盒開盒統計", "url": "https://tcgtalk.com/guides/30th-celebrations-japanese-pull-rates-box-opening"}
+  }
+}

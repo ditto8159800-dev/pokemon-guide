@@ -86,10 +86,10 @@ async function snkUsedLowest(id,conditionID){ // conditionID: 22 = PSA 10, 18 = 
   const xs=(r.body.usedListings||[]).filter(x=>!x.isSold&&x.currency==='USD'&&x.priceAmount>0).map(x=>x.priceAmount);
   return xs.length?Math.min(...xs):null;
 }
-async function tcgSearch(q){
+async function tcgSearch(q,from=0,type=null){
   await polite('tcgplayer',800);
   try{const r=await fetch(`https://mp-search-api.tcgplayer.com/v1/search/request?q=${encodeURIComponent(q)}&isList=false`,{method:'POST',headers:{'User-Agent':UA,'Content-Type':'application/json'},
-    body:JSON.stringify({algorithm:'sales_synonym_v2',from:0,size:24,filters:{term:{productLineName:['pokemon-japan']},range:{},match:{}},listingSearch:{context:{cart:{}},filters:{term:{sellerStatus:'Live',channelId:0},range:{quantity:{gte:1}},exclude:{channelExclusion:0}}},context:{cart:{},shippingCountry:'US',userProfile:{}},settings:{useFuzzySearch:false,didYouMean:{}},sort:{}})});
+    body:JSON.stringify({algorithm:'sales_synonym_v2',from,size:24,filters:{term:{productLineName:['pokemon-japan'],...(type?{productTypeName:[type]}:{})},range:{},match:{}},listingSearch:{context:{cart:{}},filters:{term:{sellerStatus:'Live',channelId:0},range:{quantity:{gte:1}},exclude:{channelExclusion:0}}},context:{cart:{},shippingCountry:'US',userProfile:{}},settings:{useFuzzySearch:false,didYouMean:{}},sort:{}})});
     if(!r.ok) return [];const d=await r.json();return d.results?.[0]?.results||[];}catch(e){return [];}
 }
 async function tcgplayerJapan(set,card,enName){
@@ -119,7 +119,21 @@ function setPrice(key,val){
   const SHOWN=CFG.languages;const KEEP=CFG.keep?new Set(Object.keys(CFG.keep.hot)):null; // same kept list as the site
   const v1=sets.filter(s=>(!args.set||s.id===args.set)&&s.v1&&(args.all||SHOWN.includes(s.lang)&&(!KEEP||KEEP.has(s.key)))&&(!args.only||s.lang===args.only));
   // 1) Japanese: one SNKRDUNK listing per set (also saved for chase ranking fallback)
-  for(const s of v1.filter(s=>s.lang==='ja'&&s.tcgdex&&!/-P$|^SVK|^SVL|^SMP/.test(s.id))){
+  // sets not in TCGdex yet (content/manual-sets.json): take the card list from TCGplayer's Japanese product line
+  for(const s of v1.filter(s=>s.lang==='ja'&&!s.tcgdex&&/^manual|官方/.test(s.src||'')||s.lang==='ja'&&!s.tcgdex&&s.manualNote)){
+    const f=path.join(ROOT,'data/tcgplayer');fs.mkdirSync(f,{recursive:true});
+    const code=s.id.toLowerCase();const seen=new Map();
+    if(!(args.cache&&fs.existsSync(path.join(f,s.id+'.json')))){
+      for(const q of [s.id,`${s.id} SAR`,`${s.id} AR`,`${s.id} SR`,`${s.id} UR`,`${s.translated||s.name}`]){
+        for(let from=0;from<96;from+=24){const res=await tcgSearch(q,from,'Cards');const hits=res.filter(x=>String(x.setName||'').toLowerCase().startsWith(code+':'));
+          hits.forEach(x=>seen.set(Math.round(x.productId),x));if(res.length<24)break;}
+      }
+      const cards=[...seen.values()].map(x=>({productId:Math.round(x.productId),name:String(x.productName).replace(/\s*-\s*[\w]+\/\d+.*$/,'').trim(),number:x.customAttributes?.number||'',rarity:x.rarityName||'',marketPrice:x.marketPrice||null,setName:x.setName}));
+      if(cards.length) fs.writeFileSync(path.join(f,s.id+'.json'),JSON.stringify({set:s.id,fetched:today,source:'TCGplayer',cards},null,1));
+      process.stdout.write(`ja ${s.id}: TCGplayer card list ${cards.length}\n`);
+    }
+  }
+  for(const s of v1.filter(s=>s.lang==='ja'&&(s.tcgdex||s.manualNote)&&!/-P$|^SVK|^SVL|^SMP/.test(s.id))){
     const code=s.id.toLowerCase();
     const f=path.join(SNK_DIR,`${s.id}.json`);
     const list=args.cache&&fs.existsSync(f)?JSON.parse(fs.readFileSync(f)).items:await snkSetListing(code);

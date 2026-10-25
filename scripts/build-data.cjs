@@ -1,6 +1,7 @@
 // Build site/data/*.js from cached TCGdex + Bulbapedia data. Run: node scripts/build-data.cjs
 const fs=require('fs');const path=require('path');
 const {RANK,popScore}=require('./lib-rarity.cjs');
+const {toZh}=require('./lib-zh.cjs');
 const R=f=>JSON.parse(fs.readFileSync(f,'utf8'));
 const LANGS=['en','ja','zh-tw','zh-cn'];
 const LANG_LABEL={en:'美版（英文）',ja:'日版',"zh-tw":'繁中版',"zh-cn":'簡中版'};
@@ -146,9 +147,16 @@ for(const s of [...sets].sort((a,b)=>order.indexOf(a.lang)-order.indexOf(b.lang)
     s.chaseMethod='auto-bulbapedia';
     chaseB=list.filter(c=>c.score>=50).sort((a,b)=>b.score-a.score||popScore(b.n)-popScore(a.n)||parseInt(b.l)-parseInt(a.l)).slice(0,10);
   }
+  // manual sets: chase = top 10 TCGplayer market prices of the set's Japanese singles (data/tcgplayer/<id>.json)
+  const tpFile=`data/tcgplayer/${s.id}.json`;
+  if(s.manualNote&&fs.existsSync(tpFile)){const T=R(tpFile);
+    chaseB=T.cards.filter(x=>x.marketPrice>0).sort((a,b)=>b.marketPrice-a.marketPrice).slice(0,10).map(x=>{const l=String(x.number).split('/')[0];
+      return {n:x.name,l,r:x.rarity||'待確認',i:null,id:`${s.id}-${l}`,lang:'ja'};});
+    s.chaseMethod='tcgplayer';s.tpDate=T.fetched;s.official=s.official||parseInt(String(T.cards[0]?.number).split('/')[1])||null;
+  }
   // ja fallback: rank by SNKRDUNK lowest listed price when TCGdex has no rarity data
   const snkFile=`data/snkrdunk/${s.id}.json`;
-  if(s.lang==='ja'&&fs.existsSync(snkFile)&&!list.some(c=>(RANK[c.r]||0)>=40)){
+  if(s.lang==='ja'&&s.chaseMethod!=='tcgplayer'&&fs.existsSync(snkFile)&&!list.some(c=>(RANK[c.r]||0)>=40)){
     const items=R(snkFile).items.filter(x=>x.minPrice>0);const seen=new Set();
     chaseB=items.sort((a,b)=>b.minPrice-a.minPrice).filter(x=>!seen.has(x.num)&&seen.add(x.num)).slice(0,10).map(x=>{
       const tc=list.find(c=>String(c.l).replace(/^0+/,'')===x.num);
@@ -171,18 +179,19 @@ for(const s of [...sets].sort((a,b)=>order.indexOf(a.lang)-order.indexOf(b.lang)
       if(chase.length) s.chaseMethod='heuristic';
     }}
   chase=chase.slice(0,10);
-  s.chase=chase.map(c=>{const key=`${c.lang}:${c.id}`;return {key,name:c.n,num:`${c.l}${s.official?'/'+String(s.official).padStart(3,'0'):''}`,localId:c.l,rarity:c.r&&c.r!=='null'?c.r:'待確認',img:c.i?c.i+'/low.webp':null,imgHigh:c.i?c.i+'/high.webp':null,price:(c.lang===s.lang&&prices[key])||null,link:(c.lang===s.lang&&prices[key]?.link)||null};});
+  s.chase=chase.map(c=>{const key=`${c.lang}:${c.id}`;return {key,name:c.n,num:`${c.l}${s.official?'/'+String(s.official).padStart(3,'0'):''}`,localId:c.l,rarity:c.r&&!/^(null|None)$/.test(c.r)?c.r:'待確認',img:c.i?c.i+'/low.webp':null,imgHigh:c.i?c.i+'/high.webp':null,price:(c.lang===s.lang&&prices[key])||null,link:(c.lang===s.lang&&prices[key]?.link)||null};});
   s.borrowedFrom=borrowed;
   s.notes=[];
   if(borrowed) s.notes.push(`TCGdex 尚無此繁中版卡表；大獎卡依對應日版《${byKey[borrowed].name}》列出（亞洲版與日版卡表通常相同，卡圖暫用日版）。`);
   if(s.lang==='zh-cn') s.notes.push('TCGdex 的簡中卡表多半不含秘密稀有卡，大獎卡清單可能不完整（待確認）。');
-  if(s.manualNote) s.notes.push(s.manualNote);
+  if(s.manualNote) s.notes.push(s.chaseMethod==='tcgplayer'?`TCGdex 尚未收錄此彈卡表；Top 10 依 TCGplayer 日版單卡市場價由高到低排序（${s.tpDate} 擷取），卡名為英文。`:s.manualNote);
   if(!s.date) s.notes.push('發售日待確認。');
   if(s.chaseMethod==='snkrdunk') s.notes.push(`TCGdex 缺少此彈的稀有度資料；以下依 SNKRDUNK 最低在售價由高到低排序（${s.snkDate} 擷取），反映當時市場熱度。`);
   if(s.chaseMethod==='heuristic') s.notes.push('TCGdex 缺少此彈的稀有度資料，以下依卡名（V／VMAX／ex 等規則卡）推估，排序與是否為大獎卡皆待確認。');
   if(s.chaseMethod==='auto-bulbapedia') s.notes.push('卡表與稀有度取自 Bulbapedia（簡中版頁面），卡名以英文標示；依稀有度自動排序，非市場熱度。');
   if(s.chaseMethod==='auto'&&chase.length) s.notes.push('大獎卡依 TCGdex 官方稀有度由高到低自動排序（同稀有度以人氣寶可夢優先），非市場熱度排行。');
   if(!chase.length) s.notes.push('此彈在 TCGdex 中沒有可用的高稀有度卡資料（例如促銷卡、牌組），大獎卡待確認。');
+  if(s.chaseMethod==='tcgplayer'){s.notes=s.notes.filter(n=>!/沒有可用的高稀有度/.test(n));}
   s.status=chase.length?(s.chaseMethod==='heuristic'?'partial':'full'):'partial';
   s.upcoming=!!(s.date&&s.date>new Date().toISOString().slice(0,10));
   if(s.upcoming) s.notes.push('尚未發售（依 Bulbapedia 公布的預定日期），資料可能變動。');
@@ -217,6 +226,16 @@ for(const s of sets){s.editions=[...new Set([s.lang,...s.links.filter(k=>!s.part
 sets.sort((a,b)=>(a.date||a.approxDate||'9999').localeCompare(b.date||b.approxDate||'9999')||a.lang.localeCompare(b.lang));
 // ---- site output: only SHOWN languages (all languages are still built above for cross-reference names, quiz bank and data/sets.json) ----
 const shownSets=sets.filter(s=>SHOWN.includes(s.lang)&&(!KEEP||KEEP.has(s.key)));
+// popularity rank / metal tier, Traditional Chinese names, box image, card images + zh card names
+const ORDER=KEEP?Object.keys(CFG.keep.hot):[];const BOX=fs.existsSync('content/box-images.json')?R('content/box-images.json'):{};
+for(const s of shownSets){
+  s.rank=ORDER.indexOf(s.key)+1||null; s.tier=!s.rank?null:s.rank<=5?'gold':s.rank<=12?'silver':'bronze';
+  s.nameZh=(CFG.zhNames||{})[s.key]||(s.names['zh-tw']&&s.names['zh-tw']!==s.name?s.names['zh-tw']:null);
+  if(BOX[s.key]) s.box=BOX[s.key];
+  for(const c of s.chase||[]){c.nameZh=toZh(c.name);const p=prices[c.key];
+    if(!c.img&&p?.tcgplayerId){c.img=`https://tcgplayer-cdn.tcgplayer.com/product/${p.tcgplayerId}_in_400x400.jpg`;c.imgHigh=`https://tcgplayer-cdn.tcgplayer.com/product/${p.tcgplayerId}_in_1000x1000.jpg`;c.imgSrc='TCGplayer';}}
+}
+shownSets.sort((a,b)=>(a.rank||99)-(b.rank||99));
 if(KEEP){const miss=[...KEEP].filter(k=>!byKey[k]);if(miss.length)console.warn('WARNING: keep-list keys not found:',miss.join(', '));}
 const shownKeys=new Set(shownSets.map(s=>s.key));
 // old links (e.g. quiz "查看教材" pointing at an en/zh set) -> redirect to the shown counterpart when one exists
