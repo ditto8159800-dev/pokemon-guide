@@ -5,7 +5,8 @@ const R=f=>JSON.parse(fs.readFileSync(f,'utf8'));
 const LANGS=['en','ja','zh-tw','zh-cn'];
 const LANG_LABEL={en:'美版（英文）',ja:'日版',"zh-tw":'繁中版',"zh-cn":'簡中版'};
 const curated=R('content/curated.json');
-const SHOWN=R('content/site-config.json').languages; // languages shown on the site (currently ja only)
+const CFG=R('content/site-config.json');const SHOWN=CFG.languages; // languages shown on the site (currently ja only)
+const KEEP=CFG.keep?new Set([...CFG.keep.classic,...CFG.keep.hot]):null; // hand-checked hot/iconic list; null = keep all
 const prices=fs.existsSync('data/prices.json')?R('data/prices.json'):{};
 const bulbaJp=R('data/sources/bulba-jp.json');
 const bulbaTw=R('data/sources/bulba-zhtw.json').filter(x=>!/Simplified/.test(x.zh_tw));
@@ -110,6 +111,8 @@ for(const s of sets){
   s.hopLinks=[...hop].filter(k=>!s.links.includes(k));
   s.partialLinks=[...pl];
 }
+// TCGdex/Bulbapedia link mismatch: ja S11 (ロストアビス) picked up SV1a's zh-tw name 三連音爆 -> drop it rather than show a wrong name
+if(byKey['ja:S11']?.names['zh-tw']==='三連音爆') delete byKey['ja:S11'].names['zh-tw'];
 // ---- chase cards (2018-2026 only) ----
 const yearOf=s=>+(s.date||s.approxDate||'0').slice(0,4);
 const cardRec=(l,id)=>{const c=cards[l][id];return c?{...c,id,lang:l}:null;};
@@ -209,7 +212,8 @@ for(const s of sets){
 for(const s of sets){s.editions=[...new Set([s.lang,...s.links.filter(k=>!s.partialLinks.includes(k)),...s.hopLinks].map(k=>k.split(':')[0]))];}
 sets.sort((a,b)=>(a.date||a.approxDate||'9999').localeCompare(b.date||b.approxDate||'9999')||a.lang.localeCompare(b.lang));
 // ---- site output: only SHOWN languages (all languages are still built above for cross-reference names, quiz bank and data/sets.json) ----
-const shownSets=sets.filter(s=>SHOWN.includes(s.lang));
+const shownSets=sets.filter(s=>SHOWN.includes(s.lang)&&(!KEEP||KEEP.has(s.key)));
+if(KEEP){const miss=[...KEEP].filter(k=>!byKey[k]);if(miss.length)console.warn('WARNING: keep-list keys not found:',miss.join(', '));}
 const shownKeys=new Set(shownSets.map(s=>s.key));
 // old links (e.g. quiz "查看教材" pointing at an en/zh set) -> redirect to the shown counterpart when one exists
 const alias={};

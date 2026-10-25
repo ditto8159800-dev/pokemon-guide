@@ -1,4 +1,62 @@
 {
   "_note": "Languages whose sets are shown on the site (site/data/sets.js) and whose prices are refreshed. Other languages' raw data stays in data/raw and is still used for cross-reference names. Options: en, ja, zh-tw, zh-cn.",
-  "languages": ["ja"]
+  "languages": [
+    "ja"
+  ],
+  "keep": {
+    "_note": "Only these Japanese sets are built into the site and get price refreshes. Chosen 2026-10-26: (1) 2018–2026 hot tier = top 36 by a composite of two SNKRDUNK signals (total active listings across the set = trading activity, and sum of the 3 highest chase-card prices = chase value; average of the two percentile ranks), plus 4 widely known high-class/anniversary sets that rank lower only because their cards are cheap and plentiful (シャイニートレジャーex, テラスタルフェスex, VSTARユニバース, 25th アニバーサリーコレクション); (2) 9 iconic classics (first Japanese set, Jungle, Fossil, Rocket, neo Genesis, neo Destiny, e-card Base, Dragon Frontiers, 20th Anniversary). Remove a key here to drop a set; add a ja:ID key to restore one (raw data is untouched).",
+    "classic": [
+      "ja:PMCG1",
+      "ja:PMCG2",
+      "ja:PMCG3",
+      "ja:PMCG4",
+      "ja:neo1",
+      "ja:neo4",
+      "ja:E1",
+      "ja:PCG9",
+      "ja:CP6"
+    ],
+    "hot": [
+      "ja:S6a",
+      "ja:SM12a",
+      "ja:M2",
+      "ja:SV2a",
+      "ja:S7R",
+      "ja:S4a",
+      "ja:M6",
+      "ja:SM9",
+      "ja:SV11B",
+      "ja:SV11W",
+      "ja:SM11b",
+      "ja:M4",
+      "ja:M1L",
+      "ja:SM10",
+      "ja:SM11",
+      "ja:S11",
+      "ja:M2a",
+      "ja:SM8b",
+      "ja:SV9a",
+      "ja:SV10",
+      "ja:M5",
+      "ja:SM7",
+      "ja:SM10a",
+      "ja:S8b",
+      "ja:SM10b",
+      "ja:SV3",
+      "ja:SV9",
+      "ja:M1S",
+      "ja:M3",
+      "ja:SM9a",
+      "ja:S5a",
+      "ja:S4",
+      "ja:SM6",
+      "ja:SM8",
+      "ja:SV2D",
+      "ja:SV8",
+      "ja:SV4a",
+      "ja:SV8a",
+      "ja:S12a",
+      "ja:S8a"
+    ]
+  }
 }

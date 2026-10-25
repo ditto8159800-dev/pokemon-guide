@@ -3,23 +3,22 @@
 <script src="data/sets.js"></script><script src="assets/common.js"></script></head>
 <body><div class="layout"><main>
 <h1>📦 寶可夢卡牌卡盒系列總覽</h1>
-<p class="muted">從 1996 年日版第一彈《拡張パック》到 2026 年，收錄日版寶可夢卡牌的擴充包與系列商品。點卡片可看詳細介紹。</p>
+<p class="muted">從 1996 年日版第一彈《拡張パック》到 2026 年，精選日版寶可夢卡牌中最熱門、最有代表性的擴充包（依市場熱度與經典程度挑選）。點卡片可看詳細介紹。</p>
 <div class="stats" id="stats"></div>
 <div class="filters">
   <input type="search" id="q" placeholder="搜尋卡盒名稱（中／日／英皆可）">
   <select id="era"><option value="">全部時期</option></select>
   <label class="small"><input type="checkbox" id="onlyFull"> 只看有完整介紹</label>
-  <label class="small"><input type="checkbox" id="hideOther" checked> 隱藏促銷／牌組</label>
 </div>
 <div id="out"></div>
 </main></div>
 <script>
 const st=STATS;
 document.getElementById('stats').innerHTML=[
- ['日版卡盒總數',st.total],['2018–2026 卡盒',st.v1Sets],['2018–2026 完整介紹',st.v1Full+' / '+st.v1Sets]
+ ['精選日版卡盒',st.total],['2018–2026 卡盒',st.v1Sets],['2018–2026 完整介紹',st.v1Full+' / '+st.v1Sets]
 ].map(([a,b])=>`<div class="stat"><b>${b}</b><span class="small muted">${a}</span></div>`).join('');
-const eraSel=document.getElementById('era');ERAS.forEach(([k,v])=>eraSel.insertAdjacentHTML('beforeend',`<option value="${k}">${v}</option>`));
-['q','era','onlyFull','hideOther'].forEach(id=>document.getElementById(id).addEventListener('input',render));
+const eraSel=document.getElementById('era');ERAS.filter(([k])=>SETS.some(s=>s.era===k)).forEach(([k,v])=>eraSel.insertAdjacentHTML('beforeend',`<option value="${k}">${v}</option>`));
+['q','era','onlyFull'].forEach(id=>document.getElementById(id).addEventListener('input',render));
 const p=new URLSearchParams(location.search);if(p.get('era'))eraSel.value=p.get('era');
 function card(s){
   const names=[['zh-tw','中文名'],['en','英文名']].filter(([l])=>s.names[l]&&l!==s.lang).map(([l,t])=>`${t}：${esc(s.names[l])}`).join('<br>');
@@ -32,8 +31,8 @@ function card(s){
    ${names?`<div class="alt">${names}</div>`:''}</a>`;
 }
 function render(){
-  const q=document.getElementById('q').value.trim().toLowerCase(),era=eraSel.value,onlyFull=document.getElementById('onlyFull').checked,hide=document.getElementById('hideOther').checked;
-  const list=SETS.filter(s=>(!era||s.era===era)&&(!onlyFull||s.status==='full')&&(!hide||s.era!=='other'||era==='other')&&(!q||JSON.stringify([s.name,s.names,s.translated||'',s.id]).toLowerCase().includes(q)));
+  const q=document.getElementById('q').value.trim().toLowerCase(),era=eraSel.value,onlyFull=document.getElementById('onlyFull').checked;
+  const list=SETS.filter(s=>(!era||s.era===era)&&(!onlyFull||s.status==='full')&&(!q||JSON.stringify([s.name,s.names,s.translated||'',s.id]).toLowerCase().includes(q)));
   let html=`<p class="small muted">符合條件：${list.length} 個</p>`;
   for(const [k,v] of ERAS){const g=list.filter(s=>s.era===k);if(!g.length)continue;
     html+=`<div class="era-h"><h2>${v}</h2><span class="muted small">${g.length} 個</span></div><div class="grid">${g.map(card).join('')}</div>`;}
