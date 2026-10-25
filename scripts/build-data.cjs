@@ -171,7 +171,7 @@ for(const s of [...sets].sort((a,b)=>order.indexOf(a.lang)-order.indexOf(b.lang)
       if(chase.length) s.chaseMethod='heuristic';
     }}
   chase=chase.slice(0,10);
-  s.chase=chase.map(c=>{const key=`${c.lang}:${c.id}`;return {key,name:c.n,num:`${c.l}${s.official?'/'+String(s.official).padStart(3,'0'):''}`,localId:c.l,rarity:c.r&&c.r!=='null'?c.r:'待確認',img:c.i?c.i+'/low.webp':null,imgHigh:c.i?c.i+'/high.webp':null,price:(c.lang===s.lang&&prices[key])||null};});
+  s.chase=chase.map(c=>{const key=`${c.lang}:${c.id}`;return {key,name:c.n,num:`${c.l}${s.official?'/'+String(s.official).padStart(3,'0'):''}`,localId:c.l,rarity:c.r&&c.r!=='null'?c.r:'待確認',img:c.i?c.i+'/low.webp':null,imgHigh:c.i?c.i+'/high.webp':null,price:(c.lang===s.lang&&prices[key])||null,link:(c.lang===s.lang&&prices[key]?.link)||null};});
   s.borrowedFrom=borrowed;
   s.notes=[];
   if(borrowed) s.notes.push(`TCGdex 尚無此繁中版卡表；大獎卡依對應日版《${byKey[borrowed].name}》列出（亞洲版與日版卡表通常相同，卡圖暫用日版）。`);

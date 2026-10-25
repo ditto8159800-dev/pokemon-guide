@@ -14,5 +14,9 @@
 <script>
 document.getElementById('list').innerHTML=GRADING.map(g=>`<div class="panel"><h3>${esc(g.name)} <span class="small muted">${esc(g.full)}</span></h3>
 <table class="kv"><tr><td>國家／成立</td><td>${esc(g.country)} · ${esc(g.since)}</td></tr><tr><td>分數制度</td><td>${esc(g.scale)}</td></tr><tr><td>標籤／外殼</td><td>${esc(g.label)}</td></tr>
-<tr><td>優點</td><td><ul class="pc">${g.pros.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></td></tr><tr><td>缺點</td><td><ul class="pc">${g.cons.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></td></tr></table></div>`).join('');
+<tr><td>優點</td><td><ul class="pc">${g.pros.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></td></tr><tr><td>缺點</td><td><ul class="pc">${g.cons.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></td></tr></table>${slabPhotos(g.name)}</div>`).join('');
+// real slab photos (content/grading-photos.json)
+function slabPhotos(name){const P=(window.GRADING_PHOTOS||{})[name];if(!P)return '';
+  const ph=(P.photos||[]).map(p=>`<figure class="slab"><a href="${esc(p.src)}" target="_blank" rel="noopener"><img loading="lazy" src="${esc(p.src)}" alt="${esc(p.alt)}"></a><figcaption class="small">${esc(p.caption)}<br><span class="muted">圖片來源：<a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.credit)}</a></span></figcaption></figure>`).join('');
+  return `<h4>📷 實物照片怎麼認</h4><p class="small">${esc(P.how)}</p><div class="slabs">${ph}${P.empty?'':'<div class="small muted slab-missing">空盒照片：暫無（還沒找到可靠來源）</div>'}${(P.photos||[]).length?'':'<div class="small muted slab-missing">裝卡照片：暫無（還沒找到可靠來源）</div>'}</div>`;}
 </script></body></html>

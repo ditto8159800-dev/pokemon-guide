@@ -1270,74 +1270,165 @@
   "stale": false
  },
  "ja:SM12a-219": {
-  "price": 190,
+  "price": 175,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/91273",
-  "listingName": "Eevee GX HR[SM12a 219/173](High Class Pack \"Tag Team GX Tag All Stars\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/572872",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 453,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/91273/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572872",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572872
  },
  "ja:SM12a-218": {
-  "price": 638,
+  "price": 106.34,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/104548",
-  "listingName": "Togepi & Cleffa & Igglybuff GX HR[SM12a 218/173](High Class Pack \"Tag Team GX Tag All Stars\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/572871",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 638,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/104548/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572871",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572871
  },
  "ja:SM12a-216": {
-  "price": 248,
+  "price": 28.81,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/104553",
-  "listingName": "Weavile GX HR[SM12a 216/173](High Class Pack \"Tag Team GX Tag All Stars\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/572869",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 248,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/104553/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572869",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572869
  },
  "ja:SM12a-215": {
-  "price": 160,
+  "price": 193.26,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/104533",
-  "listingName": "Umbreon & Darkrai GX HR[SM12a 215/173](High Class Pack \"Tag Team GX Tag All Stars\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/572868",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 344,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/104533/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572868",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572868
  },
  "ja:SM12a-214": {
-  "price": 99,
+  "price": 91.36,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/104545",
-  "listingName": "Jirachi GX HR[SM12a 214/173](High Class Pack \"Tag Team GX Tag All Stars\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/572867",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 437,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/104545/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572867",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572867
  },
  "ja:SM12a-212": {
-  "price": 141,
+  "price": 121.66,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/104536",
-  "listingName": "Espeon & Deoxys GX HR[SM12a 212/173](High Class Pack \"Tag Team GX Tag All Stars\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/572865",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 307,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/104536/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572865",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572865
  },
  "ja:SM12a-226": {
-  "price": 192,
+  "price": 106.67,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/93084",
-  "listingName": "Moltres & Zapdos & Articuno GX UR[SM12a 226/173](High Class Pack \"Tag Team GX Tag All Stars\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/572879",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 319,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/93084/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572879",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572879
  },
  "ja:S5I-087": {
   "price": 12,
@@ -2030,104 +2121,213 @@
   "stale": false
  },
  "ja:S11-127": {
-  "price": 21,
+  "price": 6.72,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/96560",
-  "listingName": "Collapsed Stadium UR[S11 127/100](Expansion Pack\"Lost Abyss\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570058",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570058",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570058
  },
  "ja:S11-126": {
-  "price": 18,
+  "price": 5.75,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/93376",
-  "listingName": "Lost Vacuum UR[S11 126/100](Expansion Pack \"Lost Abyss\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570057",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 66,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/93376/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570057",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570057
  },
  "ja:S11-125": {
-  "price": 45,
+  "price": 27.11,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/93380",
-  "listingName": "Giratina VSTAR UR[S11 125/100](Expansion Pack \"Lost Abyss\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570056",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 92,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/93380/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570056",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570056
  },
  "ja:S11-116": {
-  "price": 7,
+  "price": 4.02,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/126545",
-  "listingName": "Fantina SR[s11 116/100](Expansion Pack \"Lost Abyss\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570047",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 42,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/126545/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570047",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570047
  },
  "ja:S11-115": {
-  "price": 7,
+  "price": 1.66,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/126544",
-  "listingName": "Thorton SR[s11 115/100](Expansion Pack \"Lost Abyss\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570046",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570046",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570046
  },
  "ja:S11-114": {
-  "price": 15,
+  "price": 11.78,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/93374",
-  "listingName": "Lady SR[S11 114/100](Expansion Pack \"Lost Abyss\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570045",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 50,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/93374/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570045",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570045
  },
  "ja:S11-113": {
-  "price": 10,
+  "price": 2.07,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/93377",
-  "listingName": "Colress's Experiment SR[S11 113/100](Expansion Pack \"Lost Abyss\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570044",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 50,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/93377/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570044",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570044
  },
  "ja:S11-112": {
-  "price": 7,
+  "price": 2.17,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/137048",
-  "listingName": "Pidgeot V SR[S11 112/100](Expansion Pack \"Lost Abyss\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570043",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570043",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570043
  },
  "ja:S11-111": {
-  "price": 562,
+  "price": 646.14,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/93379",
-  "listingName": "Giratina V SR: SA[S11 111/100](Expansion Pack \"Lost Abyss\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570042",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 1786,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/93379/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570042",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570042
  },
  "ja:S11-110": {
-  "price": 13,
+  "price": 19.31,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/92206",
-  "listingName": "Giratina V SR[S11 110/100](Expansion Pack \"Lost Abyss\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570041",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 64,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/92206/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570041",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570041
  },
  "ja:S11a-094": {
   "price": 7,
@@ -2330,104 +2530,234 @@
   "stale": false
  },
  "ja:S12a-244": {
-  "price": 7,
+  "price": 7.76,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/105563",
-  "listingName": "Melony SAR[s12a 244/172](High Class Pack \"VSTAR Universe\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571782",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 58,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/105563/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571782",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571782
  },
  "ja:S12a-243": {
-  "price": 11,
+  "price": 17.77,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/103060",
-  "listingName": "Gardenia’s Vigor SAR[s12a 243/172](High Class Pack \"VSTAR  Universe\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571781",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 50,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/103060/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571781",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571781
  },
  "ja:S12a-242": {
-  "price": 9,
+  "price": 6.9,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/103061",
-  "listingName": "Roxanne SAR[s12a 242/172](High Class Pack \"VSTAR  Universe\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571780",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 51,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/103061/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571780",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571780
  },
  "ja:S12a-241": {
-  "price": 7,
+  "price": 5.74,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/105544",
-  "listingName": "Cheren's Attention SAR[s12a 241/172](High Class Pack \"VSTAR Universe\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571779",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 50,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/105544/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571779",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571779
  },
  "ja:S12a-240": {
-  "price": 10,
+  "price": 7.07,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/104901",
-  "listingName": "Adaman SAR[s12a 240/172](High Class Pack \"VSTAR Universe\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571778",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 42,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/104901/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571778",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571778
  },
  "ja:S12a-239": {
-  "price": 26,
+  "price": 31.72,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/103056",
-  "listingName": "Cynthia’s Ambition SAR[s12a 239/172](High Class Pack \"VSTAR  Universe\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571777",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 166,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/103056/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571777",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571777
  },
  "ja:S12a-238": {
-  "price": 7,
+  "price": 2.31,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/105539",
-  "listingName": "Grant SAR[s12a 238/172](High Class Pack \"VSTAR Universe\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571776",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 50,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/105539/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571776",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571776
  },
  "ja:S12a-237": {
-  "price": 10,
+  "price": 4.82,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/103058",
-  "listingName": "Raihan SAR[s12a 237/172](High Class Pack \"VSTAR  Universe\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571775",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 45,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/103058/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571775",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571775
  },
  "ja:S12a-236": {
-  "price": 25,
+  "price": 19.7,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/104900",
-  "listingName": "Irida SAR[s12a 236/172](High Class Pack \"VSTAR Universe\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571774",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 95,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/104900/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571774",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571774
  },
  "ja:S12a-235": {
-  "price": 7,
+  "price": 2.96,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/105529",
-  "listingName": "Colress's Experiment SAR[s12a 235/172](High Class Pack \"VSTAR Universe\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/571773",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 63,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/105529/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/571773",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 571773
  },
  "ja:SV1V-108": {
   "price": 15,
@@ -2910,104 +3240,234 @@
   "stale": false
  },
  "ja:SV2a-201": {
-  "price": 268,
+  "price": 388.35,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/128117",
-  "listingName": "Charizard ex SAR [SV2a 201/165](Enhanced Expansion Pack \"Pokemon Card 151\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/566544",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 700,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/128117/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/566544",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 566544
  },
  "ja:SV2a-208": {
-  "price": 27,
+  "price": 39.82,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/128124",
-  "listingName": "Mew ex UR[SV2a 208/165](Enhanced Expansion Pack \"Pokemon Card 151\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/566550",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 128,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/128124/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/566550",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 566550
  },
  "ja:SV2a-202": {
-  "price": 58,
+  "price": 147.2,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/128118",
-  "listingName": "Blastoise ex SAR[SV2a 202/165](Enhanced Expansion Pack \"Pokemon Card 151\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/566545",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 194,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/128118/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/566545",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 566545
  },
  "ja:SV2a-200": {
-  "price": 90,
+  "price": 103.28,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/128116",
-  "listingName": "Venusaur ex SAR[SV2a 200/165](Enhanced Expansion Pack \"Pokemon Card 151\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/566543",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 179,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/128116/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/566543",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 566543
  },
  "ja:SV2a-206": {
-  "price": 29,
+  "price": 30.24,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/128122",
-  "listingName": "Erika’s Invitation SAR[SV2a 206/165](Enhanced Expansion Pack \"Pokemon Card 151\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/566548",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 146,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/128122/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/566548",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 566548
  },
  "ja:SV2a-204": {
-  "price": 71,
+  "price": 84.55,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/128120",
-  "listingName": "Zapdos ex SAR[SV2a 204/165](Enhanced Expansion Pack \"Pokemon Card 151\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/566547",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 160,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/128120/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/566547",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 566547
  },
  "ja:SV2a-203": {
-  "price": 52,
+  "price": 56.58,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/128119",
-  "listingName": "Alakazam ex SAR[SV2a 203/165](Enhanced Expansion Pack \"Pokemon Card 151\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/566546",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 122,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/128119/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/566546",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 566546
  },
  "ja:SV2a-207": {
-  "price": 26,
+  "price": 18.36,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/128123",
-  "listingName": "Giovanni’s Charisma SAR[SV2a 207/165](Enhanced Expansion Pack \"Pokemon Card 151\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/566549",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 87,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/128123/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/566549",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 566549
  },
  "ja:SV2a-173": {
-  "price": 20,
+  "price": 21.37,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/128089",
-  "listingName": "Pikachu AR[SV2a 173/165](Enhanced Expansion Pack \"Pokemon Card 151\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/566518",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 88,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/128089/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/566518",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 566518
  },
  "ja:SV2a-168": {
-  "price": 21,
+  "price": 23.22,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/128084",
-  "listingName": "Charmander AR[SV2a 168/165](Enhanced Expansion Pack \"Pokemon Card 151\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/566513",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 83,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/128084/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/566513",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 566513
  },
  "ja:SV3-141": {
   "price": 15,
@@ -3390,94 +3850,183 @@
   "stale": false
  },
  "ja:SV4a-359": {
-  "price": 39,
+  "price": 3.09,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/164710",
-  "listingName": "Ting-Lu ex UR [SV4a 359/190](Enhanced Expansion Pack \"Shiny Treasure ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/567756",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/567756",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 567756
  },
  "ja:SV4a-358": {
-  "price": 13,
+  "price": 8.06,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/164709",
-  "listingName": "Miraidon ex UR [SV4a 358/190](Enhanced Expansion Pack \"Shiny Treasure ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/567755",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 144,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/164709/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/567755",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 567755
  },
  "ja:SV4a-357": {
-  "price": 9,
+  "price": 5,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/164708",
-  "listingName": "Chien-Pao ex UR [SV4a 357/190](Enhanced Expansion Pack \"Shiny Treasure ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/567754",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/567754",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 567754
  },
  "ja:SV4a-356": {
-  "price": 7,
+  "price": 7.16,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/164256",
-  "listingName": "Chi-Yu ex UR [SV4a 356/190](Enhanced Expansion Pack \"Shiny Treasure ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/567753",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/567753",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 567753
  },
  "ja:SV4a-355": {
-  "price": 8,
+  "price": 3.35,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/164707",
-  "listingName": "Wo-Chien ex UR [SV4a 355/190](Enhanced Expansion Pack \"Shiny Treasure ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/567752",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/567752",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 567752
  },
  "ja:SV4a-354": {
-  "price": 15,
+  "price": 13.49,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/164255",
-  "listingName": "Penny SAR [SV4a 354/190](Enhanced Expansion Pack \"Shiny Treasure ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/577567",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 71,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/164255/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/577567",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 577567
  },
  "ja:SV4a-353": {
-  "price": 9,
+  "price": 6.64,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/161472",
-  "listingName": "Arven SAR [SV4a 353/190](High Class Pack \"Shiny Treasure ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/567751",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 50,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/161472/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/567751",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 567751
  },
  "ja:SV4a-352": {
-  "price": 25,
+  "price": 20.11,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/164253",
-  "listingName": "Clive SAR [SV4a 352/190](Enhanced Expansion Pack \"Shiny Treasure ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/567750",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 85,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/164253/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/567750",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 567750
  },
  "ja:SV4a-351": {
-  "price": 8,
+  "price": 4.84,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/164252",
-  "listingName": "Nemona SAR [SV4a 351/190](Enhanced Expansion Pack \"Shiny Treasure ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/577566",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 46,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/164252/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/577566",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 577566
  },
  "ja:SV5M-100": {
   "price": 12,
@@ -4150,1104 +4699,2456 @@
   "stale": false
  },
  "ja:SV8-137": {
-  "price": 18,
+  "price": 5.03,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/418756",
-  "listingName": "Night Stretcher UR [SV8 137/106](Expansion Pack \"Supercharged Breaker / Super Electric Breaker\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/587702",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 192,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/418756/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/587702",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 587702
  },
  "ja:SV8-136": {
-  "price": 45,
+  "price": 76.5,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/418755",
-  "listingName": "Pikachu ex UR [SV8 136/106](Expansion Pack \"Supercharged Breaker / Super Electric Breaker\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/587703",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 319,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/418755/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/587703",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 587703
  },
  "ja:SV8-135": {
-  "price": 25,
+  "price": 21.06,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/416951",
-  "listingName": "Jasmine's Gaze SAR [SV8 135/106](Expansion Pack \"Supercharged Breaker / Super Electric Breaker\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/587697",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 118,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/416951/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/587697",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 587697
  },
  "ja:SV8-134": {
-  "price": 7,
+  "price": 6.1,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/418754",
-  "listingName": "Clemont’s Quick Wit SAR [SV8 134/106](Expansion Pack \"Supercharged Breaker / Super Electric Breaker\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/587712",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 34,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/418754/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/587712",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 587712
  },
  "ja:SV8-133": {
-  "price": 20,
+  "price": 28.05,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/413158",
-  "listingName": "Hydreigon ex SAR [SV8 133/106](Expansion Pack \"Supercharged Breaker / Super Electric Breaker\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/587700",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 64,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/413158/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/587700",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 587700
  },
  "ja:SV8-132": {
-  "price": 234,
+  "price": 253.96,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/408333",
-  "listingName": "Pikachu ex SAR [SV8 132/106](Expansion Pack \"Supercharged Breaker / Super Electric Breaker\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/587699",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 561,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/408333/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/587699",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 587699
  },
  "ja:SV8-131": {
-  "price": 64,
+  "price": 98.73,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/408331",
-  "listingName": "Milotic ex SAR [SV8 131/106](Expansion Pack \"Supercharged Breaker / Super Electric Breaker\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/587698",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 141,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/408331/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/587698",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 587698
  },
  "ja:SV8-130": {
-  "price": 13,
+  "price": 24.58,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/418753",
-  "listingName": "Durant ex SAR [SV8 130/106](Expansion Pack \"Supercharged Breaker / Super Electric Breaker\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/587711",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/587711",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 587711
  },
  "ja:SV8-138": {
-  "price": 23,
+  "price": 6.8,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/418757",
-  "listingName": "Gravity Mountain UR [SV8 138/106](Expansion Pack \"Supercharged Breaker / Super Electric Breaker\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/587701",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/587701",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 587701
  },
  "ja:SV8-118": {
-  "price": 7,
+  "price": 3.04,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/414090",
-  "listingName": "Kecleon AR [SV8 118/106](Expansion Pack \"Supercharged Breaker / Super Electric Breaker\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/587693",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 28,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/414090/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/587693",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 587693
  },
  "ja:SV8a-237": {
-  "price": 8,
+  "price": 5.57,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/469639",
-  "listingName": "Terapagos ex UR [SV8a 237/187](High Class Pack \"Terastal Festival ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/602701",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 39,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/469639/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/602701",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 602701
  },
  "ja:SV8a-236": {
-  "price": 51,
+  "price": 56.97,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/469638",
-  "listingName": "Pikachu ex UR [SV8a 236/187](High Class Pack \"Terastal Festival ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/602700",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 160,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/469638/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/602700",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 602700
  },
  "ja:SV8a-235": {
-  "price": 13,
+  "price": 3.88,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/469637",
-  "listingName": "Walking Wake ex UR [SV8a 235/187](High Class Pack \"Terastal Festival ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/602699",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 44,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/469637/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/602699",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 602699
  },
  "ja:SV8a-234": {
-  "price": 7,
+  "price": 4.96,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/469636",
-  "listingName": "Teal Mask Ogerpon ex UR [SV8a 234/187](High Class Pack \"Terastal Festival ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/602698",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 70,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/469636/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/602698",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 602698
  },
  "ja:SV8a-233": {
-  "price": 7,
+  "price": 3.72,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/469635",
-  "listingName": "Iron Leaves ex UR [SV8a 233/187](High Class Pack \"Terastal Festival ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/602697",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/602697",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 602697
  },
  "ja:SV8a-232": {
-  "price": 7,
+  "price": 2.38,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/469634",
-  "listingName": "Amarys SAR [SV8a 232/187](High Class Pack \"Terastal Festival ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/602696",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/602696",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 602696
  },
  "ja:SV8a-231": {
-  "price": 9,
+  "price": 7.13,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/469633",
-  "listingName": "Lacey SAR [SV8a 231/187](High Class Pack \"Terastal Festival ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/602695",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 55,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/469633/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/602695",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 602695
  },
  "ja:SV8a-230": {
-  "price": 7,
+  "price": 5.14,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/466512",
-  "listingName": "Kieran SAR [SV8a 230/187](High Class Pack \"Terastal Festival ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/602694",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 32,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/466512/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/602694",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 602694
  },
  "ja:SV8a-229": {
-  "price": 7,
+  "price": 3.62,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/469632",
-  "listingName": "Drayton SAR [SV8a 229/187](High Class Pack \"Terastal Festival ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/602693",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 64,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/469632/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/602693",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 602693
  },
  "ja:SV8a-228": {
-  "price": 7,
+  "price": 4.82,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/471674",
-  "listingName": "Janine's Secret Art SAR [SV8a 228/187](High Class Pack \"Terastal Festival ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/602692",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 42,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/471674/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/602692",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 602692
  },
  "ja:SV9-132": {
-  "price": 7,
+  "price": 3.89,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/506161",
-  "listingName": "Spiky Energy UR [SV9 132/100](Expansion Pack \"Battle Partners\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/615008",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/615008",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 615008
  },
  "ja:SV9-131": {
-  "price": 9,
+  "price": 12.76,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/506160",
-  "listingName": "N's Zoroark ex UR [SV9 131/100](Expansion Pack \"Battle Partners\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/615007",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 40,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/506160/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/615007",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 615007
  },
  "ja:SV9-130": {
-  "price": 15,
+  "price": 12.56,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/505958",
-  "listingName": "Iono's Bellibolt ex UR [SV9 130/100](Expansion Pack \"Battle Partners\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/615006",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 45,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/505958/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/615006",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 615006
  },
  "ja:SV9-129": {
-  "price": 25,
+  "price": 32.44,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/505957",
-  "listingName": "Salamence ex SAR [SV9 129/100](Expansion Pack \"Battle Partners\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/615005",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 64,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/505957/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/615005",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 615005
  },
  "ja:SV9-128": {
-  "price": 26,
+  "price": 22.48,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/489824",
-  "listingName": "Zacian ex SAR [SV9 128/100](Expansion Pack \"Battle Partners\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/615004",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 45,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/489824/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/615004",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 615004
  },
  "ja:SV9-127": {
-  "price": 39,
+  "price": 41.19,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/506159",
-  "listingName": "N's Zoroark ex SAR [SV9 127/100](Expansion Pack \"Battle Partners\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/615003",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 74,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/506159/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/615003",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 615003
  },
  "ja:SV9-126": {
-  "price": 115,
+  "price": 126.46,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/505956",
-  "listingName": "Lillie's Clefairy ex SAR [SV9 126/100](Expansion Pack \"Battle Partners\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/615002",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 236,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/505956/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/615002",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 615002
  },
  "ja:SV9-125": {
-  "price": 48,
+  "price": 37.7,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/485655",
-  "listingName": "Iono's Bellibolt ex SAR [SV9 125/100](Expansion Pack \"Battle Partners\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/615001",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 96,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/485655/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/615001",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 615001
  },
  "ja:SV9-124": {
-  "price": 13,
+  "price": 12.01,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/506158",
-  "listingName": "Volcanion ex SAR [SV9 124/100](Expansion Pack \"Battle Partners\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/615000",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 34,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/506158/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/615000",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 615000
  },
  "ja:SV9-123": {
-  "price": 7,
+  "price": 1.69,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/505955",
-  "listingName": "Brock's Scouting SR [SV9 123/100](Expansion Pack \"Battle Partners\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/614999",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/614999",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 614999
  },
  "ja:SV9a-092": {
-  "price": 15,
+  "price": 6.6,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/546120",
-  "listingName": "Levincia UR [SV9a 092/063](Enhanced Expansion Pack \"Hot Wind Arena (Heat Wave Arena)\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/623340",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/623340",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 623340
  },
  "ja:SV9a-091": {
-  "price": 34,
+  "price": 29.14,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/546119",
-  "listingName": "Cynthia's Garchomp ex UR [SV9a 091/063](Enhanced Expansion Pack \"Hot Wind Arena (Heat Wave Arena)\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/623339",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 64,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/546119/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/623339",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 623339
  },
  "ja:SV9a-090": {
-  "price": 32,
+  "price": 17.59,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/546118",
-  "listingName": "Ethan's Ho-Oh ex UR [SV9a 090/063](Enhanced Expansion Pack \"Hot Wind Arena (Heat Wave Arena)\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/623338",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 43,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/546118/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/623338",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 623338
  },
  "ja:SV9a-089": {
-  "price": 36,
+  "price": 42.6,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/546117",
-  "listingName": "Ethan's Adventure SAR [SV9a 089/063](Enhanced Expansion Pack \"Hot Wind Arena (Heat Wave Arena)\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/623337",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 111,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/546117/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/623337",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 623337
  },
  "ja:SV9a-088": {
-  "price": 7,
+  "price": 24.45,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/546116",
-  "listingName": "Arven's Mabosstiff ex SAR [SV9a 088/063](Enhanced Expansion Pack \"Hot Wind Arena (Heat Wave Arena)\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/623336",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 41,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/546116/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/623336",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 623336
  },
  "ja:SV9a-087": {
-  "price": 205,
+  "price": 215.09,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/538636",
-  "listingName": "Cynthia's Garchomp ex SAR [SV9a 087/063](Enhanced Expansion Pack \"Hot Wind Arena (Heat Wave Arena)\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/623335",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 383,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/538636/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/623335",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 623335
  },
  "ja:SV9a-086": {
-  "price": 160,
+  "price": 137.9,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/525751",
-  "listingName": "Ethan's Ho-Oh ex SAR [SV9a 086/063](Enhanced Expansion Pack \"Hot Wind Arena (Heat Wave Arena)\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/623334",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 297,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/525751/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/623334",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 623334
  },
  "ja:SV9a-085": {
-  "price": 16,
+  "price": 14.46,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/546115",
-  "listingName": "Yanmega ex SAR [SV9a 085/063](Enhanced Expansion Pack \"Hot Wind Arena (Heat Wave Arena)\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/623333",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 51,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/546115/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/623333",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 623333
  },
  "ja:SV9a-084": {
-  "price": 7,
+  "price": 2.52,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/546114",
-  "listingName": "Ethan's Adventure SR [SV9a 084/063](Enhanced Expansion Pack \"Hot Wind Arena (Heat Wave Arena)\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/623332",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 43,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/546114/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/623332",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 623332
  },
  "ja:SV9a-083": {
-  "price": 10,
+  "price": 1.22,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/546113",
-  "listingName": "Judge SR [SV9a 083/063](Enhanced Expansion Pack \"Hot Wind Arena (Heat Wave Arena)\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/623331",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/623331",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 623331
  },
  "ja:SV10-132": {
-  "price": 8,
+  "price": 9.66,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/568328",
-  "listingName": "Jamming Tower UR [SV10 132/098](Expansion Pack \"Glory of Team Rocket\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/629074",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/629074",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 629074
  },
  "ja:SV10-131": {
-  "price": 16,
+  "price": 11.51,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/568327",
-  "listingName": "Team Rocket's Crobat UR [SV10 131/098](Expansion Pack \"Glory of Team Rocket\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/629072",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 51,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/568327/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/629072",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 629072
  },
  "ja:SV10-130": {
-  "price": 45,
+  "price": 44.18,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/568904",
-  "listingName": "Team Rocket's Mewtwo UR [SV10 130/098](Expansion Pack \"Glory of Team Rocket\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/629071",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 99,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/568904/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/629071",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 629071
  },
  "ja:SV10-129": {
-  "price": 18,
+  "price": 19.72,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/568326",
-  "listingName": "Team Rocket's Giovanni SAR [SV10 129/098](Expansion Pack \"Glory of Team Rocket\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/629070",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 106,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/568326/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/629070",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 629070
  },
  "ja:SV10-128": {
-  "price": 20,
+  "price": 20.26,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/568903",
-  "listingName": "Team Rocket's Ariana SAR [SV10 128/098](Expansion Pack \"Glory of Team Rocket\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/629069",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 56,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/568903/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/629069",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 629069
  },
  "ja:SV10-127": {
-  "price": 37,
+  "price": 52.57,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/568325",
-  "listingName": "Team Rocket's Crobat SAR [SV10 127/098](Expansion Pack \"Glory of Team Rocket\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/629068",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 117,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/568325/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/629068",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 629068
  },
  "ja:SV10-126": {
-  "price": 52,
+  "price": 85.55,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/568324",
-  "listingName": "Team Rocket's Nidoking ex SAR [SV10 126/098](Expansion Pack \"Glory of Team Rocket\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/629067",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 122,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/568324/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/629067",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 629067
  },
  "ja:SV10-125": {
-  "price": 236,
+  "price": 367.61,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/568902",
-  "listingName": "Team Rocket's Mewtwo ex SAR [SV10 125/098](Expansion Pack \"Glory of Team Rocket\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/629066",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 644,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/568902/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/629066",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 629066
  },
  "ja:SV10-124": {
-  "price": 87,
+  "price": 94.05,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/568323",
-  "listingName": "Team Rocket's Moltres ex SAR [SV10 124/098](Expansion Pack \"Glory of Team Rocket\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/629065",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 192,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/568323/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/629065",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 629065
  },
  "ja:SV10-110": {
-  "price": 7,
+  "price": 5.45,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/568317",
-  "listingName": "Kangaskhan AR [SV10 110/098](Expansion Pack \"Glory of Team Rocket\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/629051",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 32,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/568317/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/629051",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 629051
  },
  "ja:SV11B-173": {
-  "price": 27,
+  "price": 29,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
+  "condition": "raw (ungraded, 狀態 A) — SNKRDUNK 最低在售價",
   "source": "SNKRDUNK",
   "url": "https://snkrdunk.com/en/trading-cards/606907",
-  "listingName": "N's Plan SAR [SV11B 173/086](Expansion Pack \"Black Bolt\")",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 115,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/606907/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://snkrdunk.com/en/trading-cards/606907",
+   "kind": "SNKRDUNK"
+  },
+  "cardCheck": "2026-10-26"
  },
  "ja:SV11B-172": {
-  "price": 15,
+  "price": 23.57,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/608396",
-  "listingName": "Genesect ex SAR [SV11B 172/086](Expansion Pack \"Black Bolt\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636526",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 46,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/608396/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636526",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636526
  },
  "ja:SV11B-171": {
-  "price": 10,
+  "price": 11.88,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/608533",
-  "listingName": "Excadrill ex SAR [SV11B 171/086](Expansion Pack \"Black Bolt\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636525",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 39,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/608533/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636525",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636525
  },
  "ja:SV11B-170": {
-  "price": 18,
+  "price": 27.94,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/607256",
-  "listingName": "Meloetta ex SAR [SV11B 170/086](Expansion Pack \"Black Bolt\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636524",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 40,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/607256/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636524",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636524
  },
  "ja:SV11B-169": {
-  "price": 106,
+  "price": 182.8,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/607934",
-  "listingName": "Zekrom ex SAR [SV11B 169/086](Expansion Pack \"Black Bolt\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636523",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 220,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/607934/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636523",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636523
  },
  "ja:SV11B-168": {
-  "price": 25,
+  "price": 42.01,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/608395",
-  "listingName": "Kyurem ex SAR [SV11B 168/086](Expansion Pack \"Black Bolt\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636522",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 64,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/608395/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636522",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636522
  },
  "ja:SV11B-167": {
-  "price": 22,
+  "price": 39.48,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/584787",
-  "listingName": "Serperior ex SAR [SV11B 167/086](Expansion Pack \"Black Bolt\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636521",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 45,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/584787/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636521",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636521
  },
  "ja:SV11B-174": {
-  "price": 243,
+  "price": 305.86,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/585213",
-  "listingName": "Zekrom ex BWR [SV11B 174/086](Expansion Pack \"Black Bolt\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636528",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 702,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/585213/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636528",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636528
  },
  "ja:SV11B-158": {
-  "price": 20,
+  "price": 14.86,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/608525",
-  "listingName": "Cinccino AR [SV11B 158/086](Expansion Pack \"Black Bolt\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636512",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 45,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/608525/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636512",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636512
  },
  "ja:SV11B-157": {
-  "price": 58,
+  "price": 15.29,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/608524",
-  "listingName": "Minccino AR [SV11B 157/086](Expansion Pack \"Black Bolt\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636511",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 58,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/608524/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636511",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636511
  },
  "ja:SV11W-173": {
-  "price": 36,
+  "price": 36.52,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/607941",
-  "listingName": "Hilda SAR [SV11W 173/086](Expansion Pack \"White Flare\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636726",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 125,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/607941/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636726",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636726
  },
  "ja:SV11W-172": {
-  "price": 34,
+  "price": 13.53,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/607940",
-  "listingName": "Bouffalant ex SAR [SV11W 172/086](Expansion Pack \"White Flare\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636725",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 34,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/607940/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636725",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636725
  },
  "ja:SV11W-171": {
-  "price": 32,
+  "price": 47.45,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/608397",
-  "listingName": "Hydreigon ex SAR [SV11W 171/086](Expansion Pack \"White Flare\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636724",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 59,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/608397/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636724",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636724
  },
  "ja:SV11W-170": {
-  "price": 16,
+  "price": 21.59,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/608604",
-  "listingName": "Jellicent ex SAR [SV11W 170/086](Expansion Pack \"White Flare\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636723",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 37,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/608604/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636723",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636723
  },
  "ja:SV11W-169": {
-  "price": 23,
+  "price": 38.33,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/607939",
-  "listingName": "Keldeo ex SAR [SV11W 169/086](Expansion Pack \"White Flare\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636722",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 58,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/607939/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636722",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636722
  },
  "ja:SV11W-168": {
-  "price": 128,
+  "price": 169.53,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/607938",
-  "listingName": "Reshiram ex SAR [SV11W 168/086](Expansion Pack \"White Flare\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636721",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 211,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/607938/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636721",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636721
  },
  "ja:SV11W-167": {
-  "price": 16,
+  "price": 19.46,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/607937",
-  "listingName": "Whimsicott ex SAR [SV11W 167/086](Expansion Pack \"White Flare\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636720",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 42,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/607937/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636720",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636720
  },
  "ja:SV11W-174": {
-  "price": 316,
+  "price": 309.87,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/585221",
-  "listingName": "Reshiram ex BWR [SV11W 174/086](Expansion Pack \"White Flare\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636727",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 734,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/585221/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636727",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636727
  },
  "ja:SV11W-158": {
-  "price": 7,
+  "price": 2.09,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/585877",
-  "listingName": "Tornadus AR [SV11W 158/086](Expansion Pack \"White Flare\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636711",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 29,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/585877/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636711",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636711
  },
  "ja:SV11W-157": {
-  "price": 7,
+  "price": 4.46,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/608597",
-  "listingName": "Braviary AR [SV11W 157/086](Expansion Pack \"White Flare\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/636710",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 37,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/608597/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/636710",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 636710
  },
  "ja:M1L-092": {
-  "price": 163,
+  "price": 265.46,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/663638",
-  "listingName": "MEGA Lucario ex MUR [M1L 092/063](Expansion Pack \"Mega Brave\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647201",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 772,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/663638/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647201",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647201
  },
  "ja:M1L-091": {
-  "price": 77,
+  "price": 127.14,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/663637",
-  "listingName": "Lillie's Determination SAR [M1L 091/063](Expansion Pack \"Mega Brave\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647200",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 348,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/663637/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647200",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647200
  },
  "ja:M1L-090": {
-  "price": 7,
+  "price": 5.36,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/664110",
-  "listingName": "Lt. Surge's Transaction SAR [M1L 090/063](Expansion Pack \"Mega Brave\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647199",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 36,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/664110/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647199",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647199
  },
  "ja:M1L-089": {
-  "price": 8,
+  "price": 18.96,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/664109",
-  "listingName": "MEGA Absol ex SAR [M1L 089/063](Expansion Pack \"Mega Brave\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647198",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 57,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/664109/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647198",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647198
  },
  "ja:M1L-088": {
-  "price": 36,
+  "price": 75.59,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/657364",
-  "listingName": "MEGA Lucario ex SAR [M1L 088/063](Expansion Pack \"Mega Brave\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647197",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 95,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/657364/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647197",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647197
  },
  "ja:M1L-087": {
-  "price": 23,
+  "price": 39.46,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/657363",
-  "listingName": "MEGA Venusaur ex SAR [M1L 087/063](Expansion Pack \"Mega Brave\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647196",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 79,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/657363/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647196",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647196
  },
  "ja:M1L-075": {
-  "price": 7,
+  "price": 1.53,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/664103",
-  "listingName": "Gumshoos AR [M1L 075/063](Expansion Pack \"Mega Brave\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647184",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 28,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/664103/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647184",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647184
  },
  "ja:M1L-074": {
-  "price": 7,
+  "price": 1.62,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/664102",
-  "listingName": "Spearow AR [M1L 074/063](Expansion Pack \"Mega Brave\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647183",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 26,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/664102/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647183",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647183
  },
  "ja:M1L-073": {
-  "price": 7,
+  "price": 1.78,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/664101",
-  "listingName": "Steelix AR [M1L 073/063](Expansion Pack \"Mega Brave\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647182",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 27,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/664101/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647182",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647182
  },
  "ja:M1L-072": {
-  "price": 7,
+  "price": 1.25,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/664100",
-  "listingName": "Shroodle AR [M1L 072/063](Expansion Pack \"Mega Brave\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647181",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 26,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/664100/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647181",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647181
  },
  "ja:M1S-092": {
-  "price": 141,
+  "price": 240.51,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/663661",
-  "listingName": "MEGA Gardevoir ex MUR [M1S 092/063](Expansion Pack \"Mega Symphonia\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647207",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 957,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/663661/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647207",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647207
  },
  "ja:M1S-091": {
-  "price": 7,
+  "price": 9.9,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/664124",
-  "listingName": "Wally's Compassion SAR [M1S 091/063](Expansion Pack \"Mega Symphonia\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647223",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 43,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/664124/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647223",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647223
  },
  "ja:M1S-090": {
-  "price": 16,
+  "price": 21.76,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/663641",
-  "listingName": "Acerola's Mischief SAR [M1S 090/063](Expansion Pack \"Mega Symphonia\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647237",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 122,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/663641/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647237",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647237
  },
  "ja:M1S-089": {
-  "price": 18,
+  "price": 26.81,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/657366",
-  "listingName": "MEGA Kangaskhan ex SAR [M1S 089/063](Expansion Pack \"Mega Symphonia\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647240",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 48,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/657366/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647240",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647240
  },
  "ja:M1S-088": {
-  "price": 19,
+  "price": 30.79,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/664092",
-  "listingName": "MEGA Latias ex SAR [M1S 088/063](Expansion Pack \"Mega Symphonia\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647217",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 76,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/664092/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647217",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647217
  },
  "ja:M1S-087": {
-  "price": 44,
+  "price": 91.16,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/657365",
-  "listingName": "MEGA Gardevoir ex SAR [M1S 087/063](Expansion Pack \"Mega Symphonia\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647206",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 140,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/657365/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647206",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647206
  },
  "ja:M1S-086": {
-  "price": 7,
+  "price": 0.5,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/663640",
-  "listingName": "Mystery Garden SR [M1S 086/063](Expansion Pack \"Mega Symphonia\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647225",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647225",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647225
  },
  "ja:M1S-085": {
-  "price": 7,
+  "price": 1.16,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/664123",
-  "listingName": "Wally's Compassion SR [M1S 085/063](Expansion Pack \"Mega Symphonia\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647222",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 32,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/664123/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647222",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647222
  },
  "ja:M1S-084": {
-  "price": 7,
+  "price": 3.47,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/664122",
-  "listingName": "Acerola's Mischief SR [M1S 084/063](Expansion Pack \"Mega Symphonia\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647236",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 76,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/664122/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647236",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647236
  },
  "ja:M1S-083": {
-  "price": 7,
+  "price": 0.38,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/664091",
-  "listingName": "Mega Signal SR [M1S 083/063](Expansion Pack \"Mega Symphonia\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/647220",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/647220",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 647220
  },
  "ja:M2-116": {
-  "price": 440,
+  "price": 657.84,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/704407",
-  "listingName": "MEGA Charizard X ex MUR [M2 116/080](Expansion Pack \"Inferno X\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/655892",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 2289,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/704407/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/655892",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 655892
  },
  "ja:M2-115": {
-  "price": 18,
+  "price": 21.36,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/704406",
-  "listingName": "Dawn SAR [M2 115/080](Expansion Pack \"Inferno X\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/655891",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 60,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/704406/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/655891",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 655891
  },
  "ja:M2-114": {
-  "price": 10,
+  "price": 6.75,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/704405",
-  "listingName": "MEGA Lopunny ex SAR [M2 114/080](Expansion Pack \"Inferno X\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/655890",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 37,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/704405/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/655890",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 655890
  },
  "ja:M2-113": {
-  "price": 8,
+  "price": 12.05,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/704404",
-  "listingName": "MEGA Sharpedo ex SAR [M2 113/080](Expansion Pack \"Inferno X\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/655889",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 36,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/704404/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/655889",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 655889
  },
  "ja:M2-112": {
-  "price": 7,
+  "price": 10.53,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/704403",
-  "listingName": "Rotom ex SAR [M2 112/080](Expansion Pack \"Inferno X\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/655888",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 32,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/704403/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/655888",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 655888
  },
  "ja:M2-111": {
-  "price": 23,
+  "price": 26.13,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/704402",
-  "listingName": "Oricorio ex SAR [M2 111/080](Expansion Pack \"Inferno X\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/655887",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 60,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/704402/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/655887",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 655887
  },
  "ja:M2-110": {
-  "price": 396,
+  "price": 706.04,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/704401",
-  "listingName": "MEGA Charizard X ex SAR [M2 110/080](Expansion Pack \"Inferno X\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/655886",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 759,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/704401/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/655886",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 655886
  },
  "ja:M2-092": {
-  "price": 7,
+  "price": 1.33,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/702702",
-  "listingName": "Ambipom AR [M2 092/080](Expansion Pack \"Inferno X\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/655871",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 26,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/702702/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/655871",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 655871
  },
  "ja:M2-091": {
-  "price": 7,
+  "price": 2.98,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/704383",
-  "listingName": "Wigglytuff AR [M2 091/080](Expansion Pack \"Inferno X\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/655870",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 27,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/704383/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/655870",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 655870
  },
  "ja:M2-090": {
-  "price": 7,
+  "price": 1.88,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/703344",
-  "listingName": "Togedemaru AR [M2 090/080](Expansion Pack \"Inferno X\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/655869",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 26,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/703344/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/655869",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 655869
  },
  "ja:M2a-250": {
-  "price": 96,
+  "price": 192.43,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/730968",
-  "listingName": "MEGA Dragonite ex MUR [M2a 250/193](High Class Pack \"MEGA Dream ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/665921",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 405,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/730968/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/665921",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 665921
  },
  "ja:M2a-249": {
-  "price": 7,
+  "price": 8.12,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/730967",
-  "listingName": "Surfer SAR [M2a 249/193](High Class Pack \"MEGA Dream ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/665920",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 39,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/730967/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/665920",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 665920
  },
  "ja:M2a-248": {
-  "price": 15,
+  "price": 14.44,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/730966",
-  "listingName": "Canari SAR [M2a 248/193](High Class Pack \"MEGA Dream ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/665919",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 60,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/730966/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/665919",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 665919
  },
  "ja:M2a-247": {
-  "price": 11,
+  "price": 12.98,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/730965",
-  "listingName": "Iris's Fighting Spirit SAR [M2a 247/193](High Class Pack \"MEGA Dream ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/665918",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 46,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/730965/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/665918",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 665918
  },
  "ja:M2a-246": {
-  "price": 103,
+  "price": 158.8692,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/730964",
-  "listingName": "MEGA Dragonite ex SAR [M2a 246/193](High Class Pack \"MEGA Dream ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/665917",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 217,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/730964/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/665917",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 665917
  },
  "ja:M2a-245": {
-  "price": 18,
+  "price": 24.83,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/730963",
-  "listingName": "Steven's Metagross ex SAR [M2a 245/193](High Class Pack \"MEGA Dream ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/665916",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 42,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/730963/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/665916",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 665916
  },
  "ja:M2a-244": {
-  "price": 10,
+  "price": 14.54,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/730962",
-  "listingName": "Fezandipiti ex SAR [M2a 244/193](High Class Pack \"MEGA Dream ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/665915",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 60,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/730962/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/665915",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 665915
  },
  "ja:M2a-243": {
-  "price": 16,
+  "price": 24.99,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/724997",
-  "listingName": "Marnie's Grimmsnarl ex SAR [M2a 243/193](High Class Pack \"MEGA Dream ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/665914",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 41,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/724997/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/665914",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 665914
  },
  "ja:M2a-242": {
-  "price": 32,
+  "price": 50.39,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/730961",
-  "listingName": "N's Zoroark ex SAR [M2a 242/193](High Class Pack \"MEGA Dream ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/665913",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 67,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/730961/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/665913",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 665913
  },
  "ja:M2a-241": {
-  "price": 7,
+  "price": 12,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/730960",
-  "listingName": "MEGA Scrafty ex SAR [M2a 241/193](High Class Pack \"MEGA Dream ex\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/665912",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 33,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/730960/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/665912",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 665912
  },
  "ja:MC-766": {
   "price": 1594,
@@ -5440,284 +7341,592 @@
   "stale": false
  },
  "ja:M4-120": {
-  "price": 198,
+  "price": 432.49,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/776371",
-  "listingName": "MEGA Greninja ex MUR [M4 120/083](Expansion Pack \"Ninja Spinner\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/683771",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 638,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/776371/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/683771",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 683771
  },
  "ja:M4-119": {
-  "price": 7,
+  "price": 6.91,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/776370",
-  "listingName": "Roxie's Performance SAR [M4 119/083](Expansion Pack \"Ninja Spinner\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/683770",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 36,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/776370/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/683770",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 683770
  },
  "ja:M4-118": {
-  "price": 7,
+  "price": 7.25,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/776369",
-  "listingName": "AZ's Tranquility SAR [M4 118/083](Expansion Pack \"Ninja Spinner\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/683769",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 34,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/776369/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/683769",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 683769
  },
  "ja:M4-117": {
-  "price": 18,
+  "price": 32.14,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/776368",
-  "listingName": "Cinccino ex SAR [M4 117/083](Expansion Pack \"Ninja Spinner\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/683768",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 38,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/776368/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/683768",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 683768
  },
  "ja:M4-116": {
-  "price": 10,
+  "price": 11.63,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/776367",
-  "listingName": "MEGA Dragalge ex SAR [M4 116/083](Expansion Pack \"Ninja Spinner\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/683767",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 31,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/776367/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/683767",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 683767
  },
  "ja:M4-115": {
-  "price": 8,
+  "price": 11.47,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/776366",
-  "listingName": "MEGA Floette ex SAR [M4 115/083](Expansion Pack \"Ninja Spinner\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/683766",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 30,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/776366/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/683766",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 683766
  },
  "ja:M4-114": {
-  "price": 90,
+  "price": 224.57,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/776365",
-  "listingName": "MEGA Greninja ex SAR [M4 114/083](Expansion Pack \"Ninja Spinner\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/683765",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 184,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/776365/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/683765",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 683765
  },
  "ja:M4-095": {
-  "price": 7,
+  "price": 1.11,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/776346",
-  "listingName": "Watchog AR [M4 095/083](Expansion Pack \"Ninja Spinner\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/683746",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 27,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/776346/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/683746",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 683746
  },
  "ja:M4-094": {
-  "price": 7,
+  "price": 1.98,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/774257",
-  "listingName": "Tauros AR [M4 094/083](Expansion Pack \"Ninja Spinner\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/683745",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 26,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/774257/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/683745",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 683745
  },
  "ja:M4-093": {
-  "price": 7,
+  "price": 1.76,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/776345",
-  "listingName": "Sliggoo AR [M4 093/083](Expansion Pack \"Ninja Spinner\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/683744",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 27,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/776345/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/683744",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 683744
  },
  "ja:M5-118": {
-  "price": 138,
+  "price": 391.89,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/826556",
-  "listingName": "MEGA Darkrai ex MUR [M5 118/081](Expansion Pack \"Abyss Eye\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/695000",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 414,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/826556/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/695000",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 695000
  },
  "ja:M5-117": {
-  "price": 19,
+  "price": 28.62,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/819813",
-  "listingName": "Gwynn SAR [M5 117/081](Expansion Pack \"Abyss Eye\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/695043",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 96,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/819813/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/695043",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 695043
  },
  "ja:M5-116": {
-  "price": 7,
+  "price": 13.79,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/826555",
-  "listingName": "Gladion's Decisive Battle SAR [M5 116/081](Expansion Pack \"Abyss Eye\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/695108",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 45,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/826555/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/695108",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 695108
  },
  "ja:M5-115": {
-  "price": 18,
+  "price": 24.62,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/826554",
-  "listingName": "Morpeko ex SAR [M5 115/081](Expansion Pack \"Abyss Eye\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/695089",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 80,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/826554/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/695089",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 695089
  },
  "ja:M5-114": {
-  "price": 85,
+  "price": 167.15,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/826553",
-  "listingName": "MEGA Darkrai ex SAR [M5 114/081](Expansion Pack \"Abyss Eye\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/694999",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 182,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/826553/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/694999",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 694999
  },
  "ja:M5-113": {
-  "price": 10,
+  "price": 14.53,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/819812",
-  "listingName": "MEGA Chandelure ex SAR [M5 113/081](Expansion Pack \"Abyss Eye\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/695037",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 48,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/819812/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/695037",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 695037
  },
  "ja:M5-112": {
-  "price": 15,
+  "price": 19.3,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/826552",
-  "listingName": "MEGA Zeraora ex SAR [M5 112/081](Expansion Pack \"Abyss Eye\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/695051",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 80,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/826552/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/695051",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 695051
  },
  "ja:M5-093": {
-  "price": 7,
+  "price": 2.06,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/826534",
-  "listingName": "Silvally AR [M5 093/081](Expansion Pack \"Abyss Eye\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/695101",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/695101",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 695101
  },
  "ja:M5-092": {
-  "price": 7,
+  "price": 1.98,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/826533",
-  "listingName": "Toucannon AR [M5 092/081](Expansion Pack \"Abyss Eye\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/695098",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/695098",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 695098
  },
  "ja:M5-091": {
-  "price": 7,
+  "price": 1.09,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/826532",
-  "listingName": "Bastiodon AR [M5 091/081](Expansion Pack \"Abyss Eye\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/695027",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 29,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/826532/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/695027",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 695027
  },
  "ja:M6-113": {
-  "price": 249,
+  "price": 747.33,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/868770",
-  "listingName": "MEGA Rayquaza ex MUR [M6 113/076](Expansion Pack \"Storm Emeralda\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/709267",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 1390,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/868770/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/709267",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 709267
  },
  "ja:M6-112": {
-  "price": 8,
+  "price": 21.63,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/868614",
-  "listingName": "Zinnia's Trust SAR [M6 112/076](Expansion Pack \"Storm Emeralda\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/709266",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/709266",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 709266
  },
  "ja:M6-111": {
-  "price": 7,
+  "price": 7.34,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/868613",
-  "listingName": "Aarune SAR [M6 111/076](Expansion Pack \"Storm Emeralda\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/709265",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/709265",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 709265
  },
  "ja:M6-110": {
-  "price": 128,
+  "price": 269.87,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/868612",
-  "listingName": "MEGA Rayquaza ex SAR [M6 110/076](Expansion Pack \"Storm Emeralda\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/709264",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 491,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/868612/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/709264",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 709264
  },
  "ja:M6-109": {
-  "price": 7,
+  "price": 17.01,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/868611",
-  "listingName": "MEGA Golurk ex SAR [M6 109/076](Expansion Pack \"Storm Emeralda\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/709262",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/709262",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 709262
  },
  "ja:M6-108": {
-  "price": 15,
+  "price": 43.76,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/868610",
-  "listingName": "Raikou ex SAR [M6 108/076](Expansion Pack \"Storm Emeralda\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/709261",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/709261",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 709261
  },
  "ja:M6-107": {
-  "price": 7,
+  "price": 10.27,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/868609",
-  "listingName": "MEGA Golisopod ex SAR [M6 107/076](Expansion Pack \"Storm Emeralda\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/709260",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/709260",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 709260
  },
  "ja:M6-105": {
-  "price": 7,
+  "price": 0.47,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/868894",
-  "listingName": "Nitro Energy SR [M6 105/076](Expansion Pack \"Storm Emeralda\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/709258",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/709258",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 709258
  },
  "en:sm5-157": {
   "price": 94.46,
@@ -11690,104 +13899,234 @@
   "stale": false
  },
  "ja:S6a-95": {
-  "price": 2359,
+  "price": 3762,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
+  "condition": "raw (ungraded, 狀態 A) — SNKRDUNK 最低在售價",
   "source": "SNKRDUNK",
   "url": "https://snkrdunk.com/en/trading-cards/93021",
-  "listingName": "Umbreon VMAX HR: SA[S6a 095/069](Enhanced Expansion Pack \"Eevee Heroes\")",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 4712,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/93021/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570557",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570557
  },
  "ja:S6a-93": {
-  "price": 606,
+  "price": 989,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
+  "condition": "raw (ungraded, 狀態 A) — SNKRDUNK 最低在售價",
   "source": "SNKRDUNK",
   "url": "https://snkrdunk.com/en/trading-cards/93022",
-  "listingName": "Sylveon VMAX HR: SA[S6a 093/069](Enhanced Expansion Pack \"Eevee Heroes\")",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 1518,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/93022/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570555",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570555
  },
  "ja:S6a-91": {
-  "price": 447,
+  "price": 370,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/93024",
-  "listingName": "Glaceon VMAX HR: SA[S6a 091/069](Enhanced Expansion Pack \"Eevee Heroes\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570553",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 947,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/93024/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570553",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570553
  },
  "ja:S6a-89": {
-  "price": 241,
+  "price": 302.87,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/93023",
-  "listingName": "Leafeon VMAX HR: SA[S6a 089/069](Enhanced Expansion Pack \"Eevee Heroes\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570551",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 702,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/93023/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570551",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570551
  },
  "ja:S6a-85": {
-  "price": 192,
+  "price": 280,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/91176",
-  "listingName": "Umbreon V SR: SA[S6a 085/069](Enhanced Expansion Pack \"Eevee Heroes\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570547",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 590,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/91176/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570547",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570547
  },
  "ja:S6a-75": {
-  "price": 102,
+  "price": 94.75,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/91172",
-  "listingName": "Vaporeon V SR: SA[S6a 075/069](Enhanced Expansion Pack \"Eevee Heroes\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570537",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 265,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/91172/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570537",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570537
  },
  "ja:S6a-83": {
-  "price": 96,
+  "price": 153.74,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/91177",
-  "listingName": "Sylveon V SR: SA[S6a 083/069](Enhanced Expansion Pack \"Eevee Heroes\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570545",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 286,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/91177/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570545",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570545
  },
  "ja:S6a-73": {
-  "price": 96,
+  "price": 114.5,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/91171",
-  "listingName": "Flareon V SR: SA[S6a 073/069](Enhanced Expansion Pack \"Eevee Heroes\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570535",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 268,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/91171/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570535",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570535
  },
  "ja:S6a-81": {
-  "price": 90,
+  "price": 150.23,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/91175",
-  "listingName": "Espeon V SR: SA[S6a 081/069](Enhanced Expansion Pack \"Eevee Heroes\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570543",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 261,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/91175/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570543",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570543
  },
  "ja:S6a-77": {
-  "price": 83,
+  "price": 112.77,
   "currency": "USD",
-  "condition": "raw (ungraded) — SNKRDUNK 最低在售價",
-  "source": "SNKRDUNK",
-  "url": "https://snkrdunk.com/en/trading-cards/91173",
-  "listingName": "Glaceon V SR: SA[S6a 077/069](Enhanced Expansion Pack \"Eevee Heroes\")",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/570539",
   "fetched": "2026-10-26",
-  "stale": false
+  "stale": false,
+  "psa10": {
+   "price": 319,
+   "currency": "USD",
+   "source": "SNKRDUNK",
+   "url": "https://snkrdunk.com/en/trading-cards/91173/used?condition=psa_10",
+   "fetched": "2026-10-26",
+   "note": "PSA 10 最低在售價"
+  },
+  "link": {
+   "url": "https://www.tcgplayer.com/product/570539",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 570539
  },
  "ja:S7R-83": {
   "price": 3061,
@@ -12218,5 +14557,101 @@
   "listingName": "Erika's Tangela AR Style [MC 743/742](Start Deck 100 \"Battle Collection\")",
   "fetched": "2026-10-26",
   "stale": false
+ },
+ "ja:SM12a-217": {
+  "price": 16.92,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/572870",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572870",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572870
+ },
+ "ja:SM12a-213": {
+  "price": 37.07,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/572866",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572866",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572866
+ },
+ "ja:SM12a-211": {
+  "price": 27.39,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/572864",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/572864",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 572864
+ },
+ "ja:SV4a-360": {
+  "price": 6.11,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/567757",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/567757",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 567757
+ },
+ "ja:M6-106": {
+  "price": 0.53,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/709259",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/709259",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 709259
+ },
+ "ja:M6-104": {
+  "price": 0.58,
+  "currency": "USD",
+  "condition": "raw (ungraded) — TCGplayer market price",
+  "source": "TCGplayer",
+  "url": "https://www.tcgplayer.com/product/709257",
+  "fetched": "2026-10-26",
+  "stale": false,
+  "psa10": null,
+  "link": {
+   "url": "https://www.tcgplayer.com/product/709257",
+   "kind": "TCGplayer"
+  },
+  "cardCheck": "2026-10-26",
+  "tcgplayerId": 709257
  }
 }

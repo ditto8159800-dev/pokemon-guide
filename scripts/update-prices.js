@@ -5,7 +5,10 @@
  *   node scripts/update-prices.js --only=ja   (one language)
  *   Only sets shown on the site (content/site-config.json: languages + keep list) are refreshed; pass --all to ignore that.
  * Sources:
- *   - Japanese cards: SNKRDUNK public search endpoint (https://snkrdunk.com/en/v1/search), lowest listed price (US$).
+ *   - Japanese cards: raw = TCGplayer market price of the exact Japanese product (found via TCGplayer search, verified by
+ *     product line + set code + card number; product page must resolve), fallback SNKRDUNK lowest condition-A listing.
+ *     PSA 10 = SNKRDUNK lowest PSA 10 listing on sale. Card image link = TCGplayer product page, fallback SNKRDUNK page.
+ *     SNKRDUNK public search endpoint (https://snkrdunk.com/en/v1/search) is still used per set to find each card.
  *     One listing request per set (paged), then cards are matched by "[CODE NNN/MMM]".
  *   - English cards: PriceCharting public product pages (no API token). If PriceCharting refuses automated
  *     requests (HTTP 403 / bot challenge) we stop calling it for the rest of the run and fall back to the
@@ -75,6 +78,35 @@ async function tcgplayerViaTcgdex(card){
   if(!best) return null;
   return {price:best.p,currency:'USD',condition:`raw (ungraded, TCGplayer market price, ${best.v})`,source:'TCGplayer（經 TCGdex）',url:`https://www.tcgplayer.com/product/${tp[best.v].productId}`,sourceUpdated:(tp.updated||'').slice(0,10)};
 }
+
+// ---- per-card helpers (Japanese cards) ----
+async function snkUsedLowest(id,conditionID){ // conditionID: 22 = PSA 10, 18 = A (near mint, ungraded)
+  const r=await get(`https://snkrdunk.com/en/v1/products/SW---${id}/used-listings?perPage=20&page=1&conditionID=${conditionID}&isOnlyOnSale=true&sortType=price_asc`,{host:'snkrdunk'});
+  if(r.status!==200) return null;
+  const xs=(r.body.usedListings||[]).filter(x=>!x.isSold&&x.currency==='USD'&&x.priceAmount>0).map(x=>x.priceAmount);
+  return xs.length?Math.min(...xs):null;
+}
+async function tcgSearch(q){
+  await polite('tcgplayer',800);
+  try{const r=await fetch(`https://mp-search-api.tcgplayer.com/v1/search/request?q=${encodeURIComponent(q)}&isList=false`,{method:'POST',headers:{'User-Agent':UA,'Content-Type':'application/json'},
+    body:JSON.stringify({algorithm:'sales_synonym_v2',from:0,size:24,filters:{term:{productLineName:['pokemon-japan']},range:{},match:{}},listingSearch:{context:{cart:{}},filters:{term:{sellerStatus:'Live',channelId:0},range:{quantity:{gte:1}},exclude:{channelExclusion:0}}},context:{cart:{},shippingCountry:'US',userProfile:{}},settings:{useFuzzySearch:false,didYouMean:{}},sort:{}})});
+    if(!r.ok) return [];const d=await r.json();return d.results?.[0]?.results||[];}catch(e){return [];}
+}
+async function tcgplayerJapan(set,card,enName){
+  const code=set.id.toLowerCase();const n=String(card.localId).replace(/^0+/,'');
+  const ok=x=>String(x.setName||'').toLowerCase().startsWith(code+':')&&String(x.customAttributes?.number||'').split('/')[0].replace(/^0+/,'')===n;
+  let hit=null;
+  for(const q of [enName&&`${enName} ${card.num}`,`${set.id} ${card.num}`,enName&&`${enName} ${set.id}`].filter(Boolean)){
+    hit=(await tcgSearch(q)).find(ok);if(hit) break;}
+  if(!hit) return null;
+  const id=Math.round(hit.productId);
+  // verify: product detail must exist, be the Japanese product line, and carry the same number; product page must resolve
+  const d=await get(`https://mp-search-api.tcgplayer.com/v2/product/${id}/details`,{host:'tcgplayer',ms:800});
+  if(d.status!==200||d.body.productLineUrlName!=='Pokemon Japan'||String(d.body.customAttributes?.number||'').split('/')[0].replace(/^0+/,'')!==n) return null;
+  const pg=await get(`https://www.tcgplayer.com/product/${id}`,{host:'tcgplayer-web',json:false,ms:800});
+  if(pg.status!==200) return null;
+  return {productId:id,url:`https://www.tcgplayer.com/product/${id}`,marketPrice:d.body.marketPrice??hit.marketPrice??null,name:d.body.productName||hit.productName};
+}
 function setPrice(key,val){
   if(val){prices[key]={...val,fetched:today,stale:false};stat.updated++;stat.bySource[val.source]=(stat.bySource[val.source]||0)+1;}
   else if(prices[key]){prices[key].stale=true;stat.stale++;}
@@ -85,7 +117,7 @@ function setPrice(key,val){
   // only refresh languages shown on the site (content/site-config.json); --only=xx narrows further, --all ignores the config
   const CFG=JSON.parse(fs.readFileSync(path.join(ROOT,'content/site-config.json'),'utf8'));
   const SHOWN=CFG.languages;const KEEP=CFG.keep?new Set(Object.keys(CFG.keep.hot)):null; // same kept list as the site
-  const v1=sets.filter(s=>s.v1&&(args.all||SHOWN.includes(s.lang)&&(!KEEP||KEEP.has(s.key)))&&(!args.only||s.lang===args.only));
+  const v1=sets.filter(s=>(!args.set||s.id===args.set)&&s.v1&&(args.all||SHOWN.includes(s.lang)&&(!KEEP||KEEP.has(s.key)))&&(!args.only||s.lang===args.only));
   // 1) Japanese: one SNKRDUNK listing per set (also saved for chase ranking fallback)
   for(const s of v1.filter(s=>s.lang==='ja'&&s.tcgdex&&!/-P$|^SVK|^SVL|^SMP/.test(s.id))){
     const code=s.id.toLowerCase();
@@ -96,11 +128,25 @@ function setPrice(key,val){
     process.stdout.write(`ja ${s.id}: ${list?list.length+' listings':'FAILED (using cache: '+!!cached+')'}\n`);
     for(const c of s.chase||[]){
       const num=String(c.localId).replace(/^0+/,'');
-      const hits=(list||[]).filter(x=>x.num===num&&x.minPrice>0);
-      if(!list){setPrice(c.key,null);continue;}
-      if(!hits.length){stat.unmatched++;if(prices[c.key]){prices[c.key].stale=true;stat.stale++;}continue;}
-      const h=hits.sort((a,b)=>b.listingCount-a.listingCount)[0];
-      setPrice(c.key,{price:h.minPrice,currency:'USD',condition:'raw (ungraded) — SNKRDUNK 最低在售價',source:'SNKRDUNK',url:h.url,listingName:h.name});
+      if(!cached){setPrice(c.key,null);continue;}
+      // second pass of `npm run update-prices` (--cache) reuses today's card-level results instead of re-requesting
+      if(args.cache&&prices[c.key]?.fetched===today&&prices[c.key]?.cardCheck===today){stat.reused=(stat.reused||0)+1;continue;}
+      const cands=cached.filter(x=>x.num===num&&!/^【/.test(x.name)).sort((a,b)=>b.listingCount-a.listingCount||b.minPrice-a.minPrice);
+      const snk=cands[0]||null;
+      const enName=snk?snk.name.split('[')[0].replace(/\s+(?:C|U|R|RR|RRR|SR|HR|UR|AR|SAR|CHR|CSR|K|A|S|SSR|PR|ACE|MUR|BWR|MA|TR)(?::\s*SA)?\s*$/,'').trim():null;
+      const tp=await tcgplayerJapan(s,c,enName);           // exact Japanese product on TCGplayer (verified)
+      const psa=snk?await snkUsedLowest(snk.id,22):null;   // SNKRDUNK lowest PSA 10 listing on sale
+      let raw=null;
+      if(tp&&tp.marketPrice>0) raw={price:tp.marketPrice,currency:'USD',condition:'raw (ungraded) — TCGplayer market price',source:'TCGplayer',url:tp.url};
+      else if(snk){const a=await snkUsedLowest(snk.id,18);if(a) raw={price:a,currency:'USD',condition:'raw (ungraded, 狀態 A) — SNKRDUNK 最低在售價',source:'SNKRDUNK',url:snk.url};}
+      const prev=prices[c.key]||{};
+      const link=tp?{url:tp.url,kind:'TCGplayer'}:snk?{url:snk.url,kind:'SNKRDUNK'}:(prev.link||null);
+      if(raw) setPrice(c.key,raw); else {stat.noRaw=(stat.noRaw||0)+1; if(prices[c.key]){prices[c.key].stale=true;} else prices[c.key]={price:null};}
+      const p=prices[c.key];
+      p.psa10=psa?{price:psa,currency:'USD',source:'SNKRDUNK',url:snk.url+'/used?condition=psa_10',fetched:today,note:'PSA 10 最低在售價'}:(prev.psa10?{...prev.psa10,stale:true}:null);
+      p.link=link;p.cardCheck=today;if(tp) p.tcgplayerId=tp.productId;
+      stat.psa10=(stat.psa10||0)+(psa?1:0);stat.tcgLink=(stat.tcgLink||0)+(tp?1:0);stat.snkLink=(stat.snkLink||0)+(!tp&&snk?1:0);
+      process.stdout.write(`  ${c.key} raw:${raw?raw.source+' '+raw.price:'-'} psa10:${psa??'-'} link:${link?link.kind:'-'}\n`);
     }
   }
   if(args.only==='ja'){fs.writeFileSync(PRICES,JSON.stringify(prices,null,1));console.log('SUMMARY(ja)',JSON.stringify(stat));return;}

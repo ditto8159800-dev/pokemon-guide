@@ -12,9 +12,11 @@
 const LANG_ZH={en:'美版',ja:'日版','zh-tw':'繁中','zh-cn':'簡中'};
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function imgTag(src,alt,cls=''){return src?`<img loading="lazy" class="${cls}" src="${esc(src)}" alt="${esc(alt)}" onerror="this.outerHTML='<div class=ph>（圖片無法載入）</div>'">`:`<div class="ph">（暫無圖片）</div>`;}
-function priceText(p){
-  if(!p) return '<div class="price none">價格：暫無資料</div>';
-  const cur=p.currency==='USD'?'US$':p.currency+' ';
-  const v=p.price>=100?Math.round(p.price):p.price.toFixed(2);
-  return `<div class="price ${p.stale?'stale':''}">約 ${cur}${v}（<a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.source)}</a>，${esc(p.fetched)}${p.stale?'，舊資料':''}）</div>`;
+function fmtUSD(v){return 'US$'+(v>=100?Math.round(v):v.toFixed(2));}
+function priceLine(label,x){
+  if(!x||x.price==null) return `<div class="price none">${label}：待確認</div>`;
+  const cur=x.currency==='USD'?fmtUSD(x.price):x.currency+' '+x.price;
+  return `<div class="price ${x.stale?'stale':''}">${label}：約 ${cur}（<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.source)}</a>，${esc(x.fetched||'')}${x.stale?'，舊資料':''}）</div>`;
 }
+// two prices per chase card: raw (ungraded) and PSA 10
+function priceText(p){return priceLine('未鑑定（裸卡）',p&&p.price!=null?p:null)+priceLine('PSA 10',p&&p.psa10);}

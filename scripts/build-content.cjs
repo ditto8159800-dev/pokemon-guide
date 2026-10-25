@@ -5,7 +5,8 @@ const raw={en:R('data/raw/en-sets.json'),ja:R('data/raw/ja-sets.json')},cards={e
 for(const r of rarity){const e=r.example;const s=raw[e.lang].find(x=>x.id===e.set);if(!s)continue;
   const c=s.cards.map(c=>({id:c.id,...cards[e.lang][c.id]})).find(c=>e.pick?c.l===e.pick:c.r===e.rarity);
   if(c&&c.i) r.exampleCard={name:c.n,num:c.l,set:s.name,img:c.i+'/low.webp',key:`${e.lang}:${c.id}`};}
-fs.writeFileSync('site/data/content.js','window.RARITY='+JSON.stringify(rarity)+';\nwindow.GRADING='+JSON.stringify(grading)+';\n');
+const gphotos=fs.existsSync('content/grading-photos.json')?R('content/grading-photos.json'):{};
+fs.writeFileSync('site/data/content.js','window.RARITY='+JSON.stringify(rarity)+';\nwindow.GRADING='+JSON.stringify(grading)+';\nwindow.GRADING_PHOTOS='+JSON.stringify(gphotos)+';\n');
 // ---- question bank ----
 const Q=[];const sh=a=>a.map(x=>[Math.random(),x]).sort((a,b)=>a[0]-b[0]).map(x=>x[1]);
 const pickOthers=(pool,ans,n=3)=>sh([...new Set(pool.filter(x=>x!==ans))]).slice(0,n);

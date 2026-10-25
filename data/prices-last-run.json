@@ -1,14 +1,17 @@
 {
  "date": "2026-10-26",
- "updated": 1059,
- "failed": 128,
+ "updated": 200,
+ "failed": 0,
  "stale": 0,
- "noSource": 1130,
- "unmatched": 108,
+ "noSource": 0,
+ "unmatched": 0,
  "bySource": {
-  "SNKRDUNK": 572,
-  "TCGplayer（經 TCGdex）": 487
+  "TCGplayer": 197,
+  "SNKRDUNK": 3
  },
- "pricechartingBlocked": true,
- "totalPrices": 1059
+ "psa10": 168,
+ "tcgLink": 199,
+ "snkLink": 1,
+ "pricechartingBlocked": false,
+ "totalPrices": 1228
 }
