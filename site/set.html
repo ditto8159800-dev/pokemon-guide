@@ -4,27 +4,25 @@
 <body><div class="layout"><main id="m"><p>載入中…</p></main></div>
 <script>
 const k=new URLSearchParams(location.search).get('k');const s=SETS.find(x=>x.key===k);const m=document.getElementById('m');
+// non-Japanese set links (e.g. from quiz explanations): jump to the Japanese counterpart when there is one
+if(!s&&window.SET_ALIAS&&SET_ALIAS[k]) location.replace('set.html?k='+encodeURIComponent(SET_ALIAS[k]));
 const eraName=Object.fromEntries(ERAS);
-if(!s){m.innerHTML='<h1>找不到這個卡盒</h1><p><a href="index.html">回總覽</a></p>';}
+if(!s){m.innerHTML=(window.SET_ALIAS&&SET_ALIAS[k])?'<p>轉到對應的日版卡盒…</p>':'<h1>找不到這個卡盒</h1><p>本站目前只收錄日版卡盒；這個連結可能是其他語言版本，或已不存在。</p><p><a href="index.html">回總覽</a></p>';}
 else{
   document.title=s.name+'｜寶可夢卡牌學習站';
   const byKey=Object.fromEntries(SETS.map(x=>[x.key,x]));
-  const links=s.links.map(k=>byKey[k]).filter(Boolean);
   const nameRow=l=>s.names[l]?esc(s.names[l]):'<span class="muted">—（無此語言版本或未對應）</span>';
   let h=`<p class="small"><a href="index.html">← 卡盒總覽</a> / <a href="index.html?era=${s.era}">${eraName[s.era]}</a></p>
   <div class="detail-head"><div class="logo">${imgTag(s.logo||s.symbol||s.thumb,s.name)}</div>
-  <div><h1>${esc(s.name)}</h1><div class="badges"><span class="b ${s.lang}">${LANG_ZH[s.lang]}</span>${s.status==='full'?'<span class="b full">完整介紹</span>':'<span class="b todo">'+(s.v1?'資料待確認':'待補充')+'</span>'}${s.upcoming?'<span class="b up">即將發售</span>':''}</div>
+  <div><h1>${esc(s.name)}</h1><div class="badges">${s.status==='full'?'<span class="b full">完整介紹</span>':'<span class="b todo">'+(s.v1?'資料待確認':'待補充')+'</span>'}${s.upcoming?'<span class="b up">即將發售</span>':''}</div>
   <div class="muted small">${s.translated?'英譯：'+esc(s.translated)+' · ':''}代號 ${esc(s.id)} · 資料來源 ${esc(s.src)}</div></div></div>
   <div class="panel"><table class="kv">
-   <tr><td>中文名（繁中版）</td><td>${nameRow('zh-tw')}</td></tr>
-   <tr><td>簡中名</td><td>${nameRow('zh-cn')}</td></tr>
    <tr><td>日文名</td><td>${nameRow('ja')}</td></tr>
-   <tr><td>英文名</td><td>${nameRow('en')}</td></tr>
+   <tr><td>中文名（參考）</td><td>${nameRow('zh-tw')}</td></tr>
+   <tr><td>英文名（參考）</td><td>${nameRow('en')}</td></tr>
    <tr><td>發售日</td><td>${s.date?esc(s.date):'待確認'+(s.approxDate?`（日版為 ${esc(s.approxDate)}）`:'')}</td></tr>
    <tr><td>時期 / 系列</td><td>${eraName[s.era]}${s.serie?' · '+esc(s.serie):''}</td></tr>
    <tr><td>卡片張數</td><td>${s.official?`官方編號 ${s.official} 張`:'待確認'}${s.total&&s.total>s.official?`，含秘密稀有共 ${s.total} 張`:''}</td></tr>
-   <tr><td>語言版本</td><td>${['en','ja','zh-tw','zh-cn'].map(l=>s.editions.includes(l)?`<span class="b ${l}">✓ ${LANG_ZH[l]}</span>`:`<span class="b">✗ ${LANG_ZH[l]}</span>`).join(' ')}<div class="small muted">✗ 代表本站資料中沒有找到對應版本（不一定代表沒有發行）。</div></td></tr>
-   <tr><td>對應版本</td><td>${links.length||s.hopLinks.length?[...links,...s.hopLinks.map(k=>byKey[k]).filter(Boolean)].map(o=>`<a href="set.html?k=${encodeURIComponent(o.key)}">${LANG_ZH[o.lang]}《${esc(o.name)}》</a>${s.partialLinks.includes(o.key)?'<span class="small muted">（部分收錄）</span>':''}`).join('、'):'<span class="muted">無／待確認</span>'}</td></tr>
   </table></div>
   <h2>📖 系列介紹</h2><div class="panel">${s.intro?`<p>${esc(s.intro)}</p>`:''}<p class="${s.intro?'small muted':''}">${esc(s.introAuto)}</p>${s.todo?`<div class="todo-box">📝 ${esc(s.todo)}</div>`:''}</div>`;
   if(s.v1){

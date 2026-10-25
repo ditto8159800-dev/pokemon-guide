@@ -3,6 +3,7 @@
  * Refresh approximate prices for every set's top-10 chase cards -> data/prices.json
  *   npm run update-prices            (all)
  *   node scripts/update-prices.js --only=ja   (one language)
+ *   Only languages listed in content/site-config.json are refreshed (currently ja); pass --all to ignore that.
  * Sources:
  *   - Japanese cards: SNKRDUNK public search endpoint (https://snkrdunk.com/en/v1/search), lowest listed price (US$).
  *     One listing request per set (paged), then cards are matched by "[CODE NNN/MMM]".
@@ -81,7 +82,9 @@ function setPrice(key,val){
 }
 (async()=>{
   fs.mkdirSync(SNK_DIR,{recursive:true});
-  const v1=sets.filter(s=>s.v1&&(!args.only||s.lang===args.only));
+  // only refresh languages shown on the site (content/site-config.json); --only=xx narrows further, --all ignores the config
+  const SHOWN=JSON.parse(fs.readFileSync(path.join(ROOT,'content/site-config.json'),'utf8')).languages;
+  const v1=sets.filter(s=>s.v1&&(args.all||SHOWN.includes(s.lang))&&(!args.only||s.lang===args.only));
   // 1) Japanese: one SNKRDUNK listing per set (also saved for chase ranking fallback)
   for(const s of v1.filter(s=>s.lang==='ja'&&s.tcgdex&&!/-P$|^SVK|^SVL|^SMP/.test(s.id))){
     const code=s.id.toLowerCase();

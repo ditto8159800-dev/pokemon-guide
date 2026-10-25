@@ -1,0 +1,4 @@
+{
+  "_note": "Languages whose sets are shown on the site (site/data/sets.js) and whose prices are refreshed. Other languages' raw data stays in data/raw and is still used for cross-reference names. Options: en, ja, zh-tw, zh-cn.",
+  "languages": ["ja"]
+}

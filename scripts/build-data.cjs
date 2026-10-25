@@ -5,6 +5,7 @@ const R=f=>JSON.parse(fs.readFileSync(f,'utf8'));
 const LANGS=['en','ja','zh-tw','zh-cn'];
 const LANG_LABEL={en:'美版（英文）',ja:'日版',"zh-tw":'繁中版',"zh-cn":'簡中版'};
 const curated=R('content/curated.json');
+const SHOWN=R('content/site-config.json').languages; // languages shown on the site (currently ja only)
 const prices=fs.existsSync('data/prices.json')?R('data/prices.json'):{};
 const bulbaJp=R('data/sources/bulba-jp.json');
 const bulbaTw=R('data/sources/bulba-zhtw.json').filter(x=>!/Simplified/.test(x.zh_tw));
@@ -207,10 +208,16 @@ for(const s of sets){
 // language availability: own + linked
 for(const s of sets){s.editions=[...new Set([s.lang,...s.links.filter(k=>!s.partialLinks.includes(k)),...s.hopLinks].map(k=>k.split(':')[0]))];}
 sets.sort((a,b)=>(a.date||a.approxDate||'9999').localeCompare(b.date||b.approxDate||'9999')||a.lang.localeCompare(b.lang));
-const counts={};for(const l of LANGS)counts[l]=sets.filter(s=>s.lang===l).length;
-const v1=sets.filter(s=>s.v1);
-const stats={generated:new Date().toISOString(),counts,total:sets.length,bulbaJaAdded:bulbaAdded,v1Sets:v1.length,v1Full:full,v1ByLang:Object.fromEntries(LANGS.map(l=>[l,{sets:v1.filter(s=>s.lang===l).length,full:v1.filter(s=>s.lang===l&&s.status==='full').length}])),chaseCards:v1.reduce((a,s)=>a+(s.chase?.length||0),0)};
+// ---- site output: only SHOWN languages (all languages are still built above for cross-reference names, quiz bank and data/sets.json) ----
+const shownSets=sets.filter(s=>SHOWN.includes(s.lang));
+const shownKeys=new Set(shownSets.map(s=>s.key));
+// old links (e.g. quiz "查看教材" pointing at an en/zh set) -> redirect to the shown counterpart when one exists
+const alias={};
+for(const s of sets){if(shownKeys.has(s.key))continue;const pl=new Set(s.partialLinks);const t=[...s.links.filter(k=>!pl.has(k)),...s.links,...(s.hopLinks||[])].find(k=>shownKeys.has(k));if(t)alias[s.key]=t;}
+const counts={};for(const l of SHOWN)counts[l]=shownSets.filter(s=>s.lang===l).length;
+const v1=shownSets.filter(s=>s.v1);
+const stats={generated:new Date().toISOString(),languages:SHOWN,counts,total:shownSets.length,bulbaJaAdded:bulbaAdded,v1Sets:v1.length,v1Full:v1.filter(s=>s.status==='full').length,v1ByLang:Object.fromEntries(SHOWN.map(l=>[l,{sets:v1.filter(s=>s.lang===l).length,full:v1.filter(s=>s.lang===l&&s.status==='full').length}])),chaseCards:v1.reduce((a,s)=>a+(s.chase?.length||0),0),allLanguagesBuilt:sets.length};
 fs.mkdirSync('site/data',{recursive:true});
-fs.writeFileSync('site/data/sets.js','window.ERAS='+JSON.stringify(ERA)+';\nwindow.STATS='+JSON.stringify(stats)+';\nwindow.SETS='+JSON.stringify(sets)+';\n');
+fs.writeFileSync('site/data/sets.js','window.ERAS='+JSON.stringify(ERA)+';\nwindow.STATS='+JSON.stringify(stats)+';\nwindow.SET_ALIAS='+JSON.stringify(alias)+';\nwindow.SETS='+JSON.stringify(shownSets)+';\n');
 fs.writeFileSync('data/sets.json',JSON.stringify(sets,null,0));
 console.log(JSON.stringify(stats,null,1));
