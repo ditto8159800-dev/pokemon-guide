@@ -2,23 +2,23 @@
  "set": "SV9a",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/sv9a/hits/",
- "fetched": "2026-10-25",
+ "fetched": "2026-10-31",
  "cards": [
   {
    "rank": 1,
    "name": "シロナのガブリアスex",
    "rarity": "SAR",
    "num": "087/063",
-   "price": 28500,
-   "psa10": 56000
+   "price": 29000,
+   "psa10": 57000
   },
   {
    "rank": 2,
    "name": "ヒビキのホウオウex",
    "rarity": "SAR",
    "num": "086/063",
-   "price": 22300,
-   "psa10": 44000
+   "price": 21000,
+   "psa10": 43000
   },
   {
    "rank": 3,
@@ -33,7 +33,7 @@
    "name": "シロナのガブリアスex",
    "rarity": "UR",
    "num": "091/063",
-   "price": 4200,
+   "price": 4000,
    "psa10": 10800
   },
   {
@@ -42,14 +42,14 @@
    "rarity": "UR",
    "num": "090/063",
    "price": 3500,
-   "psa10": 6900
+   "psa10": 6500
   },
   {
    "rank": 6,
    "name": "カスミのコダック",
    "rarity": "AR",
    "num": "071/063",
-   "price": 3300,
+   "price": 3200,
    "psa10": 14000
   },
   {
@@ -66,7 +66,7 @@
    "rarity": "AR",
    "num": "072/063",
    "price": 1700,
-   "psa10": 10000
+   "psa10": 9000
   },
   {
    "rank": 9,
@@ -81,56 +81,56 @@
    "name": "ヒビキのバクフーン",
    "rarity": "AR",
    "num": "070/063",
-   "price": 1200,
+   "price": 1300,
    "psa10": 9800
   },
   {
    "rank": 11,
+   "name": "メガヤンマex",
+   "rarity": "SAR",
+   "num": "085/063",
+   "price": 1300,
+   "psa10": 7600
+  },
+  {
+   "rank": 12,
    "name": "ヒビキのホウオウex",
    "rarity": "SR",
    "num": "077/063",
    "price": 1200,
-   "psa10": 7900
-  },
-  {
-   "rank": 12,
-   "name": "ハッコウシティ",
-   "rarity": "UR",
-   "num": "092/063",
-   "price": 1200,
-   "psa10": 5800
+   "psa10": 4500
   },
   {
    "rank": 13,
    "name": "シロナのロズレイド",
    "rarity": "AR",
    "num": "065/063",
-   "price": 1100,
+   "price": 1000,
    "psa10": 6000
   },
   {
    "rank": 14,
-   "name": "メガヤンマex",
-   "rarity": "SAR",
-   "num": "085/063",
-   "price": 1100,
-   "psa10": 7800
+   "name": "ハッコウシティ",
+   "rarity": "UR",
+   "num": "092/063",
+   "price": 1000,
+   "psa10": 5800
   },
   {
    "rank": 15,
-   "name": "シェイミ",
-   "rarity": "AR",
-   "num": "066/063",
-   "price": 900,
-   "psa10": 4500
-  },
-  {
-   "rank": 16,
    "name": "MCの盛り上げ",
    "rarity": "SR",
    "num": "082/063",
    "price": 900,
    "psa10": 9000
+  },
+  {
+   "rank": 16,
+   "name": "シェイミ",
+   "rarity": "AR",
+   "num": "066/063",
+   "price": 800,
+   "psa10": 4500
   },
   {
    "rank": 17,
@@ -150,19 +150,19 @@
   },
   {
    "rank": 19,
-   "name": "ギャロップ",
-   "rarity": "AR",
-   "num": "069/063",
-   "price": 600,
-   "psa10": 4200
-  },
-  {
-   "rank": 20,
    "name": "エレキブルex",
    "rarity": "SR",
    "num": "079/063",
    "price": 600,
    "psa10": 4800
+  },
+  {
+   "rank": 20,
+   "name": "ペパーのヨクバリス",
+   "rarity": "AR",
+   "num": "075/063",
+   "price": 500,
+   "psa10": 3800
   }
  ]
 }

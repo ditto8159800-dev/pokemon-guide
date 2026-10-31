@@ -2,54 +2,54 @@
  "set": "SV10",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/sv10/hits/",
- "fetched": "2026-10-25",
+ "fetched": "2026-10-31",
  "cards": [
   {
    "rank": 1,
    "name": "ロケット団のミュウツーex",
    "rarity": "SAR",
    "num": "125/098",
-   "price": 38000,
-   "psa10": 92500
+   "price": 41800,
+   "psa10": 96000
   },
   {
    "rank": 2,
    "name": "ロケット団のファイヤーex",
    "rarity": "SAR",
    "num": "124/098",
-   "price": 12700,
-   "psa10": 27500
+   "price": 10500,
+   "psa10": 28000
   },
   {
    "rank": 3,
    "name": "ロケット団のニドキングex",
    "rarity": "SAR",
    "num": "126/098",
-   "price": 6900,
+   "price": 7200,
    "psa10": 17800
   },
   {
    "rank": 4,
-   "name": "ロケット団のクロバットex",
-   "rarity": "SAR",
-   "num": "127/098",
-   "price": 4000,
-   "psa10": 14500
-  },
-  {
-   "rank": 5,
    "name": "ロケット団のミュウツーex",
    "rarity": "UR",
    "num": "130/098",
-   "price": 3900,
+   "price": 4600,
    "psa10": 13500
+  },
+  {
+   "rank": 5,
+   "name": "ロケット団のクロバットex",
+   "rarity": "SAR",
+   "num": "127/098",
+   "price": 4500,
+   "psa10": 14500
   },
   {
    "rank": 6,
    "name": "ロケット団のラムダ",
    "rarity": "SR",
    "num": "122/098",
-   "price": 2900,
+   "price": 2700,
    "psa10": 3300
   },
   {
@@ -73,7 +73,7 @@
    "name": "ロケット団のアテナ",
    "rarity": "SAR",
    "num": "128/098",
-   "price": 1700,
+   "price": 1800,
    "psa10": 10000
   },
   {
@@ -81,8 +81,8 @@
    "name": "ロケット団のニャース",
    "rarity": "AR",
    "num": "109/098",
-   "price": 1300,
-   "psa10": 9000
+   "price": 1200,
+   "psa10": 11500
   },
   {
    "rank": 11,
@@ -94,14 +94,6 @@
   },
   {
    "rank": 12,
-   "name": "ロケット団のペルシアンex",
-   "rarity": "SR",
-   "num": "118/098",
-   "price": 1100,
-   "psa10": 6900
-  },
-  {
-   "rank": 13,
    "name": "ロケット団のクロバットex",
    "rarity": "SR",
    "num": "117/098",
@@ -109,7 +101,7 @@
    "psa10": 6200
   },
   {
-   "rank": 14,
+   "rank": 13,
    "name": "ロケット団のサカキ",
    "rarity": "SR",
    "num": "121/098",
@@ -117,7 +109,23 @@
    "psa10": 10600
   },
   {
+   "rank": 14,
+   "name": "ロケット団のペルシアンex",
+   "rarity": "SR",
+   "num": "118/098",
+   "price": 1000,
+   "psa10": 6900
+  },
+  {
    "rank": 15,
+   "name": "ロケット団のアポロ",
+   "rarity": "SR",
+   "num": "120/098",
+   "price": 900,
+   "psa10": null
+  },
+  {
+   "rank": 16,
    "name": "ジャミングタワー",
    "rarity": "UR",
    "num": "132/098",
@@ -125,20 +133,12 @@
    "psa10": null
   },
   {
-   "rank": 16,
+   "rank": 17,
    "name": "ロケット団のアテナ",
    "rarity": "SR",
    "num": "119/098",
    "price": 800,
    "psa10": 5300
-  },
-  {
-   "rank": 17,
-   "name": "ロケット団のアポロ",
-   "rarity": "SR",
-   "num": "120/098",
-   "price": 800,
-   "psa10": null
   },
   {
    "rank": 18,
@@ -150,19 +150,19 @@
   },
   {
    "rank": 19,
-   "name": "ロケット団のファイヤーex",
-   "rarity": "SR",
-   "num": "112/098",
-   "price": 700,
-   "psa10": 9000
-  },
-  {
-   "rank": 20,
    "name": "バシャーモ",
    "rarity": "AR",
    "num": "101/098",
    "price": 600,
    "psa10": 4000
+  },
+  {
+   "rank": 20,
+   "name": "ロケット団のヘルガー",
+   "rarity": "AR",
+   "num": "100/098",
+   "price": 600,
+   "psa10": 4500
   }
  ]
 }

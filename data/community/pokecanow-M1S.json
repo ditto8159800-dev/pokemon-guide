@@ -2,46 +2,46 @@
  "set": "M1S",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/m1s/hits/",
- "fetched": "2026-10-25",
+ "fetched": "2026-10-31",
  "cards": [
   {
    "rank": 1,
    "name": "メガサーナイトex",
    "rarity": "MUR",
    "num": "092/063",
-   "price": 30000,
-   "psa10": 140000
+   "price": 24900,
+   "psa10": 135000
   },
   {
    "rank": 2,
    "name": "メガサーナイトex",
    "rarity": "SAR",
    "num": "087/063",
-   "price": 6900,
-   "psa10": 20500
+   "price": 6500,
+   "psa10": 21000
   },
   {
    "rank": 3,
    "name": "アセロラのいたずら",
    "rarity": "SAR",
    "num": "090/063",
-   "price": 2400,
-   "psa10": 16500
+   "price": 2500,
+   "psa10": 17600
   },
   {
    "rank": 4,
    "name": "メガガルーラex",
    "rarity": "SAR",
    "num": "089/063",
-   "price": 2400,
-   "psa10": 8000
+   "price": 2000,
+   "psa10": 7800
   },
   {
    "rank": 5,
    "name": "メガラティアスex",
    "rarity": "SAR",
    "num": "088/063",
-   "price": 2100,
+   "price": 1800,
    "psa10": 10000
   },
   {
@@ -50,15 +50,15 @@
    "rarity": "AR",
    "num": "073/063",
    "price": 1600,
-   "psa10": 3700
+   "psa10": 3800
   },
   {
    "rank": 7,
    "name": "ブロスター",
    "rarity": "AR",
    "num": "068/063",
-   "price": 1000,
-   "psa10": 3500
+   "price": 1300,
+   "psa10": 3700
   },
   {
    "rank": 8,
@@ -66,7 +66,7 @@
    "rarity": "AR",
    "num": "066/063",
    "price": 1000,
-   "psa10": 3700
+   "psa10": 3800
   },
   {
    "rank": 9,
@@ -74,7 +74,7 @@
    "rarity": "SR",
    "num": "084/063",
    "price": 800,
-   "psa10": 10000
+   "psa10": 11000
   },
   {
    "rank": 10,
@@ -89,8 +89,8 @@
    "name": "メガガルーラex",
    "rarity": "SR",
    "num": "080/063",
-   "price": 600,
-   "psa10": 5000
+   "price": 500,
+   "psa10": 4500
   },
   {
    "rank": 12,
@@ -106,10 +106,18 @@
    "rarity": "SR",
    "num": "079/063",
    "price": 400,
-   "psa10": 4600
+   "psa10": 4800
   },
   {
    "rank": 14,
+   "name": "ミツルの思いやり",
+   "rarity": "SR",
+   "num": "085/063",
+   "price": 400,
+   "psa10": 6500
+  },
+  {
+   "rank": 15,
    "name": "ミステリーガーデン",
    "rarity": "SR",
    "num": "086/063",
@@ -117,7 +125,7 @@
    "psa10": null
   },
   {
-   "rank": 15,
+   "rank": 16,
    "name": "ツボツボ",
    "rarity": "AR",
    "num": "064/063",
@@ -125,7 +133,7 @@
    "psa10": 3800
   },
   {
-   "rank": 16,
+   "rank": 17,
    "name": "ヌケニン",
    "rarity": "AR",
    "num": "072/063",
@@ -133,36 +141,28 @@
    "psa10": 3800
   },
   {
-   "rank": 17,
-   "name": "インテレオン",
-   "rarity": "AR",
-   "num": "069/063",
-   "price": 300,
-   "psa10": 3700
-  },
-  {
    "rank": 18,
-   "name": "ヌイコグマ",
-   "rarity": "AR",
-   "num": "075/063",
-   "price": 300,
-   "psa10": 3600
-  },
-  {
-   "rank": 19,
-   "name": "テッカニン",
-   "rarity": "AR",
-   "num": "065/063",
-   "price": 300,
-   "psa10": 3600
-  },
-  {
-   "rank": 20,
    "name": "エリキテル",
    "rarity": "AR",
    "num": "070/063",
    "price": 300,
    "psa10": 3600
+  },
+  {
+   "rank": 19,
+   "name": "ヌイコグマ",
+   "rarity": "AR",
+   "num": "075/063",
+   "price": 300,
+   "psa10": 3700
+  },
+  {
+   "rank": 20,
+   "name": "テッカニン",
+   "rarity": "AR",
+   "num": "065/063",
+   "price": 300,
+   "psa10": 3700
   }
  ]
 }

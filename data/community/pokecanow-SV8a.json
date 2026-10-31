@@ -2,118 +2,118 @@
  "set": "SV8a",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/sv8a/hits/",
- "fetched": "2026-10-25",
+ "fetched": "2026-10-31",
  "cards": [
   {
    "rank": 1,
    "name": "ブラッキーex",
    "rarity": "SAR",
    "num": "217/187",
-   "price": 38100,
-   "psa10": 71000
+   "price": 37000,
+   "psa10": 70000
   },
   {
    "rank": 2,
    "name": "ニンフィアex",
    "rarity": "SAR",
    "num": "212/187",
-   "price": 11900,
-   "psa10": 25000
+   "price": 11000,
+   "psa10": 23300
   },
   {
    "rank": 3,
-   "name": "ピカチュウex",
-   "rarity": "UR",
-   "num": "236/187",
-   "price": 6800,
-   "psa10": 28000
-  },
-  {
-   "rank": 4,
    "name": "リーフィアex",
    "rarity": "SAR",
    "num": "200/187",
-   "price": 5700,
-   "psa10": 17000
+   "price": 5400,
+   "psa10": 15000
   },
   {
-   "rank": 5,
+   "rank": 4,
    "name": "シャワーズex",
    "rarity": "SAR",
    "num": "205/187",
    "price": 5300,
-   "psa10": 14700
+   "psa10": 14500
   },
   {
-   "rank": 6,
-   "name": "エーフィex",
-   "rarity": "SAR",
-   "num": "211/187",
-   "price": 5200,
-   "psa10": 17500
-  },
-  {
-   "rank": 7,
+   "rank": 5,
    "name": "グレイシアex",
    "rarity": "SAR",
    "num": "206/187",
    "price": 5200,
-   "psa10": 16700
+   "psa10": 15000
+  },
+  {
+   "rank": 6,
+   "name": "ピカチュウex",
+   "rarity": "UR",
+   "num": "236/187",
+   "price": 5200,
+   "psa10": 23000
+  },
+  {
+   "rank": 7,
+   "name": "エーフィex",
+   "rarity": "SAR",
+   "num": "211/187",
+   "price": 5000,
+   "psa10": 17300
   },
   {
    "rank": 8,
    "name": "ブースターex",
    "rarity": "SAR",
    "num": "202/187",
-   "price": 4200,
-   "psa10": 12500
+   "price": 4400,
+   "psa10": 11000
   },
   {
    "rank": 9,
    "name": "サンダースex",
    "rarity": "SAR",
    "num": "209/187",
-   "price": 3800,
-   "psa10": 12000
+   "price": 4000,
+   "psa10": 11000
   },
   {
    "rank": 10,
    "name": "イーブイex",
    "rarity": "SAR",
-   "num": "224/187",
-   "price": 3000,
-   "psa10": 12000
+   "num": "223/187",
+   "price": 3100,
+   "psa10": 11000
   },
   {
    "rank": 11,
    "name": "イーブイex",
    "rarity": "SAR",
-   "num": "223/187",
-   "price": 3000,
-   "psa10": 11800
+   "num": "224/187",
+   "price": 2900,
+   "psa10": 11500
   },
   {
    "rank": 12,
    "name": "トドロクツキex",
    "rarity": "SAR",
    "num": "218/187",
-   "price": 2100,
-   "psa10": 8300
+   "price": 2000,
+   "psa10": 9200
   },
   {
    "rank": 13,
    "name": "ソウブレイズex",
    "rarity": "SAR",
    "num": "203/187",
-   "price": 1500,
-   "psa10": 9500
+   "price": 1300,
+   "psa10": 7500
   },
   {
    "rank": 14,
    "name": "ドラパルトex",
    "rarity": "SAR",
    "num": "221/187",
-   "price": 1300,
+   "price": 1200,
    "psa10": 6200
   },
   {
@@ -122,10 +122,18 @@
    "rarity": "SAR",
    "num": "207/187",
    "price": 1200,
-   "psa10": 7000
+   "psa10": 7100
   },
   {
    "rank": 16,
+   "name": "パルデアの仲間たち",
+   "rarity": "SR",
+   "num": "195/187",
+   "price": 1000,
+   "psa10": 6200
+  },
+  {
+   "rank": 17,
    "name": "タロ",
    "rarity": "SAR",
    "num": "231/187",
@@ -133,36 +141,28 @@
    "psa10": 7600
   },
   {
-   "rank": 17,
-   "name": "アンズの秘技",
-   "rarity": "SAR",
-   "num": "228/187",
-   "price": 900,
-   "psa10": 7500
-  },
-  {
    "rank": 18,
-   "name": "オーガポン いどのめんex",
-   "rarity": "SAR",
-   "num": "208/187",
-   "price": 900,
-   "psa10": 5100
-  },
-  {
-   "rank": 19,
    "name": "タケルライコex",
    "rarity": "SAR",
    "num": "222/187",
    "price": 800,
-   "psa10": 5900
+   "psa10": 5500
+  },
+  {
+   "rank": 19,
+   "name": "アカマツ",
+   "rarity": "SAR",
+   "num": "227/187",
+   "price": 800,
+   "psa10": 6500
   },
   {
    "rank": 20,
-   "name": "パルデアの仲間たち",
-   "rarity": "SR",
-   "num": "195/187",
+   "name": "アンズの秘技",
+   "rarity": "SAR",
+   "num": "228/187",
    "price": 800,
-   "psa10": 6200
+   "psa10": 7500
   }
  ]
 }

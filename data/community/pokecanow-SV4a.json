@@ -2,15 +2,15 @@
  "set": "SV4a",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/sv4a/hits/",
- "fetched": "2026-10-25",
+ "fetched": "2026-10-31",
  "cards": [
   {
    "rank": 1,
    "name": "ミュウex",
    "rarity": "SAR",
    "num": "347/190",
-   "price": 48000,
-   "psa10": 122500
+   "price": 42000,
+   "psa10": 124000
   },
   {
    "rank": 2,
@@ -18,31 +18,31 @@
    "rarity": "SAR",
    "num": "349/190",
    "price": 22000,
-   "psa10": 60500
+   "psa10": 63000
   },
   {
    "rank": 3,
    "name": "サーナイトex",
    "rarity": "SAR",
    "num": "348/190",
-   "price": 13000,
-   "psa10": 32500
+   "price": 11000,
+   "psa10": 31500
   },
   {
    "rank": 4,
    "name": "ナンジャモ",
    "rarity": "SAR",
    "num": "350/190",
-   "price": 5300,
-   "psa10": 23500
+   "price": 4800,
+   "psa10": 22500
   },
   {
    "rank": 5,
    "name": "ピカチュウ",
    "rarity": "S",
    "num": "236/190",
-   "price": 4000,
-   "psa10": 29500
+   "price": 3800,
+   "psa10": 27000
   },
   {
    "rank": 6,
@@ -50,58 +50,34 @@
    "rarity": "SSR",
    "num": "327/190",
    "price": 2000,
-   "psa10": 9700
+   "psa10": 10000
   },
   {
    "rank": 7,
-   "name": "ミミッキュ",
-   "rarity": "AR",
-   "num": "341/190",
-   "price": 1700,
-   "psa10": 12000
-  },
-  {
-   "rank": 8,
-   "name": "リザードンex",
-   "rarity": "SSR",
-   "num": "331/190",
-   "price": 1600,
-   "psa10": 9000
-  },
-  {
-   "rank": 9,
    "name": "メタモン",
    "rarity": "S",
    "num": "309/190",
-   "price": 1500,
-   "psa10": 12200
+   "price": 1600,
+   "psa10": 16000
   },
   {
-   "rank": 10,
+   "rank": 8,
+   "name": "ミミッキュ",
+   "rarity": "AR",
+   "num": "341/190",
+   "price": 1500,
+   "psa10": 12000
+  },
+  {
+   "rank": 9,
    "name": "カビゴン",
    "rarity": "S",
    "num": "310/190",
    "price": 1500,
-   "psa10": 12000
+   "psa10": 9500
   },
   {
-   "rank": 11,
-   "name": "ネルケ",
-   "rarity": "SAR",
-   "num": "352/190",
-   "price": 1500,
-   "psa10": 11800
-  },
-  {
-   "rank": 12,
-   "name": "ミミッキュ",
-   "rarity": "S",
-   "num": "265/190",
-   "price": 1400,
-   "psa10": 10500
-  },
-  {
-   "rank": 13,
+   "rank": 10,
    "name": "ミライドンex",
    "rarity": "UR",
    "num": "358/190",
@@ -109,31 +85,63 @@
    "psa10": 7000
   },
   {
+   "rank": 11,
+   "name": "リザードンex",
+   "rarity": "SSR",
+   "num": "331/190",
+   "price": 1300,
+   "psa10": 9400
+  },
+  {
+   "rank": 12,
+   "name": "ネルケ",
+   "rarity": "SAR",
+   "num": "352/190",
+   "price": 1300,
+   "psa10": 11800
+  },
+  {
+   "rank": 13,
+   "name": "ミミッキュ",
+   "rarity": "S",
+   "num": "265/190",
+   "price": 1200,
+   "psa10": 10500
+  },
+  {
    "rank": 14,
    "name": "ヒトカゲ",
    "rarity": "S",
    "num": "210/190",
-   "price": 1300,
+   "price": 1200,
    "psa10": 8000
   },
   {
    "rank": 15,
-   "name": "ボタン",
-   "rarity": "SAR",
-   "num": "354/190",
-   "price": 1300,
-   "psa10": 10000
-  },
-  {
-   "rank": 16,
    "name": "イッカネズミ",
    "rarity": "S",
    "num": "318/190",
-   "price": 1100,
+   "price": 1200,
    "psa10": 24800
   },
   {
+   "rank": 16,
+   "name": "ボタン",
+   "rarity": "SAR",
+   "num": "354/190",
+   "price": 1200,
+   "psa10": 10000
+  },
+  {
    "rank": 17,
+   "name": "ワッカネズミ",
+   "rarity": "S",
+   "num": "317/190",
+   "price": 1100,
+   "psa10": 8500
+  },
+  {
+   "rank": 18,
    "name": "イキリンコex",
    "rarity": "SSR",
    "num": "337/190",
@@ -141,7 +149,7 @@
    "psa10": 3800
   },
   {
-   "rank": 18,
+   "rank": 19,
    "name": "イダイナキバex",
    "rarity": "SSR",
    "num": "330/190",
@@ -149,20 +157,12 @@
    "psa10": 3700
   },
   {
-   "rank": 19,
+   "rank": 20,
    "name": "キルリア",
    "rarity": "S",
    "num": "259/190",
    "price": 1100,
    "psa10": 3200
-  },
-  {
-   "rank": 20,
-   "name": "ワッカネズミ",
-   "rarity": "S",
-   "num": "317/190",
-   "price": 1000,
-   "psa10": 8500
   }
  ]
 }

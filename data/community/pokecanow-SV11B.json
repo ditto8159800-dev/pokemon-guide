@@ -2,38 +2,38 @@
  "set": "SV11B",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/sv11b/hits/",
- "fetched": "2026-10-25",
+ "fetched": "2026-10-31",
  "cards": [
   {
    "rank": 1,
    "name": "ゼクロムex",
    "rarity": "BWR",
    "num": "174/086",
-   "price": 41000,
-   "psa10": 102000
+   "price": 52000,
+   "psa10": 108000
   },
   {
    "rank": 2,
    "name": "ゼクロムex",
    "rarity": "SAR",
    "num": "169/086",
-   "price": 17200,
-   "psa10": 33000
+   "price": 17000,
+   "psa10": 34500
   },
   {
    "rank": 3,
    "name": "ガマゲロゲ",
    "rarity": "AR",
    "num": "109/086",
-   "price": 6500,
-   "psa10": 16000
+   "price": 6600,
+   "psa10": 16800
   },
   {
    "rank": 4,
    "name": "Nの筋書き",
    "rarity": "SAR",
    "num": "173/086",
-   "price": 4400,
+   "price": 4000,
    "psa10": 17000
   },
   {
@@ -41,39 +41,39 @@
    "name": "キュレムex",
    "rarity": "SAR",
    "num": "168/086",
-   "price": 3600,
+   "price": 3300,
    "psa10": 10000
   },
   {
    "rank": 6,
-   "name": "ジャローダex",
-   "rarity": "SAR",
-   "num": "167/086",
-   "price": 2500,
-   "psa10": 6800
-  },
-  {
-   "rank": 7,
-   "name": "ゲノセクトex",
-   "rarity": "SAR",
-   "num": "172/086",
-   "price": 2500,
-   "psa10": 7000
-  },
-  {
-   "rank": 8,
    "name": "メロエッタex",
    "rarity": "SAR",
    "num": "170/086",
-   "price": 2100,
+   "price": 2500,
    "psa10": 5500
+  },
+  {
+   "rank": 7,
+   "name": "ジャローダex",
+   "rarity": "SAR",
+   "num": "167/086",
+   "price": 2400,
+   "psa10": 6800
+  },
+  {
+   "rank": 8,
+   "name": "ゲノセクトex",
+   "rarity": "SAR",
+   "num": "172/086",
+   "price": 2200,
+   "psa10": 7500
   },
   {
    "rank": 9,
    "name": "ビクティニ",
    "rarity": "AR",
    "num": "097/086",
-   "price": 1800,
+   "price": 1900,
    "psa10": 7000
   },
   {
@@ -102,35 +102,35 @@
   },
   {
    "rank": 13,
-   "name": "ドレディア",
+   "name": "シビシラス",
    "rarity": "AR",
-   "num": "092/086",
+   "num": "117/086",
    "price": 1400,
-   "psa10": 6000
+   "psa10": 6500
   },
   {
    "rank": 14,
-   "name": "シャンデラ",
-   "rarity": "AR",
-   "num": "102/086",
-   "price": 1300,
-   "psa10": 6000
-  },
-  {
-   "rank": 15,
    "name": "ツタージャ",
    "rarity": "AR",
    "num": "087/086",
    "price": 1300,
-   "psa10": 6600
+   "psa10": 6500
+  },
+  {
+   "rank": 15,
+   "name": "シャンデラ",
+   "rarity": "AR",
+   "num": "102/086",
+   "price": 1300,
+   "psa10": 5600
   },
   {
    "rank": 16,
-   "name": "チラチーノ",
+   "name": "ドレディア",
    "rarity": "AR",
-   "num": "158/086",
+   "num": "092/086",
    "price": 1300,
-   "psa10": 6300
+   "psa10": 6600
   },
   {
    "rank": 17,
@@ -142,27 +142,27 @@
   },
   {
    "rank": 18,
-   "name": "Nの筋書き",
-   "rarity": "SR",
-   "num": "165/086",
-   "price": 1200,
-   "psa10": 5900
+   "name": "チラチーノ",
+   "rarity": "AR",
+   "num": "158/086",
+   "price": 1300,
+   "psa10": 6300
   },
   {
    "rank": 19,
-   "name": "ヒトモシ",
-   "rarity": "AR",
-   "num": "100/086",
-   "price": 1200,
-   "psa10": 7600
-  },
-  {
-   "rank": 20,
    "name": "ドリュウズex",
    "rarity": "SAR",
    "num": "171/086",
-   "price": 1200,
+   "price": 1100,
    "psa10": 6900
+  },
+  {
+   "rank": 20,
+   "name": "チュリネ",
+   "rarity": "AR",
+   "num": "091/086",
+   "price": 1100,
+   "psa10": 5800
   }
  ]
 }

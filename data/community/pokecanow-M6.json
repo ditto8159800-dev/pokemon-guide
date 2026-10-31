@@ -2,30 +2,30 @@
  "set": "M6",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/m6/hits/",
- "fetched": "2026-10-25",
+ "fetched": "2026-10-31",
  "cards": [
   {
    "rank": 1,
    "name": "メガレックウザex",
    "rarity": "MUR",
    "num": "113/076",
-   "price": 44000,
-   "psa10": 215000
+   "price": 49500,
+   "psa10": 210000
   },
   {
    "rank": 2,
    "name": "メガレックウザex",
    "rarity": "SAR",
    "num": "110/076",
-   "price": 19000,
-   "psa10": 78000
+   "price": 21000,
+   "psa10": 69000
   },
   {
    "rank": 3,
    "name": "ライコウex",
    "rarity": "SAR",
    "num": "108/076",
-   "price": 3000,
+   "price": 2700,
    "psa10": 14100
   },
   {
@@ -33,8 +33,8 @@
    "name": "メガレックウザex",
    "rarity": "SR",
    "num": "095/076",
-   "price": 1600,
-   "psa10": 14000
+   "price": 2000,
+   "psa10": 21800
   },
   {
    "rank": 5,
@@ -66,7 +66,7 @@
    "rarity": "AR",
    "num": "080/076",
    "price": 600,
-   "psa10": 13500
+   "psa10": 15800
   },
   {
    "rank": 9,
@@ -74,23 +74,23 @@
    "rarity": "AR",
    "num": "084/076",
    "price": 600,
-   "psa10": 16800
+   "psa10": 11700
   },
   {
    "rank": 10,
-   "name": "ファイアローex",
-   "rarity": "SR",
-   "num": "096/076",
-   "price": 600,
-   "psa10": null
-  },
-  {
-   "rank": 11,
    "name": "ヒガナの信頼",
    "rarity": "SR",
    "num": "102/076",
    "price": 600,
    "psa10": 5500
+  },
+  {
+   "rank": 11,
+   "name": "ファイアローex",
+   "rarity": "SR",
+   "num": "096/076",
+   "price": 600,
+   "psa10": null
   },
   {
    "rank": 12,
@@ -102,14 +102,6 @@
   },
   {
    "rank": 13,
-   "name": "カクレオン",
-   "rarity": "AR",
-   "num": "088/076",
-   "price": 500,
-   "psa10": 6100
-  },
-  {
-   "rank": 14,
    "name": "ギリー",
    "rarity": "SAR",
    "num": "111/076",
@@ -117,23 +109,15 @@
    "psa10": null
   },
   {
-   "rank": 15,
-   "name": "ガーディ",
+   "rank": 14,
+   "name": "カクレオン",
    "rarity": "AR",
-   "num": "078/076",
+   "num": "088/076",
    "price": 400,
-   "psa10": 11400
+   "psa10": 6100
   },
   {
-   "rank": 16,
-   "name": "MCの盛り上げ",
-   "rarity": "SR",
-   "num": "100/076",
-   "price": 400,
-   "psa10": 5200
-  },
-  {
-   "rank": 17,
+   "rank": 15,
    "name": "ライコウex",
    "rarity": "SR",
    "num": "092/076",
@@ -141,7 +125,31 @@
    "psa10": null
   },
   {
+   "rank": 16,
+   "name": "ガーディ",
+   "rarity": "AR",
+   "num": "078/076",
+   "price": 300,
+   "psa10": 11400
+  },
+  {
+   "rank": 17,
+   "name": "MCの盛り上げ",
+   "rarity": "SR",
+   "num": "100/076",
+   "price": 300,
+   "psa10": 5200
+  },
+  {
    "rank": 18,
+   "name": "メガグソクムシャex",
+   "rarity": "SR",
+   "num": "089/076",
+   "price": 300,
+   "psa10": null
+  },
+  {
+   "rank": 19,
    "name": "メガゴルーグex",
    "rarity": "SR",
    "num": "093/076",
@@ -149,18 +157,10 @@
    "psa10": null
   },
   {
-   "rank": 19,
+   "rank": 20,
    "name": "メガカラマネロex",
    "rarity": "SR",
    "num": "094/076",
-   "price": 300,
-   "psa10": null
-  },
-  {
-   "rank": 20,
-   "name": "メガグソクムシャex",
-   "rarity": "SR",
-   "num": "089/076",
    "price": 300,
    "psa10": null
   }

@@ -2,31 +2,31 @@
  "set": "SV9",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/sv9/hits/",
- "fetched": "2026-10-25",
+ "fetched": "2026-10-31",
  "cards": [
   {
    "rank": 1,
    "name": "リーリエのピッピex",
    "rarity": "SAR",
    "num": "126/100",
-   "price": 15900,
-   "psa10": 38000
+   "price": 13000,
+   "psa10": 37000
   },
   {
    "rank": 2,
    "name": "ナンジャモのハラバリーex",
    "rarity": "SAR",
    "num": "125/100",
-   "price": 7200,
-   "psa10": 13600
+   "price": 6000,
+   "psa10": 13500
   },
   {
    "rank": 3,
    "name": "Nのゾロアークex",
    "rarity": "SAR",
    "num": "127/100",
-   "price": 6200,
-   "psa10": 10900
+   "price": 5600,
+   "psa10": 11000
   },
   {
    "rank": 4,
@@ -41,15 +41,15 @@
    "name": "Nのゾロアークex",
    "rarity": "UR",
    "num": "131/100",
-   "price": 2400,
-   "psa10": 7000
+   "price": 2200,
+   "psa10": 6200
   },
   {
    "rank": 6,
    "name": "ホップのザシアンex",
    "rarity": "SAR",
    "num": "128/100",
-   "price": 2000,
+   "price": 2200,
    "psa10": 7500
   },
   {
@@ -57,24 +57,24 @@
    "name": "ナンジャモのハラバリーex",
    "rarity": "UR",
    "num": "130/100",
-   "price": 1900,
-   "psa10": 7500
+   "price": 2000,
+   "psa10": 6500
   },
   {
    "rank": 8,
+   "name": "Nのレシラム",
+   "rarity": "AR",
+   "num": "109/100",
+   "price": 1500,
+   "psa10": 8500
+  },
+  {
+   "rank": 9,
    "name": "リーリエのピッピex",
    "rarity": "SR",
    "num": "115/100",
    "price": 1500,
-   "psa10": 10000
-  },
-  {
-   "rank": 9,
-   "name": "Nのレシラム",
-   "rarity": "AR",
-   "num": "109/100",
-   "price": 1400,
-   "psa10": 9000
+   "psa10": 9500
   },
   {
    "rank": 10,
@@ -90,7 +90,7 @@
    "rarity": "AR",
    "num": "105/100",
    "price": 900,
-   "psa10": 5000
+   "psa10": 5300
   },
   {
    "rank": 12,
@@ -102,14 +102,6 @@
   },
   {
    "rank": 13,
-   "name": "フリーザー",
-   "rarity": "AR",
-   "num": "102/100",
-   "price": 800,
-   "psa10": 8200
-  },
-  {
-   "rank": 14,
    "name": "Nのゾロア",
    "rarity": "AR",
    "num": "108/100",
@@ -117,31 +109,31 @@
    "psa10": 4700
   },
   {
-   "rank": 15,
-   "name": "タケシのスカウト",
-   "rarity": "SR",
-   "num": "123/100",
-   "price": 800,
-   "psa10": 5000
+   "rank": 14,
+   "name": "フリーザー",
+   "rarity": "AR",
+   "num": "102/100",
+   "price": 700,
+   "psa10": 7900
   },
   {
-   "rank": 16,
+   "rank": 15,
    "name": "アイリスの闘志",
    "rarity": "SR",
    "num": "121/100",
    "price": 700,
-   "psa10": 5300
+   "psa10": 5000
+  },
+  {
+   "rank": 16,
+   "name": "タケシのスカウト",
+   "rarity": "SR",
+   "num": "123/100",
+   "price": 700,
+   "psa10": 5000
   },
   {
    "rank": 17,
-   "name": "スパイクエネルギー",
-   "rarity": "UR",
-   "num": "132/100",
-   "price": 700,
-   "psa10": null
-  },
-  {
-   "rank": 18,
    "name": "ナンジャモのタイカイデン",
    "rarity": "AR",
    "num": "104/100",
@@ -149,20 +141,28 @@
    "psa10": 5000
   },
   {
-   "rank": 19,
-   "name": "ナンジャモのハラバリーex",
+   "rank": 18,
+   "name": "ノココッチex",
    "rarity": "SR",
-   "num": "114/100",
+   "num": "120/100",
+   "price": 600,
+   "psa10": 4500
+  },
+  {
+   "rank": 19,
+   "name": "オオタチ",
+   "rarity": "AR",
+   "num": "110/100",
    "price": 600,
    "psa10": 4200
   },
   {
    "rank": 20,
-   "name": "ノココッチex",
+   "name": "ナンジャモのハラバリーex",
    "rarity": "SR",
-   "num": "120/100",
-   "price": 500,
-   "psa10": 4500
+   "num": "114/100",
+   "price": 600,
+   "psa10": 4700
   }
  ]
 }
