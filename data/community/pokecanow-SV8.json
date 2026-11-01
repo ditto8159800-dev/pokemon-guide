@@ -2,7 +2,7 @@
  "set": "SV8",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/sv8/hits/",
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "cards": [
   {
    "rank": 1,
@@ -10,7 +10,7 @@
    "rarity": "SAR",
    "num": "132/106",
    "price": 40500,
-   "psa10": 84000
+   "psa10": 83000
   },
   {
    "rank": 2,
@@ -18,14 +18,14 @@
    "rarity": "UR",
    "num": "136/106",
    "price": 10900,
-   "psa10": 45500
+   "psa10": 45300
   },
   {
    "rank": 3,
    "name": "ミロカロスex",
    "rarity": "SAR",
    "num": "131/106",
-   "price": 8800,
+   "price": 7800,
    "psa10": 18500
   },
   {
@@ -41,7 +41,7 @@
    "name": "サザンドラex",
    "rarity": "SAR",
    "num": "133/106",
-   "price": 3300,
+   "price": 3000,
    "psa10": 8700
   },
   {
@@ -50,7 +50,7 @@
    "rarity": "SAR",
    "num": "135/106",
    "price": 2500,
-   "psa10": 14400
+   "psa10": 14800
   },
   {
    "rank": 7,
@@ -78,19 +78,19 @@
   },
   {
    "rank": 10,
-   "name": "レアコイル",
-   "rarity": "AR",
-   "num": "112/106",
-   "price": 1100,
-   "psa10": 6700
-  },
-  {
-   "rank": 11,
    "name": "メラルバ",
    "rarity": "AR",
    "num": "108/106",
    "price": 1100,
    "psa10": 3700
+  },
+  {
+   "rank": 11,
+   "name": "レアコイル",
+   "rarity": "AR",
+   "num": "112/106",
+   "price": 1000,
+   "psa10": 6700
   },
   {
    "rank": 12,
@@ -118,14 +118,6 @@
   },
   {
    "rank": 15,
-   "name": "シトロンの機転",
-   "rarity": "SR",
-   "num": "128/106",
-   "price": 800,
-   "psa10": 5600
-  },
-  {
-   "rank": 16,
    "name": "ミカンのまなざし",
    "rarity": "SR",
    "num": "129/106",
@@ -133,7 +125,7 @@
    "psa10": 6800
   },
   {
-   "rank": 17,
+   "rank": 16,
    "name": "シロデスナex",
    "rarity": "SR",
    "num": "123/106",
@@ -141,12 +133,20 @@
    "psa10": 5300
   },
   {
-   "rank": 18,
+   "rank": 17,
    "name": "サザンドラex",
    "rarity": "SR",
    "num": "124/106",
    "price": 600,
    "psa10": 6000
+  },
+  {
+   "rank": 18,
+   "name": "マッギョ",
+   "rarity": "AR",
+   "num": "113/106",
+   "price": 500,
+   "psa10": 3800
   },
   {
    "rank": 19,
@@ -158,11 +158,11 @@
   },
   {
    "rank": 20,
-   "name": "マッギョ",
-   "rarity": "AR",
-   "num": "113/106",
+   "name": "シャリタツex",
+   "rarity": "SR",
+   "num": "125/106",
    "price": 500,
-   "psa10": 3800
+   "psa10": 5800
   }
  ]
 }

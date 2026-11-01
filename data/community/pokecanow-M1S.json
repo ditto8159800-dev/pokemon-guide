@@ -2,7 +2,7 @@
  "set": "M1S",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/m1s/hits/",
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "cards": [
   {
    "rank": 1,
@@ -17,24 +17,24 @@
    "name": "メガサーナイトex",
    "rarity": "SAR",
    "num": "087/063",
-   "price": 6500,
-   "psa10": 21000
+   "price": 6700,
+   "psa10": 20900
   },
   {
    "rank": 3,
    "name": "アセロラのいたずら",
    "rarity": "SAR",
    "num": "090/063",
-   "price": 2500,
-   "psa10": 17600
+   "price": 2700,
+   "psa10": 17200
   },
   {
    "rank": 4,
    "name": "メガガルーラex",
    "rarity": "SAR",
    "num": "089/063",
-   "price": 2000,
-   "psa10": 7800
+   "price": 2200,
+   "psa10": 7400
   },
   {
    "rank": 5,
@@ -74,14 +74,14 @@
    "rarity": "SR",
    "num": "084/063",
    "price": 800,
-   "psa10": 11000
+   "psa10": 11500
   },
   {
    "rank": 10,
    "name": "ミツルの思いやり",
    "rarity": "SAR",
    "num": "091/063",
-   "price": 700,
+   "price": 800,
    "psa10": 8500
   },
   {
@@ -89,7 +89,7 @@
    "name": "メガガルーラex",
    "rarity": "SR",
    "num": "080/063",
-   "price": 500,
+   "price": 600,
    "psa10": 4500
   },
   {
@@ -97,19 +97,11 @@
    "name": "メガサーナイトex",
    "rarity": "SR",
    "num": "078/063",
-   "price": 400,
+   "price": 500,
    "psa10": 4300
   },
   {
    "rank": 13,
-   "name": "メガラティアスex",
-   "rarity": "SR",
-   "num": "079/063",
-   "price": 400,
-   "psa10": 4800
-  },
-  {
-   "rank": 14,
    "name": "ミツルの思いやり",
    "rarity": "SR",
    "num": "085/063",
@@ -117,7 +109,7 @@
    "psa10": 6500
   },
   {
-   "rank": 15,
+   "rank": 14,
    "name": "ミステリーガーデン",
    "rarity": "SR",
    "num": "086/063",
@@ -125,12 +117,20 @@
    "psa10": null
   },
   {
-   "rank": 16,
+   "rank": 15,
    "name": "ツボツボ",
    "rarity": "AR",
    "num": "064/063",
    "price": 300,
    "psa10": 3800
+  },
+  {
+   "rank": 16,
+   "name": "エリキテル",
+   "rarity": "AR",
+   "num": "070/063",
+   "price": 300,
+   "psa10": 3700
   },
   {
    "rank": 17,
@@ -142,19 +142,19 @@
   },
   {
    "rank": 18,
-   "name": "エリキテル",
-   "rarity": "AR",
-   "num": "070/063",
-   "price": 300,
-   "psa10": 3600
-  },
-  {
-   "rank": 19,
    "name": "ヌイコグマ",
    "rarity": "AR",
    "num": "075/063",
    "price": 300,
    "psa10": 3700
+  },
+  {
+   "rank": 19,
+   "name": "フーディン",
+   "rarity": "AR",
+   "num": "071/063",
+   "price": 300,
+   "psa10": 4300
   },
   {
    "rank": 20,

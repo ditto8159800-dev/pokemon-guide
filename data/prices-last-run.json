@@ -1,5 +1,5 @@
 {
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "updated": 210,
  "failed": 0,
  "stale": 0,
@@ -9,10 +9,10 @@
   "TCGplayer": 204,
   "SNKRDUNK": 6
  },
- "psa10": 208,
+ "psa10": 207,
  "tcgLink": 210,
  "snkLink": 0,
- "reconciled": 17,
+ "reconciled": 20,
  "pricechartingBlocked": false,
- "totalPrices": 1343
+ "totalPrices": 1347
 }

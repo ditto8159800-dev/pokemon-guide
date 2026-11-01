@@ -2,14 +2,14 @@
  "set": "SV9",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/sv9/hits/",
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "cards": [
   {
    "rank": 1,
    "name": "リーリエのピッピex",
    "rarity": "SAR",
    "num": "126/100",
-   "price": 13000,
+   "price": 14100,
    "psa10": 37000
   },
   {
@@ -18,7 +18,7 @@
    "rarity": "SAR",
    "num": "125/100",
    "price": 6000,
-   "psa10": 13500
+   "psa10": 14500
   },
   {
    "rank": 3,
@@ -34,7 +34,7 @@
    "rarity": "SAR",
    "num": "129/100",
    "price": 2800,
-   "psa10": 9200
+   "psa10": 9000
   },
   {
    "rank": 5,
@@ -57,24 +57,24 @@
    "name": "ナンジャモのハラバリーex",
    "rarity": "UR",
    "num": "130/100",
-   "price": 2000,
+   "price": 1800,
    "psa10": 6500
   },
   {
    "rank": 8,
-   "name": "Nのレシラム",
-   "rarity": "AR",
-   "num": "109/100",
-   "price": 1500,
-   "psa10": 8500
-  },
-  {
-   "rank": 9,
    "name": "リーリエのピッピex",
    "rarity": "SR",
    "num": "115/100",
    "price": 1500,
    "psa10": 9500
+  },
+  {
+   "rank": 9,
+   "name": "Nのレシラム",
+   "rarity": "AR",
+   "num": "109/100",
+   "price": 1300,
+   "psa10": 8500
   },
   {
    "rank": 10,
@@ -86,14 +86,6 @@
   },
   {
    "rank": 11,
-   "name": "リーリエのアブリボン",
-   "rarity": "AR",
-   "num": "105/100",
-   "price": 900,
-   "psa10": 5300
-  },
-  {
-   "rank": 12,
    "name": "Nのゾロアークex",
    "rarity": "SR",
    "num": "117/100",
@@ -101,20 +93,28 @@
    "psa10": 7000
   },
   {
+   "rank": 12,
+   "name": "リーリエのアブリボン",
+   "rarity": "AR",
+   "num": "105/100",
+   "price": 800,
+   "psa10": 5000
+  },
+  {
    "rank": 13,
+   "name": "フリーザー",
+   "rarity": "AR",
+   "num": "102/100",
+   "price": 800,
+   "psa10": 7900
+  },
+  {
+   "rank": 14,
    "name": "Nのゾロア",
    "rarity": "AR",
    "num": "108/100",
    "price": 800,
-   "psa10": 4700
-  },
-  {
-   "rank": 14,
-   "name": "フリーザー",
-   "rarity": "AR",
-   "num": "102/100",
-   "price": 700,
-   "psa10": 7900
+   "psa10": 4000
   },
   {
    "rank": 15,
@@ -142,19 +142,19 @@
   },
   {
    "rank": 18,
-   "name": "ノココッチex",
-   "rarity": "SR",
-   "num": "120/100",
-   "price": 600,
-   "psa10": 4500
-  },
-  {
-   "rank": 19,
    "name": "オオタチ",
    "rarity": "AR",
    "num": "110/100",
    "price": 600,
    "psa10": 4200
+  },
+  {
+   "rank": 19,
+   "name": "ノココッチex",
+   "rarity": "SR",
+   "num": "120/100",
+   "price": 600,
+   "psa10": 4500
   },
   {
    "rank": 20,

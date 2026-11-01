@@ -2,7 +2,7 @@
  "set": "SV9a",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/sv9a/hits/",
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "cards": [
   {
    "rank": 1,
@@ -17,7 +17,7 @@
    "name": "ヒビキのホウオウex",
    "rarity": "SAR",
    "num": "086/063",
-   "price": 21000,
+   "price": 20500,
    "psa10": 43000
   },
   {
@@ -41,7 +41,7 @@
    "name": "ヒビキのホウオウex",
    "rarity": "UR",
    "num": "090/063",
-   "price": 3500,
+   "price": 3600,
    "psa10": 6500
   },
   {
@@ -50,14 +50,14 @@
    "rarity": "AR",
    "num": "071/063",
    "price": 3200,
-   "psa10": 14000
+   "psa10": 13100
   },
   {
    "rank": 7,
    "name": "ペパーのマフィティフex",
    "rarity": "SAR",
    "num": "088/063",
-   "price": 2500,
+   "price": 2400,
    "psa10": 7200
   },
   {
@@ -126,14 +126,6 @@
   },
   {
    "rank": 16,
-   "name": "シェイミ",
-   "rarity": "AR",
-   "num": "066/063",
-   "price": 800,
-   "psa10": 4500
-  },
-  {
-   "rank": 17,
    "name": "ヒビキの冒険",
    "rarity": "SR",
    "num": "084/063",
@@ -141,12 +133,20 @@
    "psa10": 5900
   },
   {
-   "rank": 18,
+   "rank": 17,
    "name": "ジャッジマン",
    "rarity": "SR",
    "num": "083/063",
    "price": 800,
    "psa10": null
+  },
+  {
+   "rank": 18,
+   "name": "シェイミ",
+   "rarity": "AR",
+   "num": "066/063",
+   "price": 700,
+   "psa10": 4500
   },
   {
    "rank": 19,
@@ -158,9 +158,9 @@
   },
   {
    "rank": 20,
-   "name": "ペパーのヨクバリス",
+   "name": "ヤンヤンマ",
    "rarity": "AR",
-   "num": "075/063",
+   "num": "064/063",
    "price": 500,
    "psa10": 3800
   }

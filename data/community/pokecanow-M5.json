@@ -2,23 +2,23 @@
  "set": "M5",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/m5/hits/",
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "cards": [
   {
    "rank": 1,
    "name": "メガダークライex",
    "rarity": "MUR",
    "num": "118/081",
-   "price": 20600,
-   "psa10": 62200
+   "price": 20000,
+   "psa10": 62700
   },
   {
    "rank": 2,
    "name": "メガダークライex",
    "rarity": "SAR",
    "num": "114/081",
-   "price": 13000,
-   "psa10": 28900
+   "price": 12900,
+   "psa10": 28200
   },
   {
    "rank": 3,
@@ -26,7 +26,7 @@
    "rarity": "SAR",
    "num": "117/081",
    "price": 3000,
-   "psa10": 14000
+   "psa10": 14400
   },
   {
    "rank": 4,
@@ -34,7 +34,7 @@
    "rarity": "SAR",
    "num": "115/081",
    "price": 2200,
-   "psa10": 11000
+   "psa10": 11100
   },
   {
    "rank": 5,
@@ -86,19 +86,19 @@
   },
   {
    "rank": 11,
-   "name": "ヤドラン",
-   "rarity": "AR",
-   "num": "087/081",
-   "price": 500,
-   "psa10": 4800
-  },
-  {
-   "rank": 12,
    "name": "メガゼラオラex",
    "rarity": "SR",
    "num": "096/081",
    "price": 500,
    "psa10": 3300
+  },
+  {
+   "rank": 12,
+   "name": "ヤドラン",
+   "rarity": "AR",
+   "num": "087/081",
+   "price": 400,
+   "psa10": 4800
   },
   {
    "rank": 13,
@@ -142,14 +142,6 @@
   },
   {
    "rank": 18,
-   "name": "ラランテスex",
-   "rarity": "SR",
-   "num": "094/081",
-   "price": 400,
-   "psa10": null
-  },
-  {
-   "rank": 19,
    "name": "ラムパルドex",
    "rarity": "SR",
    "num": "098/081",
@@ -157,12 +149,20 @@
    "psa10": null
   },
   {
-   "rank": 20,
+   "rank": 19,
    "name": "フォクスライ",
    "rarity": "AR",
    "num": "089/081",
    "price": 400,
    "psa10": 3800
+  },
+  {
+   "rank": 20,
+   "name": "ダダリン",
+   "rarity": "AR",
+   "num": "088/081",
+   "price": 300,
+   "psa10": 4000
   }
  ]
 }

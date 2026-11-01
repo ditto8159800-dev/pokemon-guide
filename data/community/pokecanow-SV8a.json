@@ -2,23 +2,23 @@
  "set": "SV8a",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/sv8a/hits/",
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "cards": [
   {
    "rank": 1,
    "name": "ブラッキーex",
    "rarity": "SAR",
    "num": "217/187",
-   "price": 37000,
-   "psa10": 70000
+   "price": 35000,
+   "psa10": 71000
   },
   {
    "rank": 2,
    "name": "ニンフィアex",
    "rarity": "SAR",
    "num": "212/187",
-   "price": 11000,
-   "psa10": 23300
+   "price": 10400,
+   "psa10": 23000
   },
   {
    "rank": 3,
@@ -38,6 +38,14 @@
   },
   {
    "rank": 5,
+   "name": "ピカチュウex",
+   "rarity": "UR",
+   "num": "236/187",
+   "price": 5200,
+   "psa10": 23900
+  },
+  {
+   "rank": 6,
    "name": "グレイシアex",
    "rarity": "SAR",
    "num": "206/187",
@@ -45,27 +53,19 @@
    "psa10": 15000
   },
   {
-   "rank": 6,
-   "name": "ピカチュウex",
-   "rarity": "UR",
-   "num": "236/187",
-   "price": 5200,
-   "psa10": 23000
-  },
-  {
    "rank": 7,
    "name": "エーフィex",
    "rarity": "SAR",
    "num": "211/187",
    "price": 5000,
-   "psa10": 17300
+   "psa10": 16500
   },
   {
    "rank": 8,
    "name": "ブースターex",
    "rarity": "SAR",
    "num": "202/187",
-   "price": 4400,
+   "price": 4300,
    "psa10": 11000
   },
   {
@@ -82,7 +82,7 @@
    "rarity": "SAR",
    "num": "223/187",
    "price": 3100,
-   "psa10": 11000
+   "psa10": 10500
   },
   {
    "rank": 11,
@@ -105,7 +105,7 @@
    "name": "ソウブレイズex",
    "rarity": "SAR",
    "num": "203/187",
-   "price": 1300,
+   "price": 1400,
    "psa10": 7500
   },
   {
@@ -150,11 +150,11 @@
   },
   {
    "rank": 19,
-   "name": "アカマツ",
+   "name": "ガチグマ アカツキex",
    "rarity": "SAR",
-   "num": "227/187",
+   "num": "225/187",
    "price": 800,
-   "psa10": 6500
+   "psa10": 4900
   },
   {
    "rank": 20,

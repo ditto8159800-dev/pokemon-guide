@@ -2,7 +2,7 @@
  "set": "SM12a",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/sm12a/hits/",
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "cards": [
   {
    "rank": 1,
@@ -10,7 +10,7 @@
    "rarity": "SR",
    "num": "182/173",
    "price": 133300,
-   "psa10": 308000
+   "psa10": 298000
   },
   {
    "rank": 2,
@@ -34,7 +34,7 @@
    "rarity": "SR",
    "num": "190/173",
    "price": 46700,
-   "psa10": 182200
+   "psa10": 181000
   },
   {
    "rank": 5,
@@ -70,14 +70,6 @@
   },
   {
    "rank": 9,
-   "name": "カスミ&カンナ",
-   "rarity": "SR",
-   "num": "191/173",
-   "price": 25000,
-   "psa10": 75000
-  },
-  {
-   "rank": 10,
    "name": "ブラッキー&ダークライGX",
    "rarity": "HR",
    "num": "215/173",
@@ -85,7 +77,23 @@
    "psa10": 51100
   },
   {
+   "rank": 10,
+   "name": "カスミ&カンナ",
+   "rarity": "SR",
+   "num": "191/173",
+   "price": 23000,
+   "psa10": 75000
+  },
+  {
    "rank": 11,
+   "name": "レッドの挑戦",
+   "rarity": "SR",
+   "num": "201/173",
+   "price": 23000,
+   "psa10": 70000
+  },
+  {
+   "rank": 12,
    "name": "レシラム&リザードンGX",
    "rarity": "UR",
    "num": "220/173",
@@ -93,28 +101,20 @@
    "psa10": 73000
   },
   {
-   "rank": 12,
-   "name": "レッドの挑戦",
+   "rank": 13,
+   "name": "グリーンの戦略",
    "rarity": "SR",
-   "num": "201/173",
-   "price": 22000,
-   "psa10": 70000
+   "num": "193/173",
+   "price": 22800,
+   "psa10": 71600
   },
   {
-   "rank": 13,
+   "rank": 14,
    "name": "エーフィ&デオキシスGX",
    "rarity": "SR",
    "num": "177/173",
    "price": 21100,
    "psa10": 90500
-  },
-  {
-   "rank": 14,
-   "name": "グリーンの戦略",
-   "rarity": "SR",
-   "num": "193/173",
-   "price": 19000,
-   "psa10": 71600
   },
   {
    "rank": 15,

@@ -2,14 +2,14 @@
  "set": "S12a",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/s12a/hits/",
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "cards": [
   {
    "rank": 1,
    "name": "ピカチュウ",
    "rarity": "AR",
    "num": "205/172",
-   "price": 27800,
+   "price": 25000,
    "psa10": 67000
   },
   {
@@ -26,7 +26,7 @@
    "rarity": "UR",
    "num": "262/172",
    "price": 13000,
-   "psa10": 26800
+   "psa10": 26500
   },
   {
    "rank": 4,
@@ -34,7 +34,7 @@
    "rarity": "SAR",
    "num": "212/172",
    "price": 9800,
-   "psa10": 28000
+   "psa10": 28500
   },
   {
    "rank": 5,
@@ -42,66 +42,74 @@
    "rarity": "SAR",
    "num": "221/172",
    "price": 8900,
-   "psa10": 24200
+   "psa10": 24300
   },
   {
    "rank": 6,
-   "name": "オリジンディアルガVSTAR",
-   "rarity": "UR",
-   "num": "260/172",
-   "price": 8000,
-   "psa10": 23300
-  },
-  {
-   "rank": 7,
    "name": "オリジンパルキアVSTAR",
    "rarity": "UR",
    "num": "259/172",
-   "price": 7300,
+   "price": 7600,
    "psa10": 24000
+  },
+  {
+   "rank": 7,
+   "name": "オリジンディアルガVSTAR",
+   "rarity": "UR",
+   "num": "260/172",
+   "price": 7600,
+   "psa10": 23300
   },
   {
    "rank": 8,
    "name": "リザードンV",
    "rarity": "SAR",
    "num": "211/172",
-   "price": 4200,
+   "price": 4300,
    "psa10": 17500
   },
   {
    "rank": 9,
-   "name": "ミュウ",
-   "rarity": "AR",
-   "num": "183/172",
-   "price": 3900,
-   "psa10": 15200
-  },
-  {
-   "rank": 10,
-   "name": "リーフィアVSTAR",
-   "rarity": "SAR",
-   "num": "210/172",
-   "price": 3900,
-   "psa10": 11000
-  },
-  {
-   "rank": 11,
    "name": "スイクンV",
    "rarity": "SAR",
    "num": "215/172",
-   "price": 3700,
+   "price": 3800,
    "psa10": 12500
   },
   {
-   "rank": 12,
+   "rank": 10,
    "name": "ダークライVSTAR",
    "rarity": "SAR",
    "num": "228/172",
-   "price": 3500,
-   "psa10": 11500
+   "price": 3700,
+   "psa10": 12000
+  },
+  {
+   "rank": 11,
+   "name": "ミュウ",
+   "rarity": "AR",
+   "num": "183/172",
+   "price": 3600,
+   "psa10": 15200
+  },
+  {
+   "rank": 12,
+   "name": "リーフィアVSTAR",
+   "rarity": "SAR",
+   "num": "210/172",
+   "price": 3400,
+   "psa10": 11000
   },
   {
    "rank": 13,
+   "name": "グレイシアVSTAR",
+   "rarity": "SAR",
+   "num": "217/172",
+   "price": 3300,
+   "psa10": 11000
+  },
+  {
+   "rank": 14,
    "name": "シロナの覇気",
    "rarity": "SAR",
    "num": "239/172",
@@ -109,27 +117,19 @@
    "psa10": 23000
   },
   {
-   "rank": 14,
-   "name": "グレイシアVSTAR",
-   "rarity": "SAR",
-   "num": "217/172",
-   "price": 3200,
-   "psa10": 11000
-  },
-  {
    "rank": 15,
    "name": "バオッキーVSTAR",
    "rarity": "SAR",
    "num": "214/172",
-   "price": 3200,
-   "psa10": 16500
+   "price": 2900,
+   "psa10": 16000
   },
   {
    "rank": 16,
    "name": "カイ",
    "rarity": "SAR",
    "num": "236/172",
-   "price": 2800,
+   "price": 2900,
    "psa10": 13500
   },
   {
@@ -138,7 +138,7 @@
    "rarity": "SAR",
    "num": "213/172",
    "price": 2600,
-   "psa10": 11200
+   "psa10": 11500
   },
   {
    "rank": 18,
@@ -158,11 +158,11 @@
   },
   {
    "rank": 20,
-   "name": "ヒスイ ゾロアークVSTAR",
-   "rarity": "SAR",
-   "num": "234/172",
+   "name": "カミツレのきらめき",
+   "rarity": "SR",
+   "num": "246/172",
    "price": 2300,
-   "psa10": 10000
+   "psa10": 9500
   }
  ]
 }

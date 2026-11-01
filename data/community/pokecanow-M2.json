@@ -2,7 +2,7 @@
  "set": "M2",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/m2/hits/",
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "cards": [
   {
    "rank": 1,
@@ -30,19 +30,19 @@
   },
   {
    "rank": 4,
+   "name": "ヒカリ",
+   "rarity": "SAR",
+   "num": "115/080",
+   "price": 2500,
+   "psa10": 9200
+  },
+  {
+   "rank": 5,
    "name": "マメバッタ",
    "rarity": "AR",
    "num": "082/080",
    "price": 2500,
-   "psa10": 3800
-  },
-  {
-   "rank": 5,
-   "name": "ヒカリ",
-   "rarity": "SAR",
-   "num": "115/080",
-   "price": 2400,
-   "psa10": 9200
+   "psa10": 3600
   },
   {
    "rank": 6,
@@ -74,7 +74,7 @@
    "rarity": "SAR",
    "num": "114/080",
    "price": 1100,
-   "psa10": 5200
+   "psa10": 5000
   },
   {
    "rank": 10,
@@ -94,6 +94,14 @@
   },
   {
    "rank": 12,
+   "name": "ワンパチ",
+   "rarity": "AR",
+   "num": "086/080",
+   "price": 500,
+   "psa10": 3700
+  },
+  {
+   "rank": 13,
    "name": "ロトムex",
    "rarity": "SR",
    "num": "096/080",
@@ -101,7 +109,7 @@
    "psa10": 4300
   },
   {
-   "rank": 13,
+   "rank": 14,
    "name": "ジュゴン",
    "rarity": "AR",
    "num": "084/080",
@@ -109,7 +117,7 @@
    "psa10": 3700
   },
   {
-   "rank": 14,
+   "rank": 15,
    "name": "フライゴン",
    "rarity": "AR",
    "num": "088/080",
@@ -117,7 +125,7 @@
    "psa10": 4000
   },
   {
-   "rank": 15,
+   "rank": 16,
    "name": "プクリン",
    "rarity": "AR",
    "num": "091/080",
@@ -125,7 +133,7 @@
    "psa10": 3700
   },
   {
-   "rank": 16,
+   "rank": 17,
    "name": "ストリンダー",
    "rarity": "AR",
    "num": "089/080",
@@ -133,7 +141,7 @@
    "psa10": 3700
   },
   {
-   "rank": 17,
+   "rank": 18,
    "name": "カルボウ",
    "rarity": "AR",
    "num": "083/080",
@@ -141,7 +149,7 @@
    "psa10": 3800
   },
   {
-   "rank": 18,
+   "rank": 19,
    "name": "メガサメハダーex",
    "rarity": "SR",
    "num": "098/080",
@@ -149,20 +157,12 @@
    "psa10": 4000
   },
   {
-   "rank": 19,
+   "rank": 20,
    "name": "メガミミロップex",
    "rarity": "SR",
    "num": "100/080",
    "price": 400,
    "psa10": 4000
-  },
-  {
-   "rank": 20,
-   "name": "ひふきやろう",
-   "rarity": "SR",
-   "num": "107/080",
-   "price": 400,
-   "psa10": null
   }
  ]
 }

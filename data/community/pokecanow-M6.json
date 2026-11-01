@@ -2,30 +2,30 @@
  "set": "M6",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/m6/hits/",
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "cards": [
   {
    "rank": 1,
    "name": "メガレックウザex",
    "rarity": "MUR",
    "num": "113/076",
-   "price": 49500,
-   "psa10": 210000
+   "price": 44500,
+   "psa10": 200000
   },
   {
    "rank": 2,
    "name": "メガレックウザex",
    "rarity": "SAR",
    "num": "110/076",
-   "price": 21000,
-   "psa10": 69000
+   "price": 20500,
+   "psa10": 66800
   },
   {
    "rank": 3,
    "name": "ライコウex",
    "rarity": "SAR",
    "num": "108/076",
-   "price": 2700,
+   "price": 3100,
    "psa10": 14100
   },
   {
@@ -33,7 +33,7 @@
    "name": "メガレックウザex",
    "rarity": "SR",
    "num": "095/076",
-   "price": 2000,
+   "price": 1900,
    "psa10": 21800
   },
   {
@@ -78,19 +78,19 @@
   },
   {
    "rank": 10,
-   "name": "ヒガナの信頼",
-   "rarity": "SR",
-   "num": "102/076",
-   "price": 600,
-   "psa10": 5500
-  },
-  {
-   "rank": 11,
    "name": "ファイアローex",
    "rarity": "SR",
    "num": "096/076",
    "price": 600,
    "psa10": null
+  },
+  {
+   "rank": 11,
+   "name": "ヒガナの信頼",
+   "rarity": "SR",
+   "num": "102/076",
+   "price": 600,
+   "psa10": 5500
   },
   {
    "rank": 12,

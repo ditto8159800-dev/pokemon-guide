@@ -2,7 +2,7 @@
  "set": "S11",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/s11/hits/",
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "cards": [
   {
    "rank": 1,
@@ -33,7 +33,7 @@
    "name": "ギラティナVSTAR",
    "rarity": "HR",
    "num": "120/100",
-   "price": 2900,
+   "price": 2400,
    "psa10": 10000
   },
   {
@@ -54,14 +54,6 @@
   },
   {
    "rank": 7,
-   "name": "おじょうさま",
-   "rarity": "SR",
-   "num": "114/100",
-   "price": 1400,
-   "psa10": 6700
-  },
-  {
-   "rank": 8,
    "name": "ガラル ニャイキングV",
    "rarity": "SR",
    "num": "109/100",
@@ -69,7 +61,7 @@
    "psa10": 7600
   },
   {
-   "rank": 9,
+   "rank": 8,
    "name": "おじょうさま",
    "rarity": "HR",
    "num": "122/100",
@@ -77,12 +69,20 @@
    "psa10": 7800
   },
   {
-   "rank": 10,
+   "rank": 9,
    "name": "プテラVSTAR",
    "rarity": "HR",
    "num": "118/100",
    "price": 1200,
    "psa10": 7800
+  },
+  {
+   "rank": 10,
+   "name": "おじょうさま",
+   "rarity": "SR",
+   "num": "114/100",
+   "price": 1100,
+   "psa10": 6700
   },
   {
    "rank": 11,

@@ -2,7 +2,7 @@
  "set": "M4",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/m4/hits/",
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "cards": [
   {
    "rank": 1,
@@ -17,7 +17,7 @@
    "name": "メガゲッコウガex",
    "rarity": "SAR",
    "num": "114/083",
-   "price": 12500,
+   "price": 11800,
    "psa10": 27000
   },
   {
@@ -25,7 +25,7 @@
    "name": "チラチーノex",
    "rarity": "SAR",
    "num": "117/083",
-   "price": 2500,
+   "price": 2300,
    "psa10": 6000
   },
   {
@@ -49,7 +49,7 @@
    "name": "メガフラエッテex",
    "rarity": "SAR",
    "num": "115/083",
-   "price": 900,
+   "price": 1000,
    "psa10": 5500
   },
   {
@@ -114,10 +114,18 @@
    "rarity": "AR",
    "num": "089/083",
    "price": 400,
-   "psa10": 4700
+   "psa10": 4500
   },
   {
    "rank": 15,
+   "name": "デンリュウ",
+   "rarity": "AR",
+   "num": "088/083",
+   "price": 400,
+   "psa10": 4600
+  },
+  {
+   "rank": 16,
    "name": "ゲコガシラ",
    "rarity": "AR",
    "num": "087/083",
@@ -125,7 +133,7 @@
    "psa10": 3800
   },
   {
-   "rank": 16,
+   "rank": 17,
    "name": "スペシャルレッドカード",
    "rarity": "SR",
    "num": "106/083",
@@ -133,7 +141,7 @@
    "psa10": null
   },
   {
-   "rank": 17,
+   "rank": 18,
    "name": "メガフラエッテex",
    "rarity": "SR",
    "num": "099/083",
@@ -141,7 +149,7 @@
    "psa10": 4600
   },
   {
-   "rank": 18,
+   "rank": 19,
    "name": "メガドラミドロex",
    "rarity": "SR",
    "num": "102/083",
@@ -149,20 +157,12 @@
    "psa10": 3800
   },
   {
-   "rank": 19,
-   "name": "チラチーノex",
-   "rarity": "SR",
-   "num": "103/083",
-   "price": 400,
-   "psa10": 4700
-  },
-  {
    "rank": 20,
    "name": "ネンドール",
    "rarity": "AR",
    "num": "090/083",
    "price": 400,
-   "psa10": 4000
+   "psa10": 3800
   }
  ]
 }

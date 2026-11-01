@@ -2,14 +2,14 @@
  "set": "SV4a",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/sv4a/hits/",
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "cards": [
   {
    "rank": 1,
    "name": "ミュウex",
    "rarity": "SAR",
    "num": "347/190",
-   "price": 42000,
+   "price": 46000,
    "psa10": 124000
   },
   {
@@ -17,8 +17,8 @@
    "name": "リザードンex",
    "rarity": "SAR",
    "num": "349/190",
-   "price": 22000,
-   "psa10": 63000
+   "price": 22500,
+   "psa10": 63100
   },
   {
    "rank": 3,
@@ -42,14 +42,14 @@
    "rarity": "S",
    "num": "236/190",
    "price": 3800,
-   "psa10": 27000
+   "psa10": 24500
   },
   {
    "rank": 6,
    "name": "ミュウex",
    "rarity": "SSR",
    "num": "327/190",
-   "price": 2000,
+   "price": 2100,
    "psa10": 10000
   },
   {

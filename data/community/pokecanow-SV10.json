@@ -2,7 +2,7 @@
  "set": "SV10",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/sv10/hits/",
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "cards": [
   {
    "rank": 1,
@@ -26,7 +26,7 @@
    "rarity": "SAR",
    "num": "126/098",
    "price": 7200,
-   "psa10": 17800
+   "psa10": 18000
   },
   {
    "rank": 4,
@@ -82,7 +82,7 @@
    "rarity": "AR",
    "num": "109/098",
    "price": 1200,
-   "psa10": 11500
+   "psa10": 11000
   },
   {
    "rank": 11,

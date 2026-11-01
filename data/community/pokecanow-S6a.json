@@ -2,15 +2,15 @@
  "set": "S6a",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/s6a/hits/",
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "cards": [
   {
    "rank": 1,
    "name": "ブラッキーVMAX",
    "rarity": "HR",
    "num": "095/069",
-   "price": 375000,
-   "psa10": 700200
+   "price": 271600,
+   "psa10": 688700
   },
   {
    "rank": 2,
@@ -33,7 +33,7 @@
    "name": "リーフィアVMAX",
    "rarity": "HR",
    "num": "089/069",
-   "price": 55600,
+   "price": 53000,
    "psa10": 96000
   },
   {
@@ -42,7 +42,7 @@
    "rarity": "SR",
    "num": "085/069",
    "price": 37500,
-   "psa10": 89000
+   "psa10": 90000
   },
   {
    "rank": 6,
@@ -50,7 +50,7 @@
    "rarity": "SR",
    "num": "083/069",
    "price": 16400,
-   "psa10": 44000
+   "psa10": 45000
   },
   {
    "rank": 7,
@@ -66,7 +66,7 @@
    "rarity": "SR",
    "num": "075/069",
    "price": 13900,
-   "psa10": 41500
+   "psa10": 42000
   },
   {
    "rank": 9,
@@ -97,7 +97,7 @@
    "name": "サンダースV",
    "rarity": "SR",
    "num": "079/069",
-   "price": 11200,
+   "price": 10000,
    "psa10": 33000
   },
   {
@@ -113,7 +113,7 @@
    "name": "ブラッキーV",
    "rarity": "SR",
    "num": "084/069",
-   "price": 5300,
+   "price": 5200,
    "psa10": 14800
   },
   {
@@ -121,7 +121,7 @@
    "name": "基本悪エネルギー",
    "rarity": "UR",
    "num": "101/069",
-   "price": 4300,
+   "price": 4500,
    "psa10": 9700
   },
   {
@@ -158,11 +158,11 @@
   },
   {
    "rank": 20,
-   "name": "エーフィV",
+   "name": "グレイシアV",
    "rarity": "SR",
-   "num": "080/069",
+   "num": "076/069",
    "price": 2200,
-   "psa10": 10500
+   "psa10": 7800
   }
  ]
 }
