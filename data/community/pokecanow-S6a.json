@@ -2,7 +2,7 @@
  "set": "S6a",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/s6a/hits/",
- "fetched": "2026-11-01",
+ "fetched": "2026-11-11",
  "cards": [
   {
    "rank": 1,
@@ -10,7 +10,7 @@
    "rarity": "HR",
    "num": "095/069",
    "price": 271600,
-   "psa10": 688700
+   "psa10": 670000
   },
   {
    "rank": 2,
@@ -18,87 +18,87 @@
    "rarity": "HR",
    "num": "093/069",
    "price": 100000,
-   "psa10": 210000
+   "psa10": 226000
   },
   {
    "rank": 3,
    "name": "グレイシアVMAX",
    "rarity": "HR",
    "num": "091/069",
-   "price": 70000,
-   "psa10": 132000
+   "price": 66700,
+   "psa10": 139800
   },
   {
    "rank": 4,
    "name": "リーフィアVMAX",
    "rarity": "HR",
    "num": "089/069",
-   "price": 53000,
-   "psa10": 96000
+   "price": 56300,
+   "psa10": 105000
   },
   {
    "rank": 5,
    "name": "ブラッキーV",
    "rarity": "SR",
    "num": "085/069",
-   "price": 37500,
-   "psa10": 90000
+   "price": 33600,
+   "psa10": 95000
   },
   {
    "rank": 6,
-   "name": "ニンフィアV",
-   "rarity": "SR",
-   "num": "083/069",
-   "price": 16400,
-   "psa10": 45000
-  },
-  {
-   "rank": 7,
    "name": "エーフィV",
    "rarity": "SR",
    "num": "081/069",
-   "price": 16000,
-   "psa10": 40500
+   "price": 17800,
+   "psa10": 41500
+  },
+  {
+   "rank": 7,
+   "name": "ニンフィアV",
+   "rarity": "SR",
+   "num": "083/069",
+   "price": 15500,
+   "psa10": 46000
   },
   {
    "rank": 8,
-   "name": "シャワーズV",
+   "name": "グレイシアV",
    "rarity": "SR",
-   "num": "075/069",
-   "price": 13900,
-   "psa10": 42000
+   "num": "077/069",
+   "price": 14000,
+   "psa10": 46000
   },
   {
    "rank": 9,
-   "name": "リーフィアV",
+   "name": "シャワーズV",
    "rarity": "SR",
-   "num": "071/069",
-   "price": 13000,
-   "psa10": 32000
+   "num": "075/069",
+   "price": 12500,
+   "psa10": 48000
   },
   {
    "rank": 10,
    "name": "ブースターV",
    "rarity": "SR",
    "num": "073/069",
-   "price": 13000,
-   "psa10": 40100
+   "price": 12000,
+   "psa10": 40000
   },
   {
    "rank": 11,
-   "name": "グレイシアV",
+   "name": "リーフィアV",
    "rarity": "SR",
-   "num": "077/069",
-   "price": 11500,
-   "psa10": 48200
+   "num": "071/069",
+   "price": 11000,
+   "psa10": 32200
   },
   {
    "rank": 12,
    "name": "サンダースV",
    "rarity": "SR",
    "num": "079/069",
-   "price": 10000,
-   "psa10": 33000
+   "price": 10500,
+   "psa10": 35500
   },
   {
    "rank": 13,
@@ -106,14 +106,14 @@
    "rarity": "HR",
    "num": "094/069",
    "price": 6800,
-   "psa10": 19300
+   "psa10": 18000
   },
   {
    "rank": 14,
    "name": "ブラッキーV",
    "rarity": "SR",
    "num": "084/069",
-   "price": 5200,
+   "price": 5000,
    "psa10": 14800
   },
   {
@@ -129,15 +129,15 @@
    "name": "ニンフィアVMAX",
    "rarity": "HR",
    "num": "092/069",
-   "price": 3600,
-   "psa10": 12000
+   "price": 3800,
+   "psa10": 11300
   },
   {
    "rank": 17,
    "name": "グレイシアVMAX",
    "rarity": "HR",
    "num": "090/069",
-   "price": 3100,
+   "price": 2800,
    "psa10": 10400
   },
   {
@@ -145,24 +145,24 @@
    "name": "リーフィアVMAX",
    "rarity": "HR",
    "num": "088/069",
-   "price": 3000,
+   "price": 2600,
    "psa10": 10000
   },
   {
    "rank": 19,
-   "name": "ニンフィアV",
+   "name": "エーフィV",
    "rarity": "SR",
-   "num": "082/069",
-   "price": 2900,
-   "psa10": 11000
+   "num": "080/069",
+   "price": 2300,
+   "psa10": 10000
   },
   {
    "rank": 20,
-   "name": "グレイシアV",
+   "name": "ニンフィアV",
    "rarity": "SR",
-   "num": "076/069",
+   "num": "082/069",
    "price": 2200,
-   "psa10": 7800
+   "psa10": 11000
   }
  ]
 }

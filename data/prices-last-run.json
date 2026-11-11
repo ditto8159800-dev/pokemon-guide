@@ -1,18 +1,18 @@
 {
- "date": "2026-11-01",
+ "date": "2026-11-11",
  "updated": 210,
  "failed": 0,
  "stale": 0,
  "noSource": 0,
  "unmatched": 0,
  "bySource": {
-  "TCGplayer": 204,
-  "SNKRDUNK": 6
+  "TCGplayer": 203,
+  "SNKRDUNK": 7
  },
- "psa10": 207,
+ "psa10": 206,
  "tcgLink": 210,
  "snkLink": 0,
- "reconciled": 20,
+ "reconciled": 18,
  "pricechartingBlocked": false,
- "totalPrices": 1347
+ "totalPrices": 1354
 }

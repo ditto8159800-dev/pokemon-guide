@@ -2,15 +2,15 @@
  "set": "SV9a",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/sv9a/hits/",
- "fetched": "2026-11-01",
+ "fetched": "2026-11-11",
  "cards": [
   {
    "rank": 1,
    "name": "シロナのガブリアスex",
    "rarity": "SAR",
    "num": "087/063",
-   "price": 29000,
-   "psa10": 57000
+   "price": 28500,
+   "psa10": 58000
   },
   {
    "rank": 2,
@@ -25,7 +25,7 @@
    "name": "ヒビキの冒険",
    "rarity": "SAR",
    "num": "089/063",
-   "price": 4700,
+   "price": 4600,
    "psa10": 17500
   },
   {
@@ -33,16 +33,16 @@
    "name": "シロナのガブリアスex",
    "rarity": "UR",
    "num": "091/063",
-   "price": 4000,
-   "psa10": 10800
+   "price": 4500,
+   "psa10": 11000
   },
   {
    "rank": 5,
    "name": "ヒビキのホウオウex",
    "rarity": "UR",
    "num": "090/063",
-   "price": 3600,
-   "psa10": 6500
+   "price": 3500,
+   "psa10": 7800
   },
   {
    "rank": 6,
@@ -50,55 +50,55 @@
    "rarity": "AR",
    "num": "071/063",
    "price": 3200,
-   "psa10": 13100
+   "psa10": 13500
   },
   {
    "rank": 7,
-   "name": "ペパーのマフィティフex",
-   "rarity": "SAR",
-   "num": "088/063",
-   "price": 2400,
-   "psa10": 7200
-  },
-  {
-   "rank": 8,
    "name": "カスミのラプラス",
    "rarity": "AR",
    "num": "072/063",
-   "price": 1700,
+   "price": 1500,
    "psa10": 9000
   },
   {
-   "rank": 9,
+   "rank": 8,
    "name": "シロナのガブリアスex",
    "rarity": "SR",
    "num": "080/063",
-   "price": 1600,
+   "price": 1500,
    "psa10": 7400
   },
   {
-   "rank": 10,
-   "name": "ヒビキのバクフーン",
-   "rarity": "AR",
-   "num": "070/063",
-   "price": 1300,
-   "psa10": 9800
-  },
-  {
-   "rank": 11,
-   "name": "メガヤンマex",
-   "rarity": "SAR",
-   "num": "085/063",
-   "price": 1300,
-   "psa10": 7600
-  },
-  {
-   "rank": 12,
+   "rank": 9,
    "name": "ヒビキのホウオウex",
    "rarity": "SR",
    "num": "077/063",
-   "price": 1200,
+   "price": 1400,
    "psa10": 4500
+  },
+  {
+   "rank": 10,
+   "name": "メガヤンマex",
+   "rarity": "SAR",
+   "num": "085/063",
+   "price": 1400,
+   "psa10": 7600
+  },
+  {
+   "rank": 11,
+   "name": "ペパーのマフィティフex",
+   "rarity": "SAR",
+   "num": "088/063",
+   "price": 1400,
+   "psa10": 7200
+  },
+  {
+   "rank": 12,
+   "name": "ヒビキのバクフーン",
+   "rarity": "AR",
+   "num": "070/063",
+   "price": 1200,
+   "psa10": 7500
   },
   {
    "rank": 13,
@@ -122,7 +122,7 @@
    "rarity": "SR",
    "num": "082/063",
    "price": 900,
-   "psa10": 9000
+   "psa10": 8000
   },
   {
    "rank": 16,
@@ -150,11 +150,11 @@
   },
   {
    "rank": 19,
-   "name": "エレキブルex",
-   "rarity": "SR",
-   "num": "079/063",
-   "price": 600,
-   "psa10": 4800
+   "name": "ギャロップ",
+   "rarity": "AR",
+   "num": "069/063",
+   "price": 500,
+   "psa10": 4200
   },
   {
    "rank": 20,

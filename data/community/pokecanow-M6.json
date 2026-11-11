@@ -2,39 +2,39 @@
  "set": "M6",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/m6/hits/",
- "fetched": "2026-11-01",
+ "fetched": "2026-11-11",
  "cards": [
   {
    "rank": 1,
    "name": "メガレックウザex",
    "rarity": "MUR",
    "num": "113/076",
-   "price": 44500,
-   "psa10": 200000
+   "price": 48000,
+   "psa10": 205000
   },
   {
    "rank": 2,
    "name": "メガレックウザex",
    "rarity": "SAR",
    "num": "110/076",
-   "price": 20500,
-   "psa10": 66800
+   "price": 22000,
+   "psa10": 64500
   },
   {
    "rank": 3,
    "name": "ライコウex",
    "rarity": "SAR",
    "num": "108/076",
-   "price": 3100,
-   "psa10": 14100
+   "price": 2500,
+   "psa10": 19800
   },
   {
    "rank": 4,
    "name": "メガレックウザex",
    "rarity": "SR",
    "num": "095/076",
-   "price": 1900,
-   "psa10": 21800
+   "price": 1800,
+   "psa10": 18500
   },
   {
    "rank": 5,
@@ -49,7 +49,7 @@
    "name": "メガゴルーグex",
    "rarity": "SAR",
    "num": "109/076",
-   "price": 700,
+   "price": 600,
    "psa10": null
   },
   {
@@ -57,27 +57,19 @@
    "name": "メガグソクムシャex",
    "rarity": "SAR",
    "num": "107/076",
-   "price": 700,
+   "price": 600,
    "psa10": null
   },
   {
    "rank": 8,
-   "name": "カイオーガ",
-   "rarity": "AR",
-   "num": "080/076",
+   "name": "ギリー",
+   "rarity": "SAR",
+   "num": "111/076",
    "price": 600,
-   "psa10": 15800
+   "psa10": null
   },
   {
    "rank": 9,
-   "name": "グラードン",
-   "rarity": "AR",
-   "num": "084/076",
-   "price": 600,
-   "psa10": 11700
-  },
-  {
-   "rank": 10,
    "name": "ファイアローex",
    "rarity": "SR",
    "num": "096/076",
@@ -85,7 +77,7 @@
    "psa10": null
   },
   {
-   "rank": 11,
+   "rank": 10,
    "name": "ヒガナの信頼",
    "rarity": "SR",
    "num": "102/076",
@@ -93,28 +85,36 @@
    "psa10": 5500
   },
   {
+   "rank": 11,
+   "name": "カイオーガ",
+   "rarity": "AR",
+   "num": "080/076",
+   "price": 500,
+   "psa10": 15800
+  },
+  {
    "rank": 12,
-   "name": "グロウ草エネルギー",
-   "rarity": "SR",
-   "num": "104/076",
-   "price": 600,
-   "psa10": null
+   "name": "グラードン",
+   "rarity": "AR",
+   "num": "084/076",
+   "price": 500,
+   "psa10": 11700
   },
   {
    "rank": 13,
-   "name": "ギリー",
-   "rarity": "SAR",
-   "num": "111/076",
-   "price": 500,
-   "psa10": null
-  },
-  {
-   "rank": 14,
    "name": "カクレオン",
    "rarity": "AR",
    "num": "088/076",
    "price": 400,
-   "psa10": 6100
+   "psa10": 12000
+  },
+  {
+   "rank": 14,
+   "name": "ガーディ",
+   "rarity": "AR",
+   "num": "078/076",
+   "price": 400,
+   "psa10": 11400
   },
   {
    "rank": 15,
@@ -126,19 +126,19 @@
   },
   {
    "rank": 16,
-   "name": "ガーディ",
-   "rarity": "AR",
-   "num": "078/076",
-   "price": 300,
-   "psa10": 11400
-  },
-  {
-   "rank": 17,
    "name": "MCの盛り上げ",
    "rarity": "SR",
    "num": "100/076",
    "price": 300,
    "psa10": 5200
+  },
+  {
+   "rank": 17,
+   "name": "フウとランの修行",
+   "rarity": "SR",
+   "num": "103/076",
+   "price": 300,
+   "psa10": 3000
   },
   {
    "rank": 18,

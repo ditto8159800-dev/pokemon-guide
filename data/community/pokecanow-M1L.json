@@ -2,30 +2,30 @@
  "set": "M1L",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/m1l/hits/",
- "fetched": "2026-11-01",
+ "fetched": "2026-11-11",
  "cards": [
   {
    "rank": 1,
    "name": "メガルカリオex",
    "rarity": "MUR",
    "num": "092/063",
-   "price": 28500,
-   "psa10": 114000
+   "price": 26000,
+   "psa10": 117000
   },
   {
    "rank": 2,
    "name": "リーリエの決心",
    "rarity": "SAR",
    "num": "091/063",
-   "price": 11500,
-   "psa10": 50200
+   "price": 9800,
+   "psa10": 49500
   },
   {
    "rank": 3,
    "name": "メガルカリオex",
    "rarity": "SAR",
    "num": "088/063",
-   "price": 5000,
+   "price": 4900,
    "psa10": 15000
   },
   {
@@ -33,40 +33,40 @@
    "name": "リーリエの決心",
    "rarity": "SR",
    "num": "086/063",
-   "price": 4000,
-   "psa10": 16000
+   "price": 3800,
+   "psa10": 15400
   },
   {
    "rank": 5,
    "name": "メガフシギバナex",
    "rarity": "SAR",
    "num": "087/063",
-   "price": 3000,
-   "psa10": 11000
+   "price": 2700,
+   "psa10": 10000
   },
   {
    "rank": 6,
    "name": "メガアブソルex",
    "rarity": "SAR",
    "num": "089/063",
-   "price": 1600,
-   "psa10": 7000
+   "price": 1500,
+   "psa10": 6900
   },
   {
    "rank": 7,
    "name": "メガルカリオex",
    "rarity": "SR",
    "num": "078/063",
-   "price": 600,
-   "psa10": 6300
+   "price": 700,
+   "psa10": 6200
   },
   {
    "rank": 8,
-   "name": "リオル",
-   "rarity": "AR",
-   "num": "068/063",
+   "name": "メガフシギバナex",
+   "rarity": "SR",
+   "num": "076/063",
    "price": 600,
-   "psa10": 4200
+   "psa10": 4600
   },
   {
    "rank": 9,
@@ -90,15 +90,15 @@
    "rarity": "AR",
    "num": "065/063",
    "price": 400,
-   "psa10": 4700
+   "psa10": 4800
   },
   {
    "rank": 12,
-   "name": "メガフシギバナex",
-   "rarity": "SR",
-   "num": "076/063",
+   "name": "ロコン",
+   "rarity": "AR",
+   "num": "067/063",
    "price": 400,
-   "psa10": 5000
+   "psa10": 4300
   },
   {
    "rank": 13,
@@ -106,31 +106,31 @@
    "rarity": "AR",
    "num": "074/063",
    "price": 300,
-   "psa10": 3800
+   "psa10": 3900
   },
   {
    "rank": 14,
-   "name": "ナッシー",
+   "name": "リオル",
    "rarity": "AR",
-   "num": "066/063",
+   "num": "068/063",
    "price": 300,
-   "psa10": 3700
+   "psa10": 4600
   },
   {
    "rank": 15,
-   "name": "ロコン",
+   "name": "キョジオーン",
    "rarity": "AR",
-   "num": "067/063",
+   "num": "070/063",
    "price": 300,
-   "psa10": 4200
+   "psa10": 4000
   },
   {
    "rank": 16,
-   "name": "ハガネール",
+   "name": "シルシュルー",
    "rarity": "AR",
-   "num": "073/063",
+   "num": "072/063",
    "price": 300,
-   "psa10": 4500
+   "psa10": 3900
   },
   {
    "rank": 17,
@@ -142,27 +142,27 @@
   },
   {
    "rank": 18,
-   "name": "ミカルゲ",
+   "name": "ハガネール",
    "rarity": "AR",
-   "num": "071/063",
+   "num": "073/063",
    "price": 300,
-   "psa10": 3900
+   "psa10": 3800
   },
   {
    "rank": 19,
-   "name": "メガクチートex",
-   "rarity": "SR",
-   "num": "080/063",
+   "name": "ナッシー",
+   "rarity": "AR",
+   "num": "066/063",
    "price": 300,
    "psa10": 3800
   },
   {
    "rank": 20,
-   "name": "キョジオーン",
+   "name": "マーシャドー",
    "rarity": "AR",
-   "num": "070/063",
+   "num": "069/063",
    "price": 300,
-   "psa10": 3700
+   "psa10": 4200
   }
  ]
 }

@@ -2,47 +2,47 @@
  "set": "SM12a",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/sm12a/hits/",
- "fetched": "2026-11-01",
+ "fetched": "2026-11-11",
  "cards": [
   {
    "rank": 1,
    "name": "ブラッキー&ダークライGX",
    "rarity": "SR",
    "num": "182/173",
-   "price": 133300,
-   "psa10": 298000
+   "price": 110000,
+   "psa10": 280000
   },
   {
    "rank": 2,
    "name": "かんこうきゃく",
    "rarity": "SR",
    "num": "192/173",
-   "price": 69800,
-   "psa10": 250000
+   "price": 70000,
+   "psa10": 260000
   },
   {
    "rank": 3,
    "name": "ミュウツー&ミュウGX",
    "rarity": "UR",
    "num": "222/173",
-   "price": 55000,
-   "psa10": 182900
+   "price": 45000,
+   "psa10": 176000
   },
   {
    "rank": 4,
-   "name": "エリカのおもてなし",
-   "rarity": "SR",
-   "num": "190/173",
-   "price": 46700,
-   "psa10": 181000
-  },
-  {
-   "rank": 5,
    "name": "イーブイGX",
    "rarity": "SR",
    "num": "188/173",
-   "price": 38000,
-   "psa10": 180000
+   "price": 43000,
+   "psa10": 179000
+  },
+  {
+   "rank": 5,
+   "name": "エリカのおもてなし",
+   "rarity": "SR",
+   "num": "190/173",
+   "price": 40000,
+   "psa10": 192000
   },
   {
    "rank": 6,
@@ -58,39 +58,39 @@
    "rarity": "SR",
    "num": "196/173",
    "price": 35000,
-   "psa10": 145000
+   "psa10": 150000
   },
   {
    "rank": 8,
-   "name": "ピカチュウ&ゼクロムGX",
-   "rarity": "UR",
-   "num": "221/173",
-   "price": 26200,
-   "psa10": 79600
+   "name": "エーフィ&デオキシスGX",
+   "rarity": "SR",
+   "num": "177/173",
+   "price": 31500,
+   "psa10": 107000
   },
   {
    "rank": 9,
-   "name": "ブラッキー&ダークライGX",
-   "rarity": "HR",
-   "num": "215/173",
-   "price": 24000,
-   "psa10": 51100
+   "name": "ピカチュウ&ゼクロムGX",
+   "rarity": "UR",
+   "num": "221/173",
+   "price": 25000,
+   "psa10": 79600
   },
   {
    "rank": 10,
-   "name": "カスミ&カンナ",
-   "rarity": "SR",
-   "num": "191/173",
-   "price": 23000,
-   "psa10": 75000
-  },
-  {
-   "rank": 11,
    "name": "レッドの挑戦",
    "rarity": "SR",
    "num": "201/173",
-   "price": 23000,
+   "price": 24800,
    "psa10": 70000
+  },
+  {
+   "rank": 11,
+   "name": "カスミ&カンナ",
+   "rarity": "SR",
+   "num": "191/173",
+   "price": 24500,
+   "psa10": 81000
   },
   {
    "rank": 12,
@@ -106,39 +106,39 @@
    "rarity": "SR",
    "num": "193/173",
    "price": 22800,
-   "psa10": 71600
+   "psa10": 70000
   },
   {
    "rank": 14,
-   "name": "エーフィ&デオキシスGX",
-   "rarity": "SR",
-   "num": "177/173",
-   "price": 21100,
-   "psa10": 90500
+   "name": "ブラッキー&ダークライGX",
+   "rarity": "HR",
+   "num": "215/173",
+   "price": 21000,
+   "psa10": 51100
   },
   {
    "rank": 15,
-   "name": "ファイヤー&サンダー&フリーザーGX",
-   "rarity": "UR",
-   "num": "226/173",
-   "price": 18900,
-   "psa10": 52200
-  },
-  {
-   "rank": 16,
    "name": "イーブイGX",
    "rarity": "HR",
    "num": "219/173",
-   "price": 16800,
-   "psa10": 63000
+   "price": 17800,
+   "psa10": 67300
+  },
+  {
+   "rank": 16,
+   "name": "ファイヤー&サンダー&フリーザーGX",
+   "rarity": "UR",
+   "num": "226/173",
+   "price": 15400,
+   "psa10": 52200
   },
   {
    "rank": 17,
    "name": "ブラッキー&ダークライGX",
    "rarity": "SR",
    "num": "181/173",
-   "price": 15300,
-   "psa10": 48000
+   "price": 15000,
+   "psa10": 44000
   },
   {
    "rank": 18,
@@ -150,19 +150,19 @@
   },
   {
    "rank": 19,
-   "name": "エーフィ&デオキシスGX",
-   "rarity": "HR",
-   "num": "212/173",
-   "price": 10700,
-   "psa10": 37000
+   "name": "デデンネGX",
+   "rarity": "SR",
+   "num": "175/173",
+   "price": 12800,
+   "psa10": 66000
   },
   {
    "rank": 20,
-   "name": "トゲピー&ピィ&ププリンGX",
-   "rarity": "HR",
-   "num": "218/173",
-   "price": 10600,
-   "psa10": 35700
+   "name": "ガブリアス&ギラティナGX",
+   "rarity": "UR",
+   "num": "225/173",
+   "price": 11100,
+   "psa10": 29000
   }
  ]
 }

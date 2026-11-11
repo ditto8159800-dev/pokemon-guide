@@ -2,34 +2,42 @@
  "set": "S11",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/s11/hits/",
- "fetched": "2026-11-01",
+ "fetched": "2026-11-11",
  "cards": [
   {
    "rank": 1,
    "name": "ギラティナV",
    "rarity": "SR",
    "num": "111/100",
-   "price": 155600,
-   "psa10": 278900
+   "price": 152000,
+   "psa10": 265000
   },
   {
    "rank": 2,
    "name": "プテラV",
    "rarity": "SR",
    "num": "106/100",
-   "price": 10000,
-   "psa10": 27200
+   "price": 13000,
+   "psa10": 29000
   },
   {
    "rank": 3,
    "name": "ギラティナVSTAR",
    "rarity": "UR",
    "num": "125/100",
-   "price": 4800,
-   "psa10": 13000
+   "price": 4700,
+   "psa10": 14000
   },
   {
    "rank": 4,
+   "name": "ギラティナV",
+   "rarity": "SR",
+   "num": "110/100",
+   "price": 2500,
+   "psa10": 9500
+  },
+  {
+   "rank": 5,
    "name": "ギラティナVSTAR",
    "rarity": "HR",
    "num": "120/100",
@@ -37,63 +45,47 @@
    "psa10": 10000
   },
   {
-   "rank": 5,
-   "name": "ギラティナV",
-   "rarity": "SR",
-   "num": "110/100",
-   "price": 2400,
-   "psa10": 10200
-  },
-  {
    "rank": 6,
    "name": "ロトムV",
    "rarity": "SR",
    "num": "104/100",
-   "price": 1700,
+   "price": 1600,
    "psa10": 7000
   },
   {
    "rank": 7,
-   "name": "ガラル ニャイキングV",
-   "rarity": "SR",
-   "num": "109/100",
-   "price": 1300,
-   "psa10": 7600
-  },
-  {
-   "rank": 8,
-   "name": "おじょうさま",
-   "rarity": "HR",
-   "num": "122/100",
-   "price": 1200,
-   "psa10": 7800
-  },
-  {
-   "rank": 9,
-   "name": "プテラVSTAR",
-   "rarity": "HR",
-   "num": "118/100",
-   "price": 1200,
-   "psa10": 7800
-  },
-  {
-   "rank": 10,
    "name": "おじょうさま",
    "rarity": "SR",
    "num": "114/100",
    "price": 1100,
-   "psa10": 6700
+   "psa10": 7000
+  },
+  {
+   "rank": 8,
+   "name": "プテラVSTAR",
+   "rarity": "HR",
+   "num": "118/100",
+   "price": 1100,
+   "psa10": 7800
+  },
+  {
+   "rank": 9,
+   "name": "ガラル ニャイキングV",
+   "rarity": "SR",
+   "num": "109/100",
+   "price": 1100,
+   "psa10": 7600
+  },
+  {
+   "rank": 10,
+   "name": "おじょうさま",
+   "rarity": "HR",
+   "num": "122/100",
+   "price": 900,
+   "psa10": 6200
   },
   {
    "rank": 11,
-   "name": "プテラV",
-   "rarity": "SR",
-   "num": "105/100",
-   "price": 1000,
-   "psa10": 5500
-  },
-  {
-   "rank": 12,
    "name": "ネジキ",
    "rarity": "SR",
    "num": "115/100",
@@ -101,7 +93,7 @@
    "psa10": 6100
   },
   {
-   "rank": 13,
+   "rank": 12,
    "name": "アクロマの実験",
    "rarity": "HR",
    "num": "121/100",
@@ -109,7 +101,7 @@
    "psa10": 8500
   },
   {
-   "rank": 14,
+   "rank": 13,
    "name": "ロトムV",
    "rarity": "SR",
    "num": "103/100",
@@ -117,7 +109,7 @@
    "psa10": 3600
   },
   {
-   "rank": 15,
+   "rank": 14,
    "name": "崩れたスタジアム",
    "rarity": "UR",
    "num": "127/100",
@@ -125,7 +117,7 @@
    "psa10": 5200
   },
   {
-   "rank": 16,
+   "rank": 15,
    "name": "メリッサ",
    "rarity": "HR",
    "num": "124/100",
@@ -133,15 +125,7 @@
    "psa10": 6100
   },
   {
-   "rank": 17,
-   "name": "ネジキ",
-   "rarity": "HR",
-   "num": "123/100",
-   "price": 700,
-   "psa10": null
-  },
-  {
-   "rank": 18,
+   "rank": 16,
    "name": "キュレムVMAX",
    "rarity": "HR",
    "num": "117/100",
@@ -149,20 +133,36 @@
    "psa10": 5800
   },
   {
-   "rank": 19,
-   "name": "ドラピオンVSTAR",
+   "rank": 17,
+   "name": "プテラV",
+   "rarity": "SR",
+   "num": "105/100",
+   "price": 600,
+   "psa10": 5500
+  },
+  {
+   "rank": 18,
+   "name": "ネジキ",
    "rarity": "HR",
-   "num": "119/100",
+   "num": "123/100",
    "price": 600,
    "psa10": null
   },
   {
-   "rank": 20,
+   "rank": 19,
    "name": "キュレムV",
    "rarity": "SR",
    "num": "102/100",
    "price": 600,
    "psa10": 5400
+  },
+  {
+   "rank": 20,
+   "name": "ロストスイーパー",
+   "rarity": "UR",
+   "num": "126/100",
+   "price": 500,
+   "psa10": null
   }
  ]
 }

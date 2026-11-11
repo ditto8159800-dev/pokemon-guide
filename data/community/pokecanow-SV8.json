@@ -2,30 +2,30 @@
  "set": "SV8",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/sv8/hits/",
- "fetched": "2026-11-01",
+ "fetched": "2026-11-11",
  "cards": [
   {
    "rank": 1,
    "name": "ピカチュウex",
    "rarity": "SAR",
    "num": "132/106",
-   "price": 40500,
-   "psa10": 83000
+   "price": 37000,
+   "psa10": 85500
   },
   {
    "rank": 2,
    "name": "ピカチュウex",
    "rarity": "UR",
    "num": "136/106",
-   "price": 10900,
-   "psa10": 45300
+   "price": 14400,
+   "psa10": 48000
   },
   {
    "rank": 3,
    "name": "ミロカロスex",
    "rarity": "SAR",
    "num": "131/106",
-   "price": 7800,
+   "price": 8500,
    "psa10": 18500
   },
   {
@@ -33,48 +33,48 @@
    "name": "ピカチュウex",
    "rarity": "SR",
    "num": "122/106",
-   "price": 3500,
-   "psa10": 22200
+   "price": 3700,
+   "psa10": 22000
   },
   {
    "rank": 5,
-   "name": "サザンドラex",
-   "rarity": "SAR",
-   "num": "133/106",
-   "price": 3000,
-   "psa10": 8700
-  },
-  {
-   "rank": 6,
    "name": "ミカンのまなざし",
    "rarity": "SAR",
    "num": "135/106",
-   "price": 2500,
-   "psa10": 14800
+   "price": 2400,
+   "psa10": 18200
+  },
+  {
+   "rank": 6,
+   "name": "サザンドラex",
+   "rarity": "SAR",
+   "num": "133/106",
+   "price": 2200,
+   "psa10": 8700
   },
   {
    "rank": 7,
    "name": "アイアントex",
    "rarity": "SAR",
    "num": "130/106",
-   "price": 1800,
+   "price": 1600,
    "psa10": 8700
   },
   {
    "rank": 8,
-   "name": "シアノ",
-   "rarity": "SR",
-   "num": "127/106",
-   "price": 1200,
-   "psa10": 4600
-  },
-  {
-   "rank": 9,
    "name": "グラビティーマウンテン",
    "rarity": "UR",
    "num": "138/106",
    "price": 1200,
    "psa10": 10000
+  },
+  {
+   "rank": 9,
+   "name": "夜のタンカ",
+   "rarity": "UR",
+   "num": "137/106",
+   "price": 1200,
+   "psa10": 6000
   },
   {
    "rank": 10,
@@ -86,30 +86,22 @@
   },
   {
    "rank": 11,
-   "name": "レアコイル",
-   "rarity": "AR",
-   "num": "112/106",
+   "name": "シアノ",
+   "rarity": "SR",
+   "num": "127/106",
    "price": 1000,
-   "psa10": 6700
+   "psa10": 4600
   },
   {
    "rank": 12,
-   "name": "夜のタンカ",
-   "rarity": "UR",
-   "num": "137/106",
-   "price": 1000,
-   "psa10": 6000
+   "name": "レアコイル",
+   "rarity": "AR",
+   "num": "112/106",
+   "price": 800,
+   "psa10": 7100
   },
   {
    "rank": 13,
-   "name": "ソウブレイズ",
-   "rarity": "AR",
-   "num": "109/106",
-   "price": 800,
-   "psa10": 5700
-  },
-  {
-   "rank": 14,
    "name": "シトロンの機転",
    "rarity": "SAR",
    "num": "134/106",
@@ -117,12 +109,20 @@
    "psa10": 6800
   },
   {
+   "rank": 14,
+   "name": "ソウブレイズ",
+   "rarity": "AR",
+   "num": "109/106",
+   "price": 700,
+   "psa10": 5200
+  },
+  {
    "rank": 15,
    "name": "ミカンのまなざし",
    "rarity": "SR",
    "num": "129/106",
    "price": 700,
-   "psa10": 6800
+   "psa10": 7000
   },
   {
    "rank": 16,
@@ -134,14 +134,22 @@
   },
   {
    "rank": 17,
-   "name": "サザンドラex",
-   "rarity": "SR",
-   "num": "124/106",
+   "name": "タマザラシ",
+   "rarity": "AR",
+   "num": "111/106",
    "price": 600,
-   "psa10": 6000
+   "psa10": 6600
   },
   {
    "rank": 18,
+   "name": "アローラ ダグトリオ",
+   "rarity": "AR",
+   "num": "116/106",
+   "price": 600,
+   "psa10": 4300
+  },
+  {
+   "rank": 19,
    "name": "マッギョ",
    "rarity": "AR",
    "num": "113/106",
@@ -149,20 +157,12 @@
    "psa10": 3800
   },
   {
-   "rank": 19,
-   "name": "アローラ ダグトリオ",
-   "rarity": "AR",
-   "num": "116/106",
-   "price": 500,
-   "psa10": 4600
-  },
-  {
    "rank": 20,
-   "name": "シャリタツex",
+   "name": "サザンドラex",
    "rarity": "SR",
-   "num": "125/106",
+   "num": "124/106",
    "price": 500,
-   "psa10": 5800
+   "psa10": 6000
   }
  ]
 }

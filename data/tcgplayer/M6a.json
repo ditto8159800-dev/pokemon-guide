@@ -1,6 +1,6 @@
 {
  "set": "M6a",
- "fetched": "2026-11-01",
+ "fetched": "2026-11-11",
  "source": "TCGplayer",
  "cards": [
   {
@@ -16,7 +16,7 @@
    "name": "Pikachu",
    "number": "026/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 2.27,
+   "marketPrice": 2.21,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -32,7 +32,7 @@
    "name": "Pikachu ex",
    "number": "048/103",
    "rarity": "Double Rare",
-   "marketPrice": 1.74,
+   "marketPrice": 1.19,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -40,7 +40,7 @@
    "name": "Pikachu",
    "number": "037/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 1.29,
+   "marketPrice": 1.01,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -88,7 +88,7 @@
    "name": "Meowth",
    "number": "120/103",
    "rarity": "Art Rare",
-   "marketPrice": 5.31,
+   "marketPrice": 4.22,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -96,7 +96,7 @@
    "name": "Pikachu",
    "number": "028/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 1.16,
+   "marketPrice": 1.05,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -120,7 +120,7 @@
    "name": "Xerneas",
    "number": "063/103",
    "rarity": "None",
-   "marketPrice": 0.43,
+   "marketPrice": 0.36,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -136,7 +136,7 @@
    "name": "Lunala",
    "number": "066/103",
    "rarity": "None",
-   "marketPrice": 0.46,
+   "marketPrice": 0.41,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -152,7 +152,7 @@
    "name": "Pikachu",
    "number": "022/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 2,
+   "marketPrice": 1.7068,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -168,7 +168,7 @@
    "name": "Pikachu",
    "number": "030/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 1.18,
+   "marketPrice": 1.09,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -176,7 +176,7 @@
    "name": "Illumise",
    "number": "004/103",
    "rarity": "None",
-   "marketPrice": 0.34,
+   "marketPrice": 0.28,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -192,7 +192,7 @@
    "name": "Seismitoad",
    "number": "070/103",
    "rarity": "None",
-   "marketPrice": 0.46,
+   "marketPrice": 0.44,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -200,7 +200,7 @@
    "name": "Mew ex",
    "number": "129/103",
    "rarity": "Special Art Rare",
-   "marketPrice": 67.83,
+   "marketPrice": 40.04,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -232,7 +232,7 @@
    "name": "Ditto",
    "number": "121/103",
    "rarity": "Art Rare",
-   "marketPrice": 6.92,
+   "marketPrice": 5.48,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -248,7 +248,7 @@
    "name": "Sylveon ex",
    "number": "130/103",
    "rarity": "Special Art Rare",
-   "marketPrice": 27.65,
+   "marketPrice": 27.01,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -256,7 +256,7 @@
    "name": "Pikachu",
    "number": "025/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 1.04,
+   "marketPrice": 0.98,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -296,7 +296,7 @@
    "name": "Lycanroc",
    "number": "113/103",
    "rarity": "Art Rare",
-   "marketPrice": 2.24,
+   "marketPrice": 2.34,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -336,7 +336,7 @@
    "name": "Magikarp",
    "number": "165/103",
    "rarity": "Classic Collection",
-   "marketPrice": 67.02,
+   "marketPrice": 49.96,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -352,7 +352,7 @@
    "name": "Pikachu",
    "number": "029/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 0.86,
+   "marketPrice": 0.81,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -368,7 +368,7 @@
    "name": "Gengar ex",
    "number": "076/103",
    "rarity": "Double Rare",
-   "marketPrice": 2.06,
+   "marketPrice": 2.21,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -384,7 +384,7 @@
    "name": "Lugia",
    "number": "142/103",
    "rarity": "Classic Collection",
-   "marketPrice": 162.21,
+   "marketPrice": 141.76,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -392,7 +392,7 @@
    "name": "Pikachu",
    "number": "019/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 0.98,
+   "marketPrice": 0.9772,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -400,7 +400,7 @@
    "name": "Mewtwo ex",
    "number": "134/103",
    "rarity": "Futuristic Rare",
-   "marketPrice": 28.66,
+   "marketPrice": 28.49,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -408,7 +408,7 @@
    "name": "Uxie",
    "number": "148/103",
    "rarity": "Classic Collection",
-   "marketPrice": 8.53,
+   "marketPrice": 8.22,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -416,7 +416,7 @@
    "name": "Mewtwo ex",
    "number": "128/103",
    "rarity": "Special Art Rare",
-   "marketPrice": 34.91,
+   "marketPrice": 33.38,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -424,7 +424,7 @@
    "name": "Hisuian Zoroark",
    "number": "099/103",
    "rarity": "None",
-   "marketPrice": 0.46,
+   "marketPrice": 0.42,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -440,7 +440,7 @@
    "name": "Maushold",
    "number": "100/103",
    "rarity": "None",
-   "marketPrice": 0.75,
+   "marketPrice": 0.79,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -448,7 +448,7 @@
    "name": "Alolan Meowth",
    "number": "075/103",
    "rarity": "None",
-   "marketPrice": 0.68,
+   "marketPrice": 0.63,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -456,7 +456,7 @@
    "name": "Charizard",
    "number": "137/103",
    "rarity": "None",
-   "marketPrice": 195.3,
+   "marketPrice": 168.46,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -464,7 +464,7 @@
    "name": "Vivillon",
    "number": "005/103",
    "rarity": "None",
-   "marketPrice": 0.36,
+   "marketPrice": 0.26,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -480,7 +480,7 @@
    "name": "Sneasel",
    "number": "140/103",
    "rarity": "None",
-   "marketPrice": 15.98,
+   "marketPrice": 9.58,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -488,7 +488,7 @@
    "name": "Lycanroc",
    "number": "071/103",
    "rarity": "None",
-   "marketPrice": 0.78,
+   "marketPrice": 0.76,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -496,7 +496,7 @@
    "name": "Greninja BREAK",
    "number": "157/103",
    "rarity": "Classic Collection",
-   "marketPrice": 7.7,
+   "marketPrice": 7.81,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -512,7 +512,7 @@
    "name": "Solgaleo",
    "number": "084/103",
    "rarity": "None",
-   "marketPrice": 0.51,
+   "marketPrice": 0.47,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -520,7 +520,7 @@
    "name": "Zekrom",
    "number": "050/103",
    "rarity": "None",
-   "marketPrice": 0.48,
+   "marketPrice": 0.34,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -536,7 +536,7 @@
    "name": "Groudon",
    "number": "068/103",
    "rarity": "None",
-   "marketPrice": 0.44,
+   "marketPrice": 0.43,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -544,7 +544,7 @@
    "name": "Galarian Meowth",
    "number": "080/103",
    "rarity": "None",
-   "marketPrice": 0.55,
+   "marketPrice": 0.43,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -648,7 +648,7 @@
    "name": "Darkrai & Cresselia Legend (Top)",
    "number": "151/103",
    "rarity": "Classic Collection",
-   "marketPrice": 11.05,
+   "marketPrice": 12.1,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -656,7 +656,7 @@
    "name": "Gholdengo",
    "number": "118/103",
    "rarity": "Art Rare",
-   "marketPrice": 1.65,
+   "marketPrice": 1.58,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -664,7 +664,7 @@
    "name": "Dialga",
    "number": "082/103",
    "rarity": "None",
-   "marketPrice": 0.36,
+   "marketPrice": 0.35,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -672,7 +672,7 @@
    "name": "Salamence ex",
    "number": "088/103",
    "rarity": "Double Rare",
-   "marketPrice": 0.32,
+   "marketPrice": 0.3,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -680,7 +680,7 @@
    "name": "Yveltal",
    "number": "079/103",
    "rarity": "None",
-   "marketPrice": 0.38,
+   "marketPrice": 0.37,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -688,7 +688,7 @@
    "name": "Cosmoem",
    "number": "065/103",
    "rarity": "None",
-   "marketPrice": 0.44,
+   "marketPrice": 0.42,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -696,7 +696,7 @@
    "name": "Miraidon",
    "number": "053/103",
    "rarity": "None",
-   "marketPrice": 0.39,
+   "marketPrice": 0.38,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -704,7 +704,7 @@
    "name": "Morpeko",
    "number": "110/103",
    "rarity": "Art Rare",
-   "marketPrice": 3.99,
+   "marketPrice": 3.69,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -728,7 +728,7 @@
    "name": "Jirachi ex",
    "number": "132/103",
    "rarity": "Special Art Rare",
-   "marketPrice": 28.04,
+   "marketPrice": 25.8424,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -752,7 +752,7 @@
    "name": "Greninja ex",
    "number": "015/103",
    "rarity": "Double Rare",
-   "marketPrice": 0.43,
+   "marketPrice": 0.32,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -760,7 +760,7 @@
    "name": "Fuecoco ex",
    "number": "124/103",
    "rarity": "Special Art Rare",
-   "marketPrice": 12.47,
+   "marketPrice": 11.85,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -768,7 +768,7 @@
    "name": "Mew ex",
    "number": "057/103",
    "rarity": "Double Rare",
-   "marketPrice": 1.09,
+   "marketPrice": 1.22,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -776,7 +776,7 @@
    "name": "Greninja ex",
    "number": "125/103",
    "rarity": "Special Art Rare",
-   "marketPrice": 13.06,
+   "marketPrice": 11.56,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -784,7 +784,7 @@
    "name": "Pikachu ex",
    "number": "047/103",
    "rarity": "Double Rare",
-   "marketPrice": 1.94,
+   "marketPrice": 1.57,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -800,7 +800,7 @@
    "name": "Pikachu ex",
    "number": "127/103",
    "rarity": "Special Art Rare",
-   "marketPrice": 47.9,
+   "marketPrice": 42.3,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -808,7 +808,7 @@
    "name": "Mew ex",
    "number": "135/103",
    "rarity": "Futuristic Rare",
-   "marketPrice": 48.57,
+   "marketPrice": 38.11,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -824,7 +824,7 @@
    "name": "Alolan Meowth",
    "number": "115/103",
    "rarity": "Art Rare",
-   "marketPrice": 3.6348,
+   "marketPrice": 3.2,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -832,7 +832,7 @@
    "name": "Maushold",
    "number": "123/103",
    "rarity": "Art Rare",
-   "marketPrice": 6.4,
+   "marketPrice": 4.57,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -840,7 +840,7 @@
    "name": "Lapras",
    "number": "106/103",
    "rarity": "Art Rare",
-   "marketPrice": 3.71,
+   "marketPrice": 3.42,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -856,7 +856,7 @@
    "name": "Pikachu",
    "number": "034/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 6.81,
+   "marketPrice": 4.7,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -904,7 +904,7 @@
    "name": "Pikachu",
    "number": "023/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 0.94,
+   "marketPrice": 0.89,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -920,7 +920,7 @@
    "name": "Galarian Meowth",
    "number": "117/103",
    "rarity": "Art Rare",
-   "marketPrice": 4.36,
+   "marketPrice": 3.19,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -928,7 +928,7 @@
    "name": "Pikachu",
    "number": "039/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 1.05,
+   "marketPrice": 1.04,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -968,7 +968,7 @@
    "name": "Lapras",
    "number": "011/103",
    "rarity": "None",
-   "marketPrice": 0.46,
+   "marketPrice": 0.37,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -976,7 +976,7 @@
    "name": "Unown",
    "number": "060/103",
    "rarity": "None",
-   "marketPrice": 0.27,
+   "marketPrice": 0.24,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -984,7 +984,7 @@
    "name": "Zapdos",
    "number": "049/103",
    "rarity": "None",
-   "marketPrice": 0.29,
+   "marketPrice": 0.3,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1000,7 +1000,7 @@
    "name": "Slowpoke",
    "number": "010/103",
    "rarity": "None",
-   "marketPrice": 0.96,
+   "marketPrice": 0.93,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1008,7 +1008,7 @@
    "name": "Solgaleo GX",
    "number": "158/103",
    "rarity": "Classic Collection",
-   "marketPrice": 5.28,
+   "marketPrice": 5.2,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1016,7 +1016,7 @@
    "name": "Crobat G",
    "number": "149/103",
    "rarity": "Classic Collection",
-   "marketPrice": 15.32,
+   "marketPrice": 13.28,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1024,7 +1024,7 @@
    "name": "Zacian V",
    "number": "161/103",
    "rarity": "Classic Collection",
-   "marketPrice": 6.28,
+   "marketPrice": 5.62,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1032,7 +1032,7 @@
    "name": "Nidorina",
    "number": "074/103",
    "rarity": "None",
-   "marketPrice": 0.46,
+   "marketPrice": 0.44,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1056,7 +1056,7 @@
    "name": "Articuno",
    "number": "107/103",
    "rarity": "Art Rare",
-   "marketPrice": 4.51,
+   "marketPrice": 3.8,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1064,7 +1064,7 @@
    "name": "Pikachu",
    "number": "027/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 1.04,
+   "marketPrice": 0.95,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1072,7 +1072,7 @@
    "name": "Pikachu",
    "number": "044/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 1.03,
+   "marketPrice": 0.9728,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1080,7 +1080,7 @@
    "name": "Pikachu",
    "number": "041/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 2.03,
+   "marketPrice": 1.83,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1088,7 +1088,7 @@
    "name": "Delcatty",
    "number": "143/103",
    "rarity": "Classic Collection",
-   "marketPrice": 6.61,
+   "marketPrice": 5.89,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1112,7 +1112,7 @@
    "name": "Pikachu",
    "number": "042/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 2.01,
+   "marketPrice": 1.95,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1120,7 +1120,7 @@
    "name": "Pikachu",
    "number": "038/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 1.67,
+   "marketPrice": 1.19,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1128,7 +1128,7 @@
    "name": "Pikachu",
    "number": "031/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 0.97,
+   "marketPrice": 0.95,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1136,7 +1136,7 @@
    "name": "Alolan Exeggutor",
    "number": "104/103",
    "rarity": "Art Rare",
-   "marketPrice": 2.23,
+   "marketPrice": 2.06,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1144,7 +1144,7 @@
    "name": "Erika's Jigglypuff",
    "number": "139/103",
    "rarity": "None",
-   "marketPrice": 10.02,
+   "marketPrice": 10.16,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1160,7 +1160,7 @@
    "name": "Hisuian Zorua",
    "number": "122/103",
    "rarity": "Art Rare",
-   "marketPrice": 3.54,
+   "marketPrice": 3.108,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1168,7 +1168,7 @@
    "name": "Nidorina",
    "number": "114/103",
    "rarity": "Art Rare",
-   "marketPrice": 2.97,
+   "marketPrice": 2.9,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1176,7 +1176,7 @@
    "name": "Pikachu",
    "number": "036/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 1.05,
+   "marketPrice": 1.04,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1184,7 +1184,7 @@
    "name": "Mewtwo",
    "number": "054/103",
    "rarity": "None",
-   "marketPrice": 0.59,
+   "marketPrice": 0.51,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1208,7 +1208,7 @@
    "name": "Exeggcute",
    "number": "001/103",
    "rarity": "None",
-   "marketPrice": 0.3,
+   "marketPrice": 0.29,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1216,7 +1216,7 @@
    "name": "Metagross",
    "number": "146/103",
    "rarity": "Classic Collection",
-   "marketPrice": 17.74,
+   "marketPrice": 14.44,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1224,7 +1224,7 @@
    "name": "Chandelure",
    "number": "062/103",
    "rarity": "None",
-   "marketPrice": 0.54,
+   "marketPrice": 0.5,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1232,7 +1232,7 @@
    "name": "Drifloon",
    "number": "061/103",
    "rarity": "None",
-   "marketPrice": 1.74,
+   "marketPrice": 1.35,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1264,7 +1264,7 @@
    "name": "Pikachu",
    "number": "020/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 1.65,
+   "marketPrice": 1.22,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1280,7 +1280,7 @@
    "name": "Arceus VSTAR",
    "number": "164/103",
    "rarity": "Classic Collection",
-   "marketPrice": 8.87,
+   "marketPrice": 8.75,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1288,7 +1288,7 @@
    "name": "N (Supporter)",
    "number": "153/103",
    "rarity": "Classic Collection",
-   "marketPrice": 19.84,
+   "marketPrice": 13.02,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1296,7 +1296,7 @@
    "name": "Pikachu",
    "number": "018/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 0.94,
+   "marketPrice": 0.73,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1312,7 +1312,7 @@
    "name": "Pikachu",
    "number": "024/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 1.13,
+   "marketPrice": 0.9888,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1328,7 +1328,7 @@
    "name": "Scraggy",
    "number": "116/103",
    "rarity": "Art Rare",
-   "marketPrice": 1.81,
+   "marketPrice": 1.77,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1344,7 +1344,7 @@
    "name": "Pikachu",
    "number": "045/103",
    "rarity": "Pikachu Rare",
-   "marketPrice": 1.72,
+   "marketPrice": 1.3,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1352,7 +1352,7 @@
    "name": "Zapdos",
    "number": "108/103",
    "rarity": "Art Rare",
-   "marketPrice": 4.33,
+   "marketPrice": 3.09,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1360,7 +1360,7 @@
    "name": "Gholdengo",
    "number": "087/103",
    "rarity": "None",
-   "marketPrice": 0.51,
+   "marketPrice": 0.47,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   },
   {
@@ -1368,7 +1368,23 @@
    "name": "Koraidon",
    "number": "072/103",
    "rarity": "None",
-   "marketPrice": 0.5,
+   "marketPrice": 0.49,
+   "setName": "M6a: MEGA Expansion 30th Celebration"
+  },
+  {
+   "productId": 716805,
+   "name": "Volbeat",
+   "number": "003/103",
+   "rarity": "None",
+   "marketPrice": 0.4,
+   "setName": "M6a: MEGA Expansion 30th Celebration"
+  },
+  {
+   "productId": 716853,
+   "name": "Toxtricity",
+   "number": "051/103",
+   "rarity": "None",
+   "marketPrice": 0.39,
    "setName": "M6a: MEGA Expansion 30th Celebration"
   }
  ]

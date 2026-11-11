@@ -2,31 +2,31 @@
  "set": "M5",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/m5/hits/",
- "fetched": "2026-11-01",
+ "fetched": "2026-11-11",
  "cards": [
   {
    "rank": 1,
    "name": "メガダークライex",
    "rarity": "MUR",
    "num": "118/081",
-   "price": 20000,
-   "psa10": 62700
+   "price": 20200,
+   "psa10": 61000
   },
   {
    "rank": 2,
    "name": "メガダークライex",
    "rarity": "SAR",
    "num": "114/081",
-   "price": 12900,
-   "psa10": 28200
+   "price": 12700,
+   "psa10": 26500
   },
   {
    "rank": 3,
    "name": "ムク",
    "rarity": "SAR",
    "num": "117/081",
-   "price": 3000,
-   "psa10": 14400
+   "price": 2700,
+   "psa10": 15000
   },
   {
    "rank": 4,
@@ -34,14 +34,14 @@
    "rarity": "SAR",
    "num": "115/081",
    "price": 2200,
-   "psa10": 11100
+   "psa10": 11500
   },
   {
    "rank": 5,
    "name": "メガゼラオラex",
    "rarity": "SAR",
    "num": "112/081",
-   "price": 1800,
+   "price": 1600,
    "psa10": 10300
   },
   {
@@ -49,7 +49,7 @@
    "name": "ムク",
    "rarity": "SR",
    "num": "111/081",
-   "price": 1400,
+   "price": 1300,
    "psa10": 13500
   },
   {
@@ -57,7 +57,7 @@
    "name": "カスミの元気",
    "rarity": "SR",
    "num": "108/081",
-   "price": 1100,
+   "price": 1200,
    "psa10": 13900
   },
   {
@@ -65,15 +65,15 @@
    "name": "メガシャンデラex",
    "rarity": "SAR",
    "num": "113/081",
-   "price": 1100,
-   "psa10": 8800
+   "price": 1200,
+   "psa10": 6700
   },
   {
    "rank": 9,
    "name": "グラジオの決戦",
    "rarity": "SAR",
    "num": "116/081",
-   "price": 900,
+   "price": 800,
    "psa10": 6700
   },
   {
@@ -98,7 +98,7 @@
    "rarity": "AR",
    "num": "087/081",
    "price": 400,
-   "psa10": 4800
+   "psa10": 4600
   },
   {
    "rank": 13,
@@ -110,27 +110,27 @@
   },
   {
    "rank": 14,
-   "name": "モルペコex",
-   "rarity": "SR",
-   "num": "100/081",
-   "price": 400,
-   "psa10": 7400
-  },
-  {
-   "rank": 15,
-   "name": "メガドリュウズex",
-   "rarity": "SR",
-   "num": "101/081",
-   "price": 400,
-   "psa10": null
-  },
-  {
-   "rank": 16,
    "name": "トサキント",
    "rarity": "AR",
    "num": "084/081",
    "price": 400,
    "psa10": 5600
+  },
+  {
+   "rank": 15,
+   "name": "エネルギーつけかえ",
+   "rarity": "SR",
+   "num": "103/081",
+   "price": 400,
+   "psa10": null
+  },
+  {
+   "rank": 16,
+   "name": "モルペコex",
+   "rarity": "SR",
+   "num": "100/081",
+   "price": 400,
+   "psa10": 7400
   },
   {
    "rank": 17,
@@ -142,9 +142,9 @@
   },
   {
    "rank": 18,
-   "name": "ラムパルドex",
+   "name": "メガドリュウズex",
    "rarity": "SR",
-   "num": "098/081",
+   "num": "101/081",
    "price": 400,
    "psa10": null
   },

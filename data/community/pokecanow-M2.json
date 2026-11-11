@@ -2,31 +2,31 @@
  "set": "M2",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/m2/hits/",
- "fetched": "2026-11-01",
+ "fetched": "2026-11-11",
  "cards": [
   {
    "rank": 1,
    "name": "メガリザードンXex",
    "rarity": "MUR",
    "num": "116/080",
-   "price": 87300,
-   "psa10": 366100
+   "price": 83300,
+   "psa10": 361500
   },
   {
    "rank": 2,
    "name": "メガリザードンXex",
    "rarity": "SAR",
    "num": "110/080",
-   "price": 70000,
-   "psa10": 119800
+   "price": 61500,
+   "psa10": 118000
   },
   {
    "rank": 3,
    "name": "オドリドリex",
    "rarity": "SAR",
    "num": "111/080",
-   "price": 2800,
-   "psa10": 8600
+   "price": 3000,
+   "psa10": 8700
   },
   {
    "rank": 4,
@@ -34,55 +34,55 @@
    "rarity": "SAR",
    "num": "115/080",
    "price": 2500,
-   "psa10": 9200
+   "psa10": 8900
   },
   {
    "rank": 5,
-   "name": "マメバッタ",
-   "rarity": "AR",
-   "num": "082/080",
-   "price": 2500,
-   "psa10": 3600
-  },
-  {
-   "rank": 6,
    "name": "メガリザードンXex",
    "rarity": "SR",
    "num": "094/080",
    "price": 2400,
-   "psa10": 9100
+   "psa10": 9400
+  },
+  {
+   "rank": 6,
+   "name": "マメバッタ",
+   "rarity": "AR",
+   "num": "082/080",
+   "price": 2000,
+   "psa10": 4000
   },
   {
    "rank": 7,
+   "name": "エテボース",
+   "rarity": "AR",
+   "num": "092/080",
+   "price": 1900,
+   "psa10": 3900
+  },
+  {
+   "rank": 8,
    "name": "ヒカリ",
    "rarity": "SR",
    "num": "106/080",
    "price": 1200,
-   "psa10": 5100
-  },
-  {
-   "rank": 8,
-   "name": "メガサメハダーex",
-   "rarity": "SAR",
-   "num": "113/080",
-   "price": 1200,
-   "psa10": 5800
+   "psa10": 6100
   },
   {
    "rank": 9,
-   "name": "メガミミロップex",
+   "name": "メガサメハダーex",
    "rarity": "SAR",
-   "num": "114/080",
-   "price": 1100,
-   "psa10": 5000
+   "num": "113/080",
+   "price": 1000,
+   "psa10": 4900
   },
   {
    "rank": 10,
-   "name": "ポッチャマ",
-   "rarity": "AR",
-   "num": "085/080",
-   "price": 700,
-   "psa10": 4900
+   "name": "メガミミロップex",
+   "rarity": "SAR",
+   "num": "114/080",
+   "price": 1000,
+   "psa10": 5000
   },
   {
    "rank": 11,
@@ -90,47 +90,47 @@
    "rarity": "SAR",
    "num": "112/080",
    "price": 700,
-   "psa10": 5000
+   "psa10": 5200
   },
   {
    "rank": 12,
-   "name": "ワンパチ",
+   "name": "ポッチャマ",
    "rarity": "AR",
-   "num": "086/080",
+   "num": "085/080",
    "price": 500,
-   "psa10": 3700
+   "psa10": 4600
   },
   {
    "rank": 13,
+   "name": "メガサメハダーex",
+   "rarity": "SR",
+   "num": "098/080",
+   "price": 500,
+   "psa10": 4000
+  },
+  {
+   "rank": 14,
    "name": "ロトムex",
    "rarity": "SR",
    "num": "096/080",
    "price": 500,
-   "psa10": 4300
-  },
-  {
-   "rank": 14,
-   "name": "ジュゴン",
-   "rarity": "AR",
-   "num": "084/080",
-   "price": 400,
-   "psa10": 3700
+   "psa10": 4100
   },
   {
    "rank": 15,
-   "name": "フライゴン",
+   "name": "ザシアン",
    "rarity": "AR",
-   "num": "088/080",
+   "num": "087/080",
    "price": 400,
    "psa10": 4000
   },
   {
    "rank": 16,
-   "name": "プクリン",
+   "name": "ワンパチ",
    "rarity": "AR",
-   "num": "091/080",
+   "num": "086/080",
    "price": 400,
-   "psa10": 3700
+   "psa10": 3800
   },
   {
    "rank": 17,
@@ -138,7 +138,7 @@
    "rarity": "AR",
    "num": "089/080",
    "price": 400,
-   "psa10": 3700
+   "psa10": 3900
   },
   {
    "rank": 18,
@@ -146,13 +146,13 @@
    "rarity": "AR",
    "num": "083/080",
    "price": 400,
-   "psa10": 3800
+   "psa10": 3900
   },
   {
    "rank": 19,
-   "name": "メガサメハダーex",
-   "rarity": "SR",
-   "num": "098/080",
+   "name": "プクリン",
+   "rarity": "AR",
+   "num": "091/080",
    "price": 400,
    "psa10": 4000
   },

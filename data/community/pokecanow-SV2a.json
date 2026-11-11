@@ -2,7 +2,7 @@
  "set": "SV2a",
  "source": "Pokeca-Now（フリマ実売中央値）",
  "url": "https://pokecanow.com/articles/packs/sv2a/hits/",
- "fetched": "2026-11-01",
+ "fetched": "2026-11-11",
  "cards": [
   {
    "rank": 1,
@@ -17,8 +17,8 @@
    "name": "ミュウex",
    "rarity": "SAR",
    "num": "205/165",
-   "price": 23000,
-   "psa10": 65500
+   "price": 22200,
+   "psa10": 62900
   },
   {
    "rank": 3,
@@ -26,143 +26,143 @@
    "rarity": "SAR",
    "num": "202/165",
    "price": 13000,
-   "psa10": 28500
+   "psa10": 29000
   },
   {
    "rank": 4,
    "name": "フシギバナex",
    "rarity": "SAR",
    "num": "200/165",
-   "price": 11500,
-   "psa10": 27500
+   "price": 11100,
+   "psa10": 26500
   },
   {
    "rank": 5,
    "name": "サンダーex",
    "rarity": "SAR",
    "num": "204/165",
-   "price": 9300,
+   "price": 10500,
    "psa10": 24000
   },
   {
    "rank": 6,
-   "name": "ミュウex",
-   "rarity": "UR",
-   "num": "208/165",
-   "price": 5100,
-   "psa10": 22000
-  },
-  {
-   "rank": 7,
-   "name": "エリカの招待",
-   "rarity": "SAR",
-   "num": "206/165",
-   "price": 5000,
-   "psa10": 22000
-  },
-  {
-   "rank": 8,
    "name": "フーディンex",
    "rarity": "SAR",
    "num": "203/165",
-   "price": 4700,
-   "psa10": 17000
+   "price": 5300,
+   "psa10": 20000
+  },
+  {
+   "rank": 7,
+   "name": "ミュウex",
+   "rarity": "UR",
+   "num": "208/165",
+   "price": 5000,
+   "psa10": 22200
+  },
+  {
+   "rank": 8,
+   "name": "エリカの招待",
+   "rarity": "SAR",
+   "num": "206/165",
+   "price": 4800,
+   "psa10": 23000
   },
   {
    "rank": 9,
    "name": "リザードンex",
    "rarity": "SR",
    "num": "185/165",
-   "price": 2900,
-   "psa10": 13000
+   "price": 3000,
+   "psa10": 13300
   },
   {
    "rank": 10,
    "name": "ピカチュウ",
    "rarity": "AR",
    "num": "173/165",
-   "price": 2800,
-   "psa10": 13800
+   "price": 2600,
+   "psa10": 14000
   },
   {
    "rank": 11,
-   "name": "エリカの招待",
-   "rarity": "SR",
-   "num": "196/165",
-   "price": 2100,
-   "psa10": 15000
-  },
-  {
-   "rank": 12,
-   "name": "サカキのカリスマ",
-   "rarity": "SAR",
-   "num": "207/165",
-   "price": 2100,
-   "psa10": 13300
-  },
-  {
-   "rank": 13,
    "name": "ミュウツー",
    "rarity": "AR",
    "num": "183/165",
-   "price": 2000,
-   "psa10": 11500
+   "price": 2400,
+   "psa10": 11700
   },
   {
-   "rank": 14,
+   "rank": 12,
    "name": "ヒトカゲ",
    "rarity": "AR",
    "num": "168/165",
+   "price": 2100,
+   "psa10": 12500
+  },
+  {
+   "rank": 13,
+   "name": "エリカの招待",
+   "rarity": "SR",
+   "num": "196/165",
    "price": 2000,
-   "psa10": 13000
+   "psa10": 20000
   },
   {
-   "rank": 15,
-   "name": "ゼニガメ",
-   "rarity": "AR",
-   "num": "170/165",
-   "price": 1900,
-   "psa10": 11000
-  },
-  {
-   "rank": 16,
+   "rank": 14,
    "name": "ミュウex",
    "rarity": "SR",
    "num": "195/165",
-   "price": 1900,
-   "psa10": 11000
+   "price": 2000,
+   "psa10": 10000
   },
   {
-   "rank": 17,
+   "rank": 15,
    "name": "コダック",
    "rarity": "AR",
    "num": "175/165",
+   "price": 1900,
+   "psa10": 10500
+  },
+  {
+   "rank": 16,
+   "name": "ゼニガメ",
+   "rarity": "AR",
+   "num": "170/165",
    "price": 1800,
-   "psa10": 11000
+   "psa10": 11800
+  },
+  {
+   "rank": 17,
+   "name": "サカキのカリスマ",
+   "rarity": "SAR",
+   "num": "207/165",
+   "price": 1800,
+   "psa10": 13300
   },
   {
    "rank": 18,
    "name": "フシギダネ",
    "rarity": "AR",
    "num": "166/165",
-   "price": 1600,
-   "psa10": 9700
+   "price": 1700,
+   "psa10": 9500
   },
   {
    "rank": 19,
-   "name": "基本超エネルギー",
-   "rarity": "UR",
-   "num": "210/165",
+   "name": "リザード",
+   "rarity": "AR",
+   "num": "169/165",
    "price": 1500,
-   "psa10": 16400
+   "psa10": 12000
   },
   {
    "rank": 20,
-   "name": "カビゴン",
-   "rarity": "AR",
-   "num": "181/165",
+   "name": "基本超エネルギー",
+   "rarity": "UR",
+   "num": "210/165",
    "price": 1400,
-   "psa10": 11000
+   "psa10": 16400
   }
  ]
 }
